@@ -4,11 +4,12 @@ from typing import Dict
 
 YT_CONFIG = "yt_config.yaml"
 
-# Step 1: Define a Pydantic dataclass model
+
 @dataclass
 class Config:
     channels: Dict[str, str]
     results: int
+
 
 def load_yaml_file(file_path: str) -> dict:
     """
@@ -24,11 +25,22 @@ def load_yaml_file(file_path: str) -> dict:
         data = yaml.safe_load(file)
     return data
 
-# Step 3: Convert the dictionary to a Pydantic model
+
 def parse_yaml_to_model(file_path: str) -> Config:
+    """
+    Parses a YAML file and returns a Config object.
+
+    Args:
+        file_path (str): The path to the YAML file.
+
+    Returns:
+        Config: The parsed Config object.
+
+    """
     data = load_yaml_file(file_path)
     config = Config(**data)
     return config
+
 
 # Example usage
 if __name__ == "__main__":
