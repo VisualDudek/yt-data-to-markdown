@@ -1,6 +1,7 @@
 # Custom
 logs/*
 !logs/.gitkeep
+yt_videos.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

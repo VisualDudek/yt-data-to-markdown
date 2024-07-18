@@ -7,3 +7,6 @@ Fetch YouTube data and saves it in a markdown file.
 #settings.json
 	"python.analysis.extraPaths": ["/workspaces/yt-data-to-markdown/src/yt-viewer"]
 ```
+
+## Branch/todo
+- `dev-md` - create md file using MdUtils package
