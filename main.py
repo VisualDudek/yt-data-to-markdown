@@ -26,6 +26,15 @@ logger = logging.getLogger(__name__)
 
 
 def convert_channelid_to_playlistid(channel_id: str) -> str:
+    """
+    Converts a YouTube channel ID to a playlist ID.
+
+    Args:
+        channel_id (str): The YouTube channel ID.
+
+    Returns:
+        str: The converted playlist ID.
+    """
     return f"UU{channel_id[2:]}"
 
 
@@ -78,7 +87,7 @@ def main():
         for item in playlist_response.items:
             logger.debug(f"Title: {item.snippet.title}")
 
-        # Store date in dictionary
+        # Store data in dictionary
         data[name] = playlist_response
 
     # Generate a markdown file
