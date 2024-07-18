@@ -7,6 +7,8 @@ from helper import parse_yaml_to_model
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from yt_viewer.data_model import PlaylistItemListResponse
+from mdutils.mdutils import MdUtils
+from typing import Dict
 
 
 YT_CONFIG = "yt_config.yaml"
@@ -23,8 +25,20 @@ logging.config.dictConfig(config)
 logger = logging.getLogger(__name__)
 
 
-def convert_channelid_to_playlistid(channel_id: str):
+def convert_channelid_to_playlistid(channel_id: str) -> str:
     return f"UU{channel_id[2:]}"
+
+
+def generate_md_file(data: Dict[str, PlaylistItemListResponse]) -> None:
+    md_file = MdUtils(file_name='yt_videos', title='Youtube Videos')
+
+    for name, items in data.items():
+        md_file.new_header(level=1, title=f"Channel: {name}")
+
+        for item in items.items:
+            md_file.new_line(f" - {item.snippet.title}")
+
+    md_file.create_md_file()
 
 
 def main():
@@ -35,6 +49,9 @@ def main():
 
     # Build the youtube object
     youtube = build('youtube', 'v3', developerKey=API_KEY_YT)
+
+    # Create a dictionary to store the data
+    data: Dict[str, PlaylistItemListResponse] = {}
 
     # Loop through the channels and call the API
     for name, id in config_model.channels.items():
@@ -59,7 +76,13 @@ def main():
         
         # Traverse the response object and log the titles
         for item in playlist_response.items:
-            logger.info(f"Title: {item.snippet.title}")
+            logger.debug(f"Title: {item.snippet.title}")
+
+        # Store date in dictionary
+        data[name] = playlist_response
+
+    # Generate a markdown file
+    generate_md_file(data)
 
 
 # Example usage
