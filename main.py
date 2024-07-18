@@ -1,8 +1,12 @@
 import yaml
 import logging
 import logging.config
+import os
 
 from helper import parse_yaml_to_model
+from dotenv import load_dotenv
+from googleapiclient.discovery import build
+from yt_viewer.data_model import PlaylistItemListResponse
 
 
 YT_CONFIG = "yt_config.yaml"
@@ -18,9 +22,44 @@ logging.config.dictConfig(config)
 # Get a logger object
 logger = logging.getLogger(__name__)
 
-def main():
 
-    pass
+def convert_channelid_to_playlistid(channel_id: str):
+    return f"UU{channel_id[2:]}"
+
+
+def main():
+    # Get API key from .env file
+    logger.info('Getting API key from .env file')
+    load_dotenv()
+    API_KEY_YT = os.getenv('API_KEY_YT')
+
+    # Build the youtube object
+    youtube = build('youtube', 'v3', developerKey=API_KEY_YT)
+
+    # Loop through the channels and call the API
+    for name, id in config_model.channels.items():
+
+        # Create a request object to call the API
+        request = youtube.playlistItems().list(
+            part="snippet",
+            playlistId=convert_channelid_to_playlistid(id),  # Very importatnt and easy to miss
+            maxResults=config_model.results
+        ) 
+
+        # Call the API
+        logger.info(f"Calling the API for channel: {name}")
+        response = request.execute()
+
+        # Parse the response into a model
+        try:
+            playlist_response = PlaylistItemListResponse(**response)
+        except Exception as e:
+            logger.error(f"Failed to parse response into model. {e}")
+            return
+        
+        # Traverse the response object and log the titles
+        for item in playlist_response.items:
+            logger.info(f"Title: {item.snippet.title}")
 
 
 # Example usage
@@ -33,3 +72,5 @@ if __name__ == "__main__":
         logger.debug(config_model)
     else:
         logger.error("Failed to parse YAML file into model.")
+
+    main()
