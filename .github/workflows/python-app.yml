@@ -6,6 +6,9 @@ name: Python application
 on:
   workflow_dispatch
 
+permissions:
+  contents: write
+
 jobs:
   create-md-file:
 
