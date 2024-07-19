@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)  
- - Every Developer Should Know This  [Watch](https://youtu.be/6jgu9tmbrrE)  
- - Under the Hood | Faker  [Watch](https://youtu.be/c-TWPdL9_X4)  
- - 7 Functional Programming Techniques EVERY Developer Should Know  [Watch](https://youtu.be/Rp9Ha0rVM1w)
+ - You Need to Know This About the Stack and the Heap  [Watch](https://youtu.be/6jgu9tmbrrE)  
+ - Under the Hood | Faker  [Watch](https://youtu.be/c-TWPdL9_X4)
 # Channel: mCoding
   
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - How is THIS valid c# code??  [Watch](https://youtu.be/anwlmuHSD5M)  
  - This IS the VS Code feature you’re looking for #vscode #tips #programming  [Watch](https://youtu.be/AqZWWc3DzLo)  
  - Essential AI prompts for developers  [Watch](https://youtu.be/H3M95i4iS5c)  
  - How to be a professional wrapper #coding #vscode #programming  [Watch](https://youtu.be/cx6iYUXkfds)  
- - Visualize your git repo in #vscode 👀  [Watch](https://youtu.be/vpFF1XSqWjw)  
- - JavaScript String Interpolation  [Watch](https://youtu.be/KQ4IBbb5qqg)
+ - Visualize your git repo in #vscode 👀  [Watch](https://youtu.be/vpFF1XSqWjw)
 # Channel: Mateusz Chrobok
   
  - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)  
@@ -60,11 +60,11 @@ Youtube Videos
  - CNCF TOC Meeting 2024-07-16  [Watch](https://youtu.be/hg1KSfK3Z9g)
 # Channel: Real Python
   
+ - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)  
  - Web Scraping Practice: Intro to Web Scraping With Python  [Watch](https://youtu.be/NGOjlI0lw4s)  
  - Digging Into Graph Theory in Python With David Amos | Real Python Podcast #212  [Watch](https://youtu.be/4hGgitya6Wo)  
  - Customizing VS Code Settings and Creating a Profile  [Watch](https://youtu.be/ciH-kjI4szE)  
- - Python Doesn't Round Numbers the Way You Might Think | Real Python Podcast #211  [Watch](https://youtu.be/0ipo7Q7zFis)  
- - Working With Constants in Python  [Watch](https://youtu.be/ZjL7bfJHVdg)
+ - Python Doesn't Round Numbers the Way You Might Think | Real Python Podcast #211  [Watch](https://youtu.be/0ipo7Q7zFis)
 # Channel: SysOps / DevOps Polska
   
  - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)  
@@ -95,11 +95,11 @@ Youtube Videos
  - The terminal WARS begins! // Warp vs Wave  [Watch](https://youtu.be/-QlMSLIY0JU)
 # Channel: GitHub
   
+ - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
+ - Open Source Friday with Jan De Dobbeleer and ohmyposh.dev  [Watch](https://youtu.be/EKlKHl6i5m4)  
  - Extending GitHub Copilot: insights from Atlassian, Elastic, and Split  [Watch](https://youtu.be/JclDSHrSZV0)  
  - Who is the We in the How Might We  [Watch](https://youtu.be/cgx_r9QGz_I)  
- - Improving Healthcare in India & Revolutionizing Access #Healthcare #GitHub #OpenSource  [Watch](https://youtu.be/7kU4-9iC1kg)  
- - Empowering Communities: Tackling Online Gender-Based Violence with Uli  [Watch](https://youtu.be/IjNVoAyKYeY)  
- - GitHub CEO, Thomas Dohmke | Live Keynote | GitHub Constellation24 India  [Watch](https://youtu.be/nJW_PiuUIKs)
+ - Improving Healthcare in India & Revolutionizing Access #Healthcare #GitHub #OpenSource  [Watch](https://youtu.be/7kU4-9iC1kg)
 # Channel: CloudHeroes - Video
   
  - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
