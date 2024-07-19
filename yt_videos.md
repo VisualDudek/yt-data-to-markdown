@@ -37,3 +37,87 @@ Youtube Videos
  - Kurs GIT | 09 – Git reset na ratunek! 🛟  [Watch](https://youtu.be/vri36csppEY)  
  - Kurs GIT | 08 – Jak działa rebase i commit amend? Nadpisywanie historii repozytorium  [Watch](https://youtu.be/4GKI4Gz97TE)  
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
+# Channel: Visual Studio Code
+  
+ - This IS the VS Code feature you’re looking for #vscode #tips #programming  [Watch](https://youtu.be/AqZWWc3DzLo)  
+ - Essential AI prompts for developers  [Watch](https://youtu.be/H3M95i4iS5c)  
+ - How to be a professional wrapper #coding #vscode #programming  [Watch](https://youtu.be/cx6iYUXkfds)  
+ - Visualize your git repo in #vscode 👀  [Watch](https://youtu.be/vpFF1XSqWjw)  
+ - JavaScript String Interpolation  [Watch](https://youtu.be/KQ4IBbb5qqg)
+# Channel: Mateusz Chrobok
+  
+ - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)  
+ - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)  
+ - 🪣 Wyciek telefonów z Authy  [Watch](https://youtu.be/_oLqiyIfqgQ)  
+ - O co chodzi z tymi agentami AI? #AI_devs #LIVE  [Watch](https://youtu.be/eJ6v2ldk1nc)  
+ - Co tym razem zepsuł Microsoft?  [Watch](https://youtu.be/G-sPf2VR4aM)
+# Channel: Cloud Native Computing Foundation
+  
+ - ChatLoopBackOff - Episode 21 (Longhorn)  [Watch](https://youtu.be/nU9aLSwQs3A)  
+ - How to use infrastructure from code to deploy to Amazon ECS, EKS and Lambda  [Watch](https://youtu.be/d9uAlRs7Kmk)  
+ - CNL: How to automate pinning container images by their digests  [Watch](https://youtu.be/jHW2x-8LruE)  
+ - CNL: Unlocking K8s jobs and CronJobs with the spin command trigger  [Watch](https://youtu.be/HRjVwM605zY)  
+ - CNCF TOC Meeting 2024-07-16  [Watch](https://youtu.be/hg1KSfK3Z9g)
+# Channel: Real Python
+  
+ - Web Scraping Practice: Intro to Web Scraping With Python  [Watch](https://youtu.be/NGOjlI0lw4s)  
+ - Digging Into Graph Theory in Python With David Amos | Real Python Podcast #212  [Watch](https://youtu.be/4hGgitya6Wo)  
+ - Customizing VS Code Settings and Creating a Profile  [Watch](https://youtu.be/ciH-kjI4szE)  
+ - Python Doesn't Round Numbers the Way You Might Think | Real Python Podcast #211  [Watch](https://youtu.be/0ipo7Q7zFis)  
+ - Working With Constants in Python  [Watch](https://youtu.be/ZjL7bfJHVdg)
+# Channel: SysOps / DevOps Polska
+  
+ - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)  
+ - [#502] Workload identity federation for Azure DevOps authentication - Jarosław Tajs  [Watch](https://youtu.be/1Pc8ptNJhF4)  
+ - [#501] Automatyzacja Azure Policy: Azure Pipelines w akcji - Marcin Chrzęst  [Watch](https://youtu.be/xDviXHcbg8g)  
+ - [#500] Kubernetes Operators - When? Why? How? - Daniel‎ Pokusa  [Watch](https://youtu.be/UVHYlvPutKk)  
+ - [#499] Od przedszkola do Gateway'a - wprowadzenie do architektury sieciowej w OVHcloud - M. Blaźniak  [Watch](https://youtu.be/eTHALeH_47I)
+# Channel: ThePrimeagen
+  
+ - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
+ - Find And Replace  [Watch](https://youtu.be/v2a6Nv7RSd0)  
+ - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)  
+ - Programming Tier List 2024  [Watch](https://youtu.be/c3yRbrYIUeo)  
+ - Programming Curves  [Watch](https://youtu.be/_ebVsYQou8A)
+# Channel: Beyond Fireship
+  
+ - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)  
+ - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)  
+ - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)  
+ - This UI component library is mind-blowing  [Watch](https://youtu.be/RPa3_AD1_Vs)  
+ - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
+# Channel: Christian Lempa
+  
+ - It does Terraform now? (not just Ansible!) // Semaphore UI  [Watch](https://youtu.be/tc3tqMIN89U)  
+ - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)  
+ - My Docker Compose *boilerplates* and update management  [Watch](https://youtu.be/ck7DRNMKgOc)  
+ - The BETTER Raspberry Pi? // ZimaBlade Review  [Watch](https://youtu.be/aTVphdnQjOc)  
+ - The terminal WARS begins! // Warp vs Wave  [Watch](https://youtu.be/-QlMSLIY0JU)
+# Channel: GitHub
+  
+ - Extending GitHub Copilot: insights from Atlassian, Elastic, and Split  [Watch](https://youtu.be/JclDSHrSZV0)  
+ - Who is the We in the How Might We  [Watch](https://youtu.be/cgx_r9QGz_I)  
+ - Improving Healthcare in India & Revolutionizing Access #Healthcare #GitHub #OpenSource  [Watch](https://youtu.be/7kU4-9iC1kg)  
+ - Empowering Communities: Tackling Online Gender-Based Violence with Uli  [Watch](https://youtu.be/IjNVoAyKYeY)  
+ - GitHub CEO, Thomas Dohmke | Live Keynote | GitHub Constellation24 India  [Watch](https://youtu.be/nJW_PiuUIKs)
+# Channel: CloudHeroes - Video
+  
+ - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
+ - Nowość - Konfiguracja Cross-account Parameter Store w AWS  [Watch](https://youtu.be/6kvGgv9vIgQ)  
+ - Jak zacząć korzystać z Amazon Bedrock  [Watch](https://youtu.be/DZa3mpKslD8)  
+ - Jak skonfigurować AWS Chatbot? (ChatOps)  [Watch](https://youtu.be/BLKKqcabdHc)  
+ - Jak zarządzać publicznymi adresami IP w AWS  [Watch](https://youtu.be/0rGQVSK2XEQ)
+# Channel: Nicole van der Hoeven
+  
+ - Books for focus and creativity with Brandon Boswell  [Watch](https://youtu.be/Ugc4U8Rx7RM)  
+ - Do you need an e-ink device? with Brandon Boswell  [Watch](https://youtu.be/uUKPV6mWMFM)  
+ - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)  
+ - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)  
+ - Organizing visual and textual notes when using Obsidian Excalidraw plugin  [Watch](https://youtu.be/TVY5YmJWkVA)
+# Channel: ByteByteGo
+  
+ - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)  
+ - Concurrency Vs Parallelism!  [Watch](https://youtu.be/RlM9AfWf1WU)  
+ - 7 Must-know Strategies to Scale Your Database  [Watch](https://youtu.be/_1IKwnbscQU)  
+ - Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar  [Watch](https://youtu.be/x4k1XEjNzYQ)  
+ - What is Data Pipeline? | Why Is It So Popular?  [Watch](https://youtu.be/kGT4PcTEPP8)
