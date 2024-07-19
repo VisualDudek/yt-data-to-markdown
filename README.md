@@ -1,5 +1,6 @@
 # yt-data-to-markdown
 Fetch YouTube data and saves it in a [markdown file](./yt_videos.md).
+
 [App config](./yt_config.yaml)
 
 # Dev Notes
