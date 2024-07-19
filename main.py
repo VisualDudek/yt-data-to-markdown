@@ -45,7 +45,10 @@ def generate_md_file(data: Dict[str, PlaylistItemListResponse]) -> None:
         md_file.new_header(level=1, title=f"Channel: {name}")
 
         for item in items.items:
-            md_file.new_line(f" - {item.snippet.title}")
+            md_file.new_line(
+                f" - {item.snippet.title}  " +
+                md_file.new_inline_link(link=f"https://youtu.be/{item.snippet.resourceId.videoId}", text="Watch")
+                )
 
     md_file.create_md_file()
 
