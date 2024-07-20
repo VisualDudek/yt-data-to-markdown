@@ -46,11 +46,11 @@ Youtube Videos
  - Visualize your git repo in #vscode 👀  [Watch](https://youtu.be/vpFF1XSqWjw)
 # Channel: Mateusz Chrobok
   
+ - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)  
  - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)  
  - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)  
  - 🪣 Wyciek telefonów z Authy  [Watch](https://youtu.be/_oLqiyIfqgQ)  
- - O co chodzi z tymi agentami AI? #AI_devs #LIVE  [Watch](https://youtu.be/eJ6v2ldk1nc)  
- - Co tym razem zepsuł Microsoft?  [Watch](https://youtu.be/G-sPf2VR4aM)
+ - O co chodzi z tymi agentami AI? #AI_devs #LIVE  [Watch](https://youtu.be/eJ6v2ldk1nc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 21 (Longhorn)  [Watch](https://youtu.be/nU9aLSwQs3A)  
@@ -95,8 +95,8 @@ Youtube Videos
  - The terminal WARS begins! // Warp vs Wave  [Watch](https://youtu.be/-QlMSLIY0JU)
 # Channel: GitHub
   
- - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
  - Open Source Friday with Jan De Dobbeleer and ohmyposh.dev  [Watch](https://youtu.be/EKlKHl6i5m4)  
+ - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
  - Extending GitHub Copilot: insights from Atlassian, Elastic, and Split  [Watch](https://youtu.be/JclDSHrSZV0)  
  - Who is the We in the How Might We  [Watch](https://youtu.be/cgx_r9QGz_I)  
  - Improving Healthcare in India & Revolutionizing Access #Healthcare #GitHub #OpenSource  [Watch](https://youtu.be/7kU4-9iC1kg)
