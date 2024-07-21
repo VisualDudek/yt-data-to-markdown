@@ -12,6 +12,7 @@ Fetch YouTube data and saves it in a [markdown file](./yt_videos.md).
 
 ## Features
 - gh action workflow: `Python application` - build md file and if there is diff then commit to main
+- gh action run on by scheduled trigger once per day 
 
 ## Branch/todo
 - `dev-md` (merged) - create md file using MdUtils package
