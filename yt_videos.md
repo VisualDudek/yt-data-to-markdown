@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - CrowdStrike Exposes a FUNDAMENTAL Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
  - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)  
- - You Need to Know This About the Stack and the Heap  [Watch](https://youtu.be/6jgu9tmbrrE)  
- - Under the Hood | Faker  [Watch](https://youtu.be/c-TWPdL9_X4)
+ - You Need to Know This About the Stack and the Heap  [Watch](https://youtu.be/6jgu9tmbrrE)
 # Channel: mCoding
   
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Visualize your git repo in #vscode 👀  [Watch](https://youtu.be/vpFF1XSqWjw)
 # Channel: Mateusz Chrobok
   
+ - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
+ - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)  
  - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)  
  - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)  
- - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)  
- - 🪣 Wyciek telefonów z Authy  [Watch](https://youtu.be/_oLqiyIfqgQ)  
- - O co chodzi z tymi agentami AI? #AI_devs #LIVE  [Watch](https://youtu.be/eJ6v2ldk1nc)
+ - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 21 (Longhorn)  [Watch](https://youtu.be/nU9aLSwQs3A)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Python Doesn't Round Numbers the Way You Might Think | Real Python Podcast #211  [Watch](https://youtu.be/0ipo7Q7zFis)
 # Channel: SysOps / DevOps Polska
   
+ - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)  
  - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)  
  - [#502] Workload identity federation for Azure DevOps authentication - Jarosław Tajs  [Watch](https://youtu.be/1Pc8ptNJhF4)  
  - [#501] Automatyzacja Azure Policy: Azure Pipelines w akcji - Marcin Chrzęst  [Watch](https://youtu.be/xDviXHcbg8g)  
- - [#500] Kubernetes Operators - When? Why? How? - Daniel‎ Pokusa  [Watch](https://youtu.be/UVHYlvPutKk)  
- - [#499] Od przedszkola do Gateway'a - wprowadzenie do architektury sieciowej w OVHcloud - M. Blaźniak  [Watch](https://youtu.be/eTHALeH_47I)
+ - [#500] Kubernetes Operators - When? Why? How? - Daniel‎ Pokusa  [Watch](https://youtu.be/UVHYlvPutKk)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  

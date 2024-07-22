@@ -29,4 +29,4 @@ typing_extensions==4.12.2
 uritemplate==4.1.1
 urllib3==2.2.2
 wheel==0.43.0
--e git+https://github.com/VisualDudek/yt-viewer.git@b7c8a3b56d6ac40fae50200261bdac59b1b69ccd#egg=yt_viewer
+yt_viewer @ git+https://github.com/VisualDudek/yt-viewer.git@b7c8a3b56d6ac40fae50200261bdac59b1b69ccd
