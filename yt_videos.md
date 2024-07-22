@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - Problem Solving Techniques For Programming - How To Actually Get Good  [Watch](https://youtu.be/iHNLEWa7Hew)  
  - The Truth About Learning Python in 2024  [Watch](https://youtu.be/ZDjaruJ1TYk)  
  - Master Python With This ONE Project!  [Watch](https://youtu.be/Dn1EjhcQk64)  
  - Docker + GenAI | Deploying AI Apps  [Watch](https://youtu.be/Y9YbCvzAwas)  
- - Building a $1500 AI Chat Bot in 20 Minutes - Full Tutorial  [Watch](https://youtu.be/qY6FL3hfA_E)  
- - Python Lambda Functions Explained  [Watch](https://youtu.be/HQNiSfb795A)
+ - Building a $1500 AI Chat Bot in 20 Minutes - Full Tutorial  [Watch](https://youtu.be/qY6FL3hfA_E)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
