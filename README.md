@@ -1,3 +1,5 @@
+[![Python application](https://github.com/VisualDudek/yt-data-to-markdown/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/VisualDudek/yt-data-to-markdown/actions/workflows/python-app.yml)
+
 # yt-data-to-markdown
 Fetch YouTube data and saves it in a [markdown file](./yt_videos.md).
 
