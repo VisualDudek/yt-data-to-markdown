@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - CrowdStrike Exposes a FUNDAMENTAL Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)  
- - You Need to Know This About the Stack and the Heap  [Watch](https://youtu.be/6jgu9tmbrrE)
+ - Every Developer Should Know This  [Watch](https://youtu.be/6jgu9tmbrrE)
 # Channel: mCoding
   
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - C# Project and Package Management in VS Code - Everything you need to know!  [Watch](https://youtu.be/YciV8GL8pLs)  
+ - How to be a professional (un)wrapper #vscode #programmingtools #coding  [Watch](https://youtu.be/yuzKp_KsGIk)  
  - How is THIS valid c# code??  [Watch](https://youtu.be/anwlmuHSD5M)  
  - This IS the VS Code feature you’re looking for #vscode #tips #programming  [Watch](https://youtu.be/AqZWWc3DzLo)  
- - Essential AI prompts for developers  [Watch](https://youtu.be/H3M95i4iS5c)  
- - How to be a professional wrapper #coding #vscode #programming  [Watch](https://youtu.be/cx6iYUXkfds)  
- - Visualize your git repo in #vscode 👀  [Watch](https://youtu.be/vpFF1XSqWjw)
+ - Essential AI prompts for developers  [Watch](https://youtu.be/H3M95i4iS5c)
 # Channel: Mateusz Chrobok
   
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 21 (Longhorn)  [Watch](https://youtu.be/nU9aLSwQs3A)  
- - How to use infrastructure from code to deploy to Amazon ECS, EKS and Lambda  [Watch](https://youtu.be/d9uAlRs7Kmk)  
- - CNL: How to automate pinning container images by their digests  [Watch](https://youtu.be/jHW2x-8LruE)  
- - CNL: Unlocking K8s jobs and CronJobs with the spin command trigger  [Watch](https://youtu.be/HRjVwM605zY)  
- - CNCF TOC Meeting 2024-07-16  [Watch](https://youtu.be/hg1KSfK3Z9g)
+ - ChatLoopBackOff - Episode 26 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
+ - ChatLoopBackOff - Episode 25 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)  
+ - ChatLoopBackOff - Episode 24 (Score)  [Watch](https://youtu.be/BRiZ0t6MYNo)  
+ - ChatLoopBackOff - Episode 23 (Volcano)  [Watch](https://youtu.be/ns1fE9PG0CA)  
+ - KCD Sao Paulo 2024 Highlights  [Watch](https://youtu.be/P4gj--tq-wU)
 # Channel: Real Python
   
  - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)  
@@ -109,15 +109,15 @@ Youtube Videos
  - Jak zarządzać publicznymi adresami IP w AWS  [Watch](https://youtu.be/0rGQVSK2XEQ)
 # Channel: Nicole van der Hoeven
   
+ - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
  - Books for focus and creativity with Brandon Boswell  [Watch](https://youtu.be/Ugc4U8Rx7RM)  
  - Do you need an e-ink device? with Brandon Boswell  [Watch](https://youtu.be/uUKPV6mWMFM)  
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)  
- - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)  
- - Organizing visual and textual notes when using Obsidian Excalidraw plugin  [Watch](https://youtu.be/TVY5YmJWkVA)
+ - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)  
  - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)  
  - Concurrency Vs Parallelism!  [Watch](https://youtu.be/RlM9AfWf1WU)  
  - 7 Must-know Strategies to Scale Your Database  [Watch](https://youtu.be/_1IKwnbscQU)  
- - Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar  [Watch](https://youtu.be/x4k1XEjNzYQ)  
- - What is Data Pipeline? | Why Is It So Popular?  [Watch](https://youtu.be/kGT4PcTEPP8)
+ - Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar  [Watch](https://youtu.be/x4k1XEjNzYQ)
