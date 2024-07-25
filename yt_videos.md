@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - CrowdStrike Exposes a FUNDAMENTAL Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
+ - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)  
- - You Need to Know This About the Stack and the Heap  [Watch](https://youtu.be/6jgu9tmbrrE)
+ - Every Developer Should Know This  [Watch](https://youtu.be/6jgu9tmbrrE)
 # Channel: mCoding
   
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Function Impossible: Mission Debuggable  [Watch](https://youtu.be/s37tSvRBp0s)  
  - It tracks every change  [Watch](https://youtu.be/D16y-u0E3Ek)  
  - C# Project and Package Management in VS Code - Everything you need to know!  [Watch](https://youtu.be/YciV8GL8pLs)  
  - How to be a professional (un)wrapper #vscode #programmingtools #coding  [Watch](https://youtu.be/yuzKp_KsGIk)  
- - How is THIS valid c# code??  [Watch](https://youtu.be/anwlmuHSD5M)  
- - This IS the VS Code feature you’re looking for #vscode #tips #programming  [Watch](https://youtu.be/AqZWWc3DzLo)
+ - How is THIS valid c# code??  [Watch](https://youtu.be/anwlmuHSD5M)
 # Channel: Mateusz Chrobok
   
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)
 # Channel: Cloud Native Computing Foundation
   
+ - Kubernetes policies master class  [Watch](https://youtu.be/mG9KqaBF2eQ)  
+ - Continuous Compliance in Kubernetes Environments with KubeArmor  [Watch](https://youtu.be/kZ5s9ob1VtE)  
+ - Top 10 Lessons Learned from Managing K8s  [Watch](https://youtu.be/rUe1FOLkgL0)  
  - Deaf and Hard of Hearing WG Meeting - 2024-07-23  [Watch](https://youtu.be/1tRHgof29LM)  
- - ChatLoopBackOff - Episode 26 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
- - ChatLoopBackOff - Episode 25 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)  
- - ChatLoopBackOff - Episode 24 (Score)  [Watch](https://youtu.be/BRiZ0t6MYNo)  
- - ChatLoopBackOff - Episode 23 (Volcano)  [Watch](https://youtu.be/ns1fE9PG0CA)
+ - ChatLoopBackOff - Episode 26 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)
 # Channel: Real Python
   
+ - pandas GroupBy and Workflow Refresher  [Watch](https://youtu.be/jWT4llHnrcg)  
  - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)  
  - Web Scraping Practice: Intro to Web Scraping With Python  [Watch](https://youtu.be/NGOjlI0lw4s)  
  - Digging Into Graph Theory in Python With David Amos | Real Python Podcast #212  [Watch](https://youtu.be/4hGgitya6Wo)  
- - Customizing VS Code Settings and Creating a Profile  [Watch](https://youtu.be/ciH-kjI4szE)  
- - Python Doesn't Round Numbers the Way You Might Think | Real Python Podcast #211  [Watch](https://youtu.be/0ipo7Q7zFis)
+ - Customizing VS Code Settings and Creating a Profile  [Watch](https://youtu.be/ciH-kjI4szE)
 # Channel: SysOps / DevOps Polska
   
  - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
- - Some *EASY* Kubernetes Projects for beginners  [Watch](https://youtu.be/6jIIa41R7eM)  
  - How vulnerable are we in IT? // CrowdStrike outage  [Watch](https://youtu.be/uRW9HRYSyCU)  
+ - Some *EASY* Kubernetes Projects for beginners  [Watch](https://youtu.be/6jIIa41R7eM)  
  - It does Terraform now? (not just Ansible!) // Semaphore UI  [Watch](https://youtu.be/tc3tqMIN89U)  
  - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)  
  - My Docker Compose *boilerplates* and update management  [Watch](https://youtu.be/ck7DRNMKgOc)
 # Channel: GitHub
   
+ - GitHub Accelerator Showcase 2024 | The next wave of AI projects  [Watch](https://youtu.be/mrCgn_zIAus)  
+ - Forking on GitHub: your gateway to open source contribution  [Watch](https://youtu.be/b2b92LcJLa0)  
  - The Download: PiSkyWiFi, Green Computing Projects, a $5 Classic Mac, and more  [Watch](https://youtu.be/xU3a6sr-MSQ)  
  - Open Source Friday with Jan De Dobbeleer and ohmyposh.dev  [Watch](https://youtu.be/EKlKHl6i5m4)  
- - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
- - Extending GitHub Copilot: insights from Atlassian, Elastic, and Split  [Watch](https://youtu.be/JclDSHrSZV0)  
- - Who is the We in the How Might We  [Watch](https://youtu.be/cgx_r9QGz_I)
+ - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)
 # Channel: CloudHeroes - Video
   
  - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
