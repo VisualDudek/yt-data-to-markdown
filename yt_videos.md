@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Don't Let Your Code Cause the Next Software Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
- - CrowdStrike Exposes a FUNDAMENTAL Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
+ - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - Create a LOCAL Python AI Chatbot In Minutes Using Ollama  [Watch](https://youtu.be/d0o89z134CQ)  
  - Problem Solving Techniques For Programming - How To Actually Get Good  [Watch](https://youtu.be/iHNLEWa7Hew)  
  - The Truth About Learning Python in 2024  [Watch](https://youtu.be/ZDjaruJ1TYk)  
  - Master Python With This ONE Project!  [Watch](https://youtu.be/Dn1EjhcQk64)  
- - Docker + GenAI | Deploying AI Apps  [Watch](https://youtu.be/Y9YbCvzAwas)  
- - Building a $1500 AI Chat Bot in 20 Minutes - Full Tutorial  [Watch](https://youtu.be/qY6FL3hfA_E)
+ - Docker + GenAI | Deploying AI Apps  [Watch](https://youtu.be/Y9YbCvzAwas)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
