@@ -6,7 +6,7 @@ Youtube Videos
   
  - Don't Let Your Code Cause the Next Software Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)
 # Channel: mCoding
@@ -46,11 +46,11 @@ Youtube Videos
  - C# Project and Package Management in VS Code - Everything you need to know!  [Watch](https://youtu.be/YciV8GL8pLs)
 # Channel: Mateusz Chrobok
   
+ - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
  - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)  
  - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)  
- - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)  
- - Twoje dziecko trafiło do internetu [ZOBACZ ZDJĘCIA]  [Watch](https://youtu.be/xJbBv8JmjlE)
+ - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)
 # Channel: Cloud Native Computing Foundation
   
  - KubeCon + CloudNativeCon Paris 2024 Highlight Reel  [Watch](https://youtu.be/4X96KsrrPEw)  
@@ -95,11 +95,11 @@ Youtube Videos
  - The BEST Docker Compose Templates + Update Process in Git!  [Watch](https://youtu.be/ck7DRNMKgOc)
 # Channel: GitHub
   
+ - Syncing your local and remote Git repositories  [Watch](https://youtu.be/-ZWEbzxXQWM)  
  - Open Source Friday with Uli - tackling online gender-based violence  [Watch](https://youtu.be/g2rlQUdHJYA)  
  - Choosing the right license for your GitHub project  [Watch](https://youtu.be/9_xFiMCe6a0)  
  - Introducing the Private Mirrors App: Secure open source contributions  [Watch](https://youtu.be/pVhB0epW5ro)  
- - GitHub Accelerator Showcase 2024 | The next wave of AI projects  [Watch](https://youtu.be/mrCgn_zIAus)  
- - Forking on GitHub: your gateway to open source contribution  [Watch](https://youtu.be/b2b92LcJLa0)
+ - GitHub Accelerator Showcase 2024 | The next wave of AI projects  [Watch](https://youtu.be/mrCgn_zIAus)
 # Channel: CloudHeroes - Video
   
  - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
