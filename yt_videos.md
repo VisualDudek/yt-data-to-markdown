@@ -6,7 +6,7 @@ Youtube Videos
   
  - Don't Let Your Code Cause the Next Software Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)
 # Channel: mCoding
@@ -53,11 +53,11 @@ Youtube Videos
  - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
  - KubeCon + CloudNativeCon Paris 2024 Highlight Reel  [Watch](https://youtu.be/4X96KsrrPEw)  
  - Kubernetes policies master class  [Watch](https://youtu.be/mG9KqaBF2eQ)  
  - Continuous Compliance in Kubernetes Environments with KubeArmor  [Watch](https://youtu.be/kZ5s9ob1VtE)  
- - Top 10 Lessons Learned from Managing K8s  [Watch](https://youtu.be/rUe1FOLkgL0)  
- - Deaf and Hard of Hearing WG Meeting - 2024-07-23  [Watch](https://youtu.be/1tRHgof29LM)
+ - Top 10 Lessons Learned from Managing K8s  [Watch](https://youtu.be/rUe1FOLkgL0)
 # Channel: Real Python
   
  - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Digging Into Graph Theory in Python With David Amos | Real Python Podcast #212  [Watch](https://youtu.be/4hGgitya6Wo)
 # Channel: SysOps / DevOps Polska
   
+ - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
  - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)  
  - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)  
  - [#502] Workload identity federation for Azure DevOps authentication - Jarosław Tajs  [Watch](https://youtu.be/1Pc8ptNJhF4)  
- - [#501] Automatyzacja Azure Policy: Azure Pipelines w akcji - Marcin Chrzęst  [Watch](https://youtu.be/xDviXHcbg8g)  
- - [#500] Kubernetes Operators - When? Why? How? - Daniel‎ Pokusa  [Watch](https://youtu.be/UVHYlvPutKk)
+ - [#501] Automatyzacja Azure Policy: Azure Pipelines w akcji - Marcin Chrzęst  [Watch](https://youtu.be/xDviXHcbg8g)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -95,18 +95,18 @@ Youtube Videos
  - The BEST Docker Compose Templates + Update Process in Git!  [Watch](https://youtu.be/ck7DRNMKgOc)
 # Channel: GitHub
   
+ - How to add code to your repository | GitHub beginner tutorial  [Watch](https://youtu.be/g2XjJhrGGg4)  
  - Syncing your local and remote Git repositories  [Watch](https://youtu.be/-ZWEbzxXQWM)  
  - Open Source Friday with Uli - tackling online gender-based violence  [Watch](https://youtu.be/g2rlQUdHJYA)  
  - Choosing the right license for your GitHub project  [Watch](https://youtu.be/9_xFiMCe6a0)  
- - Introducing the Private Mirrors App: Secure open source contributions  [Watch](https://youtu.be/pVhB0epW5ro)  
- - GitHub Accelerator Showcase 2024 | The next wave of AI projects  [Watch](https://youtu.be/mrCgn_zIAus)
+ - Introducing the Private Mirrors App: Secure open source contributions  [Watch](https://youtu.be/pVhB0epW5ro)
 # Channel: CloudHeroes - Video
   
+ - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
  - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
  - Nowość - Konfiguracja Cross-account Parameter Store w AWS  [Watch](https://youtu.be/6kvGgv9vIgQ)  
  - Jak zacząć korzystać z Amazon Bedrock  [Watch](https://youtu.be/DZa3mpKslD8)  
- - Jak skonfigurować AWS Chatbot? (ChatOps)  [Watch](https://youtu.be/BLKKqcabdHc)  
- - Jak zarządzać publicznymi adresami IP w AWS  [Watch](https://youtu.be/0rGQVSK2XEQ)
+ - Jak skonfigurować AWS Chatbot? (ChatOps)  [Watch](https://youtu.be/BLKKqcabdHc)
 # Channel: Nicole van der Hoeven
   
  - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
