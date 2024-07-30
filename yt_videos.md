@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Don't Let Your Code Cause the Next Software Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
+ - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
  - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - A CRITICAL Interview Tip for Software Developers  [Watch](https://youtu.be/t40mAeJCi3w)  
+ - Want to Actually GET GOOD at Programming? Try THIS  [Watch](https://youtu.be/Dj_FR_5NP1c)  
  - Create a LOCAL Python AI Chatbot In Minutes Using Ollama  [Watch](https://youtu.be/d0o89z134CQ)  
  - Problem Solving Techniques For Programming - How To Actually Get Good  [Watch](https://youtu.be/iHNLEWa7Hew)  
- - The Truth About Learning Python in 2024  [Watch](https://youtu.be/ZDjaruJ1TYk)  
- - Master Python With This ONE Project!  [Watch](https://youtu.be/Dn1EjhcQk64)  
- - Docker + GenAI | Deploying AI Apps  [Watch](https://youtu.be/Y9YbCvzAwas)
+ - The Truth About Learning Python in 2024  [Watch](https://youtu.be/ZDjaruJ1TYk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Building your own GitHub Copilot chat participant in VS Code  [Watch](https://youtu.be/OdW2r3raAHI)  
+ - The one VS Code tip I always forget to show people #vscode #tips #productivity  [Watch](https://youtu.be/-RykHPQZo7Y)  
  - Master VS Code's keyboard shortcuts in 13 minutes  [Watch](https://youtu.be/nWIRJBCjls8)  
  - The most controversial #vscode setup  [Watch](https://youtu.be/rfvaOtqVStU)  
- - Function Impossible: Mission Debuggable  [Watch](https://youtu.be/s37tSvRBp0s)  
- - It tracks every change  [Watch](https://youtu.be/D16y-u0E3Ek)  
- - C# Project and Package Management in VS Code - Everything you need to know!  [Watch](https://youtu.be/YciV8GL8pLs)
+ - Function Impossible: Mission Debuggable  [Watch](https://youtu.be/s37tSvRBp0s)
 # Channel: Mateusz Chrobok
   
  - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Top 10 Lessons Learned from Managing K8s  [Watch](https://youtu.be/rUe1FOLkgL0)
 # Channel: Real Python
   
+ - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)  
  - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)  
  - pandas GroupBy and Workflow Refresher  [Watch](https://youtu.be/jWT4llHnrcg)  
  - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)  
- - Web Scraping Practice: Intro to Web Scraping With Python  [Watch](https://youtu.be/NGOjlI0lw4s)  
- - Digging Into Graph Theory in Python With David Amos | Real Python Podcast #212  [Watch](https://youtu.be/4hGgitya6Wo)
+ - Web Scraping Practice: Intro to Web Scraping With Python  [Watch](https://youtu.be/NGOjlI0lw4s)
 # Channel: SysOps / DevOps Polska
   
  - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - The BEST Docker Compose Templates + Update Process in Git!  [Watch](https://youtu.be/ck7DRNMKgOc)
 # Channel: GitHub
   
- - How to add code to your repository | GitHub beginner tutorial  [Watch](https://youtu.be/g2XjJhrGGg4)  
- - Syncing your local and remote Git repositories  [Watch](https://youtu.be/-ZWEbzxXQWM)  
- - Open Source Friday with Uli - tackling online gender-based violence  [Watch](https://youtu.be/g2rlQUdHJYA)  
- - Choosing the right license for your GitHub project  [Watch](https://youtu.be/9_xFiMCe6a0)  
- - Introducing the Private Mirrors App: Secure open source contributions  [Watch](https://youtu.be/pVhB0epW5ro)
+ - Async/Await: Close collaboration across non-overlapping time zones  [Watch](https://youtu.be/LN6dGGBfDYs)  
+ - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)  
+ - Git Commit 101: Dominando los Fundamentos de Git y GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
+ - How to clone a remote repository in Git  [Watch](https://youtu.be/0XYymJLW_KQ)  
+ - How to add code to your repository | GitHub beginner tutorial  [Watch](https://youtu.be/g2XjJhrGGg4)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)  
  - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)  
  - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)  
  - Concurrency Vs Parallelism!  [Watch](https://youtu.be/RlM9AfWf1WU)  
- - 7 Must-know Strategies to Scale Your Database  [Watch](https://youtu.be/_1IKwnbscQU)  
- - Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar  [Watch](https://youtu.be/x4k1XEjNzYQ)
+ - 7 Must-know Strategies to Scale Your Database  [Watch](https://youtu.be/_1IKwnbscQU)
