@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
+ - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
+ - Don't Let Your Code Cause the Next Software Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
- - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)  
- - Build AWESOME CLIs With Click in Python  [Watch](https://youtu.be/FWacanslfFM)
+ - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)
 # Channel: mCoding
   
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - An easy code library  [Watch](https://youtu.be/NnVQYdi31ts)  
  - Building your own GitHub Copilot chat participant in VS Code  [Watch](https://youtu.be/OdW2r3raAHI)  
  - The one VS Code tip I always forget to show people #vscode #tips #productivity  [Watch](https://youtu.be/-RykHPQZo7Y)  
  - Master VS Code's keyboard shortcuts in 13 minutes  [Watch](https://youtu.be/nWIRJBCjls8)  
- - The most controversial #vscode setup  [Watch](https://youtu.be/rfvaOtqVStU)  
- - Function Impossible: Mission Debuggable  [Watch](https://youtu.be/s37tSvRBp0s)
+ - The most controversial #vscode setup  [Watch](https://youtu.be/rfvaOtqVStU)
 # Channel: Mateusz Chrobok
   
  - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Enhancing IoT with Wasm and wasmCloud  [Watch](https://youtu.be/lUV49UjFAQM)  
+ - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
+ - Managing Validating Admission Policies (VAP) through Gatekeeper  [Watch](https://youtu.be/IiXVdXZg_uU)  
  - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
- - KubeCon + CloudNativeCon Paris 2024 Highlight Reel  [Watch](https://youtu.be/4X96KsrrPEw)  
- - Kubernetes policies master class  [Watch](https://youtu.be/mG9KqaBF2eQ)  
- - Continuous Compliance in Kubernetes Environments with KubeArmor  [Watch](https://youtu.be/kZ5s9ob1VtE)  
- - Top 10 Lessons Learned from Managing K8s  [Watch](https://youtu.be/rUe1FOLkgL0)
+ - KubeCon + CloudNativeCon Paris 2024 Highlight Reel  [Watch](https://youtu.be/4X96KsrrPEw)
 # Channel: Real Python
   
  - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)  
@@ -88,11 +88,11 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)  
  - How vulnerable are we in IT? // CrowdStrike outage  [Watch](https://youtu.be/uRW9HRYSyCU)  
  - Some *EASY* Kubernetes Projects for beginners  [Watch](https://youtu.be/6jIIa41R7eM)  
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)  
- - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)  
- - The BEST Docker Compose Templates + Update Process in Git!  [Watch](https://youtu.be/ck7DRNMKgOc)
+ - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)
 # Channel: GitHub
   
  - Async/Await: Close collaboration across non-overlapping time zones  [Watch](https://youtu.be/LN6dGGBfDYs)  
