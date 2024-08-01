@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
- - Don't Let Your Code Cause the Next Software Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
+ - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - 6 Tips For Designing a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
+ - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
  - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)
 # Channel: mCoding
   
@@ -53,18 +53,18 @@ Youtube Videos
  - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
  - Cloud Native Live: Enhancing IoT with Wasm and wasmCloud  [Watch](https://youtu.be/lUV49UjFAQM)  
  - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
  - Managing Validating Admission Policies (VAP) through Gatekeeper  [Watch](https://youtu.be/IiXVdXZg_uU)  
- - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
  - KubeCon + CloudNativeCon Paris 2024 Highlight Reel  [Watch](https://youtu.be/4X96KsrrPEw)
 # Channel: Real Python
   
+ - Simulating a Text File For Testing in Python  [Watch](https://youtu.be/k0PFJWx7WIs)  
  - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)  
  - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)  
  - pandas GroupBy and Workflow Refresher  [Watch](https://youtu.be/jWT4llHnrcg)  
- - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)  
- - Web Scraping Practice: Intro to Web Scraping With Python  [Watch](https://youtu.be/NGOjlI0lw4s)
+ - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)
 # Channel: SysOps / DevOps Polska
   
  - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)
 # Channel: GitHub
   
+ - GitHub Models DEMO | AI models for developers on GitHub  [Watch](https://youtu.be/WiBB8Lsgl7I)  
+ - What is GitHub Models? Develop with models from OpenAI, Mistral, Cohere, Meta, and more  [Watch](https://youtu.be/6JuwNLuqV4c)  
+ - Git Commit 101: IA y GitHub Copilot Revolucionando la Programación  [Watch](https://youtu.be/IGDvK8X8TRA)  
  - Async/Await: Close collaboration across non-overlapping time zones  [Watch](https://youtu.be/LN6dGGBfDYs)  
- - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)  
- - Git Commit 101: Dominando los Fundamentos de Git y GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
- - How to clone a remote repository in Git  [Watch](https://youtu.be/0XYymJLW_KQ)  
- - How to add code to your repository | GitHub beginner tutorial  [Watch](https://youtu.be/g2XjJhrGGg4)
+ - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
