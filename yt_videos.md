@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)  
- - Don’t Turn Your Development Process Into a NIGHTMARE  [Watch](https://youtu.be/J8et7Xoy1GU)
+ - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)
 # Channel: mCoding
   
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - Full Stack AI Web App Tutorial (TypeScript/React/AI/LLMs)  [Watch](https://youtu.be/kel893RIvHA)  
  - A CRITICAL Interview Tip for Software Developers  [Watch](https://youtu.be/t40mAeJCi3w)  
  - Want to Actually GET GOOD at Programming? Try THIS  [Watch](https://youtu.be/Dj_FR_5NP1c)  
  - Create a LOCAL Python AI Chatbot In Minutes Using Ollama  [Watch](https://youtu.be/d0o89z134CQ)  
- - Problem Solving Techniques For Programming - How To Actually Get Good  [Watch](https://youtu.be/iHNLEWa7Hew)  
- - The Truth About Learning Python in 2024  [Watch](https://youtu.be/ZDjaruJ1TYk)
+ - Problem Solving Techniques For Programming - How To Actually Get Good  [Watch](https://youtu.be/iHNLEWa7Hew)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - How to quickly change your VS Code setup #vscode  [Watch](https://youtu.be/6Zk-s9sm6GI)  
+ - TypeScript Challenge!  [Watch](https://youtu.be/a2A2EDEzsHg)  
  - An easy code library  [Watch](https://youtu.be/NnVQYdi31ts)  
  - Building your own GitHub Copilot chat participant in VS Code  [Watch](https://youtu.be/OdW2r3raAHI)  
- - The one VS Code tip I always forget to show people #vscode #tips #productivity  [Watch](https://youtu.be/-RykHPQZo7Y)  
- - Master VS Code's keyboard shortcuts in 13 minutes  [Watch](https://youtu.be/nWIRJBCjls8)  
- - The most controversial #vscode setup  [Watch](https://youtu.be/rfvaOtqVStU)
+ - The one VS Code tip I always forget to show people #vscode #tips #productivity  [Watch](https://youtu.be/-RykHPQZo7Y)
 # Channel: Mateusz Chrobok
   
  - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
@@ -54,24 +54,24 @@ Youtube Videos
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
- - Cloud Native Live: Enhancing IoT with Wasm and wasmCloud  [Watch](https://youtu.be/lUV49UjFAQM)  
- - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
- - Managing Validating Admission Policies (VAP) through Gatekeeper  [Watch](https://youtu.be/IiXVdXZg_uU)  
- - KubeCon + CloudNativeCon Paris 2024 Highlight Reel  [Watch](https://youtu.be/4X96KsrrPEw)
+ - Real-Time Network Traffic Monitoring for KubeVirt VMs Using OVN... Girish Moodalbail, Venugopal Iyer  [Watch](https://youtu.be/ylJawjJLgPQ)  
+ - Hack Your Own Network Connectivity - Edward Haas, Red Hat; Leonardo Milleri, Red Hat  [Watch](https://youtu.be/tc04pSXz-r8)  
+ - Long-Lived User-Session VM: Enhancing Zero Downtime Rolling Deployments for Virtual Mac... Sheng Lin  [Watch](https://youtu.be/9_O3xPvODXs)  
+ - KubeVirt Observability with Prometheus and Grafana - Ananda Dwi Rahmawati, Activate Interactive  [Watch](https://youtu.be/4leb8V93Dfo)
 # Channel: Real Python
   
+ - Fetching Graph Data in Django With Strawberry & Prototype Purgatory | Real Python Podcast #215  [Watch](https://youtu.be/4KzXW38G5kM)  
  - Simulating a Text File For Testing in Python  [Watch](https://youtu.be/k0PFJWx7WIs)  
  - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)  
  - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)  
- - pandas GroupBy and Workflow Refresher  [Watch](https://youtu.be/jWT4llHnrcg)  
- - Constraint Programming & Exploring Python's Built-in Functions | Real Python Podcast #213  [Watch](https://youtu.be/JLLiIXB-xCU)
+ - pandas GroupBy and Workflow Refresher  [Watch](https://youtu.be/jWT4llHnrcg)
 # Channel: SysOps / DevOps Polska
   
+ - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)  
  - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
  - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)  
  - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)  
- - [#502] Workload identity federation for Azure DevOps authentication - Jarosław Tajs  [Watch](https://youtu.be/1Pc8ptNJhF4)  
- - [#501] Automatyzacja Azure Policy: Azure Pipelines w akcji - Marcin Chrzęst  [Watch](https://youtu.be/xDviXHcbg8g)
+ - [#502] Workload identity federation for Azure DevOps authentication - Jarosław Tajs  [Watch](https://youtu.be/1Pc8ptNJhF4)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)
 # Channel: GitHub
   
+ - Open Source Friday with API Bench - Performance-test anything!  [Watch](https://youtu.be/9Dp-BFAwulQ)  
+ - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
+ - GitHub Presente: Cómo GitHub transformó mi carrera en UX Design  [Watch](https://youtu.be/zOqT9eUt8ms)  
  - GitHub Models DEMO | AI models for developers on GitHub  [Watch](https://youtu.be/WiBB8Lsgl7I)  
- - What is GitHub Models? Develop with models from OpenAI, Mistral, Cohere, Meta, and more  [Watch](https://youtu.be/6JuwNLuqV4c)  
- - Git Commit 101: IA y GitHub Copilot Revolucionando la Programación  [Watch](https://youtu.be/IGDvK8X8TRA)  
- - Async/Await: Close collaboration across non-overlapping time zones  [Watch](https://youtu.be/LN6dGGBfDYs)  
- - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)
+ - What is GitHub Models? Develop with models from OpenAI, Mistral, Cohere, Meta, and more  [Watch](https://youtu.be/6JuwNLuqV4c)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
