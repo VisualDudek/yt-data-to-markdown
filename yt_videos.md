@@ -11,11 +11,11 @@ Youtube Videos
  - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)
 # Channel: mCoding
   
+ - Docker Tutorial for Beginners  [Watch](https://youtu.be/b0HMimUb4f0)  
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)  
  - Top 5 IDE Productivity Hacks That Will Save You Time Programming  [Watch](https://youtu.be/HBC7i1AbsyA)  
- - What you need to know about Startup and Shutdown Events in FastAPI and ASGI Applications  [Watch](https://youtu.be/_CzaciNrHRE)  
- - Async application classes vs. functions  [Watch](https://youtu.be/ai7y--6ElAE)
+ - What you need to know about Startup and Shutdown Events in FastAPI and ASGI Applications  [Watch](https://youtu.be/_CzaciNrHRE)
 # Channel: anthonywritescode
   
  - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)  
@@ -60,11 +60,11 @@ Youtube Videos
  - KubeVirt Observability with Prometheus and Grafana - Ananda Dwi Rahmawati, Activate Interactive  [Watch](https://youtu.be/4leb8V93Dfo)
 # Channel: Real Python
   
+ - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)  
  - Fetching Graph Data in Django With Strawberry & Prototype Purgatory | Real Python Podcast #215  [Watch](https://youtu.be/4KzXW38G5kM)  
  - Simulating a Text File For Testing in Python  [Watch](https://youtu.be/k0PFJWx7WIs)  
  - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)  
- - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)  
- - pandas GroupBy and Workflow Refresher  [Watch](https://youtu.be/jWT4llHnrcg)
+ - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)
 # Channel: SysOps / DevOps Polska
   
  - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)  
@@ -97,9 +97,9 @@ Youtube Videos
   
  - Open Source Friday with API Bench - Performance-test anything!  [Watch](https://youtu.be/9Dp-BFAwulQ)  
  - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
+ - Metered billing for GitHub Enterprise and GitHub Advanced Security: a GitHub how-to  [Watch](https://youtu.be/vGiWILDbK34)  
  - GitHub Presente: Cómo GitHub transformó mi carrera en UX Design  [Watch](https://youtu.be/zOqT9eUt8ms)  
- - GitHub Models DEMO | AI models for developers on GitHub  [Watch](https://youtu.be/WiBB8Lsgl7I)  
- - What is GitHub Models? Develop with models from OpenAI, Mistral, Cohere, Meta, and more  [Watch](https://youtu.be/6JuwNLuqV4c)
+ - GitHub Models DEMO | AI models for developers on GitHub  [Watch](https://youtu.be/WiBB8Lsgl7I)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
