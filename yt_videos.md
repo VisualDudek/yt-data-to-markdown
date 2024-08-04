@@ -46,11 +46,11 @@ Youtube Videos
  - The one VS Code tip I always forget to show people #vscode #tips #productivity  [Watch](https://youtu.be/-RykHPQZo7Y)
 # Channel: Mateusz Chrobok
   
+ - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)  
  - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
  - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)  
- - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)  
- - 🪨 Wyciekły miliardy haseł  [Watch](https://youtu.be/jGWfyhOVuJM)
+ - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
