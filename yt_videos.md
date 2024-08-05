@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)  
  - Full Stack AI Web App Tutorial (TypeScript/React/AI/LLMs)  [Watch](https://youtu.be/kel893RIvHA)  
  - A CRITICAL Interview Tip for Software Developers  [Watch](https://youtu.be/t40mAeJCi3w)  
  - Want to Actually GET GOOD at Programming? Try THIS  [Watch](https://youtu.be/Dj_FR_5NP1c)  
- - Create a LOCAL Python AI Chatbot In Minutes Using Ollama  [Watch](https://youtu.be/d0o89z134CQ)  
- - Problem Solving Techniques For Programming - How To Actually Get Good  [Watch](https://youtu.be/iHNLEWa7Hew)
+ - Create a LOCAL Python AI Chatbot In Minutes Using Ollama  [Watch](https://youtu.be/d0o89z134CQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)
 # Channel: Cloud Native Computing Foundation
   
+ - Ensuring High Availability for KubeVirt Virtual Machines - Javier Cano Cano, Red Hat  [Watch](https://youtu.be/AcuT4pV1AJM)  
  - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
  - Real-Time Network Traffic Monitoring for KubeVirt VMs Using OVN... Girish Moodalbail, Venugopal Iyer  [Watch](https://youtu.be/ylJawjJLgPQ)  
  - Hack Your Own Network Connectivity - Edward Haas, Red Hat; Leonardo Milleri, Red Hat  [Watch](https://youtu.be/tc04pSXz-r8)  
- - Long-Lived User-Session VM: Enhancing Zero Downtime Rolling Deployments for Virtual Mac... Sheng Lin  [Watch](https://youtu.be/9_O3xPvODXs)  
- - KubeVirt Observability with Prometheus and Grafana - Ananda Dwi Rahmawati, Activate Interactive  [Watch](https://youtu.be/4leb8V93Dfo)
+ - Long-Lived User-Session VM: Enhancing Zero Downtime Rolling Deployments for Virtual Mac... Sheng Lin  [Watch](https://youtu.be/9_O3xPvODXs)
 # Channel: Real Python
   
  - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)
 # Channel: GitHub
   
+ - @TazerArt brings GitHub's Octocat to life through art  [Watch](https://youtu.be/pTQBAfzLnEo)  
  - Open Source Friday with API Bench - Performance-test anything!  [Watch](https://youtu.be/9Dp-BFAwulQ)  
  - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
  - Metered billing for GitHub Enterprise and GitHub Advanced Security: a GitHub how-to  [Watch](https://youtu.be/vGiWILDbK34)  
- - GitHub Presente: Cómo GitHub transformó mi carrera en UX Design  [Watch](https://youtu.be/zOqT9eUt8ms)  
- - GitHub Models DEMO | AI models for developers on GitHub  [Watch](https://youtu.be/WiBB8Lsgl7I)
+ - GitHub Presente: Cómo GitHub transformó mi carrera en UX Design  [Watch](https://youtu.be/zOqT9eUt8ms)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
