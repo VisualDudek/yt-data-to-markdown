@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
+ - FINALLY Python is Getting Rid of the GIL!  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The ULTIMATE VS Code Setup for ReactJS  [Watch](https://youtu.be/LyNEHVzJ24U)  
+ - Use this one prompt to learn anything with AI  [Watch](https://youtu.be/DIw30raLmdM)  
  - How to quickly change your VS Code setup #vscode  [Watch](https://youtu.be/6Zk-s9sm6GI)  
  - TypeScript Challenge!  [Watch](https://youtu.be/a2A2EDEzsHg)  
- - An easy code library  [Watch](https://youtu.be/NnVQYdi31ts)  
- - Building your own GitHub Copilot chat participant in VS Code  [Watch](https://youtu.be/OdW2r3raAHI)  
- - The one VS Code tip I always forget to show people #vscode #tips #productivity  [Watch](https://youtu.be/-RykHPQZo7Y)
+ - An easy code library  [Watch](https://youtu.be/NnVQYdi31ts)
 # Channel: Mateusz Chrobok
   
  - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)
 # Channel: GitHub
   
+ - Git Commit 101: Dominando los Fundamentos de Git y GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
  - @TazerArt brings GitHub's Octocat to life through art  [Watch](https://youtu.be/pTQBAfzLnEo)  
  - Open Source Friday with API Bench - Performance-test anything!  [Watch](https://youtu.be/9Dp-BFAwulQ)  
  - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
- - Metered billing for GitHub Enterprise and GitHub Advanced Security: a GitHub how-to  [Watch](https://youtu.be/vGiWILDbK34)  
- - GitHub Presente: Cómo GitHub transformó mi carrera en UX Design  [Watch](https://youtu.be/zOqT9eUt8ms)
+ - Metered billing for GitHub Enterprise and GitHub Advanced Security: a GitHub how-to  [Watch](https://youtu.be/vGiWILDbK34)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
