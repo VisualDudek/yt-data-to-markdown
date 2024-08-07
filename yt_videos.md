@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - You gotta CSV this to believe it  [Watch](https://youtu.be/SH4ulAmL_9E)  
  - The ULTIMATE VS Code Setup for ReactJS  [Watch](https://youtu.be/LyNEHVzJ24U)  
  - Use this one prompt to learn anything with AI  [Watch](https://youtu.be/DIw30raLmdM)  
  - How to quickly change your VS Code setup #vscode  [Watch](https://youtu.be/6Zk-s9sm6GI)  
- - TypeScript Challenge!  [Watch](https://youtu.be/a2A2EDEzsHg)  
- - An easy code library  [Watch](https://youtu.be/NnVQYdi31ts)
+ - TypeScript Challenge!  [Watch](https://youtu.be/a2A2EDEzsHg)
 # Channel: Mateusz Chrobok
   
+ - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)  
  - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)  
  - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
- - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)  
- - 💀 Crowdstrike padł  [Watch](https://youtu.be/XzQ_l4abeOY)
+ - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF Marketing Committee Meeting - August 2024  [Watch](https://youtu.be/VpcfZgull9I)  
+ - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
  - Ensuring High Availability for KubeVirt Virtual Machines - Javier Cano Cano, Red Hat  [Watch](https://youtu.be/AcuT4pV1AJM)  
  - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
- - Real-Time Network Traffic Monitoring for KubeVirt VMs Using OVN... Girish Moodalbail, Venugopal Iyer  [Watch](https://youtu.be/ylJawjJLgPQ)  
- - Hack Your Own Network Connectivity - Edward Haas, Red Hat; Leonardo Milleri, Red Hat  [Watch](https://youtu.be/tc04pSXz-r8)  
- - Long-Lived User-Session VM: Enhancing Zero Downtime Rolling Deployments for Virtual Mac... Sheng Lin  [Watch](https://youtu.be/9_O3xPvODXs)
+ - Real-Time Network Traffic Monitoring for KubeVirt VMs Using OVN... Girish Moodalbail, Venugopal Iyer  [Watch](https://youtu.be/ylJawjJLgPQ)
 # Channel: Real Python
   
+ - What is a Polyglot programmer? #210  [Watch](https://youtu.be/fLofdTIDGgI)  
  - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)  
  - Fetching Graph Data in Django With Strawberry & Prototype Purgatory | Real Python Podcast #215  [Watch](https://youtu.be/4KzXW38G5kM)  
  - Simulating a Text File For Testing in Python  [Watch](https://youtu.be/k0PFJWx7WIs)  
- - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)  
- - Build Captivating Display Tables in Python With Great Tables | Real Python Podcast #214  [Watch](https://youtu.be/B38EGlWJyfY)
+ - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)
 # Channel: SysOps / DevOps Polska
   
+ - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
  - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)  
  - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
  - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)  
- - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)  
- - [#502] Workload identity federation for Azure DevOps authentication - Jarosław Tajs  [Watch](https://youtu.be/1Pc8ptNJhF4)
+ - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)  
  - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)  
  - How vulnerable are we in IT? // CrowdStrike outage  [Watch](https://youtu.be/uRW9HRYSyCU)  
  - Some *EASY* Kubernetes Projects for beginners  [Watch](https://youtu.be/6jIIa41R7eM)  
- - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)  
- - Back from holidays! (and recovered from flu…)  [Watch](https://youtu.be/p7f96bsSiy0)
+ - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
- - Git Commit 101: Dominando los Fundamentos de Git y GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
+ - GitHub Start Up Wednesday with EasyGen.io  [Watch](https://youtu.be/aPg5ghI5y7s)  
+ - Git Commit 101: Introducción al Desarrollo Moderno Con GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
  - @TazerArt brings GitHub's Octocat to life through art  [Watch](https://youtu.be/pTQBAfzLnEo)  
  - Open Source Friday with API Bench - Performance-test anything!  [Watch](https://youtu.be/9Dp-BFAwulQ)  
- - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)  
- - Metered billing for GitHub Enterprise and GitHub Advanced Security: a GitHub how-to  [Watch](https://youtu.be/vGiWILDbK34)
+ - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
