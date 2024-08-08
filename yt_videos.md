@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - FINALLY Python is Getting Rid of the GIL!  [Watch](https://youtu.be/zWPe_CUR4yU)  
+ - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)  
  - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)  
  - Full Stack AI Web App Tutorial (TypeScript/React/AI/LLMs)  [Watch](https://youtu.be/kel893RIvHA)  
  - A CRITICAL Interview Tip for Software Developers  [Watch](https://youtu.be/t40mAeJCi3w)  
- - Want to Actually GET GOOD at Programming? Try THIS  [Watch](https://youtu.be/Dj_FR_5NP1c)  
- - Create a LOCAL Python AI Chatbot In Minutes Using Ollama  [Watch](https://youtu.be/d0o89z134CQ)
+ - Want to Actually GET GOOD at Programming? Try THIS  [Watch](https://youtu.be/Dj_FR_5NP1c)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)
 # Channel: Cloud Native Computing Foundation
   
- - CNCF Marketing Committee Meeting - August 2024  [Watch](https://youtu.be/VpcfZgull9I)  
+ - ChatLoopBackOff - Episode 23 (Score)  [Watch](https://youtu.be/BRiZ0t6MYNo)  
+ - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/msEw8aKB174)  
  - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
- - Ensuring High Availability for KubeVirt Virtual Machines - Javier Cano Cano, Red Hat  [Watch](https://youtu.be/AcuT4pV1AJM)  
- - ChatLoopBackOff - Episode 22 (Volcano)  [Watch](https://youtu.be/Od1WcdPUg1o)  
- - Real-Time Network Traffic Monitoring for KubeVirt VMs Using OVN... Girish Moodalbail, Venugopal Iyer  [Watch](https://youtu.be/ylJawjJLgPQ)
+ - CNCF Marketing Committee Meeting - August 2024  [Watch](https://youtu.be/VpcfZgull9I)  
+ - Ensuring High Availability for KubeVirt Virtual Machines - Javier Cano Cano, Red Hat  [Watch](https://youtu.be/AcuT4pV1AJM)
 # Channel: Real Python
   
+ - Working With APIs in Python  [Watch](https://youtu.be/GWghKZ16qio)  
+ - Simulating a Text File For Testing in Python - (updated)  [Watch](https://youtu.be/4W04yqqb9mk)  
  - What is a Polyglot programmer? #210  [Watch](https://youtu.be/fLofdTIDGgI)  
  - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)  
- - Fetching Graph Data in Django With Strawberry & Prototype Purgatory | Real Python Podcast #215  [Watch](https://youtu.be/4KzXW38G5kM)  
- - Simulating a Text File For Testing in Python  [Watch](https://youtu.be/k0PFJWx7WIs)  
- - Discord solves their testing problem  [Watch](https://youtu.be/cihBnHyuSmU)
+ - Fetching Graph Data in Django With Strawberry & Prototype Purgatory | Real Python Podcast #215  [Watch](https://youtu.be/4KzXW38G5kM)
 # Channel: SysOps / DevOps Polska
   
  - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
@@ -95,11 +95,11 @@ Youtube Videos
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
+ - Git Commit 101: IA y GitHub Copilot Revolucionando la Programación  [Watch](https://youtu.be/IGDvK8X8TRA)  
+ - Coding with purpose: developing an app for sister's learning  [Watch](https://youtu.be/FG_010bsjxU)  
  - GitHub Start Up Wednesday with EasyGen.io  [Watch](https://youtu.be/aPg5ghI5y7s)  
  - Git Commit 101: Introducción al Desarrollo Moderno Con GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
- - @TazerArt brings GitHub's Octocat to life through art  [Watch](https://youtu.be/pTQBAfzLnEo)  
- - Open Source Friday with API Bench - Performance-test anything!  [Watch](https://youtu.be/9Dp-BFAwulQ)  
- - Event in Spanish: "Phi-3 y Semantic Kernel: Titanes de AI en miniatura"  [Watch](https://youtu.be/gYsFNNRnJ5k)
+ - @TazerArt brings GitHub's Octocat to life through art  [Watch](https://youtu.be/pTQBAfzLnEo)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
