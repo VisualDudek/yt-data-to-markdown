@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
- - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)  
- - How to Design a REST API That Doesn’t SUCK  [Watch](https://youtu.be/SjUQLryotAk)
+ - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)
 # Channel: mCoding
   
  - Docker Tutorial for Beginners  [Watch](https://youtu.be/b0HMimUb4f0)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)  
+ - Top 5 VS Code Extension EVERY developer must have  [Watch](https://youtu.be/K53umOg6Uv8)  
  - You gotta CSV this to believe it  [Watch](https://youtu.be/SH4ulAmL_9E)  
  - The ULTIMATE VS Code Setup for ReactJS  [Watch](https://youtu.be/LyNEHVzJ24U)  
- - Use this one prompt to learn anything with AI  [Watch](https://youtu.be/DIw30raLmdM)  
- - How to quickly change your VS Code setup #vscode  [Watch](https://youtu.be/6Zk-s9sm6GI)  
- - TypeScript Challenge!  [Watch](https://youtu.be/a2A2EDEzsHg)
+ - Use this one prompt to learn anything with AI  [Watch](https://youtu.be/DIw30raLmdM)
 # Channel: Mateusz Chrobok
   
  - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)  
@@ -53,18 +53,18 @@ Youtube Videos
  - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)
 # Channel: Cloud Native Computing Foundation
   
+ - What is CNCF?  [Watch](https://youtu.be/BQru_wiAOO4)  
  - ChatLoopBackOff - Episode 23 (Score)  [Watch](https://youtu.be/BRiZ0t6MYNo)  
  - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/msEw8aKB174)  
  - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
- - CNCF Marketing Committee Meeting - August 2024  [Watch](https://youtu.be/VpcfZgull9I)  
- - Ensuring High Availability for KubeVirt Virtual Machines - Javier Cano Cano, Red Hat  [Watch](https://youtu.be/AcuT4pV1AJM)
+ - CNCF Marketing Committee Meeting - August 2024  [Watch](https://youtu.be/VpcfZgull9I)
 # Channel: Real Python
   
+ - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)  
  - Working With APIs in Python  [Watch](https://youtu.be/GWghKZ16qio)  
  - Simulating a Text File For Testing in Python - (updated)  [Watch](https://youtu.be/4W04yqqb9mk)  
  - What is a Polyglot programmer? #210  [Watch](https://youtu.be/fLofdTIDGgI)  
- - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)  
- - Fetching Graph Data in Django With Strawberry & Prototype Purgatory | Real Python Podcast #215  [Watch](https://youtu.be/4KzXW38G5kM)
+ - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)
 # Channel: SysOps / DevOps Polska
   
  - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
@@ -95,11 +95,11 @@ Youtube Videos
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
+ - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)  
+ - Did you know that GitHub is NOT ONLY for developers? #GitHub  [Watch](https://youtu.be/HtyF4cBrfs8)  
  - Git Commit 101: IA y GitHub Copilot Revolucionando la Programación  [Watch](https://youtu.be/IGDvK8X8TRA)  
  - Coding with purpose: developing an app for sister's learning  [Watch](https://youtu.be/FG_010bsjxU)  
- - GitHub Start Up Wednesday with EasyGen.io  [Watch](https://youtu.be/aPg5ghI5y7s)  
- - Git Commit 101: Introducción al Desarrollo Moderno Con GitHub  [Watch](https://youtu.be/ErwIw7dL9sw)  
- - @TazerArt brings GitHub's Octocat to life through art  [Watch](https://youtu.be/pTQBAfzLnEo)
+ - GitHub Start Up Wednesday with EasyGen.io  [Watch](https://youtu.be/aPg5ghI5y7s)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
