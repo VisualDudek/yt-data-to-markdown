@@ -95,11 +95,11 @@ Youtube Videos
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
+ - The most popular coding languages | GitHub  [Watch](https://youtu.be/7EW-Oz3qxQI)  
  - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)  
  - Did you know that GitHub is NOT ONLY for developers? #GitHub  [Watch](https://youtu.be/HtyF4cBrfs8)  
  - Git Commit 101: IA y GitHub Copilot Revolucionando la Programación  [Watch](https://youtu.be/IGDvK8X8TRA)  
- - Coding with purpose: developing an app for sister's learning  [Watch](https://youtu.be/FG_010bsjxU)  
- - GitHub Start Up Wednesday with EasyGen.io  [Watch](https://youtu.be/aPg5ghI5y7s)
+ - Coding with purpose: developing an app for sister's learning  [Watch](https://youtu.be/FG_010bsjxU)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
