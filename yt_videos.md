@@ -46,11 +46,11 @@ Youtube Videos
  - Use this one prompt to learn anything with AI  [Watch](https://youtu.be/DIw30raLmdM)
 # Channel: Mateusz Chrobok
   
+ - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
  - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)  
  - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)  
  - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
- - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)  
- - Krytyczna luka w openSSH, podatne miliony urządzeń  [Watch](https://youtu.be/kQrihQNCkJA)
+ - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)
 # Channel: Cloud Native Computing Foundation
   
  - What is CNCF?  [Watch](https://youtu.be/BQru_wiAOO4)  
