@@ -25,11 +25,11 @@ Youtube Videos
  - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
 # Channel: Tech With Tim
   
+ - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)  
  - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)  
  - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)  
  - Full Stack AI Web App Tutorial (TypeScript/React/AI/LLMs)  [Watch](https://youtu.be/kel893RIvHA)  
- - A CRITICAL Interview Tip for Software Developers  [Watch](https://youtu.be/t40mAeJCi3w)  
- - Want to Actually GET GOOD at Programming? Try THIS  [Watch](https://youtu.be/Dj_FR_5NP1c)
+ - A CRITICAL Interview Tip for Software Developers  [Watch](https://youtu.be/t40mAeJCi3w)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Getting Started with Python in VS Code (Official Video)  [Watch](https://youtu.be/D2cwvpJSBX4)  
  - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)  
  - Top 5 VS Code Extension EVERY developer must have  [Watch](https://youtu.be/K53umOg6Uv8)  
  - You gotta CSV this to believe it  [Watch](https://youtu.be/SH4ulAmL_9E)  
- - The ULTIMATE VS Code Setup for ReactJS  [Watch](https://youtu.be/LyNEHVzJ24U)  
- - Use this one prompt to learn anything with AI  [Watch](https://youtu.be/DIw30raLmdM)
+ - The ULTIMATE VS Code Setup for ReactJS  [Watch](https://youtu.be/LyNEHVzJ24U)
 # Channel: Mateusz Chrobok
   
  - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Appreciating Old Tech - #218  [Watch](https://youtu.be/YWvtX7MfAyU)
 # Channel: SysOps / DevOps Polska
   
+ - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)  
  - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
  - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)  
  - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
- - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)  
- - [#503] Mikroinfrastruktura - nowe spojrzenie na projektowanie i dostarczania IaC w skali - P. Piwosz  [Watch](https://youtu.be/U1c8Fd7tGds)
+ - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
+ - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
+ - How to create a pull request in 4 min | GitHub for Beginners 2024  [Watch](https://youtu.be/nCKdihvneS0)  
+ - Prevent data breaches with GitHub's push protection  [Watch](https://youtu.be/EcTG33NWHNk)  
  - The most popular coding languages | GitHub  [Watch](https://youtu.be/7EW-Oz3qxQI)  
- - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)  
- - Did you know that GitHub is NOT ONLY for developers? #GitHub  [Watch](https://youtu.be/HtyF4cBrfs8)  
- - Git Commit 101: IA y GitHub Copilot Revolucionando la Programación  [Watch](https://youtu.be/IGDvK8X8TRA)  
- - Coding with purpose: developing an app for sister's learning  [Watch](https://youtu.be/FG_010bsjxU)
+ - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
