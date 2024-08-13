@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
@@ -53,7 +53,7 @@ Youtube Videos
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)
 # Channel: Cloud Native Computing Foundation
   
- - What is CNCF?  [Watch](https://youtu.be/BQru_wiAOO4)  
+ - What is the CNCF?  [Watch](https://youtu.be/BQru_wiAOO4)  
  - ChatLoopBackOff - Episode 23 (Score)  [Watch](https://youtu.be/BRiZ0t6MYNo)  
  - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/msEw8aKB174)  
  - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
@@ -95,11 +95,11 @@ Youtube Videos
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
+ - My first GitHub repository: a story of success  [Watch](https://youtu.be/nTBiyE_djZc)  
  - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
  - How to create a pull request in 4 min | GitHub for Beginners 2024  [Watch](https://youtu.be/nCKdihvneS0)  
  - Prevent data breaches with GitHub's push protection  [Watch](https://youtu.be/EcTG33NWHNk)  
- - The most popular coding languages | GitHub  [Watch](https://youtu.be/7EW-Oz3qxQI)  
- - Exploring Dapr: Open-Source Runtime for Cloud and Edge with @marcduiker  [Watch](https://youtu.be/l0e4qhh_Edc)
+ - The most popular coding languages | GitHub  [Watch](https://youtu.be/7EW-Oz3qxQI)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
