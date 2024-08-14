@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
@@ -18,11 +18,11 @@ Youtube Videos
  - What you need to know about Startup and Shutdown Events in FastAPI and ASGI Applications  [Watch](https://youtu.be/_CzaciNrHRE)
 # Channel: anthonywritescode
   
+ - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)  
  - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)  
  - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)  
  - typing the untype-able with mypy plugins (advanced) anthony explains #574  [Watch](https://youtu.be/tH3Nul6jDQM)  
- - typing decorators sucks! here's an easier way (intermediate) anthony explains #573  [Watch](https://youtu.be/_QXlbwRmqgI)  
- - adding test == others fail??? (intermediate) anthony explains #572  [Watch](https://youtu.be/BoZDpQnA-Xw)
+ - typing decorators sucks! here's an easier way (intermediate) anthony explains #573  [Watch](https://youtu.be/_QXlbwRmqgI)
 # Channel: Tech With Tim
   
  - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - my computer interviewed me and I bombed  [Watch](https://youtu.be/07T46BlXe4o)  
  - Getting Started with Python in VS Code (Official Video)  [Watch](https://youtu.be/D2cwvpJSBX4)  
  - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)  
  - Top 5 VS Code Extension EVERY developer must have  [Watch](https://youtu.be/K53umOg6Uv8)  
- - You gotta CSV this to believe it  [Watch](https://youtu.be/SH4ulAmL_9E)  
- - The ULTIMATE VS Code Setup for ReactJS  [Watch](https://youtu.be/LyNEHVzJ24U)
+ - You gotta CSV this to believe it  [Watch](https://youtu.be/SH4ulAmL_9E)
 # Channel: Mateusz Chrobok
   
  - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)
 # Channel: Cloud Native Computing Foundation
   
+ - CNL: Wasm across Any Cloud, Any K8s, or Any Edge with CNCF wasmCloud  [Watch](https://youtu.be/B1Q_Xx5i6Ek)  
+ - CNCF TOC Sandbox Review 2024-08-13  [Watch](https://youtu.be/dFqDK3YtdEA)  
  - What is the CNCF?  [Watch](https://youtu.be/BQru_wiAOO4)  
  - ChatLoopBackOff - Episode 23 (Score)  [Watch](https://youtu.be/BRiZ0t6MYNo)  
- - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/msEw8aKB174)  
- - Cloud Native Live: Policy-Based Resource Optimization with Kyverno  [Watch](https://youtu.be/Arj08qsaSQE)  
- - CNCF Marketing Committee Meeting - August 2024  [Watch](https://youtu.be/VpcfZgull9I)
+ - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/msEw8aKB174)
 # Channel: Real Python
   
  - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)  
@@ -95,11 +95,11 @@ Youtube Videos
  - It's now a UI for Ansible, Terraform and more! // Semaphore  [Watch](https://youtu.be/tc3tqMIN89U)
 # Channel: GitHub
   
+ - Code fixes in minutes, not months | Copilot Autofix  [Watch](https://youtu.be/mr6vQMDy-YU)  
  - My first GitHub repository: a story of success  [Watch](https://youtu.be/nTBiyE_djZc)  
  - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
  - How to create a pull request in 4 min | GitHub for Beginners 2024  [Watch](https://youtu.be/nCKdihvneS0)  
- - Prevent data breaches with GitHub's push protection  [Watch](https://youtu.be/EcTG33NWHNk)  
- - The most popular coding languages | GitHub  [Watch](https://youtu.be/7EW-Oz3qxQI)
+ - Prevent data breaches with GitHub's push protection  [Watch](https://youtu.be/EcTG33NWHNk)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)  
  - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)  
  - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)  
  - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)  
- - Concurrency Vs Parallelism!  [Watch](https://youtu.be/RlM9AfWf1WU)  
- - 7 Must-know Strategies to Scale Your Database  [Watch](https://youtu.be/_1IKwnbscQU)
+ - Concurrency Vs Parallelism!  [Watch](https://youtu.be/RlM9AfWf1WU)
