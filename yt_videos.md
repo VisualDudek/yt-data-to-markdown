@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
- - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
+ - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)
 # Channel: mCoding
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)  
  - Screencast mode  [Watch](https://youtu.be/KZHI5RMmFk0)  
  - my computer interviewed me and I bombed  [Watch](https://youtu.be/07T46BlXe4o)  
  - Getting Started with Python in VS Code (Official Video)  [Watch](https://youtu.be/D2cwvpJSBX4)  
- - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)  
- - Top 5 VS Code Extension EVERY developer must have  [Watch](https://youtu.be/K53umOg6Uv8)
+ - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)
 # Channel: Mateusz Chrobok
   
  - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
@@ -54,24 +54,24 @@ Youtube Videos
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 24 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)  
+ - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
  - CNL: Wasm across Any Cloud, Any K8s, or Any Edge with CNCF wasmCloud  [Watch](https://youtu.be/B1Q_Xx5i6Ek)  
  - From DevOps to Platform Engineering - The Next Evolution  [Watch](https://youtu.be/cTngc9S0dog)  
- - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
- - CNCF TOC Sandbox Review 2024-08-13  [Watch](https://youtu.be/dFqDK3YtdEA)
+ - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)
 # Channel: Real Python
   
+ - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
  - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)  
  - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)  
  - Working With APIs in Python  [Watch](https://youtu.be/GWghKZ16qio)  
- - Simulating a Text File For Testing in Python - (updated)  [Watch](https://youtu.be/4W04yqqb9mk)  
- - What is a Polyglot programmer? #210  [Watch](https://youtu.be/fLofdTIDGgI)
+ - Simulating a Text File For Testing in Python - (updated)  [Watch](https://youtu.be/4W04yqqb9mk)
 # Channel: SysOps / DevOps Polska
   
+ - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)  
  - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)  
  - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
  - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)  
- - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)  
- - [#504] Ansible AWX - Jakub Muszyński  [Watch](https://youtu.be/izbHDFlCPJE)
+ - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -88,17 +88,17 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)  
  - My NEW Kubernetes Cluster Q&A // LIVE  [Watch](https://youtu.be/GJKqtpe1CXk)  
  - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)  
  - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)  
- - How vulnerable are we in IT? // CrowdStrike outage  [Watch](https://youtu.be/uRW9HRYSyCU)  
- - Some *EASY* Kubernetes Projects for beginners  [Watch](https://youtu.be/6jIIa41R7eM)
+ - How vulnerable are we in IT? // CrowdStrike outage  [Watch](https://youtu.be/uRW9HRYSyCU)
 # Channel: GitHub
   
+ - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
  - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
  - Code fixes in minutes, not months | Copilot Autofix  [Watch](https://youtu.be/mr6vQMDy-YU)  
  - My first GitHub repository: a story of success  [Watch](https://youtu.be/nTBiyE_djZc)  
- - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
  - How to create a pull request in 4 min | GitHub for Beginners 2024  [Watch](https://youtu.be/nCKdihvneS0)
 # Channel: CloudHeroes - Video
   
