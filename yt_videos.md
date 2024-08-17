@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
- - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)
@@ -25,7 +25,7 @@ Youtube Videos
  - typing decorators sucks! here's an easier way (intermediate) anthony explains #573  [Watch](https://youtu.be/_QXlbwRmqgI)
 # Channel: Tech With Tim
   
- - I Dropped Out of Computer Science - 3 Years Later...  [Watch](https://youtu.be/_VRjdkKDoe4)  
+ - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)  
  - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)  
  - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)  
  - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)  
