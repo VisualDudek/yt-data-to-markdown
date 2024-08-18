@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)
@@ -25,11 +25,11 @@ Youtube Videos
  - typing decorators sucks! here's an easier way (intermediate) anthony explains #573  [Watch](https://youtu.be/_QXlbwRmqgI)
 # Channel: Tech With Tim
   
+ - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)  
  - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)  
  - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)  
  - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)  
- - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)  
- - Full Stack AI Web App Tutorial (TypeScript/React/AI/LLMs)  [Watch](https://youtu.be/kel893RIvHA)
+ - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)
 # Channel: Mateusz Chrobok
   
+ - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)  
  - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
  - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)  
  - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)  
- - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)  
- - 🖥 TeamViewer zhakowany przez Rosjan  [Watch](https://youtu.be/Y4uT3sFNDh4)
+ - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 24 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)  
