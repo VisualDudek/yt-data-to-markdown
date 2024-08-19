@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Under The Hood: Reviewing an Open-Source Project - Episode 2  [Watch](https://youtu.be/aOly5eEDXug)  
+ - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
  - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Min/Maxxing VS Code by Stripping the UI and Adding Vim  [Watch](https://youtu.be/F7ZEKjDia1c)  
  - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)  
  - Screencast mode  [Watch](https://youtu.be/KZHI5RMmFk0)  
  - my computer interviewed me and I bombed  [Watch](https://youtu.be/07T46BlXe4o)  
- - Getting Started with Python in VS Code (Official Video)  [Watch](https://youtu.be/D2cwvpJSBX4)  
- - Never confuse your files again #vscode  [Watch](https://youtu.be/swuDCNI-t80)
+ - Getting Started with Python in VS Code (Official Video)  [Watch](https://youtu.be/D2cwvpJSBX4)
 # Channel: Mateusz Chrobok
   
  - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)  
  - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)  
  - My NEW Kubernetes Cluster Q&A // LIVE  [Watch](https://youtu.be/GJKqtpe1CXk)  
  - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)  
- - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)  
- - How vulnerable are we in IT? // CrowdStrike outage  [Watch](https://youtu.be/uRW9HRYSyCU)
+ - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)
 # Channel: GitHub
   
+ - Invisible Infrastructure: How we shipped new color tokens without breaking GitHub  [Watch](https://youtu.be/SjOieV8seec)  
  - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
  - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
  - Code fixes in minutes, not months | Copilot Autofix  [Watch](https://youtu.be/mr6vQMDy-YU)  
- - My first GitHub repository: a story of success  [Watch](https://youtu.be/nTBiyE_djZc)  
- - How to create a pull request in 4 min | GitHub for Beginners 2024  [Watch](https://youtu.be/nCKdihvneS0)
+ - My first GitHub repository: a story of success  [Watch](https://youtu.be/nTBiyE_djZc)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
