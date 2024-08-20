@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
  - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
  - Min/Maxxing VS Code by Stripping the UI and Adding Vim  [Watch](https://youtu.be/F7ZEKjDia1c)  
  - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)  
  - Screencast mode  [Watch](https://youtu.be/KZHI5RMmFk0)  
- - my computer interviewed me and I bombed  [Watch](https://youtu.be/07T46BlXe4o)  
- - Getting Started with Python in VS Code (Official Video)  [Watch](https://youtu.be/D2cwvpJSBX4)
+ - my computer interviewed me and I bombed  [Watch](https://youtu.be/07T46BlXe4o)
 # Channel: Mateusz Chrobok
   
+ - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)  
  - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)  
  - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
  - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)  
- - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)  
- - Co Joe Biden ma wspólnego z ChatemGPT?  [Watch](https://youtu.be/ZYtKtDDUOe4)
+ - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF Sandbox Review 2024-08-20  [Watch](https://youtu.be/pwzdjF9cEWs)  
+ - KubeCon + CloudNativeCon + OSS + AI Dev China 2024 Highlight Reel  [Watch](https://youtu.be/NjAYpXdlnrU)  
  - ChatLoopBackOff - Episode 24 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)  
  - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
- - CNL: Wasm across Any Cloud, Any K8s, or Any Edge with CNCF wasmCloud  [Watch](https://youtu.be/B1Q_Xx5i6Ek)  
- - From DevOps to Platform Engineering - The Next Evolution  [Watch](https://youtu.be/cTngc9S0dog)  
- - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)
+ - CNL: Wasm across Any Cloud, Any K8s, or Any Edge with CNCF wasmCloud  [Watch](https://youtu.be/B1Q_Xx5i6Ek)
 # Channel: Real Python
   
  - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)
 # Channel: GitHub
   
+ - Putting theory into practice: How GitHub uses Figma for its a11y annotation kit and training  [Watch](https://youtu.be/bNweRLxWxGA)  
+ - The secret to getting your conference submissions accepted  [Watch](https://youtu.be/SG4BNakN9KA)  
  - Invisible Infrastructure: How we shipped new color tokens without breaking GitHub  [Watch](https://youtu.be/SjOieV8seec)  
  - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
- - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
- - Code fixes in minutes, not months | Copilot Autofix  [Watch](https://youtu.be/mr6vQMDy-YU)  
- - My first GitHub repository: a story of success  [Watch](https://youtu.be/nTBiyE_djZc)
+ - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
