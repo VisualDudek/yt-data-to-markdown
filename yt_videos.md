@@ -18,11 +18,11 @@ Youtube Videos
  - Top 5 IDE Productivity Hacks That Will Save You Time Programming  [Watch](https://youtu.be/HBC7i1AbsyA)
 # Channel: anthonywritescode
   
+ - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)  
  - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)  
  - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)  
  - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)  
- - typing the untype-able with mypy plugins (advanced) anthony explains #574  [Watch](https://youtu.be/tH3Nul6jDQM)  
- - typing decorators sucks! here's an easier way (intermediate) anthony explains #573  [Watch](https://youtu.be/_QXlbwRmqgI)
+ - typing the untype-able with mypy plugins (advanced) anthony explains #574  [Watch](https://youtu.be/tH3Nul6jDQM)
 # Channel: Tech With Tim
   
  - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)  
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)  
  - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
  - Min/Maxxing VS Code by Stripping the UI and Adding Vim  [Watch](https://youtu.be/F7ZEKjDia1c)  
  - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)  
- - Screencast mode  [Watch](https://youtu.be/KZHI5RMmFk0)  
- - my computer interviewed me and I bombed  [Watch](https://youtu.be/07T46BlXe4o)
+ - Screencast mode  [Watch](https://youtu.be/KZHI5RMmFk0)
 # Channel: Mateusz Chrobok
   
+ - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)  
  - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)  
  - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)  
  - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
- - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)  
- - Dokąd prowadzi rozwój AI? Historia Ilyi Sutskevera.  [Watch](https://youtu.be/ZP8nA_D_y8E)
+ - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF Research End User Group: Slinky: Slurm in Kubernetes (August 21, 2024)  [Watch](https://youtu.be/HLOpbsWh_3Q)  
+ - CNCF TOC Meeting 2024-08-20  [Watch](https://youtu.be/C2pQ7U3iS08)  
  - CNCF Sandbox Review 2024-08-20  [Watch](https://youtu.be/pwzdjF9cEWs)  
  - KubeCon + CloudNativeCon + OSS + AI Dev China 2024 Highlight Reel  [Watch](https://youtu.be/NjAYpXdlnrU)  
- - ChatLoopBackOff - Episode 24 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)  
- - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
- - CNL: Wasm across Any Cloud, Any K8s, or Any Edge with CNCF wasmCloud  [Watch](https://youtu.be/B1Q_Xx5i6Ek)
+ - ChatLoopBackOff - Episode 24 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)
 # Channel: Real Python
   
  - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Simulating a Text File For Testing in Python - (updated)  [Watch](https://youtu.be/4W04yqqb9mk)
 # Channel: SysOps / DevOps Polska
   
+ - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
  - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)  
  - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)  
  - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
- - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)  
- - [#505] Terragrunt at Enterprise Scale - Uladzislau Orlovskiy [ENG]  [Watch](https://youtu.be/70IiRrYKhGk)
+ - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)
 # Channel: GitHub
   
+ - Config Dev Community Event Panel Discussion  [Watch](https://youtu.be/dhH0dN7JpAk)  
+ - Designing the Future of Open Source! 🖥️ 🎨  [Watch](https://youtu.be/Kx_fIIBzaQE)  
  - Putting theory into practice: How GitHub uses Figma for its a11y annotation kit and training  [Watch](https://youtu.be/bNweRLxWxGA)  
  - The secret to getting your conference submissions accepted  [Watch](https://youtu.be/SG4BNakN9KA)  
- - Invisible Infrastructure: How we shipped new color tokens without breaking GitHub  [Watch](https://youtu.be/SjOieV8seec)  
- - CodeCompass: Open Source AI for Personalized GitHub Discovery  [Watch](https://youtu.be/8Thz9na2Zbk)  
- - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)
+ - Invisible Infrastructure: How we shipped new color tokens without breaking GitHub  [Watch](https://youtu.be/SjOieV8seec)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
