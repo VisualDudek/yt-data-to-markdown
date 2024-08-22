@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Pixel perfect with #vscode  [Watch](https://youtu.be/hx76OxBIdEs)  
  - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)  
  - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
  - Min/Maxxing VS Code by Stripping the UI and Adding Vim  [Watch](https://youtu.be/F7ZEKjDia1c)  
- - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)  
- - Screencast mode  [Watch](https://youtu.be/KZHI5RMmFk0)
+ - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)
 # Channel: Mateusz Chrobok
   
+ - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)  
  - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)  
  - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)  
  - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)  
- - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)  
- - 👨🏻‍🎓 Twoje dane w sieci nie są bezpieczne?  [Watch](https://youtu.be/-32Kk2UNrJo)
+ - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
+ - A Roadmap to Evaluating your Organization’s DevOps Maturity  [Watch](https://youtu.be/xM0cOGpuzoU)  
+ - Real World AI: Supercharging Engineer Productivity  [Watch](https://youtu.be/Za75I9jjW1s)  
  - CNCF Research End User Group: Slinky: Slurm in Kubernetes (August 21, 2024)  [Watch](https://youtu.be/HLOpbsWh_3Q)  
- - CNCF TOC Meeting 2024-08-20  [Watch](https://youtu.be/C2pQ7U3iS08)  
- - CNCF Sandbox Review 2024-08-20  [Watch](https://youtu.be/pwzdjF9cEWs)  
- - KubeCon + CloudNativeCon + OSS + AI Dev China 2024 Highlight Reel  [Watch](https://youtu.be/NjAYpXdlnrU)  
- - ChatLoopBackOff - Episode 24 (KubeEdge)  [Watch](https://youtu.be/qK3062Rmdtk)
+ - CNCF TOC Meeting 2024-08-20  [Watch](https://youtu.be/C2pQ7U3iS08)
 # Channel: Real Python
   
+ - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)  
  - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
  - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)  
  - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)  
- - Working With APIs in Python  [Watch](https://youtu.be/GWghKZ16qio)  
- - Simulating a Text File For Testing in Python - (updated)  [Watch](https://youtu.be/4W04yqqb9mk)
+ - Working With APIs in Python  [Watch](https://youtu.be/GWghKZ16qio)
 # Channel: SysOps / DevOps Polska
   
  - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
