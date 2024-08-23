@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
  - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
- - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)  
- - CrowdStrike Exposes a Fundamental Problem in Software  [Watch](https://youtu.be/UdJr2p5RrF0)
+ - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing the untype-able with mypy plugins (advanced) anthony explains #574  [Watch](https://youtu.be/tH3Nul6jDQM)
 # Channel: Tech With Tim
   
+ - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)  
  - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)  
  - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)  
  - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)  
- - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)  
- - How I Would Learn Python in 2024 (if I could start over)  [Watch](https://youtu.be/DMw8jH0R6Fg)
+ - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Pixel perfect with #vscode  [Watch](https://youtu.be/hx76OxBIdEs)  
- - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)  
  - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
- - Min/Maxxing VS Code by Stripping the UI and Adding Vim  [Watch](https://youtu.be/F7ZEKjDia1c)  
- - Select multiple tabs at once in #vscode  [Watch](https://youtu.be/wyLWlrRcIqA)
+ - Stop scrolling through your tabs!  [Watch](https://youtu.be/Gy3dpfB3u0o)  
+ - Behind The Scenes: The Making of VS Code  [Watch](https://youtu.be/BDU63r4bS9Q)  
+ - Pixel perfect with #vscode  [Watch](https://youtu.be/hx76OxBIdEs)  
+ - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)
 # Channel: Mateusz Chrobok
   
+ - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)  
  - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)  
  - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)  
  - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)  
- - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)  
- - Czy to koniec telefonicznych oszustów?  [Watch](https://youtu.be/-pLn-Ii3Dmk)
+ - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
@@ -60,11 +60,11 @@ Youtube Videos
  - CNCF TOC Meeting 2024-08-20  [Watch](https://youtu.be/C2pQ7U3iS08)
 # Channel: Real Python
   
+ - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
  - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)  
  - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
  - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)  
- - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)  
- - Working With APIs in Python  [Watch](https://youtu.be/GWghKZ16qio)
+ - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)
 # Channel: SysOps / DevOps Polska
   
  - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)  
  - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)  
  - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)  
  - My NEW Kubernetes Cluster Q&A // LIVE  [Watch](https://youtu.be/GJKqtpe1CXk)  
- - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)  
- - Faster Docker, K8S and VMs on macOS! // OrbStack  [Watch](https://youtu.be/aJe7CvQ-aM8)
+ - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)
 # Channel: GitHub
   
- - Config Dev Community Event Panel Discussion  [Watch](https://youtu.be/dhH0dN7JpAk)  
- - Designing the Future of Open Source! 🖥️ 🎨  [Watch](https://youtu.be/Kx_fIIBzaQE)  
- - Putting theory into practice: How GitHub uses Figma for its a11y annotation kit and training  [Watch](https://youtu.be/bNweRLxWxGA)  
- - The secret to getting your conference submissions accepted  [Watch](https://youtu.be/SG4BNakN9KA)  
- - Invisible Infrastructure: How we shipped new color tokens without breaking GitHub  [Watch](https://youtu.be/SjOieV8seec)
+ - Gear up for GitHub Universe 2024: a celebration of code and community  [Watch](https://youtu.be/Dmchc0dCOa4)  
+ - Why you should speak at GitHub Universe 2024  [Watch](https://youtu.be/nX0fF_7neg0)  
+ - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
+ - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
+ - Gear up for GitHub Universe 2024: a celebration of code and community - Audio Descriptive Version  [Watch](https://youtu.be/ugc7yNHNX1Y)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)  
  - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)  
  - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)  
  - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)  
- - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)  
- - Concurrency Vs Parallelism!  [Watch](https://youtu.be/RlM9AfWf1WU)
+ - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)
