@@ -46,11 +46,11 @@ Youtube Videos
  - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)
 # Channel: Mateusz Chrobok
   
+ - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)  
  - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)  
  - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)  
  - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)  
- - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)  
- - AI W KOŃCU coś za Ciebie zrobi!  [Watch](https://youtu.be/Py3hcUUkZu0)
+ - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)
 # Channel: GitHub
   
+ - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
+ - Brand as a product: How GitHub uses Figma to scale brand and reach developers  [Watch](https://youtu.be/_38BSWenmzc)  
  - Gear up for GitHub Universe 2024: a celebration of code and community  [Watch](https://youtu.be/Dmchc0dCOa4)  
  - Why you should speak at GitHub Universe 2024  [Watch](https://youtu.be/nX0fF_7neg0)  
- - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
- - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
- - Gear up for GitHub Universe 2024: a celebration of code and community - Audio Descriptive Version  [Watch](https://youtu.be/ugc7yNHNX1Y)
+ - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
