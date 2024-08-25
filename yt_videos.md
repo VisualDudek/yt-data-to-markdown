@@ -6,7 +6,7 @@ Youtube Videos
   
  - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)
 # Channel: mCoding
@@ -46,11 +46,11 @@ Youtube Videos
  - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)
 # Channel: Mateusz Chrobok
   
+ - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
  - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)  
  - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)  
  - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)  
- - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)  
- - 🔐 Microsoft wymusza 2FA  [Watch](https://youtu.be/dVR4k3UXFFw)
+ - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)
 # Channel: GitHub
   
+ - Confessions of a DevRel professional: a day in the life  [Watch](https://youtu.be/2iI-xS-omkA)  
  - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
  - Brand as a product: How GitHub uses Figma to scale brand and reach developers  [Watch](https://youtu.be/_38BSWenmzc)  
  - Gear up for GitHub Universe 2024: a celebration of code and community  [Watch](https://youtu.be/Dmchc0dCOa4)  
- - Why you should speak at GitHub Universe 2024  [Watch](https://youtu.be/nX0fF_7neg0)  
- - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)
+ - Why you should speak at GitHub Universe 2024  [Watch](https://youtu.be/nX0fF_7neg0)
 # Channel: CloudHeroes - Video
   
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
