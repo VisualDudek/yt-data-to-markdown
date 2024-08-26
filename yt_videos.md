@@ -6,7 +6,7 @@ Youtube Videos
   
  - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - From Boring Object-Oriented to INSANE Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - typing the untype-able with mypy plugins (advanced) anthony explains #574  [Watch](https://youtu.be/tH3Nul6jDQM)
 # Channel: Tech With Tim
   
+ - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)  
  - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)  
  - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)  
  - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)  
- - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)  
- - Build a Python Website in 15 Minutes With Streamlit  [Watch](https://youtu.be/2siBrMsqF44)
+ - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)  
  - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
  - Stop scrolling through your tabs!  [Watch](https://youtu.be/Gy3dpfB3u0o)  
  - Behind The Scenes: The Making of VS Code  [Watch](https://youtu.be/BDU63r4bS9Q)  
- - Pixel perfect with #vscode  [Watch](https://youtu.be/hx76OxBIdEs)  
- - The final decision on tabs vs. spaces  [Watch](https://youtu.be/wIPfjk_kUmQ)
+ - Pixel perfect with #vscode  [Watch](https://youtu.be/hx76OxBIdEs)
 # Channel: Mateusz Chrobok
   
  - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)
 # Channel: SysOps / DevOps Polska
   
+ - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)  
  - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
  - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)  
  - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)  
- - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)  
- - [#506] Praktyczne aspekty implementacji AI na platformie Azure w Twoich aplikacjach - M. Jankowski  [Watch](https://youtu.be/3Wv369OZYV0)
+ - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)
 # Channel: ThePrimeagen
   
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
@@ -88,25 +88,25 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)  
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)  
  - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)  
  - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)  
- - My NEW Kubernetes Cluster Q&A // LIVE  [Watch](https://youtu.be/GJKqtpe1CXk)  
- - My NEW Kubernetes setup on Raspberry Pi  [Watch](https://youtu.be/2cbniIZUpXM)
+ - My NEW Kubernetes Cluster Q&A // LIVE  [Watch](https://youtu.be/GJKqtpe1CXk)
 # Channel: GitHub
   
+ - How to merge a pull request | Introduction to GitHub  [Watch](https://youtu.be/FDXSgyDGmho)  
  - Confessions of a DevRel professional: a day in the life  [Watch](https://youtu.be/2iI-xS-omkA)  
  - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
  - Brand as a product: How GitHub uses Figma to scale brand and reach developers  [Watch](https://youtu.be/_38BSWenmzc)  
- - Gear up for GitHub Universe 2024: a celebration of code and community  [Watch](https://youtu.be/Dmchc0dCOa4)  
- - Why you should speak at GitHub Universe 2024  [Watch](https://youtu.be/nX0fF_7neg0)
+ - Gear up for GitHub Universe 2024: a celebration of code and community  [Watch](https://youtu.be/Dmchc0dCOa4)
 # Channel: CloudHeroes - Video
   
+ - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
  - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
  - Nowość - Konfiguracja Cross-account Parameter Store w AWS  [Watch](https://youtu.be/6kvGgv9vIgQ)  
- - Jak zacząć korzystać z Amazon Bedrock  [Watch](https://youtu.be/DZa3mpKslD8)  
- - Jak skonfigurować AWS Chatbot? (ChatOps)  [Watch](https://youtu.be/BLKKqcabdHc)
+ - Jak zacząć korzystać z Amazon Bedrock  [Watch](https://youtu.be/DZa3mpKslD8)
 # Channel: Nicole van der Hoeven
   
  - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
