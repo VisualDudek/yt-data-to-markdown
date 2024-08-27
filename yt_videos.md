@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Code the rainbow 🌈  [Watch](https://youtu.be/EUHdWX7UK_Q)  
  - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)  
  - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
  - Stop scrolling through your tabs!  [Watch](https://youtu.be/Gy3dpfB3u0o)  
- - Behind The Scenes: The Making of VS Code  [Watch](https://youtu.be/BDU63r4bS9Q)  
- - Pixel perfect with #vscode  [Watch](https://youtu.be/hx76OxBIdEs)
+ - Behind The Scenes: The Making of VS Code  [Watch](https://youtu.be/BDU63r4bS9Q)
 # Channel: Mateusz Chrobok
   
  - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: BellSoft's Java images Part 2  [Watch](https://youtu.be/V8cstHZ3lxo)  
  - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
  - A Roadmap to Evaluating your Organization’s DevOps Maturity  [Watch](https://youtu.be/xM0cOGpuzoU)  
  - Real World AI: Supercharging Engineer Productivity  [Watch](https://youtu.be/Za75I9jjW1s)  
- - CNCF Research End User Group: Slinky: Slurm in Kubernetes (August 21, 2024)  [Watch](https://youtu.be/HLOpbsWh_3Q)  
- - CNCF TOC Meeting 2024-08-20  [Watch](https://youtu.be/C2pQ7U3iS08)
+ - CNCF Research End User Group: Slinky: Slurm in Kubernetes (August 21, 2024)  [Watch](https://youtu.be/HLOpbsWh_3Q)
 # Channel: Real Python
   
  - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
@@ -88,11 +88,11 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)  
  - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)  
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)  
  - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)  
- - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)  
- - My NEW Kubernetes Cluster Q&A // LIVE  [Watch](https://youtu.be/GJKqtpe1CXk)
+ - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)
 # Channel: GitHub
   
  - How to merge a pull request | Introduction to GitHub  [Watch](https://youtu.be/FDXSgyDGmho)  
