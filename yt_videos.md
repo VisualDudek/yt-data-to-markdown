@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)
 # Channel: mCoding
@@ -18,11 +18,11 @@ Youtube Videos
  - Top 5 IDE Productivity Hacks That Will Save You Time Programming  [Watch](https://youtu.be/HBC7i1AbsyA)
 # Channel: anthonywritescode
   
+ - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)  
  - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)  
  - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)  
  - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)  
- - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)  
- - typing the untype-able with mypy plugins (advanced) anthony explains #574  [Watch](https://youtu.be/tH3Nul6jDQM)
+ - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)
 # Channel: Tech With Tim
   
  - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)
 # Channel: Cloud Native Computing Foundation
   
+ - Deaf and Hard of Hearing WG Meeting - 2024-08-27  [Watch](https://youtu.be/7w45Xitwsok)  
  - Cloud Native Live: BellSoft's Java images Part 2  [Watch](https://youtu.be/V8cstHZ3lxo)  
  - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
  - A Roadmap to Evaluating your Organization’s DevOps Maturity  [Watch](https://youtu.be/xM0cOGpuzoU)  
- - Real World AI: Supercharging Engineer Productivity  [Watch](https://youtu.be/Za75I9jjW1s)  
- - CNCF Research End User Group: Slinky: Slurm in Kubernetes (August 21, 2024)  [Watch](https://youtu.be/HLOpbsWh_3Q)
+ - Real World AI: Supercharging Engineer Productivity  [Watch](https://youtu.be/Za75I9jjW1s)
 # Channel: Real Python
   
  - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
@@ -74,11 +74,11 @@ Youtube Videos
  - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)
 # Channel: ThePrimeagen
   
+ - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
  - Find And Replace  [Watch](https://youtu.be/v2a6Nv7RSd0)  
  - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)  
- - Programming Tier List 2024  [Watch](https://youtu.be/c3yRbrYIUeo)  
- - Programming Curves  [Watch](https://youtu.be/_ebVsYQou8A)
+ - Programming Tier List 2024  [Watch](https://youtu.be/c3yRbrYIUeo)
 # Channel: Beyond Fireship
   
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)  
  - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)  
  - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)  
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)  
- - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)  
- - The best markdown reader for your terminal // Glow #shorts  [Watch](https://youtu.be/Nl9pcj79byY)
+ - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)
 # Channel: GitHub
   
+ - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
  - How to merge a pull request | Introduction to GitHub  [Watch](https://youtu.be/FDXSgyDGmho)  
  - Confessions of a DevRel professional: a day in the life  [Watch](https://youtu.be/2iI-xS-omkA)  
  - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
- - Brand as a product: How GitHub uses Figma to scale brand and reach developers  [Watch](https://youtu.be/_38BSWenmzc)  
- - Gear up for GitHub Universe 2024: a celebration of code and community  [Watch](https://youtu.be/Dmchc0dCOa4)
+ - Brand as a product: How GitHub uses Figma to scale brand and reach developers  [Watch](https://youtu.be/_38BSWenmzc)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
