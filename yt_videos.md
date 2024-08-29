@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
  - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)
 # Channel: mCoding
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)  
+ - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)  
  - Code the rainbow 🌈  [Watch](https://youtu.be/EUHdWX7UK_Q)  
  - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)  
- - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)  
- - Stop scrolling through your tabs!  [Watch](https://youtu.be/Gy3dpfB3u0o)  
- - Behind The Scenes: The Making of VS Code  [Watch](https://youtu.be/BDU63r4bS9Q)
+ - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)
 # Channel: Mateusz Chrobok
   
  - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)
 # Channel: Cloud Native Computing Foundation
   
- - Deaf and Hard of Hearing WG Meeting - 2024-08-27  [Watch](https://youtu.be/7w45Xitwsok)  
- - Cloud Native Live: BellSoft's Java images Part 2  [Watch](https://youtu.be/V8cstHZ3lxo)  
- - ChatLoopBackOff - Episode 25 (in-toto)  [Watch](https://youtu.be/T9MOUvLYfzU)  
- - A Roadmap to Evaluating your Organization’s DevOps Maturity  [Watch](https://youtu.be/xM0cOGpuzoU)  
- - Real World AI: Supercharging Engineer Productivity  [Watch](https://youtu.be/Za75I9jjW1s)
+ - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
+ - K8sGPT - AI for cloud native  [Watch](https://youtu.be/T_e055_3d8U)  
+ - Transcending the Barriers to Elasticity  [Watch](https://youtu.be/JIXlF-3VoN4)  
+ - LitmusChaosCon: The Community Chaos Engineering Conference  [Watch](https://youtu.be/3uPB_Fgbhc4)  
+ - Deaf and Hard of Hearing WG Meeting - 2024-08-27  [Watch](https://youtu.be/7w45Xitwsok)
 # Channel: Real Python
   
+ - Astronomy & Python With Astropy - Conjunction Introduction  [Watch](https://youtu.be/tII7IpFCdfk)  
  - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
  - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)  
  - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
- - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)  
- - Learning Through Building the Black Python Devs Community | Real Python Podcast #216  [Watch](https://youtu.be/tQ4wGZucom4)
+ - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)
 # Channel: SysOps / DevOps Polska
   
  - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)
 # Channel: GitHub
   
+ - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
+ - Open Source Friday with Mirrord - run local processes in the cloud!  [Watch](https://youtu.be/n4SG9r3u-Tk)  
  - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
- - How to merge a pull request | Introduction to GitHub  [Watch](https://youtu.be/FDXSgyDGmho)  
- - Confessions of a DevRel professional: a day in the life  [Watch](https://youtu.be/2iI-xS-omkA)  
- - Open Source Friday with Grafana Labs!  [Watch](https://youtu.be/xzhSiSaF3g0)  
- - Brand as a product: How GitHub uses Figma to scale brand and reach developers  [Watch](https://youtu.be/_38BSWenmzc)
+ - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)  
+ - How to merge a pull request | Introduction to GitHub  [Watch](https://youtu.be/FDXSgyDGmho)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)  
  - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)  
  - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)  
  - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)  
- - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)  
- - Linux Crash Course - Understanding File Permissions  [Watch](https://youtu.be/4N4Q576i3zA)
+ - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)
