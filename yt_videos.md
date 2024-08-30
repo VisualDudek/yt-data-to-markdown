@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
+ - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
- - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)  
- - 8 Tips to Prevent Your Software from Becoming the Next Big Disaster  [Watch](https://youtu.be/IzU_5fT4m_M)
+ - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -25,11 +25,11 @@ Youtube Videos
  - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)
 # Channel: Tech With Tim
   
+ - Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/Oo8-nEuDBkk)  
  - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)  
  - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)  
  - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)  
- - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)  
- - A Python Developers Guide to AI in 2024  [Watch](https://youtu.be/OHf5bapbrcI)
+ - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)
 # Channel: Mateusz Chrobok
   
+ - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)  
  - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
  - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)  
  - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)  
- - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)  
- - 👨🏻‍🎓 Czy twoje hasła są wystarczająco silne?  [Watch](https://youtu.be/-SV1AFKHTxc)
+ - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)
 # Channel: GitHub
   
+ - Streamlining Kubernetes with Kargo: #OpenSourceFriday feat. Christian Hernandez  [Watch](https://youtu.be/vQ8coBb-3eE)  
  - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
  - Open Source Friday with Mirrord - run local processes in the cloud!  [Watch](https://youtu.be/n4SG9r3u-Tk)  
  - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
- - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)  
- - How to merge a pull request | Introduction to GitHub  [Watch](https://youtu.be/FDXSgyDGmho)
+ - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
