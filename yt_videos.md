@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
 # Channel: mCoding
   
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)  
  - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)  
  - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)  
  - Code the rainbow 🌈  [Watch](https://youtu.be/EUHdWX7UK_Q)  
- - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)  
- - Python Pulse - Aspire Telemetry with Python Projects  [Watch](https://youtu.be/JqSC7-tTNNU)
+ - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)
 # Channel: Mateusz Chrobok
   
+ - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)  
  - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)  
  - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
  - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)  
- - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)  
- - 🇮🇷 OpenAI vs. irańskie służby  [Watch](https://youtu.be/PdiiAjRlgvc)
+ - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
