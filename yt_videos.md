@@ -7,7 +7,7 @@ Youtube Videos
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
 # Channel: mCoding
   
@@ -46,11 +46,11 @@ Youtube Videos
  - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)
 # Channel: Mateusz Chrobok
   
+ - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)  
  - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)  
  - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)  
  - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
- - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)  
- - 💬 Luka 10/10 w WordPressie  [Watch](https://youtu.be/ftS-9oCVxEY)
+ - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
