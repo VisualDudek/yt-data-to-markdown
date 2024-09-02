@@ -7,7 +7,7 @@ Youtube Videos
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)
 # Channel: Tech With Tim
   
+ - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)  
  - Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/Oo8-nEuDBkk)  
  - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)  
  - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)  
- - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)  
- - Why I Dropped Out of My Computer Science Degree  [Watch](https://youtu.be/_VRjdkKDoe4)
+ - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)
 # Channel: Mateusz Chrobok
   
+ - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)  
  - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)  
  - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)  
  - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)  
- - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)  
- - 💔 Microsoft popsuł Linuksy  [Watch](https://youtu.be/mZMv4CHGupY)
+ - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)
 # Channel: SysOps / DevOps Polska
   
+ - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
  - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)  
  - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
  - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)  
- - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)  
- - [#507] DevOps w branży GameDev, czyli jak optymalizować produkcję gier - Mikołaj Kurcin  [Watch](https://youtu.be/x7Y6S40w75M)
+ - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
