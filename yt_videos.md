@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
  - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Have you heard of inlay hints?  [Watch](https://youtu.be/tEr5FW8SspU)  
  - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)  
  - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)  
  - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)  
- - Code the rainbow 🌈  [Watch](https://youtu.be/EUHdWX7UK_Q)  
- - Develop your own Machine Learning Model with Azure Machine Learning  [Watch](https://youtu.be/jHGqT_X7e7Q)
+ - Code the rainbow 🌈  [Watch](https://youtu.be/EUHdWX7UK_Q)
 # Channel: Mateusz Chrobok
   
  - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Deaf and Hard of Hearing WG Meeting - 2024-08-27  [Watch](https://youtu.be/7w45Xitwsok)
 # Channel: Real Python
   
+ - Troubleshooting  Raspberry Pi  [Watch](https://youtu.be/eHfckE1k3N0)  
  - Astronomy & Python With Astropy - Conjunction Introduction  [Watch](https://youtu.be/tII7IpFCdfk)  
  - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
  - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)  
- - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)  
- - Exploring Python Dictionaries and Sorting  [Watch](https://youtu.be/89P-Vdx8UqI)
+ - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)
 # Channel: SysOps / DevOps Polska
   
  - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
@@ -88,11 +88,11 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)  
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)  
  - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)  
  - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)  
- - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)  
- - Skip Microsoft Account in Windows 11 Installer #shorts  [Watch](https://youtu.be/EjSChSA-7ag)
+ - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
  - Streamlining Kubernetes with Kargo: #OpenSourceFriday feat. Christian Hernandez  [Watch](https://youtu.be/vQ8coBb-3eE)  
