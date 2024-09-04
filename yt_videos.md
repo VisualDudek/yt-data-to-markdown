@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)  
+ - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
  - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
 # Channel: mCoding
   
@@ -18,11 +18,11 @@ Youtube Videos
  - Top 5 IDE Productivity Hacks That Will Save You Time Programming  [Watch](https://youtu.be/HBC7i1AbsyA)
 # Channel: anthonywritescode
   
+ - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)  
  - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)  
  - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)  
  - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)  
- - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)  
- - `x: float = False` is a valid annotation??? (intermediate) anthony explains #575  [Watch](https://youtu.be/RYD87EL1Zbs)
+ - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)
 # Channel: Tech With Tim
   
  - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)  
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Building a RAG application with a PostgreSQL database  [Watch](https://youtu.be/NC4msKJ_Euo)  
  - Have you heard of inlay hints?  [Watch](https://youtu.be/tEr5FW8SspU)  
  - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)  
  - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)  
- - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)  
- - Code the rainbow 🌈  [Watch](https://youtu.be/EUHdWX7UK_Q)
+ - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)
 # Channel: Mateusz Chrobok
   
+ - 🚆 Newag jednak zmienia zdanie  [Watch](https://youtu.be/JND-OAmgmyQ)  
  - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)  
  - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)  
  - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)  
- - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)  
- - Handel ludźmi w Afryce  [Watch](https://youtu.be/vTzoRq5l0mw)
+ - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 26 (Jaeger)  [Watch](https://youtu.be/7qoyw_C1gKw)  
- - K8sGPT - AI for cloud native  [Watch](https://youtu.be/T_e055_3d8U)  
- - Transcending the Barriers to Elasticity  [Watch](https://youtu.be/JIXlF-3VoN4)  
- - LitmusChaosCon: The Community Chaos Engineering Conference  [Watch](https://youtu.be/3uPB_Fgbhc4)  
- - Deaf and Hard of Hearing WG Meeting - 2024-08-27  [Watch](https://youtu.be/7w45Xitwsok)
+ - Project Lightning Talk: Karmada: Project introduction and updates | 项目闪电讲：Karmada：项目介绍与更新  [Watch](https://youtu.be/yva8cp67eJ0)  
+ - Project Lightning Talk: WasmEdge 0.14.0 release highlight | 项目闪电讲：WasmEdge 0.14.0 发布亮点  [Watch](https://youtu.be/Mtd8AmyYZeU)  
+ - Project Lightning Talk: KCL: Simplifying Kubernetes Manifests Management | KCL：简化 Kubernetes 清单管理  [Watch](https://youtu.be/Rt2zi4M20H0)  
+ - Strengthening Container Security: A Collaborative Journey - Yi Zha & Beltran Rueda Borrego  [Watch](https://youtu.be/WXpWmNYmsU4)  
+ - Project Lightning Talk: Kyverno Kickoff: Getting Your Team Onboard in a Flash  [Watch](https://youtu.be/XVCFoTM2rr4)
 # Channel: Real Python
   
  - Troubleshooting  Raspberry Pi  [Watch](https://youtu.be/eHfckE1k3N0)  
