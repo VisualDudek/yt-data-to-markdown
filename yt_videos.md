@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Building a RAG application with a PostgreSQL database  [Watch](https://youtu.be/NC4msKJ_Euo)  
- - Have you heard of inlay hints?  [Watch](https://youtu.be/tEr5FW8SspU)  
  - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)  
+ - Building a RAG application with GitHub Models and Postgres FROM SCRATCH  [Watch](https://youtu.be/NC4msKJ_Euo)  
+ - Have you heard of inlay hints?  [Watch](https://youtu.be/tEr5FW8SspU)  
  - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)  
  - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)
 # Channel: Mateusz Chrobok
   
+ - 🍎 Apple nie pomaga badaczom  [Watch](https://youtu.be/iRXBJ5Z5DbM)  
  - 🚆 Newag jednak zmienia zdanie  [Watch](https://youtu.be/JND-OAmgmyQ)  
  - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)  
  - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)  
- - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)  
- - ⛓ CEO Telegrama aresztowany  [Watch](https://youtu.be/zpoNXmieMOw)
+ - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
+ - Why Sponsor KubeCon + CloudNativeCon?  [Watch](https://youtu.be/oN-YzvEkOOA)  
+ - Cloud Native Live: Envoy Gateway 1.1 - Q&A Session  [Watch](https://youtu.be/K8-Ykp1CYmw)  
  - Project Lightning Talk: Karmada: Project introduction and updates | 项目闪电讲：Karmada：项目介绍与更新  [Watch](https://youtu.be/yva8cp67eJ0)  
- - Project Lightning Talk: WasmEdge 0.14.0 release highlight | 项目闪电讲：WasmEdge 0.14.0 发布亮点  [Watch](https://youtu.be/Mtd8AmyYZeU)  
- - Project Lightning Talk: KCL: Simplifying Kubernetes Manifests Management | KCL：简化 Kubernetes 清单管理  [Watch](https://youtu.be/Rt2zi4M20H0)  
- - Strengthening Container Security: A Collaborative Journey - Yi Zha & Beltran Rueda Borrego  [Watch](https://youtu.be/WXpWmNYmsU4)  
- - Project Lightning Talk: Kyverno Kickoff: Getting Your Team Onboard in a Flash  [Watch](https://youtu.be/XVCFoTM2rr4)
+ - Project Lightning Talk: WasmEdge 0.14.0 release highlight | 项目闪电讲：WasmEdge 0.14.0 发布亮点  [Watch](https://youtu.be/Mtd8AmyYZeU)
 # Channel: Real Python
   
+ - Data Validation in Python With Pydantic  [Watch](https://youtu.be/ySCtmCTm1lE)  
  - Troubleshooting  Raspberry Pi  [Watch](https://youtu.be/eHfckE1k3N0)  
  - Astronomy & Python With Astropy - Conjunction Introduction  [Watch](https://youtu.be/tII7IpFCdfk)  
  - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
- - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)  
- - Packaging Data Analyses & Using pandas GroupBy | Real Python Podcast #217  [Watch](https://youtu.be/4-3yg_tjSvU)
+ - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)
 # Channel: SysOps / DevOps Polska
   
  - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
