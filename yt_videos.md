@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)  
- - How Much FASTER Is Python 3.13 Without the GIL?  [Watch](https://youtu.be/zWPe_CUR4yU)
+ - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -25,11 +25,11 @@ Youtube Videos
  - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)
 # Channel: Tech With Tim
   
+ - 5 Ways I Use AI To Automate My Life (as a senior developer)  [Watch](https://youtu.be/vU3GR5lrlLQ)  
  - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)  
  - Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/Oo8-nEuDBkk)  
  - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)  
- - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)  
- - 10 Python Functions That Will Simplify Your Life  [Watch](https://youtu.be/zPfSwhofPpk)
+ - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)  
  - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)  
  - Building a RAG application with GitHub Models and Postgres FROM SCRATCH  [Watch](https://youtu.be/NC4msKJ_Euo)  
  - Have you heard of inlay hints?  [Watch](https://youtu.be/tEr5FW8SspU)  
- - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)  
- - New developer prank unlocked #vscode  [Watch](https://youtu.be/58h9Xcesf0E)
+ - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)
 # Channel: Mateusz Chrobok
   
+ - 🎓 Wszyscy wdrażają AI! Zapraszam na webinar  [Watch](https://youtu.be/5-Dn3CSCE9o)  
  - 🍎 Apple nie pomaga badaczom  [Watch](https://youtu.be/iRXBJ5Z5DbM)  
  - 🚆 Newag jednak zmienia zdanie  [Watch](https://youtu.be/JND-OAmgmyQ)  
  - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)  
- - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)  
- - 📱Czy twój smartfon jest odpowiednio zabezpieczony?  [Watch](https://youtu.be/LcfAjSEt3xk)
+ - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Project Lightning Talk: WasmEdge 0.14.0 release highlight | 项目闪电讲：WasmEdge 0.14.0 发布亮点  [Watch](https://youtu.be/Mtd8AmyYZeU)
 # Channel: Real Python
   
+ - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)  
  - Data Validation in Python With Pydantic  [Watch](https://youtu.be/ySCtmCTm1lE)  
  - Troubleshooting  Raspberry Pi  [Watch](https://youtu.be/eHfckE1k3N0)  
  - Astronomy & Python With Astropy - Conjunction Introduction  [Watch](https://youtu.be/tII7IpFCdfk)  
- - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)  
- - Exploring Astrophysics With Python - Planetary Slingshot Boost  [Watch](https://youtu.be/TsCZNoaOjWI)
+ - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)
 # Channel: SysOps / DevOps Polska
   
+ - [#513] LT: Nieznana funkcjonalność kube-state-metrics - własne metryki CRD Kubernetesa - M. Filocha  [Watch](https://youtu.be/vdciuvIGRm0)  
  - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
  - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)  
  - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
- - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)  
- - [#508] Optymalizacja i zarządzanie chmurą za pomocą Azure Advisor - Artur Molendowski  [Watch](https://youtu.be/1rOCWlYfM7E)
+ - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,9 +95,9 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - Open Source Friday with Mirrord - run local processes in the cloud!  [Watch](https://youtu.be/n4SG9r3u-Tk)  
  - Streamlining Kubernetes with Kargo: #OpenSourceFriday feat. Christian Hernandez  [Watch](https://youtu.be/vQ8coBb-3eE)  
  - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
- - Open Source Friday with Mirrord - run local processes in the cloud!  [Watch](https://youtu.be/n4SG9r3u-Tk)  
  - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
  - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)
 # Channel: CloudHeroes - Video
