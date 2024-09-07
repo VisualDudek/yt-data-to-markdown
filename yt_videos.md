@@ -8,7 +8,7 @@ Youtube Videos
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)
+ - Refactoring Object-Oriented Code to Functional AWESOMENESS  [Watch](https://youtu.be/DvdZv_DD0DY)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)
 # Channel: Mateusz Chrobok
   
+ - 🪆Rosyjskie APT kupują podatności?  [Watch](https://youtu.be/tQLUBaKQNV4)  
  - 🎓 Wszyscy wdrażają AI! Zapraszam na webinar  [Watch](https://youtu.be/5-Dn3CSCE9o)  
  - 🍎 Apple nie pomaga badaczom  [Watch](https://youtu.be/iRXBJ5Z5DbM)  
  - 🚆 Newag jednak zmienia zdanie  [Watch](https://youtu.be/JND-OAmgmyQ)  
- - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)  
- - Mój problem z Telegramem. UWAGA, DŁUGIE!  [Watch](https://youtu.be/M9W6GTnqIbs)
+ - 🕵️‍♂️ Kto kogo szpieguje? surveillancewatch.io  [Watch](https://youtu.be/8dx6qwpSXqw)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
