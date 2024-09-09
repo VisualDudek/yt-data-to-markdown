@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Under The Hood: Reviewing an Open-Source Project - Episode 3  [Watch](https://youtu.be/5uqZ6jAPTnY)  
  - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Why Your FastAPI App Needs a Rate Limiter  [Watch](https://youtu.be/pZunzLJ1qcQ)  
- - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)  
- - Refactoring Object-Oriented to AWESOME Functional Code  [Watch](https://youtu.be/DvdZv_DD0DY)
+ - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
+ - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -25,11 +25,11 @@ Youtube Videos
  - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)
 # Channel: Tech With Tim
   
+ - Learn To Code Like a PRO and Not Waste Time  [Watch](https://youtu.be/IIW4L-_5YCw)  
  - 5 Ways I Use AI To Automate My Life (as a senior developer)  [Watch](https://youtu.be/vU3GR5lrlLQ)  
  - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)  
  - Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/Oo8-nEuDBkk)  
- - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)  
- - 5 Unique Python AI Project Ideas & HOW To Build Them  [Watch](https://youtu.be/HIvQWdqvl7o)
+ - PLEASE Learn These 10 Advanced Python Features  [Watch](https://youtu.be/6ViGc5NgdSw)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)
 # Channel: Mateusz Chrobok
   
+ - 💼 SuperSafeIntelligence rekrutuje  [Watch](https://youtu.be/gL6KjOIlfwE)  
  - Łatajcie swoje Windowsy!  [Watch](https://youtu.be/uHYgX-jXprE)  
  - 🪆Rosyjskie APT kupują podatności?  [Watch](https://youtu.be/tQLUBaKQNV4)  
  - 🎓 Wszyscy wdrażają AI! Zapraszam na webinar  [Watch](https://youtu.be/5-Dn3CSCE9o)  
- - 🍎 Apple nie pomaga badaczom  [Watch](https://youtu.be/iRXBJ5Z5DbM)  
- - 🚆 Newag jednak zmienia zdanie  [Watch](https://youtu.be/JND-OAmgmyQ)
+ - 🍎 Apple nie pomaga badaczom  [Watch](https://youtu.be/iRXBJ5Z5DbM)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF TOC Meeting 2024-09-03  [Watch](https://youtu.be/hBGOUY2yFcY)  
  - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
  - Why Sponsor KubeCon + CloudNativeCon?  [Watch](https://youtu.be/oN-YzvEkOOA)  
  - Cloud Native Live: Envoy Gateway 1.1 - Q&A Session  [Watch](https://youtu.be/K8-Ykp1CYmw)  
- - Project Lightning Talk: Karmada: Project introduction and updates | 项目闪电讲：Karmada：项目介绍与更新  [Watch](https://youtu.be/yva8cp67eJ0)  
- - Project Lightning Talk: WasmEdge 0.14.0 release highlight | 项目闪电讲：WasmEdge 0.14.0 发布亮点  [Watch](https://youtu.be/Mtd8AmyYZeU)
+ - Project Lightning Talk: Karmada: Project introduction and updates | 项目闪电讲：Karmada：项目介绍与更新  [Watch](https://youtu.be/yva8cp67eJ0)
 # Channel: Real Python
   
  - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)
 # Channel: SysOps / DevOps Polska
   
+ - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)  
  - [#513] LT: Nieznana funkcjonalność kube-state-metrics - własne metryki CRD Kubernetesa - M. Filocha  [Watch](https://youtu.be/vdciuvIGRm0)  
  - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
  - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)  
- - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)  
- - [#509] Technologia eBPF i jej zastosowanie na przykładzie Cilium - Łukasz Adamski  [Watch](https://youtu.be/ykgAgBMG9DE)
+ - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - Essential tips for a standout (and secure) GitHub profile | GitHub tutorial  [Watch](https://youtu.be/T_PKBNImooA)  
  - Open Source Friday with Mirrord - run local processes in the cloud!  [Watch](https://youtu.be/n4SG9r3u-Tk)  
  - Streamlining Kubernetes with Kargo: #OpenSourceFriday feat. Christian Hernandez  [Watch](https://youtu.be/vQ8coBb-3eE)  
  - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
- - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)  
- - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)
+ - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)  
  - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)  
  - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)  
  - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)  
- - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)  
- - Session Vs JWT: The Differences You May Not Know!  [Watch](https://youtu.be/fyTxwIa-1U0)
+ - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)
