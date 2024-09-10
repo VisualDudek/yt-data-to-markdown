@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Under The Hood: Reviewing an Open-Source Project - Episode 3  [Watch](https://youtu.be/5uqZ6jAPTnY)  
+ - Under The Hood | Poetry (Episode #3)  [Watch](https://youtu.be/5uqZ6jAPTnY)  
  - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
- - Under The Hood | Requests  [Watch](https://youtu.be/aOly5eEDXug)
+ - Under The Hood | Requests (Episode #2)  [Watch](https://youtu.be/aOly5eEDXug)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 🔴 Python Pulse - Securing Python Applications  [Watch](https://youtu.be/u6Jk8igG_Po)  
+ - 🎉 VS Code Release Party | September 2024  [Watch](https://youtu.be/wQSs6QlmJb8)  
  - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)  
  - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)  
- - Building a RAG application with GitHub Models and Postgres FROM SCRATCH  [Watch](https://youtu.be/NC4msKJ_Euo)  
- - Have you heard of inlay hints?  [Watch](https://youtu.be/tEr5FW8SspU)  
- - Getting Started with Jupyter Notebooks in VS Code  [Watch](https://youtu.be/suAkMeWJ1yE)
+ - Building a RAG application with GitHub Models and Postgres FROM SCRATCH  [Watch](https://youtu.be/NC4msKJ_Euo)
 # Channel: Mateusz Chrobok
   
+ - 📱 Jak bezpiecznie przeglądać internet?  [Watch](https://youtu.be/bE6NzeIxYrM)  
  - 💼 SuperSafeIntelligence rekrutuje  [Watch](https://youtu.be/gL6KjOIlfwE)  
  - Łatajcie swoje Windowsy!  [Watch](https://youtu.be/uHYgX-jXprE)  
  - 🪆Rosyjskie APT kupują podatności?  [Watch](https://youtu.be/tQLUBaKQNV4)  
- - 🎓 Wszyscy wdrażają AI! Zapraszam na webinar  [Watch](https://youtu.be/5-Dn3CSCE9o)  
- - 🍎 Apple nie pomaga badaczom  [Watch](https://youtu.be/iRXBJ5Z5DbM)
+ - 🎓 Wszyscy wdrażają AI! Zapraszam na webinar  [Watch](https://youtu.be/5-Dn3CSCE9o)
 # Channel: Cloud Native Computing Foundation
   
- - CNCF TOC Meeting 2024-09-03  [Watch](https://youtu.be/hBGOUY2yFcY)  
- - ChatLoopBackOff - Episode 27 (LitmusChaos)  [Watch](https://youtu.be/OEmpRI6XtGc)  
- - Why Sponsor KubeCon + CloudNativeCon?  [Watch](https://youtu.be/oN-YzvEkOOA)  
- - Cloud Native Live: Envoy Gateway 1.1 - Q&A Session  [Watch](https://youtu.be/K8-Ykp1CYmw)  
- - Project Lightning Talk: Karmada: Project introduction and updates | 项目闪电讲：Karmada：项目介绍与更新  [Watch](https://youtu.be/yva8cp67eJ0)
+ - Cloud Native Live: The future of open source DBaaS  [Watch](https://youtu.be/Q0cChN4mME8)  
+ - CNL: Secure workload identities with SPIFFE, cert-manager, trust-manager  [Watch](https://youtu.be/UnuWkvcug4k)  
+ - CNL: Moved our Insights app deployment from rok8s-scripts to ArgoCD  [Watch](https://youtu.be/_s3d2XUTS1k)  
+ - Cloud Native Live: Kyverno policy reporter  [Watch](https://youtu.be/OgFFYKkpEjs)  
+ - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/BRqOzQ6Arys)
 # Channel: Real Python
   
  - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - Among Us meets GitHub: a match made in profile picture heaven  [Watch](https://youtu.be/nWLS32Doplk)  
+ - GitHub Start Up Wednesday with Panther  [Watch](https://youtu.be/6gkV3SiO41w)  
  - Essential tips for a standout (and secure) GitHub profile | GitHub tutorial  [Watch](https://youtu.be/T_PKBNImooA)  
  - Open Source Friday with Mirrord - run local processes in the cloud!  [Watch](https://youtu.be/n4SG9r3u-Tk)  
- - Streamlining Kubernetes with Kargo: #OpenSourceFriday feat. Christian Hernandez  [Watch](https://youtu.be/vQ8coBb-3eE)  
- - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
- - GitHub Start Up Wednesdays with flox.dev  [Watch](https://youtu.be/-HSAdZboK-8)
+ - Streamlining Kubernetes with Kargo: #OpenSourceFriday feat. Christian Hernandez  [Watch](https://youtu.be/vQ8coBb-3eE)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
