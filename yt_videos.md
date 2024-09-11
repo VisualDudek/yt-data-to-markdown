@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Under The Hood | Poetry (Episode #3)  [Watch](https://youtu.be/5uqZ6jAPTnY)  
- - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
- - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
+ - Avoid These 7 Common OOP Mistakes in Python  [Watch](https://youtu.be/yFLY0SVutgM)  
+ - The BEST Error Handling is NO Error Handling  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
  - Under The Hood | Requests (Episode #2)  [Watch](https://youtu.be/aOly5eEDXug)
 # Channel: mCoding
@@ -18,11 +18,11 @@ Youtube Videos
  - Top 5 IDE Productivity Hacks That Will Save You Time Programming  [Watch](https://youtu.be/HBC7i1AbsyA)
 # Channel: anthonywritescode
   
+ - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)  
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)  
  - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)  
  - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)  
- - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)  
- - PEP 696 is a huge quality-of-life improvement (intermediate) anthony explains #576  [Watch](https://youtu.be/NC3Bv104SQM)
+ - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)
 # Channel: Tech With Tim
   
  - Learn To Code Like a PRO and Not Waste Time  [Watch](https://youtu.be/IIW4L-_5YCw)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Building a RAG application with GitHub Models and Postgres FROM SCRATCH  [Watch](https://youtu.be/NC4msKJ_Euo)
 # Channel: Mateusz Chrobok
   
+ - 🪆 Klienci Kasperskyego migrują  [Watch](https://youtu.be/WlawZ57M_wk)  
  - 📱 Jak bezpiecznie przeglądać internet?  [Watch](https://youtu.be/bE6NzeIxYrM)  
  - 💼 SuperSafeIntelligence rekrutuje  [Watch](https://youtu.be/gL6KjOIlfwE)  
  - Łatajcie swoje Windowsy!  [Watch](https://youtu.be/uHYgX-jXprE)  
- - 🪆Rosyjskie APT kupują podatności?  [Watch](https://youtu.be/tQLUBaKQNV4)  
- - 🎓 Wszyscy wdrażają AI! Zapraszam na webinar  [Watch](https://youtu.be/5-Dn3CSCE9o)
+ - 🪆Rosyjskie APT kupują podatności?  [Watch](https://youtu.be/tQLUBaKQNV4)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 28 (KubeFlow)  [Watch](https://youtu.be/uBCYYWq0Q-g)  
+ - CNL: From serverless to K8s  [Watch](https://youtu.be/kqDFgF9R450)  
  - Cloud Native Live: The future of open source DBaaS  [Watch](https://youtu.be/Q0cChN4mME8)  
  - CNL: Secure workload identities with SPIFFE, cert-manager, trust-manager  [Watch](https://youtu.be/UnuWkvcug4k)  
- - CNL: Moved our Insights app deployment from rok8s-scripts to ArgoCD  [Watch](https://youtu.be/_s3d2XUTS1k)  
- - Cloud Native Live: Kyverno policy reporter  [Watch](https://youtu.be/OgFFYKkpEjs)  
- - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/BRqOzQ6Arys)
+ - CNL: Moved our Insights app deployment from rok8s-scripts to ArgoCD  [Watch](https://youtu.be/_s3d2XUTS1k)
 # Channel: Real Python
   
+ - Hacking plane wifi  [Watch](https://youtu.be/TLT1zAFSV4Q)  
  - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)  
  - Data Validation in Python With Pydantic  [Watch](https://youtu.be/ySCtmCTm1lE)  
  - Troubleshooting  Raspberry Pi  [Watch](https://youtu.be/eHfckE1k3N0)  
- - Astronomy & Python With Astropy - Conjunction Introduction  [Watch](https://youtu.be/tII7IpFCdfk)  
- - Exploring Robotics and Python Through Electronic Projects | Real Python Podcast #218  [Watch](https://youtu.be/S7-bVABAoZE)
+ - Astronomy & Python With Astropy - Conjunction Introduction  [Watch](https://youtu.be/tII7IpFCdfk)
 # Channel: SysOps / DevOps Polska
   
  - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)  
