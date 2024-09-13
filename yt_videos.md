@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - 13 Reasons Why Python Is Really WEIRD  [Watch](https://youtu.be/eufjIfVOm8s)  
  - Under The Hood | Poetry (Episode #3)  [Watch](https://youtu.be/5uqZ6jAPTnY)  
  - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
- - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)  
- - Under The Hood | Requests (Episode #2)  [Watch](https://youtu.be/aOly5eEDXug)
+ - The BEST Error Handling is NO Error Handling  [Watch](https://youtu.be/YA0Wq1rcs6U)  
+ - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Eliminate your coding distractions 💻  [Watch](https://youtu.be/zTxSghVgV1c)  
  - 🔴 Python Pulse - Securing Python Applications  [Watch](https://youtu.be/u6Jk8igG_Po)  
- - Customizing VS Code's UI for Productivity  [Watch](https://youtu.be/nORT3-kONgA)  
  - 🎉 VS Code Release Party | September 2024  [Watch](https://youtu.be/wQSs6QlmJb8)  
- - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)  
- - VS Code - GitHub Copilot for Azure: Tips, Tricks, and Live Demos  [Watch](https://youtu.be/fvo5L2hSlGQ)
+ - Customizing VS Code's UI for Productivity  [Watch](https://youtu.be/nORT3-kONgA)  
+ - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)
 # Channel: Mateusz Chrobok
   
+ - 🍪 Chrome szyfruje ciasteczka  [Watch](https://youtu.be/X0LLP5CsW3c)  
  - Agenty AI - czym są? Tak w pigułce?  [Watch](https://youtu.be/hQhSKfzhVnY)  
  - 🚗 Wyciek z AVISa  [Watch](https://youtu.be/rtV4NGpfL5U)  
  - 🪆 Klienci Kasperskyego migrują  [Watch](https://youtu.be/WlawZ57M_wk)  
- - 📱 Jak bezpiecznie przeglądać internet?  [Watch](https://youtu.be/bE6NzeIxYrM)  
- - 💼 SuperSafeIntelligence rekrutuje  [Watch](https://youtu.be/gL6KjOIlfwE)
+ - 📱 Jak bezpiecznie przeglądać internet?  [Watch](https://youtu.be/bE6NzeIxYrM)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 28 (KubeFlow)  [Watch](https://youtu.be/uBCYYWq0Q-g)  
- - Cloud Native Live: GUAC Use Cases–beyond security  [Watch](https://youtu.be/yi5jPnyF9gc)  
  - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/BRqOzQ6Arys)  
+ - Cloud Native Live: GUAC Use Cases–beyond security  [Watch](https://youtu.be/yi5jPnyF9gc)  
  - CNL: From serverless to K8s  [Watch](https://youtu.be/kqDFgF9R450)  
  - Ingress2gateway: Migrating from Ingress to Gateway API  [Watch](https://youtu.be/CyMQ84tKJ4c)
 # Channel: Real Python
   
+ - Configuring Git Pre-Commit Hooks & Estimating Software Projects | Real Python Podcast #220  [Watch](https://youtu.be/rzha34hDPvs)  
  - Differences between __repr__ vs __str__ in Python  [Watch](https://youtu.be/-lz5kRcoU5Q)  
  - Hacking plane wifi  [Watch](https://youtu.be/TLT1zAFSV4Q)  
  - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)  
- - Data Validation in Python With Pydantic  [Watch](https://youtu.be/ySCtmCTm1lE)  
- - Troubleshooting  Raspberry Pi  [Watch](https://youtu.be/eHfckE1k3N0)
+ - Data Validation in Python With Pydantic  [Watch](https://youtu.be/ySCtmCTm1lE)
 # Channel: SysOps / DevOps Polska
   
+ - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)  
  - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)  
  - [#513] LT: Nieznana funkcjonalność kube-state-metrics - własne metryki CRD Kubernetesa - M. Filocha  [Watch](https://youtu.be/vdciuvIGRm0)  
  - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
- - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)  
- - [#510] Samoloty robią „wzium” - jak wygląda nasza infrastruktura? - Tomasz Torcz  [Watch](https://youtu.be/Y_6849qBioI)
+ - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
  - GitHub Octocat in Coffee: A Barista's Artistic Touch  [Watch](https://youtu.be/XHDfzVBbn6U)  
  - The Download: Phi-3.5 Models, Nerd Fonts, JS13K and more!  [Watch](https://youtu.be/bTKTgmyIrb0)  
  - Among Us meets GitHub: a match made in profile picture heaven  [Watch](https://youtu.be/nWLS32Doplk)  
- - GitHub Start Up Wednesday with Panther  [Watch](https://youtu.be/6gkV3SiO41w)  
- - Essential tips for a standout (and secure) GitHub profile | GitHub tutorial  [Watch](https://youtu.be/T_PKBNImooA)
+ - GitHub Start Up Wednesday with Panther  [Watch](https://youtu.be/6gkV3SiO41w)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
