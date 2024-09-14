@@ -6,8 +6,8 @@ Youtube Videos
   
  - 13 Reasons Why Python Is Really WEIRD  [Watch](https://youtu.be/eufjIfVOm8s)  
  - Under The Hood | Poetry (Episode #3)  [Watch](https://youtu.be/5uqZ6jAPTnY)  
- - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
- - The BEST Error Handling is NO Error Handling  [Watch](https://youtu.be/YA0Wq1rcs6U)  
+ - Avoid These 7 Common OOP Mistakes in Python  [Watch](https://youtu.be/yFLY0SVutgM)  
+ - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)
 # Channel: mCoding
   
@@ -46,11 +46,11 @@ Youtube Videos
  - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)
 # Channel: Mateusz Chrobok
   
+ - 🚗 Ford podsłucha dla reklam  [Watch](https://youtu.be/2Eg-GOS9-EQ)  
  - 🍪 Chrome szyfruje ciasteczka  [Watch](https://youtu.be/X0LLP5CsW3c)  
  - Agenty AI - czym są? Tak w pigułce?  [Watch](https://youtu.be/hQhSKfzhVnY)  
  - 🚗 Wyciek z AVISa  [Watch](https://youtu.be/rtV4NGpfL5U)  
- - 🪆 Klienci Kasperskyego migrują  [Watch](https://youtu.be/WlawZ57M_wk)  
- - 📱 Jak bezpiecznie przeglądać internet?  [Watch](https://youtu.be/bE6NzeIxYrM)
+ - 🪆 Klienci Kasperskyego migrują  [Watch](https://youtu.be/WlawZ57M_wk)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 28 (KubeFlow)  [Watch](https://youtu.be/uBCYYWq0Q-g)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - GitHub's Stanley gift: what's inside the box?  [Watch](https://youtu.be/thXQmT8LRL0)  
  - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
  - GitHub Octocat in Coffee: A Barista's Artistic Touch  [Watch](https://youtu.be/XHDfzVBbn6U)  
  - The Download: Phi-3.5 Models, Nerd Fonts, JS13K and more!  [Watch](https://youtu.be/bTKTgmyIrb0)  
- - Among Us meets GitHub: a match made in profile picture heaven  [Watch](https://youtu.be/nWLS32Doplk)  
- - GitHub Start Up Wednesday with Panther  [Watch](https://youtu.be/6gkV3SiO41w)
+ - Among Us meets GitHub: a match made in profile picture heaven  [Watch](https://youtu.be/nWLS32Doplk)
 # Channel: CloudHeroes - Video
   
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
