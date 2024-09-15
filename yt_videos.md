@@ -6,7 +6,7 @@ Youtube Videos
   
  - 13 Reasons Why Python Is Really WEIRD  [Watch](https://youtu.be/eufjIfVOm8s)  
  - Under The Hood | Poetry (Episode #3)  [Watch](https://youtu.be/5uqZ6jAPTnY)  
- - Avoid These 7 Common OOP Mistakes in Python  [Watch](https://youtu.be/yFLY0SVutgM)  
+ - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)
 # Channel: Tech With Tim
   
+ - These Coding Niches Will Make You $$$$ in 2024  [Watch](https://youtu.be/byNS7tYrIbo)  
  - How To Make Money From Coding - A Complete Guide  [Watch](https://youtu.be/Y6k4_gAUL9Q)  
  - Learn To Code Like a PRO and Not Waste Time  [Watch](https://youtu.be/IIW4L-_5YCw)  
  - 5 Ways I Use AI To Automate My Life (as a senior developer)  [Watch](https://youtu.be/vU3GR5lrlLQ)  
- - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)  
- - Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/Oo8-nEuDBkk)
+ - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)
 # Channel: Mateusz Chrobok
   
+ - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)  
  - 🚗 Ford podsłucha dla reklam  [Watch](https://youtu.be/2Eg-GOS9-EQ)  
  - 🍪 Chrome szyfruje ciasteczka  [Watch](https://youtu.be/X0LLP5CsW3c)  
  - Agenty AI - czym są? Tak w pigułce?  [Watch](https://youtu.be/hQhSKfzhVnY)  
- - 🚗 Wyciek z AVISa  [Watch](https://youtu.be/rtV4NGpfL5U)  
- - 🪆 Klienci Kasperskyego migrują  [Watch](https://youtu.be/WlawZ57M_wk)
+ - 🚗 Wyciek z AVISa  [Watch](https://youtu.be/rtV4NGpfL5U)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 28 (KubeFlow)  [Watch](https://youtu.be/uBCYYWq0Q-g)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Ingress2gateway: Migrating from Ingress to Gateway API  [Watch](https://youtu.be/CyMQ84tKJ4c)
 # Channel: Real Python
   
+ - AI mistake on conference summary  [Watch](https://youtu.be/I9IE1uRY1ac)  
  - Configuring Git Pre-Commit Hooks & Estimating Software Projects | Real Python Podcast #220  [Watch](https://youtu.be/rzha34hDPvs)  
  - Differences between __repr__ vs __str__ in Python  [Watch](https://youtu.be/-lz5kRcoU5Q)  
  - Hacking plane wifi  [Watch](https://youtu.be/TLT1zAFSV4Q)  
- - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)  
- - Data Validation in Python With Pydantic  [Watch](https://youtu.be/ySCtmCTm1lE)
+ - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)
 # Channel: SysOps / DevOps Polska
   
  - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)  
