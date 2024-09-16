@@ -4,8 +4,8 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 13 Reasons Why Python Is Really WEIRD  [Watch](https://youtu.be/eufjIfVOm8s)  
- - Under The Hood | Poetry (Episode #3)  [Watch](https://youtu.be/5uqZ6jAPTnY)  
+ - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)  
+ - Live Code Review | Poetry  [Watch](https://youtu.be/5uqZ6jAPTnY)  
  - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
  - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
  - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)
@@ -25,11 +25,11 @@ Youtube Videos
  - how do I make an empty generator? (intermediate) anthony explains #577  [Watch](https://youtu.be/b0mUqJc4a2g)
 # Channel: Tech With Tim
   
+ - Python AI Voice Assistant & Agent - Full Tutorial  [Watch](https://youtu.be/DNWLIAK4BUY)  
  - These Coding Niches Will Make You $$$$ in 2024  [Watch](https://youtu.be/byNS7tYrIbo)  
  - How To Make Money From Coding - A Complete Guide  [Watch](https://youtu.be/Y6k4_gAUL9Q)  
  - Learn To Code Like a PRO and Not Waste Time  [Watch](https://youtu.be/IIW4L-_5YCw)  
- - 5 Ways I Use AI To Automate My Life (as a senior developer)  [Watch](https://youtu.be/vU3GR5lrlLQ)  
- - I Reviewed 200 Developer Resumes - They Were Shocking...  [Watch](https://youtu.be/PxGLmDk55JU)
+ - 5 Ways I Use AI To Automate My Life (as a senior developer)  [Watch](https://youtu.be/vU3GR5lrlLQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)
 # Channel: Mateusz Chrobok
   
+ - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)  
  - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)  
  - 🚗 Ford podsłucha dla reklam  [Watch](https://youtu.be/2Eg-GOS9-EQ)  
  - 🍪 Chrome szyfruje ciasteczka  [Watch](https://youtu.be/X0LLP5CsW3c)  
- - Agenty AI - czym są? Tak w pigułce?  [Watch](https://youtu.be/hQhSKfzhVnY)  
- - 🚗 Wyciek z AVISa  [Watch](https://youtu.be/rtV4NGpfL5U)
+ - Agenty AI - czym są? Tak w pigułce?  [Watch](https://youtu.be/hQhSKfzhVnY)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 28 (KubeFlow)  [Watch](https://youtu.be/uBCYYWq0Q-g)  
- - CNCF Live Webinar: Kubernetes 1.31 Release  [Watch](https://youtu.be/BRqOzQ6Arys)  
- - Cloud Native Live: GUAC Use Cases–beyond security  [Watch](https://youtu.be/yi5jPnyF9gc)  
- - CNL: From serverless to K8s  [Watch](https://youtu.be/kqDFgF9R450)  
- - Ingress2gateway: Migrating from Ingress to Gateway API  [Watch](https://youtu.be/CyMQ84tKJ4c)
+ - Keynote: Accelerating Electric Vehicle Innovation with Cloud Native Tech... Kevin Wang & Saint Jiang  [Watch](https://youtu.be/g-NEeKv5zcM)  
+ - Keynote: JD Cloud's Large-Scale Serverless Practice : APP Management and Elastic Sca... XiaoFei Wang  [Watch](https://youtu.be/q-ImM0ogyGU)  
+ - Keynote: Closing Remarks | 主论坛演讲: 闭幕词  [Watch](https://youtu.be/q7Gbk66jgWc)  
+ - Keynote: Supporting Large-Scale and Reliability Testing in Kubernetes u... Yuan Chen & Shiming Zhang  [Watch](https://youtu.be/zBKBhFxgWSo)  
+ - Keynote: Opening Remarks | 主论坛演讲：开场致辞  [Watch](https://youtu.be/5CPLK20LXQY)
 # Channel: Real Python
   
  - AI mistake on conference summary  [Watch](https://youtu.be/I9IE1uRY1ac)  
@@ -102,11 +102,11 @@ Youtube Videos
  - Among Us meets GitHub: a match made in profile picture heaven  [Watch](https://youtu.be/nWLS32Doplk)
 # Channel: CloudHeroes - Video
   
+ - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
  - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
- - Nowość - Konfiguracja Cross-account Parameter Store w AWS  [Watch](https://youtu.be/6kvGgv9vIgQ)  
- - Jak zacząć korzystać z Amazon Bedrock  [Watch](https://youtu.be/DZa3mpKslD8)
+ - Nowość - Konfiguracja Cross-account Parameter Store w AWS  [Watch](https://youtu.be/6kvGgv9vIgQ)
 # Channel: Nicole van der Hoeven
   
  - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)  
  - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)  
  - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)  
  - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)  
- - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)  
- - 25 Computer Papers You Should Read!  [Watch](https://youtu.be/_kynGl5hr9U)
+ - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)
