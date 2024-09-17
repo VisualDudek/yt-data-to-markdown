@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)  
- - Live Code Review | Poetry  [Watch](https://youtu.be/5uqZ6jAPTnY)  
- - Avoid These BAD Practices in Python OOP  [Watch](https://youtu.be/yFLY0SVutgM)  
- - My FAVORITE Error Handling Technique  [Watch](https://youtu.be/YA0Wq1rcs6U)  
- - Quick and Easy Rate Limiting for FastAPI  [Watch](https://youtu.be/pZunzLJ1qcQ)
+ - Under The Hood: Reviewing an Open-Source Project - Episode 6  [Watch](https://youtu.be/-FA4Hc7c4ek)  
+ - Under The Hood: Reviewing an Open-Source Project - Episode 5  [Watch](https://youtu.be/QANzqo1D8w8)  
+ - Under The Hood: Reviewing an Open-Source Project - Episode 4  [Watch](https://youtu.be/CTeydWepUUg)  
+ - 13 Reasons Why Python Is Really WEIRD  [Watch](https://youtu.be/eufjIfVOm8s)  
+ - Live Code Review | Poetry  [Watch](https://youtu.be/5uqZ6jAPTnY)
 # Channel: mCoding
   
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The magic of Template String Converter  [Watch](https://youtu.be/CHIzjkTuUmg)  
  - Eliminate your coding distractions 💻  [Watch](https://youtu.be/zTxSghVgV1c)  
  - 🔴 Python Pulse - Securing Python Applications  [Watch](https://youtu.be/u6Jk8igG_Po)  
  - 🎉 VS Code Release Party | September 2024  [Watch](https://youtu.be/wQSs6QlmJb8)  
- - Customizing VS Code's UI for Productivity  [Watch](https://youtu.be/nORT3-kONgA)  
- - The easiest way to visualize your repo  [Watch](https://youtu.be/z5s41Qy8-Tc)
+ - Customizing VS Code's UI for Productivity  [Watch](https://youtu.be/nORT3-kONgA)
 # Channel: Mateusz Chrobok
   
+ - 🚂 NEWAG SLAPPuje?  [Watch](https://youtu.be/ONDm8vD9POA)  
  - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)  
  - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)  
  - 🚗 Ford podsłucha dla reklam  [Watch](https://youtu.be/2Eg-GOS9-EQ)  
- - 🍪 Chrome szyfruje ciasteczka  [Watch](https://youtu.be/X0LLP5CsW3c)  
- - Agenty AI - czym są? Tak w pigułce?  [Watch](https://youtu.be/hQhSKfzhVnY)
+ - 🍪 Chrome szyfruje ciasteczka  [Watch](https://youtu.be/X0LLP5CsW3c)
 # Channel: Cloud Native Computing Foundation
   
  - Keynote: Accelerating Electric Vehicle Innovation with Cloud Native Tech... Kevin Wang & Saint Jiang  [Watch](https://youtu.be/g-NEeKv5zcM)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Astrophysics and Astronomy With Python & PyCon Africa 2024 | Real Python Podcast #219  [Watch](https://youtu.be/bqDo2yqlb2c)
 # Channel: SysOps / DevOps Polska
   
+ - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)  
  - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)  
  - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)  
  - [#513] LT: Nieznana funkcjonalność kube-state-metrics - własne metryki CRD Kubernetesa - M. Filocha  [Watch](https://youtu.be/vdciuvIGRm0)  
- - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)  
- - [#511] Atlassian za kulisami: tworzenie środowisk testowych na AWS w mgnieniu oka - Mykola Mykhalov  [Watch](https://youtu.be/V53C-FrcIWk)
+ - [#512] Kubernetes? Nie, dziękuję! - Mariusz Dalewski  [Watch](https://youtu.be/hdf4a7ckTYs)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
