@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Under The Hood: Reviewing an Open-Source Project - Episode 6  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - Under The Hood: Reviewing an Open-Source Project - Episode 5  [Watch](https://youtu.be/QANzqo1D8w8)  
- - Under The Hood: Reviewing an Open-Source Project - Episode 4  [Watch](https://youtu.be/CTeydWepUUg)  
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)  
  - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)  
  - Live Code Review | Poetry  [Watch](https://youtu.be/5uqZ6jAPTnY)
 # Channel: mCoding
@@ -46,25 +46,25 @@ Youtube Videos
  - 🔴 Python Pulse - Securing Python Applications  [Watch](https://youtu.be/u6Jk8igG_Po)
 # Channel: Mateusz Chrobok
   
+ - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)  
  - 🍎 Apple jednak nie walczy z Pegasusem  [Watch](https://youtu.be/YMauUU9BEMg)  
  - 🚂 NEWAG SLAPPuje?  [Watch](https://youtu.be/ONDm8vD9POA)  
  - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)  
- - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)  
- - 🚗 Ford podsłucha dla reklam  [Watch](https://youtu.be/2Eg-GOS9-EQ)
+ - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)
 # Channel: Cloud Native Computing Foundation
   
- - CNCF Research End User Group: Work Session-Reference Architectures for Research Users (Sep 18, 2024)  [Watch](https://youtu.be/eOtJXdOLJ2Y)  
+ - ChatLoopBackOff - Episode 29 (SOPS) (1)  [Watch](https://youtu.be/FUBMLa8bAJE)  
+ - CNL: Moved our Insights app deployment from rok8s-scripts to ArgoCD  [Watch](https://youtu.be/_s3d2XUTS1k)  
  - Cloud Native Live: Kyverno policy reporter  [Watch](https://youtu.be/OgFFYKkpEjs)  
- - CNL: Celebrating Deaf Awareness Month with the Deaf & Hard of Hearing WG  [Watch](https://youtu.be/elnn73OA9f8)  
- - Keynote: Accelerating Electric Vehicle Innovation with Cloud Native Tech... Kevin Wang & Saint Jiang  [Watch](https://youtu.be/g-NEeKv5zcM)  
- - Keynote: JD Cloud's Large-Scale Serverless Practice : APP Management and Elastic Sca... XiaoFei Wang  [Watch](https://youtu.be/q-ImM0ogyGU)
+ - CNCF Research End User Group: Work Session-Reference Architectures for Research Users (Sep 18, 2024)  [Watch](https://youtu.be/eOtJXdOLJ2Y)  
+ - CNL: Celebrating Deaf Awareness Month with the Deaf & Hard of Hearing WG  [Watch](https://youtu.be/elnn73OA9f8)
 # Channel: Real Python
   
+ - Selecting VS Code Color Themes  [Watch](https://youtu.be/XPmXSt4G4eo)  
  - Prototypes Gone Wrong: The Dangers of Rushing to Production  [Watch](https://youtu.be/tDe71H8cM54)  
  - Frozen Sets Make Snowmen? Summarizing Conferences with AI  [Watch](https://youtu.be/I9IE1uRY1ac)  
  - Configuring Git Pre-Commit Hooks & Estimating Software Projects | Real Python Podcast #220  [Watch](https://youtu.be/rzha34hDPvs)  
- - Differences between __repr__ vs __str__ in Python  [Watch](https://youtu.be/-lz5kRcoU5Q)  
- - Unbelievably Stupid or Genius? The Wi-Fi Messaging Hack  [Watch](https://youtu.be/TLT1zAFSV4Q)
+ - Differences between __repr__ vs __str__ in Python  [Watch](https://youtu.be/-lz5kRcoU5Q)
 # Channel: SysOps / DevOps Polska
   
  - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)  
  - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)  
  - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)  
  - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)  
- - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)  
- - Linux Performance Tools!  [Watch](https://youtu.be/iJ_eIsA5E1U)
+ - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)
