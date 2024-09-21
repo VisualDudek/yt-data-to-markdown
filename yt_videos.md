@@ -11,11 +11,11 @@ Youtube Videos
  - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)
 # Channel: mCoding
   
+ - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
  - Run an AI Large Language Model (LLM) at home on your GPU  [Watch](https://youtu.be/RejIVgfER-4)  
  - Docker Tutorial for Beginners  [Watch](https://youtu.be/b0HMimUb4f0)  
  - Python itertools - The key to mastering iteration  [Watch](https://youtu.be/1p7xa_BHYDs)  
- - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)  
- - Top 5 IDE Productivity Hacks That Will Save You Time Programming  [Watch](https://youtu.be/HBC7i1AbsyA)
+ - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)  
@@ -25,11 +25,11 @@ Youtube Videos
  - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)
 # Channel: Tech With Tim
   
+ - Software Engineers NEED TO Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)  
  - Check Out This INSANE AI Web Scraper  [Watch](https://youtu.be/M-42GMgHekY)  
  - OpenAI's o1 Model - Is it Over For Software Developers  [Watch](https://youtu.be/RZSG7aU3Z4s)  
  - Python AI Voice Assistant & Agent - Full Tutorial  [Watch](https://youtu.be/DNWLIAK4BUY)  
- - These Coding Niches Will Make You $$$$ in 2024  [Watch](https://youtu.be/byNS7tYrIbo)  
- - How To Make Money From Coding - A Complete Guide  [Watch](https://youtu.be/Y6k4_gAUL9Q)
+ - These Coding Niches Will Make You $$$$ in 2024  [Watch](https://youtu.be/byNS7tYrIbo)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 30 (Knative)  [Watch](https://youtu.be/E8ADzzjnRK0)  
  - ChatLoopBackOff - Episode 29 (SOPS) (1)  [Watch](https://youtu.be/FUBMLa8bAJE)  
  - CNL: Moved our Insights app deployment from rok8s-scripts to ArgoCD  [Watch](https://youtu.be/_s3d2XUTS1k)  
  - Cloud Native Live: Kyverno policy reporter  [Watch](https://youtu.be/OgFFYKkpEjs)  
- - CNCF Research End User Group: Work Session-Reference Architectures for Research Users (Sep 18, 2024)  [Watch](https://youtu.be/eOtJXdOLJ2Y)  
- - CNL: Celebrating Deaf Awareness Month with the Deaf & Hard of Hearing WG  [Watch](https://youtu.be/elnn73OA9f8)
+ - CNCF Research End User Group: Work Session-Reference Architectures for Research Users (Sep 18, 2024)  [Watch](https://youtu.be/eOtJXdOLJ2Y)
 # Channel: Real Python
   
  - Thriving as a Developer With ADHD | Real Python Podcast #221  [Watch](https://youtu.be/tPNMJxrw4yY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - NVDA: Breaking barriers for blind users globally  [Watch](https://youtu.be/Pd8GIGt73UQ)  
  - Designing the Future of Open Source! 🖥️ 🎨  [Watch](https://youtu.be/Kx_fIIBzaQE)  
+ - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)  
  - 🤖 Copilot Autofix is now available for open source! #shorts  [Watch](https://youtu.be/FT-cZqE_xGU)  
- - GitHub's Stanley gift: what's inside the box?  [Watch](https://youtu.be/thXQmT8LRL0)  
- - Open Source Friday with GitHub CLI!  [Watch](https://youtu.be/0G9DP0oa9i0)  
- - GitHub Octocat in Coffee: A Barista's Artistic Touch  [Watch](https://youtu.be/XHDfzVBbn6U)
+ - GitHub's Stanley gift: what's inside the box?  [Watch](https://youtu.be/thXQmT8LRL0)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
