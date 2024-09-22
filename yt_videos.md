@@ -46,11 +46,11 @@ Youtube Videos
  - Eliminate your coding distractions 💻  [Watch](https://youtu.be/zTxSghVgV1c)
 # Channel: Mateusz Chrobok
   
+ - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)  
  - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)  
  - 🍎 Apple jednak nie walczy z Pegasusem  [Watch](https://youtu.be/YMauUU9BEMg)  
  - 🚂 NEWAG SLAPPuje?  [Watch](https://youtu.be/ONDm8vD9POA)  
- - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)  
- - Nowy atak na konta w banku!  [Watch](https://youtu.be/j2hL1YPOOBc)
+ - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 30 (Knative)  [Watch](https://youtu.be/E8ADzzjnRK0)  
@@ -60,11 +60,11 @@ Youtube Videos
  - CNCF Research End User Group: Work Session-Reference Architectures for Research Users (Sep 18, 2024)  [Watch](https://youtu.be/eOtJXdOLJ2Y)
 # Channel: Real Python
   
+ - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)  
  - Thriving as a Developer With ADHD | Real Python Podcast #221  [Watch](https://youtu.be/tPNMJxrw4yY)  
  - Selecting VS Code Color Themes  [Watch](https://youtu.be/XPmXSt4G4eo)  
  - Prototypes Gone Wrong: The Dangers of Rushing to Production  [Watch](https://youtu.be/tDe71H8cM54)  
- - Frozen Sets Make Snowmen? Summarizing Conferences with AI  [Watch](https://youtu.be/I9IE1uRY1ac)  
- - Configuring Git Pre-Commit Hooks & Estimating Software Projects | Real Python Podcast #220  [Watch](https://youtu.be/rzha34hDPvs)
+ - Frozen Sets Make Snowmen? Summarizing Conferences with AI  [Watch](https://youtu.be/I9IE1uRY1ac)
 # Channel: SysOps / DevOps Polska
   
  - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)  
