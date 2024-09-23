@@ -25,7 +25,7 @@ Youtube Videos
  - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)
 # Channel: Tech With Tim
   
- - Software Engineers NEED TO Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)  
+ - How To Think Like A Developer - Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)  
  - Check Out This INSANE AI Web Scraper  [Watch](https://youtu.be/M-42GMgHekY)  
  - OpenAI's o1 Model - Is it Over For Software Developers  [Watch](https://youtu.be/RZSG7aU3Z4s)  
  - Python AI Voice Assistant & Agent - Full Tutorial  [Watch](https://youtu.be/DNWLIAK4BUY)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF TOC Meeting 2024-09-17  [Watch](https://youtu.be/3_yHxYUiFoY)  
  - ChatLoopBackOff - Episode 30 (Knative)  [Watch](https://youtu.be/E8ADzzjnRK0)  
- - ChatLoopBackOff - Episode 29 (SOPS) (1)  [Watch](https://youtu.be/FUBMLa8bAJE)  
+ - ChatLoopBackOff - Episode 29 (SOPS)  [Watch](https://youtu.be/FUBMLa8bAJE)  
  - CNL: Moved our Insights app deployment from rok8s-scripts to ArgoCD  [Watch](https://youtu.be/_s3d2XUTS1k)  
- - Cloud Native Live: Kyverno policy reporter  [Watch](https://youtu.be/OgFFYKkpEjs)  
- - CNCF Research End User Group: Work Session-Reference Architectures for Research Users (Sep 18, 2024)  [Watch](https://youtu.be/eOtJXdOLJ2Y)
+ - Cloud Native Live: Kyverno policy reporter  [Watch](https://youtu.be/OgFFYKkpEjs)
 # Channel: Real Python
   
  - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - Open source: The unsung hero of the accessibility community  [Watch](https://youtu.be/wZ3YKDiT9CQ)  
  - NVDA: Breaking barriers for blind users globally  [Watch](https://youtu.be/Pd8GIGt73UQ)  
  - Designing the Future of Open Source! 🖥️ 🎨  [Watch](https://youtu.be/Kx_fIIBzaQE)  
  - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)  
- - 🤖 Copilot Autofix is now available for open source! #shorts  [Watch](https://youtu.be/FT-cZqE_xGU)  
- - GitHub's Stanley gift: what's inside the box?  [Watch](https://youtu.be/thXQmT8LRL0)
+ - 🤖 Copilot Autofix is now available for open source! #shorts  [Watch](https://youtu.be/FT-cZqE_xGU)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
