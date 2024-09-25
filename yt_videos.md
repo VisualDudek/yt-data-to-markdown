@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
+ - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)  
@@ -18,11 +18,11 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)  
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)  
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)  
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)  
- - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)  
- - faster git recloning* (intermediate) anthony explains #578  [Watch](https://youtu.be/rLHNAiLv7r0)
+ - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)
 # Channel: Tech With Tim
   
  - Learn Python With 5 Projects - From Beginner to Advanced  [Watch](https://youtu.be/BO6LjtEOGZw)  
@@ -41,23 +41,23 @@ Youtube Videos
   
  - CodeLens 👓  [Watch](https://youtu.be/A_ggMC7XM8Q)  
  - The reason behind preview mode in #vscode  [Watch](https://youtu.be/RFyl4QgoIdY)  
- - Write better tests and stop breaking the build  [Watch](https://youtu.be/pXuFniI0XUY)  
+ - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)  
  - Regular expressions don't have to be painful  [Watch](https://youtu.be/yXqZqVacD3k)  
  - The magic of Template String Converter  [Watch](https://youtu.be/CHIzjkTuUmg)
 # Channel: Mateusz Chrobok
   
+ - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)  
  - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)  
  - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)  
  - 🍎 Apple jednak nie walczy z Pegasusem  [Watch](https://youtu.be/YMauUU9BEMg)  
- - 🚂 NEWAG SLAPPuje?  [Watch](https://youtu.be/ONDm8vD9POA)  
- - 🔓 Fortinetowi wyciekło  [Watch](https://youtu.be/1LPacl4PjZk)
+ - 🚂 NEWAG SLAPPuje?  [Watch](https://youtu.be/ONDm8vD9POA)
 # Channel: Cloud Native Computing Foundation
   
+ - CNL: Secure workload identities with SPIFFE, cert-manager, trust-manager  [Watch](https://youtu.be/UnuWkvcug4k)  
+ - Deaf and Hard of Hearing WG Meeting - 2024-09-24  [Watch](https://youtu.be/Q5gczxiVo5M)  
  - Cloud Native Live: GUAC Use Cases–beyond security  [Watch](https://youtu.be/yi5jPnyF9gc)  
  - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)  
- - CNCF TOC Meeting 2024-09-17  [Watch](https://youtu.be/3_yHxYUiFoY)  
- - ChatLoopBackOff - Episode 30 (Knative)  [Watch](https://youtu.be/E8ADzzjnRK0)  
- - ChatLoopBackOff - Episode 29 (SOPS)  [Watch](https://youtu.be/FUBMLa8bAJE)
+ - CNCF TOC Meeting 2024-09-17  [Watch](https://youtu.be/3_yHxYUiFoY)
 # Channel: Real Python
   
  - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
 # Channel: GitHub
   
+ - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)  
+ - How AI empowers developers with disabilities  [Watch](https://youtu.be/EwJRccojOnM)  
  - Open Source Friday with LlamaCoder - generate small apps with one prompt  [Watch](https://youtu.be/-Y2Qt4EJd9I)  
  - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
- - Open source: The unsung hero of the accessibility community  [Watch](https://youtu.be/wZ3YKDiT9CQ)  
- - NVDA: Breaking barriers for blind users globally  [Watch](https://youtu.be/Pd8GIGt73UQ)  
- - Designing the Future of Open Source! 🖥️ 🎨  [Watch](https://youtu.be/Kx_fIIBzaQE)
+ - Open source: The unsung hero of the accessibility community  [Watch](https://youtu.be/wZ3YKDiT9CQ)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
