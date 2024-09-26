@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
+ - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)  
@@ -46,25 +46,25 @@ Youtube Videos
  - The magic of Template String Converter  [Watch](https://youtu.be/CHIzjkTuUmg)
 # Channel: Mateusz Chrobok
   
+ - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)  
  - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)  
  - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)  
  - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)  
- - 🍎 Apple jednak nie walczy z Pegasusem  [Watch](https://youtu.be/YMauUU9BEMg)  
- - 🚂 NEWAG SLAPPuje?  [Watch](https://youtu.be/ONDm8vD9POA)
+ - 🍎 Apple jednak nie walczy z Pegasusem  [Watch](https://youtu.be/YMauUU9BEMg)
 # Channel: Cloud Native Computing Foundation
   
- - CNL: Secure workload identities with SPIFFE, cert-manager, trust-manager  [Watch](https://youtu.be/UnuWkvcug4k)  
- - Deaf and Hard of Hearing WG Meeting - 2024-09-24  [Watch](https://youtu.be/Q5gczxiVo5M)  
- - Cloud Native Live: GUAC Use Cases–beyond security  [Watch](https://youtu.be/yi5jPnyF9gc)  
- - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)  
- - CNCF TOC Meeting 2024-09-17  [Watch](https://youtu.be/3_yHxYUiFoY)
+ - ChatLoopBackOff - Episode 30 (Knative)  [Watch](https://youtu.be/E8ADzzjnRK0)  
+ - Cloud Native Live: The future of open source DBaaS  [Watch](https://youtu.be/Q0cChN4mME8)  
+ - Supercharge the Kubernetes Experience with Kubernetes Dashboard  [Watch](https://youtu.be/oqCAB9b-SGQ)  
+ - CNL: Celebrating Deaf Awareness Month with the Deaf & Hard of Hearing WG  [Watch](https://youtu.be/elnn73OA9f8)  
+ - EU's Cyber Resilience Act Repercussions in Open Source  [Watch](https://youtu.be/EDBFI7YESZo)
 # Channel: Real Python
   
+ - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)  
  - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)  
  - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)  
  - Thriving as a Developer With ADHD | Real Python Podcast #221  [Watch](https://youtu.be/tPNMJxrw4yY)  
- - Selecting VS Code Color Themes  [Watch](https://youtu.be/XPmXSt4G4eo)  
- - Prototypes Gone Wrong: The Dangers of Rushing to Production  [Watch](https://youtu.be/tDe71H8cM54)
+ - Selecting VS Code Color Themes  [Watch](https://youtu.be/XPmXSt4G4eo)
 # Channel: SysOps / DevOps Polska
   
  - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)  
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)  
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)  
  - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)  
- - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)  
- - Self-host your own Git platform! // GitLab  [Watch](https://youtu.be/qoqtSihN1kU)
+ - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)
 # Channel: GitHub
   
+ - How to upload files to GitHub in just a few clicks  [Watch](https://youtu.be/9PUtNJftW2s)  
  - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)  
  - How AI empowers developers with disabilities  [Watch](https://youtu.be/EwJRccojOnM)  
  - Open Source Friday with LlamaCoder - generate small apps with one prompt  [Watch](https://youtu.be/-Y2Qt4EJd9I)  
- - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
- - Open source: The unsung hero of the accessibility community  [Watch](https://youtu.be/wZ3YKDiT9CQ)
+ - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)  
  - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)  
  - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)  
  - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)  
- - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)  
- - How the Internet Works in 9 Minutes  [Watch](https://youtu.be/sMHzfigUxz4)
+ - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)
