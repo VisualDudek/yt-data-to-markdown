@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
+ - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
+ - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)  
- - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - A different VS Code for every mood  [Watch](https://youtu.be/kwGdEHTF_Fw)  
  - CodeLens 👓  [Watch](https://youtu.be/A_ggMC7XM8Q)  
  - The reason behind preview mode in #vscode  [Watch](https://youtu.be/RFyl4QgoIdY)  
  - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)  
- - Regular expressions don't have to be painful  [Watch](https://youtu.be/yXqZqVacD3k)  
- - The magic of Template String Converter  [Watch](https://youtu.be/CHIzjkTuUmg)
+ - Regular expressions don't have to be painful  [Watch](https://youtu.be/yXqZqVacD3k)
 # Channel: Mateusz Chrobok
   
+ - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)  
  - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)  
  - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)  
  - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)  
- - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)  
- - 🍎 Apple jednak nie walczy z Pegasusem  [Watch](https://youtu.be/YMauUU9BEMg)
+ - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 30 (Knative)  [Watch](https://youtu.be/E8ADzzjnRK0)  
- - Cloud Native Live: The future of open source DBaaS  [Watch](https://youtu.be/Q0cChN4mME8)  
- - Supercharge the Kubernetes Experience with Kubernetes Dashboard  [Watch](https://youtu.be/oqCAB9b-SGQ)  
- - CNL: Celebrating Deaf Awareness Month with the Deaf & Hard of Hearing WG  [Watch](https://youtu.be/elnn73OA9f8)  
- - EU's Cyber Resilience Act Repercussions in Open Source  [Watch](https://youtu.be/EDBFI7YESZo)
+ - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
+ - Cloud Native Live: Nirmata Shift Down Security  [Watch](https://youtu.be/ykPN7ycUmkg)  
+ - Cloud Native Live: Whats new in Kyverno Chainsaw?  [Watch](https://youtu.be/BwZuVhO8AVI)  
+ - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)  
+ - Cloud Native Live: What's new with Spin?  [Watch](https://youtu.be/ywgVkPQ7cVA)
 # Channel: Real Python
   
+ - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)  
  - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)  
  - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)  
  - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)  
- - Thriving as a Developer With ADHD | Real Python Podcast #221  [Watch](https://youtu.be/tPNMJxrw4yY)  
- - Selecting VS Code Color Themes  [Watch](https://youtu.be/XPmXSt4G4eo)
+ - Thriving as a Developer With ADHD | Real Python Podcast #221  [Watch](https://youtu.be/tPNMJxrw4yY)
 # Channel: SysOps / DevOps Polska
   
+ - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
  - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)  
  - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)  
  - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)  
- - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)  
- - [#513] LT: Nieznana funkcjonalność kube-state-metrics - własne metryki CRD Kubernetesa - M. Filocha  [Watch](https://youtu.be/vdciuvIGRm0)
+ - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)
 # Channel: GitHub
   
+ - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
+ - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)  
  - How to upload files to GitHub in just a few clicks  [Watch](https://youtu.be/9PUtNJftW2s)  
  - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)  
- - How AI empowers developers with disabilities  [Watch](https://youtu.be/EwJRccojOnM)  
- - Open Source Friday with LlamaCoder - generate small apps with one prompt  [Watch](https://youtu.be/-Y2Qt4EJd9I)  
- - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)
+ - How AI empowers developers with disabilities  [Watch](https://youtu.be/EwJRccojOnM)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
