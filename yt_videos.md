@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
- - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
+ - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)
@@ -25,11 +25,11 @@ Youtube Videos
  - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)
 # Channel: Tech With Tim
   
+ - Learn JavaScript With These 5 Projects  [Watch](https://youtu.be/kZMwrXyxQYE)  
  - Learn Python With 5 Projects - From Beginner to Advanced  [Watch](https://youtu.be/BO6LjtEOGZw)  
  - How To Think Like A Developer - Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)  
  - Check Out This INSANE AI Web Scraper  [Watch](https://youtu.be/M-42GMgHekY)  
- - OpenAI's o1 Model - Is it Over For Software Developers  [Watch](https://youtu.be/RZSG7aU3Z4s)  
- - Python AI Voice Assistant & Agent - Full Tutorial  [Watch](https://youtu.be/DNWLIAK4BUY)
+ - OpenAI's o1 Model - Is it Over For Software Developers  [Watch](https://youtu.be/RZSG7aU3Z4s)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)  
  - A different VS Code for every mood  [Watch](https://youtu.be/kwGdEHTF_Fw)  
  - CodeLens 👓  [Watch](https://youtu.be/A_ggMC7XM8Q)  
  - The reason behind preview mode in #vscode  [Watch](https://youtu.be/RFyl4QgoIdY)  
- - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)  
- - Regular expressions don't have to be painful  [Watch](https://youtu.be/yXqZqVacD3k)
+ - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)
 # Channel: Mateusz Chrobok
   
+ - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)  
  - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)  
  - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)  
  - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)  
- - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)  
- - 🍪 Ciasteczka. Akcja-reakcja.  [Watch](https://youtu.be/oZohkoScuxE)
+ - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)
 # Channel: Cloud Native Computing Foundation
   
  - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)
 # Channel: GitHub
   
+ - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)  
  - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
  - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)  
  - How to upload files to GitHub in just a few clicks  [Watch](https://youtu.be/9PUtNJftW2s)  
- - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)  
- - How AI empowers developers with disabilities  [Watch](https://youtu.be/EwJRccojOnM)
+ - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
