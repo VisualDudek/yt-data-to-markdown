@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
- - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
+ - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
  - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)
@@ -46,11 +46,11 @@ Youtube Videos
  - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)
 # Channel: Mateusz Chrobok
   
+ - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)  
  - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)  
  - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)  
  - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)  
- - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)  
- - AINews: Jak Ci minął pierwszy tydzień w szkole?  [Watch](https://youtu.be/ktBzse8a-Wk)
+ - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)
 # Channel: Cloud Native Computing Foundation
   
  - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Cloud Native Live: What's new with Spin?  [Watch](https://youtu.be/ywgVkPQ7cVA)
 # Channel: Real Python
   
+ - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)  
  - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)  
  - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)  
  - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)  
- - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)  
- - Thriving as a Developer With ADHD | Real Python Podcast #221  [Watch](https://youtu.be/tPNMJxrw4yY)
+ - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)
 # Channel: SysOps / DevOps Polska
   
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)
 # Channel: GitHub
   
+ - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)  
  - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)  
  - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
  - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)  
- - How to upload files to GitHub in just a few clicks  [Watch](https://youtu.be/9PUtNJftW2s)  
- - GitHub Start Up Wednesday with Jack Naglieri  [Watch](https://youtu.be/6seLh9Lwk_A)
+ - How to upload files to GitHub in just a few clicks  [Watch](https://youtu.be/9PUtNJftW2s)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
