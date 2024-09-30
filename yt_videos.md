@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
+ - Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
+ - 7 Powerful Databases Python Developers Should Know  [Watch](https://youtu.be/HAv5t2Gq-yU)  
  - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)  
+ - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -46,18 +46,18 @@ Youtube Videos
  - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)
 # Channel: Mateusz Chrobok
   
+ - 🚗 Znasz rejestrację? KIA otwarta.  [Watch](https://youtu.be/mgve7xg4Yrs)  
  - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)  
  - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)  
  - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)  
- - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)  
- - 📨 Koniec Telegrama?  [Watch](https://youtu.be/beT1AkJ9sQI)
+ - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 31 (Kuma)  [Watch](https://youtu.be/3K4oJl71tPs)  
+ - Cloud Native Live: What's new in Kyverno 1.13?  [Watch](https://youtu.be/5iCOoLWMRzE)  
  - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
  - Cloud Native Live: Nirmata Shift Down Security  [Watch](https://youtu.be/ykPN7ycUmkg)  
- - Cloud Native Live: Whats new in Kyverno Chainsaw?  [Watch](https://youtu.be/BwZuVhO8AVI)  
- - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)  
- - Cloud Native Live: What's new with Spin?  [Watch](https://youtu.be/ywgVkPQ7cVA)
+ - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)
 # Channel: Real Python
   
  - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)  
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)  
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)  
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)  
- - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)  
- - My new self-hosted GitLab platform  [Watch](https://youtu.be/_BigjMxh7Xs)
+ - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)
 # Channel: GitHub
   
+ - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)  
  - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)  
  - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)  
  - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
- - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)  
- - How to upload files to GitHub in just a few clicks  [Watch](https://youtu.be/9PUtNJftW2s)
+ - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)
 # Channel: CloudHeroes - Video
   
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
