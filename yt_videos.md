@@ -4,10 +4,10 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
- - 7 Powerful Databases Python Developers Should Know  [Watch](https://youtu.be/HAv5t2Gq-yU)  
+ - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
+ - 💚 Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
+ - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
  - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/CTeydWepUUg)  
  - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)
 # Channel: Tech With Tim
   
+ - To learn is to struggle  [Watch](https://youtu.be/SUfX7Qf7Aw0)  
+ - TypeScript Full Course - From Beginner to Advanced  [Watch](https://youtu.be/iJkaAJUzeWQ)  
  - Learn JavaScript With These 5 Projects  [Watch](https://youtu.be/kZMwrXyxQYE)  
  - Learn Python With 5 Projects - From Beginner to Advanced  [Watch](https://youtu.be/BO6LjtEOGZw)  
- - How To Think Like A Developer - Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)  
- - Check Out This INSANE AI Web Scraper  [Watch](https://youtu.be/M-42GMgHekY)  
- - OpenAI's o1 Model - Is it Over For Software Developers  [Watch](https://youtu.be/RZSG7aU3Z4s)
+ - How To Think Like A Developer - Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - No need to panic! Restore your deleted file  [Watch](https://youtu.be/VP4JoijL_TY)  
  - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)  
  - A different VS Code for every mood  [Watch](https://youtu.be/kwGdEHTF_Fw)  
  - CodeLens 👓  [Watch](https://youtu.be/A_ggMC7XM8Q)  
- - The reason behind preview mode in #vscode  [Watch](https://youtu.be/RFyl4QgoIdY)  
- - The Complete Beginners Guide to Testing in VS Code  [Watch](https://youtu.be/pXuFniI0XUY)
+ - The reason behind preview mode in #vscode  [Watch](https://youtu.be/RFyl4QgoIdY)
 # Channel: Mateusz Chrobok
   
+ - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)  
  - 🚗 Znasz rejestrację? KIA otwarta.  [Watch](https://youtu.be/mgve7xg4Yrs)  
  - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)  
  - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)  
- - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)  
- - 🍎 Apple wkurza cyberbezpieczników  [Watch](https://youtu.be/OUe56UIZe-w)
+ - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 31 (Kuma)  [Watch](https://youtu.be/3K4oJl71tPs)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)
 # Channel: Real Python
   
+ - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)  
  - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)  
  - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)  
  - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)  
- - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)  
- - Avoid This Python Pitfall: List Multiplication Gone Wrong  [Watch](https://youtu.be/XGDKwNfYjcc)
+ - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)
 # Channel: SysOps / DevOps Polska
   
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
@@ -102,11 +102,11 @@ Youtube Videos
  - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)
 # Channel: CloudHeroes - Video
   
+ - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
  - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
- - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)  
- - Nowość - Konfiguracja Cross-account Parameter Store w AWS  [Watch](https://youtu.be/6kvGgv9vIgQ)
+ - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)
 # Channel: Nicole van der Hoeven
   
  - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
