@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
  - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
  - 💚 Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
  - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
- - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)  
- - 13 Python Quirks That Will Surprise You  [Watch](https://youtu.be/eufjIfVOm8s)
+ - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)  
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)  
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)  
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)  
- - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)  
- - oops I'm the pyuwsgi maintainer now (intermediate) anthony explains #579  [Watch](https://youtu.be/WILYaDNez4g)
+ - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - Do you agree with this take on programmers?  [Watch](https://youtu.be/2qc7YkbPOKE)  
  - To learn is to struggle  [Watch](https://youtu.be/SUfX7Qf7Aw0)  
  - TypeScript Full Course - From Beginner to Advanced  [Watch](https://youtu.be/iJkaAJUzeWQ)  
  - Learn JavaScript With These 5 Projects  [Watch](https://youtu.be/kZMwrXyxQYE)  
- - Learn Python With 5 Projects - From Beginner to Advanced  [Watch](https://youtu.be/BO6LjtEOGZw)  
- - How To Think Like A Developer - Fix This Or Keep Struggling…  [Watch](https://youtu.be/8UKBGHWdf6I)
+ - Learn Python With 5 Projects - From Beginner to Advanced  [Watch](https://youtu.be/BO6LjtEOGZw)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 31 (Kuma)  [Watch](https://youtu.be/3K4oJl71tPs)  
- - Cloud Native Live: What's new in Kyverno 1.13?  [Watch](https://youtu.be/5iCOoLWMRzE)  
- - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
- - Cloud Native Live: Nirmata Shift Down Security  [Watch](https://youtu.be/ykPN7ycUmkg)  
- - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)
+ - TOC Meeting 2024-10-01  [Watch](https://youtu.be/TLeimRXtNTI)  
+ - LitmusChaos Workshop: Mastering Resilience Probes: Simplify chaos hypot... Neelanjan Manna & Raj Das  [Watch](https://youtu.be/rdjuyFZBizw)  
+ - Canonical chaos through Litmus - Bruno Ledesma (NU Bank)  [Watch](https://youtu.be/uJ5uUL9pDPU)  
+ - From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to Litmus... Namkyu Park  [Watch](https://youtu.be/f9PQjaj8P94)  
+ - Lightning Talk: Think Like a Chaos Engineer: Simulating User Anomalies the Litmus Way - Sayan Mondal  [Watch](https://youtu.be/733V2JJiFfQ)
 # Channel: Real Python
   
  - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)  
