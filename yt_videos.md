@@ -7,8 +7,8 @@ Youtube Videos
  - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
  - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
  - 💚 Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
- - PostgreSQL, MySQL, and MongoDB are Boring  [Watch](https://youtu.be/HAv5t2Gq-yU)  
- - Things (Almost) No One Thinks About When Designing Functions in Python  [Watch](https://youtu.be/WI6CqykFbDc)
+ - 7 Powerful Databases Python Developers Should Know  [Watch](https://youtu.be/HAv5t2Gq-yU)  
+ - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - Python vs. JavaScript  [Watch](https://youtu.be/mP0AuMKypd8)  
  - Do you agree with this take on programmers?  [Watch](https://youtu.be/2qc7YkbPOKE)  
  - To learn is to struggle  [Watch](https://youtu.be/SUfX7Qf7Aw0)  
  - TypeScript Full Course - From Beginner to Advanced  [Watch](https://youtu.be/iJkaAJUzeWQ)  
- - Learn JavaScript With These 5 Projects  [Watch](https://youtu.be/kZMwrXyxQYE)  
- - Learn Python With 5 Projects - From Beginner to Advanced  [Watch](https://youtu.be/BO6LjtEOGZw)
+ - Learn JavaScript With These 5 Projects  [Watch](https://youtu.be/kZMwrXyxQYE)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 31 (Kuma)  [Watch](https://youtu.be/3K4oJl71tPs)  
+ - Cloud Native Live: Communication patterns for cloud native success  [Watch](https://youtu.be/0cDW9XTWFUw)  
+ - Server side WebAssembly in Go with Wazero  [Watch](https://youtu.be/8mxCXELBo28)  
  - TOC Meeting 2024-10-01  [Watch](https://youtu.be/TLeimRXtNTI)  
- - LitmusChaos Workshop: Mastering Resilience Probes: Simplify chaos hypot... Neelanjan Manna & Raj Das  [Watch](https://youtu.be/rdjuyFZBizw)  
- - Canonical chaos through Litmus - Bruno Ledesma (NU Bank)  [Watch](https://youtu.be/uJ5uUL9pDPU)  
- - From Novice to LitmusChaos Maintainer: Learn to Make Valuable Contributions to Litmus... Namkyu Park  [Watch](https://youtu.be/f9PQjaj8P94)  
- - Lightning Talk: Think Like a Chaos Engineer: Simulating User Anomalies the Litmus Way - Sayan Mondal  [Watch](https://youtu.be/733V2JJiFfQ)
+ - LitmusChaos Workshop: Mastering Resilience Probes: Simplify chaos hypot... Neelanjan Manna & Raj Das  [Watch](https://youtu.be/rdjuyFZBizw)
 # Channel: Real Python
   
+ - Python's Mutable vs Immutable Types: Lists, Tuples, and Identity  [Watch](https://youtu.be/l5TLtKxga5E)  
  - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)  
  - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)  
  - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)  
- - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)  
- - Simplify Scheduling with Constraint Programming  [Watch](https://youtu.be/bJrrmxlpan8)
+ - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)
 # Channel: SysOps / DevOps Polska
   
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)
 # Channel: GitHub
   
+ - GitHub Copilot Chat and o1-preview: Building a maze generator!  [Watch](https://youtu.be/HxoCaobgg70)  
  - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)  
  - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)  
  - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)  
- - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)  
- - Building a classic Macintosh with a Raspberry Pi Pico  [Watch](https://youtu.be/IvaWkwFoxM0)
+ - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
