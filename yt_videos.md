@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
  - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
  - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
- - 💚 Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
- - 7 Powerful Databases Python Developers Should Know  [Watch](https://youtu.be/HAv5t2Gq-yU)  
- - How to Design an AWESOME Function Signature in Python  [Watch](https://youtu.be/WI6CqykFbDc)
+ - Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
+ - 7 Powerful Databases Python Developers Should Know  [Watch](https://youtu.be/HAv5t2Gq-yU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - Why most software engineers prefer to work in the United States rather than in Canada  [Watch](https://youtu.be/pSpSdm0NpxA)  
+ - VSCode Features Python Devs NEED To Know  [Watch](https://youtu.be/F60iJ3xxgtg)  
+ - Let's break down which backend language is best for you!  [Watch](https://youtu.be/VOcC4_qGXB4)  
  - Python vs. JavaScript  [Watch](https://youtu.be/mP0AuMKypd8)  
- - Do you agree with this take on programmers?  [Watch](https://youtu.be/2qc7YkbPOKE)  
- - To learn is to struggle  [Watch](https://youtu.be/SUfX7Qf7Aw0)  
- - TypeScript Full Course - From Beginner to Advanced  [Watch](https://youtu.be/iJkaAJUzeWQ)  
- - Learn JavaScript With These 5 Projects  [Watch](https://youtu.be/kZMwrXyxQYE)
+ - Do you agree with this take on programmers?  [Watch](https://youtu.be/2qc7YkbPOKE)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Access Your Computer Anywhere with VS Code—No VM Needed! 💻🌍  [Watch](https://youtu.be/SyLHXdXhE1U)  
+ - Tree indent in #vscode 🌳  [Watch](https://youtu.be/svk_G6xjO-w)  
  - No need to panic! Restore your deleted file  [Watch](https://youtu.be/VP4JoijL_TY)  
  - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)  
- - A different VS Code for every mood  [Watch](https://youtu.be/kwGdEHTF_Fw)  
- - CodeLens 👓  [Watch](https://youtu.be/A_ggMC7XM8Q)  
- - The reason behind preview mode in #vscode  [Watch](https://youtu.be/RFyl4QgoIdY)
+ - A different VS Code for every mood  [Watch](https://youtu.be/kwGdEHTF_Fw)
 # Channel: Mateusz Chrobok
   
  - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 31 (Kuma)  [Watch](https://youtu.be/3K4oJl71tPs)  
- - Cloud Native Live: Communication patterns for cloud native success  [Watch](https://youtu.be/0cDW9XTWFUw)  
- - Server side WebAssembly in Go with Wazero  [Watch](https://youtu.be/8mxCXELBo28)  
- - TOC Meeting 2024-10-01  [Watch](https://youtu.be/TLeimRXtNTI)  
- - LitmusChaos Workshop: Mastering Resilience Probes: Simplify chaos hypot... Neelanjan Manna & Raj Das  [Watch](https://youtu.be/rdjuyFZBizw)
+ - gRPC Performance and Testing: A Maintainer Perspective - Ashley Zhang and Adam Heller, Google  [Watch](https://youtu.be/kf49lPVvH4E)  
+ - gRPC Metadata Limits: The Good, the Bad, and the Ugly - Alisha Nanda, Google  [Watch](https://youtu.be/ugxVHAcua-Q)  
+ - gRPC Rust - Doug Fawley, Google, and Lucio Franco, Turso  [Watch](https://youtu.be/ux1xoUR9Xm8)  
+ - Powering Cisco ThousandEyes High-Performant Data Streams with gRPC and OpenTelemetry - Vitaly Kumov  [Watch](https://youtu.be/M37Q17YI_Lc)  
+ - Keynote: The State of gRPC - Abhishek Kumar, Google  [Watch](https://youtu.be/Oc-gSnWtwBU)
 # Channel: Real Python
   
  - Python's Mutable vs Immutable Types: Lists, Tuples, and Identity  [Watch](https://youtu.be/l5TLtKxga5E)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)
 # Channel: GitHub
   
+ - Coding for Community: If Me's Decade of Open Source Impact  [Watch](https://youtu.be/-04E334Im1Y)  
  - GitHub Copilot Chat and o1-preview: Building a maze generator!  [Watch](https://youtu.be/HxoCaobgg70)  
  - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)  
  - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)  
- - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)  
- - Open Source Friday with Brainstory - an AI-powered "speak-out-loud" app  [Watch](https://youtu.be/BmeHYJEUfSU)
+ - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
