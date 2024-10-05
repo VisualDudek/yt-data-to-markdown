@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
  - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
  - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
  - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
- - Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)  
- - 7 Powerful Databases Python Developers Should Know  [Watch](https://youtu.be/HAv5t2Gq-yU)
+ - Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - The 5 HIGHEST PAYING coding niches that you can get into  [Watch](https://youtu.be/2QS9vWNErsg)  
+ - Coding has changed a lot.  [Watch](https://youtu.be/7vaskI_Kgs0)  
+ - Breaks are key to avoiding burnout... but too many? Can they mess with your flow?  [Watch](https://youtu.be/PtS3WLttQ7o)  
  - Why most software engineers prefer to work in the United States rather than in Canada  [Watch](https://youtu.be/pSpSdm0NpxA)  
- - VSCode Features Python Devs NEED To Know  [Watch](https://youtu.be/F60iJ3xxgtg)  
- - Let's break down which backend language is best for you!  [Watch](https://youtu.be/VOcC4_qGXB4)  
- - Python vs. JavaScript  [Watch](https://youtu.be/mP0AuMKypd8)  
- - Do you agree with this take on programmers?  [Watch](https://youtu.be/2qc7YkbPOKE)
+ - VSCode Features Python Devs NEED To Know  [Watch](https://youtu.be/F60iJ3xxgtg)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)  
  - Access Your Computer Anywhere with VS Code—No VM Needed! 💻🌍  [Watch](https://youtu.be/SyLHXdXhE1U)  
  - Tree indent in #vscode 🌳  [Watch](https://youtu.be/svk_G6xjO-w)  
  - No need to panic! Restore your deleted file  [Watch](https://youtu.be/VP4JoijL_TY)  
- - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)  
- - A different VS Code for every mood  [Watch](https://youtu.be/kwGdEHTF_Fw)
+ - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)
 # Channel: Mateusz Chrobok
   
+ - 🔑 PKO wprowadziło YubiKey, aaaale…  [Watch](https://youtu.be/s40nSuxvQ_4)  
  - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)  
  - 🚗 Znasz rejestrację? KIA otwarta.  [Watch](https://youtu.be/mgve7xg4Yrs)  
  - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)  
- - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)  
- - 🤖 Zastosowania AI: dobre i złe.  [Watch](https://youtu.be/cJ91BQPh5-M)
+ - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)
 # Channel: Cloud Native Computing Foundation
   
  - gRPC Performance and Testing: A Maintainer Perspective - Ashley Zhang and Adam Heller, Google  [Watch](https://youtu.be/kf49lPVvH4E)  
