@@ -8,7 +8,7 @@ Youtube Videos
  - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
  - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
  - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
- - Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)
+ - 💚 Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - Want to become great at programming? Start with this.  [Watch](https://youtu.be/2e6DPLnPqgI)  
  - The 5 HIGHEST PAYING coding niches that you can get into  [Watch](https://youtu.be/2QS9vWNErsg)  
  - Coding has changed a lot.  [Watch](https://youtu.be/7vaskI_Kgs0)  
  - Breaks are key to avoiding burnout... but too many? Can they mess with your flow?  [Watch](https://youtu.be/PtS3WLttQ7o)  
- - Why most software engineers prefer to work in the United States rather than in Canada  [Watch](https://youtu.be/pSpSdm0NpxA)  
- - VSCode Features Python Devs NEED To Know  [Watch](https://youtu.be/F60iJ3xxgtg)
+ - Why most software engineers prefer to work in the United States rather than in Canada  [Watch](https://youtu.be/pSpSdm0NpxA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)
 # Channel: Mateusz Chrobok
   
+ - Twój listonosz wie o Tobie więcej, niż Ci się wydaje.  [Watch](https://youtu.be/eeGiLYi7TRI)  
  - 🔑 PKO wprowadziło YubiKey, aaaale…  [Watch](https://youtu.be/s40nSuxvQ_4)  
  - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)  
  - 🚗 Znasz rejestrację? KIA otwarta.  [Watch](https://youtu.be/mgve7xg4Yrs)  
- - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)  
- - 😮‍💨 Luka 10/10 jednak nie taka straszna  [Watch](https://youtu.be/nPiw_nuqfd4)
+ - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)
 # Channel: Cloud Native Computing Foundation
   
  - gRPC Performance and Testing: A Maintainer Perspective - Ashley Zhang and Adam Heller, Google  [Watch](https://youtu.be/kf49lPVvH4E)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Keynote: The State of gRPC - Abhishek Kumar, Google  [Watch](https://youtu.be/Oc-gSnWtwBU)
 # Channel: Real Python
   
+ - From Web Dev to AI: Strategies for a Successful Shift  [Watch](https://youtu.be/Ub4IHx8StKM)  
  - Python's Mutable vs Immutable Types: Lists, Tuples, and Identity  [Watch](https://youtu.be/l5TLtKxga5E)  
  - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)  
  - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)  
- - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)  
- - Python Importing Techniques: Packages & Shadowing  [Watch](https://youtu.be/eYTXC3lQyqc)
+ - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)
 # Channel: SysOps / DevOps Polska
   
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
