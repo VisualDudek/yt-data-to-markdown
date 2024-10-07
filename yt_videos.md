@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)  
  - Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
  - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
  - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
- - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)  
- - 💚 Design Patterns Love Composition  [Watch](https://youtu.be/Cuel2RNW6pU)
+ - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - Don’t make the same mistake I did in my first 3 years of coding.  [Watch](https://youtu.be/5PNQcJrT6rI)  
+ - 4 Software Developer Roadmaps For 2024+  [Watch](https://youtu.be/oMm8VzW3_lU)  
+ - How can you truly stand out and land a job as a developer?  [Watch](https://youtu.be/q-JSZ4QFxmg)  
  - Want to become great at programming? Start with this.  [Watch](https://youtu.be/2e6DPLnPqgI)  
- - The 5 HIGHEST PAYING coding niches that you can get into  [Watch](https://youtu.be/2QS9vWNErsg)  
- - Coding has changed a lot.  [Watch](https://youtu.be/7vaskI_Kgs0)  
- - Breaks are key to avoiding burnout... but too many? Can they mess with your flow?  [Watch](https://youtu.be/PtS3WLttQ7o)  
- - Why most software engineers prefer to work in the United States rather than in Canada  [Watch](https://youtu.be/pSpSdm0NpxA)
+ - The 5 HIGHEST PAYING coding niches that you can get into  [Watch](https://youtu.be/2QS9vWNErsg)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
