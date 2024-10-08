@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)  
- - Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
- - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
- - Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
+ - ⚖️ Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
+ - Level Up Your Git Game: 10 Little-Known Features You’ll Love  [Watch](https://youtu.be/bVnsBnnW3Tw)  
+ - 😤 Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
  - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
 # Channel: Tech With Tim
   
+ - This is where most coders get it wrong!  [Watch](https://youtu.be/ZKpxX8bOHYY)  
+ - Make Your First $500 Freelance Coding  [Watch](https://youtu.be/F-k_G1kwCNM)  
  - Don’t make the same mistake I did in my first 3 years of coding.  [Watch](https://youtu.be/5PNQcJrT6rI)  
  - 4 Software Developer Roadmaps For 2024+  [Watch](https://youtu.be/oMm8VzW3_lU)  
- - How can you truly stand out and land a job as a developer?  [Watch](https://youtu.be/q-JSZ4QFxmg)  
- - Want to become great at programming? Start with this.  [Watch](https://youtu.be/2e6DPLnPqgI)  
- - The 5 HIGHEST PAYING coding niches that you can get into  [Watch](https://youtu.be/2QS9vWNErsg)
+ - How can you truly stand out and land a job as a developer?  [Watch](https://youtu.be/q-JSZ4QFxmg)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The fastest way to add your project to source control  [Watch](https://youtu.be/FNJys9GkTAY)  
  - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)  
  - Access Your Computer Anywhere with VS Code—No VM Needed! 💻🌍  [Watch](https://youtu.be/SyLHXdXhE1U)  
  - Tree indent in #vscode 🌳  [Watch](https://youtu.be/svk_G6xjO-w)  
- - No need to panic! Restore your deleted file  [Watch](https://youtu.be/VP4JoijL_TY)  
- - Using Custom Instructions with Copilot to enhance our prompts  [Watch](https://youtu.be/cu9zZAFmoDg)
+ - No need to panic! Restore your deleted file  [Watch](https://youtu.be/VP4JoijL_TY)
 # Channel: Mateusz Chrobok
   
+ - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
+ - 📚 Co robić, gdy wszyscy nas szpiegują?  [Watch](https://youtu.be/s84pF7aEd9U)  
  - Twój listonosz wie o Tobie więcej, niż Ci się wydaje.  [Watch](https://youtu.be/eeGiLYi7TRI)  
  - 🔑 PKO wprowadziło YubiKey, aaaale…  [Watch](https://youtu.be/s40nSuxvQ_4)  
- - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)  
- - 🚗 Znasz rejestrację? KIA otwarta.  [Watch](https://youtu.be/mgve7xg4Yrs)  
- - Yubikeye jednak nie takie bezpieczne?  [Watch](https://youtu.be/8oTT60onWCI)
+ - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)
 # Channel: Cloud Native Computing Foundation
   
+ - TOC October 2024 Sandbox Review  [Watch](https://youtu.be/yVN3fJbebuE)  
+ - Cloud Native Live: OPA Authorization  [Watch](https://youtu.be/IrTTL-ZPUK8)  
  - gRPC Performance and Testing: A Maintainer Perspective - Ashley Zhang and Adam Heller, Google  [Watch](https://youtu.be/kf49lPVvH4E)  
  - gRPC Metadata Limits: The Good, the Bad, and the Ugly - Alisha Nanda, Google  [Watch](https://youtu.be/ugxVHAcua-Q)  
- - gRPC Rust - Doug Fawley, Google, and Lucio Franco, Turso  [Watch](https://youtu.be/ux1xoUR9Xm8)  
- - Powering Cisco ThousandEyes High-Performant Data Streams with gRPC and OpenTelemetry - Vitaly Kumov  [Watch](https://youtu.be/M37Q17YI_Lc)  
- - Keynote: The State of gRPC - Abhishek Kumar, Google  [Watch](https://youtu.be/Oc-gSnWtwBU)
+ - gRPC Rust - Doug Fawley, Google, and Lucio Franco, Turso  [Watch](https://youtu.be/ux1xoUR9Xm8)
 # Channel: Real Python
   
+ - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)  
  - From Web Dev to AI: Strategies for a Successful Shift  [Watch](https://youtu.be/Ub4IHx8StKM)  
  - Python's Mutable vs Immutable Types: Lists, Tuples, and Identity  [Watch](https://youtu.be/l5TLtKxga5E)  
  - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)  
- - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)  
- - Using Virtual Environments in Docker & Comparing Python Dev Tools | Real Python Podcast #222  [Watch](https://youtu.be/Oirmv_JsHMA)
+ - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)
 # Channel: SysOps / DevOps Polska
   
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
@@ -88,18 +88,18 @@ Youtube Videos
  - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
 # Channel: Christian Lempa
   
+ - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)  
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)  
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)  
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)  
- - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)  
- - Secure your HomeLab for FREE // Wazuh  [Watch](https://youtu.be/RjvKn0Q3rgg)
+ - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
+ - Construyendo puentes en IA: Xavi Portilla y la integración GitHub-Genkit  [Watch](https://youtu.be/E1LTMu0KTjk)  
  - Coding for Community: If Me's Decade of Open Source Impact  [Watch](https://youtu.be/-04E334Im1Y)  
  - GitHub Copilot Chat and o1-preview: Building a maze generator!  [Watch](https://youtu.be/HxoCaobgg70)  
  - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)  
- - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)  
- - Track Your Software's Carbon Emissions with These Tools  [Watch](https://youtu.be/_i_W7G_Yn3w)
+ - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)  
  - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)  
  - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)  
  - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)  
- - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)  
- - HTTP 1 Vs HTTP 2 Vs HTTP 3!  [Watch](https://youtu.be/UMwQjFzTQXw)
+ - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)
