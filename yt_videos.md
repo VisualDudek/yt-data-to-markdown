@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
  - Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)  
  - ⚖️ Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
- - Level Up Your Git Game: 10 Little-Known Features You’ll Love  [Watch](https://youtu.be/bVnsBnnW3Tw)  
- - 😤 Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)  
- - Live Code Review | Boto3  [Watch](https://youtu.be/CTeydWepUUg)
+ - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
+ - 😤 Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)  
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)  
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)  
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)  
- - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)  
- - debugging and fixing pyuwsgi in python 3.12 (advanced) anthony explains #580  [Watch](https://youtu.be/Y4n2xCIF2Jg)
+ - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
 # Channel: Tech With Tim
   
+ - Feeling overwhelmed with questions when starting your freelance journey?  [Watch](https://youtu.be/TuEE2I0ZFyQ)  
+ - This is the number one way to improve how you will learn coding.  [Watch](https://youtu.be/y54zDw3svvs)  
  - This is where most coders get it wrong!  [Watch](https://youtu.be/ZKpxX8bOHYY)  
  - Make Your First $500 Freelance Coding  [Watch](https://youtu.be/F-k_G1kwCNM)  
- - Don’t make the same mistake I did in my first 3 years of coding.  [Watch](https://youtu.be/5PNQcJrT6rI)  
- - 4 Software Developer Roadmaps For 2024+  [Watch](https://youtu.be/oMm8VzW3_lU)  
- - How can you truly stand out and land a job as a developer?  [Watch](https://youtu.be/q-JSZ4QFxmg)
+ - Don’t make the same mistake I did in my first 3 years of coding.  [Watch](https://youtu.be/5PNQcJrT6rI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)  
+ - Wait for it...  [Watch](https://youtu.be/TjvTvrJYt1A)  
  - The fastest way to add your project to source control  [Watch](https://youtu.be/FNJys9GkTAY)  
  - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)  
- - Access Your Computer Anywhere with VS Code—No VM Needed! 💻🌍  [Watch](https://youtu.be/SyLHXdXhE1U)  
- - Tree indent in #vscode 🌳  [Watch](https://youtu.be/svk_G6xjO-w)  
- - No need to panic! Restore your deleted file  [Watch](https://youtu.be/VP4JoijL_TY)
+ - Access Your Computer Anywhere with VS Code—No VM Needed! 💻🌍  [Watch](https://youtu.be/SyLHXdXhE1U)
 # Channel: Mateusz Chrobok
   
+ - 📚 Jak możesz bezpiecznie się komunikować?  [Watch](https://youtu.be/LOphp5cZ71s)  
  - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
  - 📚 Co robić, gdy wszyscy nas szpiegują?  [Watch](https://youtu.be/s84pF7aEd9U)  
  - Twój listonosz wie o Tobie więcej, niż Ci się wydaje.  [Watch](https://youtu.be/eeGiLYi7TRI)  
- - 🔑 PKO wprowadziło YubiKey, aaaale…  [Watch](https://youtu.be/s40nSuxvQ_4)  
- - 📵 (Kolejny) Koniec spoofingu!  [Watch](https://youtu.be/bwsWyRjrCL8)
+ - 🔑 PKO wprowadziło YubiKey, aaaale…  [Watch](https://youtu.be/s40nSuxvQ_4)
 # Channel: Cloud Native Computing Foundation
   
- - TOC October 2024 Sandbox Review  [Watch](https://youtu.be/yVN3fJbebuE)  
+ - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-10-08  [Watch](https://youtu.be/4US717fMQe8)  
  - Cloud Native Live: OPA Authorization  [Watch](https://youtu.be/IrTTL-ZPUK8)  
+ - TOC October 2024 Sandbox Review  [Watch](https://youtu.be/yVN3fJbebuE)  
  - gRPC Performance and Testing: A Maintainer Perspective - Ashley Zhang and Adam Heller, Google  [Watch](https://youtu.be/kf49lPVvH4E)  
- - gRPC Metadata Limits: The Good, the Bad, and the Ugly - Alisha Nanda, Google  [Watch](https://youtu.be/ugxVHAcua-Q)  
- - gRPC Rust - Doug Fawley, Google, and Lucio Franco, Turso  [Watch](https://youtu.be/ux1xoUR9Xm8)
+ - gRPC Metadata Limits: The Good, the Bad, and the Ugly - Alisha Nanda, Google  [Watch](https://youtu.be/ugxVHAcua-Q)
 # Channel: Real Python
   
  - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)  
