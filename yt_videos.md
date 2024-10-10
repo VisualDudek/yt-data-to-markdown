@@ -6,8 +6,8 @@ Youtube Videos
   
  - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
  - Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)  
- - ⚖️ Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
- - 10 Git Features You DON’T Want to Miss Out On  [Watch](https://youtu.be/bVnsBnnW3Tw)  
+ - Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
+ - Level Up Your Git Game: 10 Little-Known Features You’ll Love  [Watch](https://youtu.be/bVnsBnnW3Tw)  
  - 😤 Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
 # Channel: Tech With Tim
   
+ - Wondering whether to use Mac or Windows for programming?  [Watch](https://youtu.be/WFWOql0HFMA)  
+ - 5 Nooby Coding Mistakes You NEED To Avoid  [Watch](https://youtu.be/iwxPb0hOR4g)  
+ - If you are becoming a Software Engineer, the worst mistake you can make is not having this!  [Watch](https://youtu.be/n_rMZmv8n-g)  
  - Feeling overwhelmed with questions when starting your freelance journey?  [Watch](https://youtu.be/TuEE2I0ZFyQ)  
- - This is the number one way to improve how you will learn coding.  [Watch](https://youtu.be/y54zDw3svvs)  
- - This is where most coders get it wrong!  [Watch](https://youtu.be/ZKpxX8bOHYY)  
- - Make Your First $500 Freelance Coding  [Watch](https://youtu.be/F-k_G1kwCNM)  
- - Don’t make the same mistake I did in my first 3 years of coding.  [Watch](https://youtu.be/5PNQcJrT6rI)
+ - This is the number one way to improve how you will learn coding.  [Watch](https://youtu.be/y54zDw3svvs)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)  
  - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)  
  - Wait for it...  [Watch](https://youtu.be/TjvTvrJYt1A)  
  - The fastest way to add your project to source control  [Watch](https://youtu.be/FNJys9GkTAY)  
- - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)  
- - Access Your Computer Anywhere with VS Code—No VM Needed! 💻🌍  [Watch](https://youtu.be/SyLHXdXhE1U)
+ - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)
 # Channel: Mateusz Chrobok
   
- - 📚 Jak możesz bezpiecznie się komunikować?  [Watch](https://youtu.be/LOphp5cZ71s)  
  - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
- - 📚 Co robić, gdy wszyscy nas szpiegują?  [Watch](https://youtu.be/s84pF7aEd9U)  
- - Twój listonosz wie o Tobie więcej, niż Ci się wydaje.  [Watch](https://youtu.be/eeGiLYi7TRI)  
- - 🔑 PKO wprowadziło YubiKey, aaaale…  [Watch](https://youtu.be/s40nSuxvQ_4)
+ - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)  
+ - 🇨🇳 Chińczycy szpiegują Amerykanów z winy… Amerykanów  [Watch](https://youtu.be/jW-n5n13FLU)  
+ - 📚 Jak możesz bezpiecznie się komunikować?  [Watch](https://youtu.be/LOphp5cZ71s)  
+ - 📚 Co robić, gdy wszyscy nas szpiegują?  [Watch](https://youtu.be/s84pF7aEd9U)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 32 (Dapr)  [Watch](https://youtu.be/OxrwJQ4VXmU)  
+ - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-10-08  [Watch](https://youtu.be/4US717fMQe8)  
  - Cloud Native Live: OPA Authorization  [Watch](https://youtu.be/IrTTL-ZPUK8)  
- - TOC October 2024 Sandbox Review  [Watch](https://youtu.be/yVN3fJbebuE)  
- - gRPC Performance and Testing: A Maintainer Perspective - Ashley Zhang and Adam Heller, Google  [Watch](https://youtu.be/kf49lPVvH4E)  
- - gRPC Metadata Limits: The Good, the Bad, and the Ugly - Alisha Nanda, Google  [Watch](https://youtu.be/ugxVHAcua-Q)
+ - TOC October 2024 Sandbox Review  [Watch](https://youtu.be/yVN3fJbebuE)
 # Channel: Real Python
   
+ - What's New in Python 3.13: Improved REPL & Errors  [Watch](https://youtu.be/vBqP_xCdTPg)  
  - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)  
  - From Web Dev to AI: Strategies for a Successful Shift  [Watch](https://youtu.be/Ub4IHx8StKM)  
  - Python's Mutable vs Immutable Types: Lists, Tuples, and Identity  [Watch](https://youtu.be/l5TLtKxga5E)  
- - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)  
- - Detect Ships in Satellite Images with Python & Geopy  [Watch](https://youtu.be/zSGhW5QBv0w)
+ - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)
 # Channel: SysOps / DevOps Polska
   
+ - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
  - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)  
  - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)  
- - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)  
- - [#514] Jak i dlaczego opakowaliśmy naszą pracę w wewnętrzny produkt? - Filip Pokój  [Watch](https://youtu.be/VVnM_PocGiA)
+ - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
+ - Departure Mono: Reviving retro pixel fonts for the modern era  [Watch](https://youtu.be/1xRuqP9utUA)  
  - Construyendo puentes en IA: Xavi Portilla y la integración GitHub-Genkit  [Watch](https://youtu.be/E1LTMu0KTjk)  
  - Coding for Community: If Me's Decade of Open Source Impact  [Watch](https://youtu.be/-04E334Im1Y)  
  - GitHub Copilot Chat and o1-preview: Building a maze generator!  [Watch](https://youtu.be/HxoCaobgg70)  
- - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)  
- - PySkyWiFi: The clever hack for free in-flight Wi-Fi  [Watch](https://youtu.be/_7dFVaJ4KQU)
+ - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
