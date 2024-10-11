@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)  
  - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
  - Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)  
  - Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)  
- - Level Up Your Git Game: 10 Little-Known Features You’ll Love  [Watch](https://youtu.be/bVnsBnnW3Tw)  
- - 😤 Things Senior Developers Can’t Stand  [Watch](https://youtu.be/M9S0wqiTtcg)
+ - Level Up Your Git Game: 10 Little-Known Features You’ll Love  [Watch](https://youtu.be/bVnsBnnW3Tw)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
 # Channel: Tech With Tim
   
+ - How do you know what you are supposed to learn?  [Watch](https://youtu.be/N6n7WCn5Xww)  
+ - 2 years ago, I joined a tech startup and wrote over 100,000 lines of code😱  [Watch](https://youtu.be/oeAEQZpKkL8)  
  - Wondering whether to use Mac or Windows for programming?  [Watch](https://youtu.be/WFWOql0HFMA)  
  - 5 Nooby Coding Mistakes You NEED To Avoid  [Watch](https://youtu.be/iwxPb0hOR4g)  
- - If you are becoming a Software Engineer, the worst mistake you can make is not having this!  [Watch](https://youtu.be/n_rMZmv8n-g)  
- - Feeling overwhelmed with questions when starting your freelance journey?  [Watch](https://youtu.be/TuEE2I0ZFyQ)  
- - This is the number one way to improve how you will learn coding.  [Watch](https://youtu.be/y54zDw3svvs)
+ - If you are becoming a Software Engineer, the worst mistake you can make is not having this!  [Watch](https://youtu.be/n_rMZmv8n-g)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)
 # Channel: Mateusz Chrobok
   
+ - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)  
  - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
  - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)  
  - 🇨🇳 Chińczycy szpiegują Amerykanów z winy… Amerykanów  [Watch](https://youtu.be/jW-n5n13FLU)  
- - 📚 Jak możesz bezpiecznie się komunikować?  [Watch](https://youtu.be/LOphp5cZ71s)  
- - 📚 Co robić, gdy wszyscy nas szpiegują?  [Watch](https://youtu.be/s84pF7aEd9U)
+ - 📚 Jak możesz bezpiecznie się komunikować?  [Watch](https://youtu.be/LOphp5cZ71s)
 # Channel: Cloud Native Computing Foundation
   
+ - RUN THROUGH - Enabling AI adoption at scale  [Watch](https://youtu.be/Vl4Fwn0q_Vc)  
  - ChatLoopBackOff - Episode 32 (Dapr)  [Watch](https://youtu.be/OxrwJQ4VXmU)  
  - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-10-08  [Watch](https://youtu.be/4US717fMQe8)  
- - Cloud Native Live: OPA Authorization  [Watch](https://youtu.be/IrTTL-ZPUK8)  
- - TOC October 2024 Sandbox Review  [Watch](https://youtu.be/yVN3fJbebuE)
+ - Cloud Native Live: OPA Authorization  [Watch](https://youtu.be/IrTTL-ZPUK8)
 # Channel: Real Python
   
+ - From Bartender to Developer: A Second Career Success Story  [Watch](https://youtu.be/ZNXVsi-Yptc)  
+ - Exploring the New Features of Python 3.13 | Real Python Podcast #223  [Watch](https://youtu.be/3FrQf3yp8tE)  
  - What's New in Python 3.13: Improved REPL & Errors  [Watch](https://youtu.be/vBqP_xCdTPg)  
  - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)  
- - From Web Dev to AI: Strategies for a Successful Shift  [Watch](https://youtu.be/Ub4IHx8StKM)  
- - Python's Mutable vs Immutable Types: Lists, Tuples, and Identity  [Watch](https://youtu.be/l5TLtKxga5E)  
- - The Battle Between Python & Apple's Sandbox Restrictions  [Watch](https://youtu.be/SR1zB8AYur4)
+ - From Web Dev to AI: Strategies for a Successful Shift  [Watch](https://youtu.be/Ub4IHx8StKM)
 # Channel: SysOps / DevOps Polska
   
  - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
+ - Open Source Friday with LlamaCoder - generate small apps with one prompt  [Watch](https://youtu.be/-Y2Qt4EJd9I)  
  - Departure Mono: Reviving retro pixel fonts for the modern era  [Watch](https://youtu.be/1xRuqP9utUA)  
  - Construyendo puentes en IA: Xavi Portilla y la integración GitHub-Genkit  [Watch](https://youtu.be/E1LTMu0KTjk)  
  - Coding for Community: If Me's Decade of Open Source Impact  [Watch](https://youtu.be/-04E334Im1Y)  
- - GitHub Copilot Chat and o1-preview: Building a maze generator!  [Watch](https://youtu.be/HxoCaobgg70)  
- - GitHub Desktop 101: Adding code to your repository  [Watch](https://youtu.be/SSunLwWSNjU)
+ - GitHub Copilot Chat and o1-preview: Building a maze generator!  [Watch](https://youtu.be/HxoCaobgg70)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
