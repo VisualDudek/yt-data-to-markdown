@@ -25,11 +25,11 @@ Youtube Videos
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
 # Channel: Tech With Tim
   
+ - How do you practice programming?  [Watch](https://youtu.be/uGJcCmPEINQ)  
+ - What exactly does it mean to develop pattern recognition?  [Watch](https://youtu.be/EZ9uplso9Pk)  
  - How do you familiarise yourself with a new topic in the coding space?  [Watch](https://youtu.be/iDSwWUzbOwE)  
  - Do you think you're serious about pursuing a career as a Software Developer?  [Watch](https://youtu.be/zi3QGlQw2T8)  
- - How do you know what you are supposed to learn?  [Watch](https://youtu.be/N6n7WCn5Xww)  
- - 2 years ago, I joined a tech startup and wrote over 100,000 lines of code😱  [Watch](https://youtu.be/oeAEQZpKkL8)  
- - Wondering whether to use Mac or Windows for programming?  [Watch](https://youtu.be/WFWOql0HFMA)
+ - How do you know what you are supposed to learn?  [Watch](https://youtu.be/N6n7WCn5Xww)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)
 # Channel: Mateusz Chrobok
   
+ - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)  
  - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)  
  - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
  - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)  
- - 🇨🇳 Chińczycy szpiegują Amerykanów z winy… Amerykanów  [Watch](https://youtu.be/jW-n5n13FLU)  
- - 📚 Jak możesz bezpiecznie się komunikować?  [Watch](https://youtu.be/LOphp5cZ71s)
+ - 🇨🇳 Chińczycy szpiegują Amerykanów z winy… Amerykanów  [Watch](https://youtu.be/jW-n5n13FLU)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
