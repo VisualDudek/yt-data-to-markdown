@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
  - Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
  - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)  
  - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
- - Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)  
- - Understanding Composition Over Inheritance  [Watch](https://youtu.be/P-N01AeMoX8)
+ - 3 Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
 # Channel: Tech With Tim
   
+ - Do you strategise before diving into coding?  [Watch](https://youtu.be/597GHUkC5eU)  
+ - My Tech Startup Failed...  [Watch](https://youtu.be/Ypzt57cTQ3U)  
+ - Mastering the basics of a language is one thing...  [Watch](https://youtu.be/dRLowkniec8)  
  - How do you practice programming?  [Watch](https://youtu.be/uGJcCmPEINQ)  
- - What exactly does it mean to develop pattern recognition?  [Watch](https://youtu.be/EZ9uplso9Pk)  
- - How do you familiarise yourself with a new topic in the coding space?  [Watch](https://youtu.be/iDSwWUzbOwE)  
- - Do you think you're serious about pursuing a career as a Software Developer?  [Watch](https://youtu.be/zi3QGlQw2T8)  
- - How do you know what you are supposed to learn?  [Watch](https://youtu.be/N6n7WCn5Xww)
+ - What exactly does it mean to develop pattern recognition?  [Watch](https://youtu.be/EZ9uplso9Pk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-10-08  [Watch](https://youtu.be/4US717fMQe8)
 # Channel: Real Python
   
+ - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)  
  - From Bartender to Developer: A Second Career Success Story  [Watch](https://youtu.be/ZNXVsi-Yptc)  
  - Exploring the New Features of Python 3.13 | Real Python Podcast #223  [Watch](https://youtu.be/3FrQf3yp8tE)  
  - What's New in Python 3.13: Improved REPL & Errors  [Watch](https://youtu.be/vBqP_xCdTPg)  
- - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)  
- - From Web Dev to AI: Strategies for a Successful Shift  [Watch](https://youtu.be/Ub4IHx8StKM)
+ - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)
 # Channel: SysOps / DevOps Polska
   
  - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
@@ -81,11 +81,11 @@ Youtube Videos
  - Programming Tier List 2024  [Watch](https://youtu.be/c3yRbrYIUeo)
 # Channel: Beyond Fireship
   
+ - Does Deno 2 really uncomplicate JavaScript?  [Watch](https://youtu.be/8IHhvkaVqVE)  
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)  
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)  
  - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)  
- - This UI component library is mind-blowing  [Watch](https://youtu.be/RPa3_AD1_Vs)  
- - I built an Apple Vision Pro app... visionOS tutorial  [Watch](https://youtu.be/_xfZIr5sDLw)
+ - This UI component library is mind-blowing  [Watch](https://youtu.be/RPa3_AD1_Vs)
 # Channel: Christian Lempa
   
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
+ - Boost your GitHub presence with a personalized profile README  [Watch](https://youtu.be/iYqeSB4S9h4)  
+ - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
  - Space Huggers: A retro-inspired run-and-gun platformer  [Watch](https://youtu.be/8rVUvyWZjFw)  
  - Open Source Friday with LlamaCoder - generate small apps with one prompt  [Watch](https://youtu.be/-Y2Qt4EJd9I)  
- - Departure Mono: Reviving retro pixel fonts for the modern era  [Watch](https://youtu.be/1xRuqP9utUA)  
- - Construyendo puentes en IA: Xavi Portilla y la integración GitHub-Genkit  [Watch](https://youtu.be/E1LTMu0KTjk)  
- - Coding for Community: If Me's Decade of Open Source Impact  [Watch](https://youtu.be/-04E334Im1Y)
+ - Departure Mono: Reviving retro pixel fonts for the modern era  [Watch](https://youtu.be/1xRuqP9utUA)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
