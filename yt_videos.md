@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
- - Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
+ - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
  - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)  
- - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
- - 3 Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)
+ - ⌚ Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
+ - 3️⃣ Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
 # Channel: Tech With Tim
   
+ - If you’re new to programming, then stick around and listen.👆  [Watch](https://youtu.be/8Wq8NZGurfU)  
+ - The best programmers in the world are not experts in one specific framework or language.  [Watch](https://youtu.be/3QTOavyl2DU)  
  - Do you strategise before diving into coding?  [Watch](https://youtu.be/597GHUkC5eU)  
  - My Tech Startup Failed...  [Watch](https://youtu.be/Ypzt57cTQ3U)  
- - Mastering the basics of a language is one thing...  [Watch](https://youtu.be/dRLowkniec8)  
- - How do you practice programming?  [Watch](https://youtu.be/uGJcCmPEINQ)  
- - What exactly does it mean to develop pattern recognition?  [Watch](https://youtu.be/EZ9uplso9Pk)
+ - Mastering the basics of a language is one thing...  [Watch](https://youtu.be/dRLowkniec8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)
 # Channel: Mateusz Chrobok
   
+ - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
  - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)  
  - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)  
  - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
- - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)  
- - 🇨🇳 Chińczycy szpiegują Amerykanów z winy… Amerykanów  [Watch](https://youtu.be/jW-n5n13FLU)
+ - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Managing threat intelligence in Falco  [Watch](https://youtu.be/H-7LAo1IalY)  
+ - Cloud Native Live: Beyond the black box  [Watch](https://youtu.be/CZ8nj2_bzR8)  
  - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
  - RUN THROUGH - Enabling AI adoption at scale  [Watch](https://youtu.be/Vl4Fwn0q_Vc)  
- - ChatLoopBackOff - Episode 32 (Dapr)  [Watch](https://youtu.be/OxrwJQ4VXmU)  
- - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
- - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-10-08  [Watch](https://youtu.be/4US717fMQe8)
+ - ChatLoopBackOff - Episode 32 (Dapr)  [Watch](https://youtu.be/OxrwJQ4VXmU)
 # Channel: Real Python
   
  - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)
 # Channel: SysOps / DevOps Polska
   
+ - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
  - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
  - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)  
- - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)  
- - [#515] Transformacja datacenter - Krzysztof Mężyk  [Watch](https://youtu.be/i4x6dA_swWQ)
+ - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
+ - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
+ - GitHub Universe 2024 - Day 2  [Watch](https://youtu.be/951OQEn4SN0)  
+ - GitHub Universe 2024 - Day 1  [Watch](https://youtu.be/5ov2NYBdGSw)  
  - Boost your GitHub presence with a personalized profile README  [Watch](https://youtu.be/iYqeSB4S9h4)  
- - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
- - Space Huggers: A retro-inspired run-and-gun platformer  [Watch](https://youtu.be/8rVUvyWZjFw)  
- - Open Source Friday with LlamaCoder - generate small apps with one prompt  [Watch](https://youtu.be/-Y2Qt4EJd9I)  
- - Departure Mono: Reviving retro pixel fonts for the modern era  [Watch](https://youtu.be/1xRuqP9utUA)
+ - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
