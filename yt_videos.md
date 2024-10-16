@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
- - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
+ - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
+ - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
+ - Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
  - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)  
- - ⌚ Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)  
- - 3️⃣ Tips to Instantly Improve Your Code  [Watch](https://youtu.be/ul8CgHyCa9k)
+ - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)  
  - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)  
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)  
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)  
- - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)  
- - python 3.13 release highlights  [Watch](https://youtu.be/gqqgwyNx52Q)
+ - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - Programming can give you the freedom to...  [Watch](https://youtu.be/wgnsowoEnwE)  
+ - The biggest mistake most beginner coders make is thinking they can simply watch “other people” code.  [Watch](https://youtu.be/zpn-b0Y-tpo)  
+ - “How do I get good at programming?” Listen to this.👨‍💻👆  [Watch](https://youtu.be/fMKnVlCtT9w)  
  - If you’re new to programming, then stick around and listen.👆  [Watch](https://youtu.be/8Wq8NZGurfU)  
- - The best programmers in the world are not experts in one specific framework or language.  [Watch](https://youtu.be/3QTOavyl2DU)  
- - Do you strategise before diving into coding?  [Watch](https://youtu.be/597GHUkC5eU)  
- - My Tech Startup Failed...  [Watch](https://youtu.be/Ypzt57cTQ3U)  
- - Mastering the basics of a language is one thing...  [Watch](https://youtu.be/dRLowkniec8)
+ - The best programmers in the world are not experts in one specific framework or language.  [Watch](https://youtu.be/3QTOavyl2DU)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Visualize data structures and algorithms  [Watch](https://youtu.be/uehCDW1fxUw)  
  - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)  
  - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)  
  - Wait for it...  [Watch](https://youtu.be/TjvTvrJYt1A)  
- - The fastest way to add your project to source control  [Watch](https://youtu.be/FNJys9GkTAY)  
- - Get started with C++ in 60 seconds  [Watch](https://youtu.be/A5fA1LJFjR8)
+ - The fastest way to add your project to source control  [Watch](https://youtu.be/FNJys9GkTAY)
 # Channel: Mateusz Chrobok
   
  - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Managing threat intelligence in Falco  [Watch](https://youtu.be/H-7LAo1IalY)  
- - Cloud Native Live: Beyond the black box  [Watch](https://youtu.be/CZ8nj2_bzR8)  
- - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
- - RUN THROUGH - Enabling AI adoption at scale  [Watch](https://youtu.be/Vl4Fwn0q_Vc)  
- - ChatLoopBackOff - Episode 32 (Dapr)  [Watch](https://youtu.be/OxrwJQ4VXmU)
+ - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)  
+ - ChatLoopBackOff - Episode 41 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)  
+ - ChatLoopBackOff - Episode 40 (Spiderpool)  [Watch](https://youtu.be/GiCOnFCwRno)  
+ - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)  
+ - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)
 # Channel: Real Python
   
+ - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)  
  - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)  
  - From Bartender to Developer: A Second Career Success Story  [Watch](https://youtu.be/ZNXVsi-Yptc)  
  - Exploring the New Features of Python 3.13 | Real Python Podcast #223  [Watch](https://youtu.be/3FrQf3yp8tE)  
- - What's New in Python 3.13: Improved REPL & Errors  [Watch](https://youtu.be/vBqP_xCdTPg)  
- - Accidentally Becoming a Manager: My Unplanned Career Path  [Watch](https://youtu.be/13Eh0J8qLVY)
+ - What's New in Python 3.13: Improved REPL & Errors  [Watch](https://youtu.be/vBqP_xCdTPg)
 # Channel: SysOps / DevOps Polska
   
  - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
+ - Securing your GitHub account: The power of 2FA  [Watch](https://youtu.be/JsSlGxt-3vo)  
  - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
  - GitHub Universe 2024 - Day 2  [Watch](https://youtu.be/951OQEn4SN0)  
  - GitHub Universe 2024 - Day 1  [Watch](https://youtu.be/5ov2NYBdGSw)  
- - Boost your GitHub presence with a personalized profile README  [Watch](https://youtu.be/iYqeSB4S9h4)  
- - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)
+ - Boost your GitHub presence with a personalized profile README  [Watch](https://youtu.be/iYqeSB4S9h4)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
