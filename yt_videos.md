@@ -6,9 +6,9 @@ Youtube Videos
   
  - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
  - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
- - Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
+ - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
  - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)  
- - Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)
+ - ⌚ Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - Is Python a great language for 13-year-olds?  [Watch](https://youtu.be/Ulf9D2W0MOo)  
+ - Cursor Tutorial for Beginners (AI Code Editor)  [Watch](https://youtu.be/ocMOZpuAMw4)  
  - Programming can give you the freedom to...  [Watch](https://youtu.be/wgnsowoEnwE)  
  - The biggest mistake most beginner coders make is thinking they can simply watch “other people” code.  [Watch](https://youtu.be/zpn-b0Y-tpo)  
- - “How do I get good at programming?” Listen to this.👨‍💻👆  [Watch](https://youtu.be/fMKnVlCtT9w)  
- - If you’re new to programming, then stick around and listen.👆  [Watch](https://youtu.be/8Wq8NZGurfU)  
- - The best programmers in the world are not experts in one specific framework or language.  [Watch](https://youtu.be/3QTOavyl2DU)
+ - “How do I get good at programming?” Listen to this.👨‍💻👆  [Watch](https://youtu.be/fMKnVlCtT9w)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
+ - Inside Argo: Automating the Future [OFFICIAL DOCUMENTARY TRAILER]  [Watch](https://youtu.be/xF0h-vHgyvU)  
+ - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
  - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)  
- - ChatLoopBackOff - Episode 41 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)  
- - ChatLoopBackOff - Episode 40 (Spiderpool)  [Watch](https://youtu.be/GiCOnFCwRno)  
- - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)  
- - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)
+ - ChatLoopBackOff - Episode 41 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)
 # Channel: Real Python
   
+ - Returning Data of Alternate Types in Python  [Watch](https://youtu.be/6ZLLfvPKTao)  
  - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)  
  - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)  
  - From Bartender to Developer: A Second Career Success Story  [Watch](https://youtu.be/ZNXVsi-Yptc)  
- - Exploring the New Features of Python 3.13 | Real Python Podcast #223  [Watch](https://youtu.be/3FrQf3yp8tE)  
- - What's New in Python 3.13: Improved REPL & Errors  [Watch](https://youtu.be/vBqP_xCdTPg)
+ - Exploring the New Features of Python 3.13 | Real Python Podcast #223  [Watch](https://youtu.be/3FrQf3yp8tE)
 # Channel: SysOps / DevOps Polska
   
  - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)  
  - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)  
  - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)  
  - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)  
- - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)  
- - How Search Really Works  [Watch](https://youtu.be/TByRaraQqW4)
+ - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)
