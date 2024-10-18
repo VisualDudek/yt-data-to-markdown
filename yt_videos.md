@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
- - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
+ - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
+ - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
+ - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
  - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
- - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)  
- - ⌚ Time Management Tips for Developers  [Watch](https://youtu.be/bgwg-dTIdMs)
+ - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - How to land a job or internship in coding?  [Watch](https://youtu.be/WWPvwl8osb0)  
+ - What non-programming skills are essential for software engineers?  [Watch](https://youtu.be/TBgYcPauyFs)  
  - Is Python a great language for 13-year-olds?  [Watch](https://youtu.be/Ulf9D2W0MOo)  
  - Cursor Tutorial for Beginners (AI Code Editor)  [Watch](https://youtu.be/ocMOZpuAMw4)  
- - Programming can give you the freedom to...  [Watch](https://youtu.be/wgnsowoEnwE)  
- - The biggest mistake most beginner coders make is thinking they can simply watch “other people” code.  [Watch](https://youtu.be/zpn-b0Y-tpo)  
- - “How do I get good at programming?” Listen to this.👨‍💻👆  [Watch](https://youtu.be/fMKnVlCtT9w)
+ - Programming can give you the freedom to...  [Watch](https://youtu.be/wgnsowoEnwE)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Software developer packing list  [Watch](https://youtu.be/GU0w682MpaQ)  
  - Visualize data structures and algorithms  [Watch](https://youtu.be/uehCDW1fxUw)  
  - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)  
  - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)  
- - Wait for it...  [Watch](https://youtu.be/TjvTvrJYt1A)  
- - The fastest way to add your project to source control  [Watch](https://youtu.be/FNJys9GkTAY)
+ - Wait for it...  [Watch](https://youtu.be/TjvTvrJYt1A)
 # Channel: Mateusz Chrobok
   
  - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
@@ -54,24 +54,24 @@ Youtube Videos
 # Channel: Cloud Native Computing Foundation
   
  - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
- - Inside Argo: Automating the Future [OFFICIAL DOCUMENTARY TRAILER]  [Watch](https://youtu.be/xF0h-vHgyvU)  
  - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
+ - Inside Argo: Automating the Future [OFFICIAL DOCUMENTARY TRAILER]  [Watch](https://youtu.be/xF0h-vHgyvU)  
  - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)  
  - ChatLoopBackOff - Episode 41 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)
 # Channel: Real Python
   
+ - Narwhals: Expanding DataFrame Compatibility Between Libraries | Real Python Podcast #224  [Watch](https://youtu.be/w5DFZbFYzCM)  
+ - It Doesn't Have to Be Perfect!  [Watch](https://youtu.be/OzyFjMIWWM4)  
  - Returning Data of Alternate Types in Python  [Watch](https://youtu.be/6ZLLfvPKTao)  
  - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)  
- - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)  
- - From Bartender to Developer: A Second Career Success Story  [Watch](https://youtu.be/ZNXVsi-Yptc)  
- - Exploring the New Features of Python 3.13 | Real Python Podcast #223  [Watch](https://youtu.be/3FrQf3yp8tE)
+ - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)
 # Channel: SysOps / DevOps Polska
   
+ - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)  
  - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
  - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
- - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)  
- - [#516] Błędy architektoniczne w chmurze - Magdalena Wojnarowska-Pietrzak  [Watch](https://youtu.be/rp2kFFfk2Hc)
+ - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
- - Securing your GitHub account: The power of 2FA  [Watch](https://youtu.be/JsSlGxt-3vo)  
- - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
- - GitHub Universe 2024 - Day 2  [Watch](https://youtu.be/951OQEn4SN0)  
- - GitHub Universe 2024 - Day 1  [Watch](https://youtu.be/5ov2NYBdGSw)  
- - Boost your GitHub presence with a personalized profile README  [Watch](https://youtu.be/iYqeSB4S9h4)
+ - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)  
+ - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
+ - GitHub Universe 2024 Security Track  [Watch](https://youtu.be/Ove_GSC49wo)  
+ - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)  
+ - Securing your GitHub account: The power of 2FA  [Watch](https://youtu.be/JsSlGxt-3vo)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
