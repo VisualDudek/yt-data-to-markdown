@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
  - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
  - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
  - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
- - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)  
- - The New Python 3.13 Is FINALLY Here!  [Watch](https://youtu.be/eUDGlxu_-ic)
+ - Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - What is your thought process when you code?💭  [Watch](https://youtu.be/2KLi1H4w_MY)  
+ - One thing I wish I had known when I started programming  [Watch](https://youtu.be/4DdP6pe74LY)  
+ - 99% of the time, your work as a software engineer is all about…  [Watch](https://youtu.be/iBoiSQKSxC8)  
  - How to land a job or internship in coding?  [Watch](https://youtu.be/WWPvwl8osb0)  
- - What non-programming skills are essential for software engineers?  [Watch](https://youtu.be/TBgYcPauyFs)  
- - Is Python a great language for 13-year-olds?  [Watch](https://youtu.be/Ulf9D2W0MOo)  
- - Cursor Tutorial for Beginners (AI Code Editor)  [Watch](https://youtu.be/ocMOZpuAMw4)  
- - Programming can give you the freedom to...  [Watch](https://youtu.be/wgnsowoEnwE)
+ - What non-programming skills are essential for software engineers?  [Watch](https://youtu.be/TBgYcPauyFs)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)  
  - Software developer packing list  [Watch](https://youtu.be/GU0w682MpaQ)  
  - Visualize data structures and algorithms  [Watch](https://youtu.be/uehCDW1fxUw)  
  - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)  
- - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)  
- - Wait for it...  [Watch](https://youtu.be/TjvTvrJYt1A)
+ - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)
 # Channel: Mateusz Chrobok
   
  - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
@@ -95,8 +95,8 @@ Youtube Videos
  - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
 # Channel: GitHub
   
- - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)  
  - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
+ - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)  
  - GitHub Universe 2024 Security Track  [Watch](https://youtu.be/Ove_GSC49wo)  
  - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)  
  - Securing your GitHub account: The power of 2FA  [Watch](https://youtu.be/JsSlGxt-3vo)
