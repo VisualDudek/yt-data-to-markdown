@@ -6,9 +6,9 @@ Youtube Videos
   
  - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
  - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
- - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
- - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
- - Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)
+ - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
+ - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
+ - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - There’s no magic formula for becoming a great programmer  [Watch](https://youtu.be/Dh21u07uICM)  
+ - Streamlit Mini Course - Make Websites With ONLY Python  [Watch](https://youtu.be/o8p7uQCGD0U)  
+ - Many beginner software engineers often gravitate toward frontend development...  [Watch](https://youtu.be/xpcRb01S9fc)  
  - What is your thought process when you code?💭  [Watch](https://youtu.be/2KLi1H4w_MY)  
- - One thing I wish I had known when I started programming  [Watch](https://youtu.be/4DdP6pe74LY)  
- - 99% of the time, your work as a software engineer is all about…  [Watch](https://youtu.be/iBoiSQKSxC8)  
- - How to land a job or internship in coding?  [Watch](https://youtu.be/WWPvwl8osb0)  
- - What non-programming skills are essential for software engineers?  [Watch](https://youtu.be/TBgYcPauyFs)
+ - One thing I wish I had known when I started programming  [Watch](https://youtu.be/4DdP6pe74LY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)
 # Channel: Mateusz Chrobok
   
+ - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)  
  - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
  - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)  
  - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)  
- - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)  
- - 🤳 Pojawię się na TikToku  [Watch](https://youtu.be/DGEZZtysMfc)
+ - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)
 # Channel: Cloud Native Computing Foundation
   
+ - Securing the Supply Chain: A Practical Guide to SLSA Compliance from Build to... Enguerrand Allamel  [Watch](https://youtu.be/733HXxEnm0I)  
  - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
  - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
  - Inside Argo: Automating the Future [OFFICIAL DOCUMENTARY TRAILER]  [Watch](https://youtu.be/xF0h-vHgyvU)  
- - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)  
- - ChatLoopBackOff - Episode 41 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)
+ - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)
 # Channel: Real Python
   
  - Narwhals: Expanding DataFrame Compatibility Between Libraries | Real Python Podcast #224  [Watch](https://youtu.be/w5DFZbFYzCM)  
