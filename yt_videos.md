@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
  - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
  - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
  - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
- - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)  
- - 📈 Aligning Refactoring with Business Needs  [Watch](https://youtu.be/kdWgmxxVDd0)
+ - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - You ready for that next level? 🚀  [Watch](https://youtu.be/UzGbj4RU4u4)  
  - There’s no magic formula for becoming a great programmer  [Watch](https://youtu.be/Dh21u07uICM)  
  - Streamlit Mini Course - Make Websites With ONLY Python  [Watch](https://youtu.be/o8p7uQCGD0U)  
  - Many beginner software engineers often gravitate toward frontend development...  [Watch](https://youtu.be/xpcRb01S9fc)  
- - What is your thought process when you code?💭  [Watch](https://youtu.be/2KLi1H4w_MY)  
- - One thing I wish I had known when I started programming  [Watch](https://youtu.be/4DdP6pe74LY)
+ - What is your thought process when you code?💭  [Watch](https://youtu.be/2KLi1H4w_MY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)  
+ - Cloud Native Live: From inner loop development to Kubernetes with SpinKube  [Watch](https://youtu.be/ke5W8eFx1gM)  
  - Securing the Supply Chain: A Practical Guide to SLSA Compliance from Build to... Enguerrand Allamel  [Watch](https://youtu.be/733HXxEnm0I)  
  - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
- - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)  
- - Inside Argo: Automating the Future [OFFICIAL DOCUMENTARY TRAILER]  [Watch](https://youtu.be/xF0h-vHgyvU)  
- - Dapr Day Virtual Fall  [Watch](https://youtu.be/9pjpDmIT-S0)
+ - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)
 # Channel: Real Python
   
+ - Making Python More Approachable  [Watch](https://youtu.be/jeJFUHBXLAk)  
  - Narwhals: Expanding DataFrame Compatibility Between Libraries | Real Python Podcast #224  [Watch](https://youtu.be/w5DFZbFYzCM)  
  - It Doesn't Have to Be Perfect!  [Watch](https://youtu.be/OzyFjMIWWM4)  
  - Returning Data of Alternate Types in Python  [Watch](https://youtu.be/6ZLLfvPKTao)  
- - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)  
- - Access Free City Data  [Watch](https://youtu.be/s-Jv-qW8IAU)
+ - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)
 # Channel: SysOps / DevOps Polska
   
  - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)  
