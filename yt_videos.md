@@ -7,8 +7,8 @@ Youtube Videos
  - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
  - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
  - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
- - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
- - 💲 Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)
+ - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
+ - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - The real growth happens when you push your limits and take on the challenges that scare you 🚀  [Watch](https://youtu.be/nmWNIRFVFGY)  
+ - These are the moments where I build my confidence as a programmer!  [Watch](https://youtu.be/vPZPScF6Ovs)  
  - You ready for that next level? 🚀  [Watch](https://youtu.be/UzGbj4RU4u4)  
  - There’s no magic formula for becoming a great programmer  [Watch](https://youtu.be/Dh21u07uICM)  
- - Streamlit Mini Course - Make Websites With ONLY Python  [Watch](https://youtu.be/o8p7uQCGD0U)  
- - Many beginner software engineers often gravitate toward frontend development...  [Watch](https://youtu.be/xpcRb01S9fc)  
- - What is your thought process when you code?💭  [Watch](https://youtu.be/2KLi1H4w_MY)
+ - Streamlit Mini Course - Make Websites With ONLY Python  [Watch](https://youtu.be/o8p7uQCGD0U)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,22 +39,22 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Try this to select text in the terminal and editor!  [Watch](https://youtu.be/NQngxM6GD9g)  
  - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)  
  - Software developer packing list  [Watch](https://youtu.be/GU0w682MpaQ)  
  - Visualize data structures and algorithms  [Watch](https://youtu.be/uehCDW1fxUw)  
- - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)  
- - 20 Fan Favorite Extensions for VS Code  [Watch](https://youtu.be/mI5My0cBTv4)
+ - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)
 # Channel: Mateusz Chrobok
   
+ - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)  
  - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)  
  - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
  - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)  
- - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)  
- - Nauczę Cię chronić swoją prywatność w sieci!  [Watch](https://youtu.be/rMgll5bpPS0)
+ - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)  
  - Cloud Native Live: From inner loop development to Kubernetes with SpinKube  [Watch](https://youtu.be/ke5W8eFx1gM)  
+ - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)  
  - Securing the Supply Chain: A Practical Guide to SLSA Compliance from Build to... Enguerrand Allamel  [Watch](https://youtu.be/733HXxEnm0I)  
  - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
  - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)
@@ -67,11 +67,11 @@ Youtube Videos
  - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)
 # Channel: SysOps / DevOps Polska
   
+ - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
  - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)  
  - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
  - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
- - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)  
- - [#517] Make your own wuch - Łukasz Biegaj  [Watch](https://youtu.be/-czhK508ABc)
+ - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)
 # Channel: ThePrimeagen
   
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
@@ -88,11 +88,11 @@ Youtube Videos
  - This UI component library is mind-blowing  [Watch](https://youtu.be/RPa3_AD1_Vs)
 # Channel: Christian Lempa
   
+ - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)  
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)  
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)  
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)  
- - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)  
- - Security HomeLab Talk Q&A // LIVE  [Watch](https://youtu.be/Xufa5nrd4SA)
+ - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)
 # Channel: GitHub
   
  - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
