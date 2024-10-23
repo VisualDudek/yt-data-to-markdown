@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)  
  - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
  - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
  - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
- - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)  
- - Choosing the Best Data Type for Monetary Values  [Watch](https://youtu.be/J_iTz2C1c-Y)
+ - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
- - The real growth happens when you push your limits and take on the challenges that scare you 🚀  [Watch](https://youtu.be/nmWNIRFVFGY)  
- - These are the moments where I build my confidence as a programmer!  [Watch](https://youtu.be/vPZPScF6Ovs)  
- - You ready for that next level? 🚀  [Watch](https://youtu.be/UzGbj4RU4u4)  
- - There’s no magic formula for becoming a great programmer  [Watch](https://youtu.be/Dh21u07uICM)  
- - Streamlit Mini Course - Make Websites With ONLY Python  [Watch](https://youtu.be/o8p7uQCGD0U)
+ - What if I told you...  [Watch](https://youtu.be/rRCbfK8QfSM)  
+ - This is the one thing you need to focus on first!  [Watch](https://youtu.be/Tvg2JCpGeq4)  
+ - ADVANCED Python AI Multi-Agent Tutorial (RAG, Streamlit, Langflow & More!)  [Watch](https://youtu.be/msLovKSj8Q0)  
+ - It's about being resourceful! Learn to use different AI tools to work smarter, not harder.  [Watch](https://youtu.be/IYg_5_l6YGw)  
+ - The real growth happens when you push your limits and take on the challenges that scare you 🚀  [Watch](https://youtu.be/nmWNIRFVFGY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)
 # Channel: Mateusz Chrobok
   
+ - 🪟 sudo w Windowsach nadchodzi  [Watch](https://youtu.be/NM3mPJsggpQ)  
  - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)  
  - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)  
  - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
- - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)  
- - 🏆 Nobel z fizyki za… AI?  [Watch](https://youtu.be/Bf-v0cstZwg)
+ - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)
 # Channel: Cloud Native Computing Foundation
   
+ - Deaf and Hard of Hearing WG Meeting - 2024-10-22  [Watch](https://youtu.be/UGXQ4Zx1Ong)  
+ - Cloud Native Live: Beyond the black box  [Watch](https://youtu.be/CZ8nj2_bzR8)  
  - Cloud Native Live: From inner loop development to Kubernetes with SpinKube  [Watch](https://youtu.be/ke5W8eFx1gM)  
  - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)  
- - Securing the Supply Chain: A Practical Guide to SLSA Compliance from Build to... Enguerrand Allamel  [Watch](https://youtu.be/733HXxEnm0I)  
- - Cloud Native Live: Enabling AI adoption at scale  [Watch](https://youtu.be/5K29CrqLjbI)  
- - ChatLoopBackOff - Episode 33 (Wasmcloud)  [Watch](https://youtu.be/J1Oem64gehU)
+ - Securing the Supply Chain: A Practical Guide to SLSA Compliance from Build to... Enguerrand Allamel  [Watch](https://youtu.be/733HXxEnm0I)
 # Channel: Real Python
   
+ - How to Handle 24-bit WAV Files in Python  [Watch](https://youtu.be/kD0JbpW-n5I)  
  - Making Python More Approachable  [Watch](https://youtu.be/jeJFUHBXLAk)  
  - Narwhals: Expanding DataFrame Compatibility Between Libraries | Real Python Podcast #224  [Watch](https://youtu.be/w5DFZbFYzCM)  
  - It Doesn't Have to Be Perfect!  [Watch](https://youtu.be/OzyFjMIWWM4)  
- - Returning Data of Alternate Types in Python  [Watch](https://youtu.be/6ZLLfvPKTao)  
- - From the Marines to Python: The Mike Tyson Approach to Deadlines  [Watch](https://youtu.be/Wn_clqsplMQ)
+ - Returning Data of Alternate Types in Python  [Watch](https://youtu.be/6ZLLfvPKTao)
 # Channel: SysOps / DevOps Polska
   
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
@@ -74,11 +74,11 @@ Youtube Videos
  - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)
 # Channel: ThePrimeagen
   
+ - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
  - I Went To DEFCON!  [Watch](https://youtu.be/GwcFxTuMYmU)  
  - This Keyboard  [Watch](https://youtu.be/dhuX9t2j5Hc)  
  - Find And Replace  [Watch](https://youtu.be/v2a6Nv7RSd0)  
- - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)  
- - Programming Tier List 2024  [Watch](https://youtu.be/c3yRbrYIUeo)
+ - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)
 # Channel: Beyond Fireship
   
  - Does Deno 2 really uncomplicate JavaScript?  [Watch](https://youtu.be/8IHhvkaVqVE)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)
 # Channel: GitHub
   
+ - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
  - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
  - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)  
  - GitHub Universe 2024 Security Track  [Watch](https://youtu.be/Ove_GSC49wo)  
- - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)  
- - Securing your GitHub account: The power of 2FA  [Watch](https://youtu.be/JsSlGxt-3vo)
+ - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
