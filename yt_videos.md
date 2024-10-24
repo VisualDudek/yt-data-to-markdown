@@ -8,7 +8,7 @@ Youtube Videos
  - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
  - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
  - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
- - FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)
+ - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - It’s tempting to dive right into the code editor and start building.  [Watch](https://youtu.be/BK5SLdRr-s4)  
  - What if I told you...  [Watch](https://youtu.be/rRCbfK8QfSM)  
  - This is the one thing you need to focus on first!  [Watch](https://youtu.be/Tvg2JCpGeq4)  
  - ADVANCED Python AI Multi-Agent Tutorial (RAG, Streamlit, Langflow & More!)  [Watch](https://youtu.be/msLovKSj8Q0)  
- - It's about being resourceful! Learn to use different AI tools to work smarter, not harder.  [Watch](https://youtu.be/IYg_5_l6YGw)  
- - The real growth happens when you push your limits and take on the challenges that scare you 🚀  [Watch](https://youtu.be/nmWNIRFVFGY)
+ - It's about being resourceful! Learn to use different AI tools to work smarter, not harder.  [Watch](https://youtu.be/IYg_5_l6YGw)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Version Lens 👓  [Watch](https://youtu.be/JWxXhQrRpMQ)  
+ - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
  - Try this to select text in the terminal and editor!  [Watch](https://youtu.be/NQngxM6GD9g)  
  - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)  
- - Software developer packing list  [Watch](https://youtu.be/GU0w682MpaQ)  
- - Visualize data structures and algorithms  [Watch](https://youtu.be/uehCDW1fxUw)  
- - Use this with really long files #vscode  [Watch](https://youtu.be/dbGu7SiFL50)
+ - Software developer packing list  [Watch](https://youtu.be/GU0w682MpaQ)
 # Channel: Mateusz Chrobok
   
+ - 📈 Ranking platform społecznościowych  [Watch](https://youtu.be/4pm80_W4O9c)  
  - 🪟 sudo w Windowsach nadchodzi  [Watch](https://youtu.be/NM3mPJsggpQ)  
  - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)  
  - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)  
- - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)  
- - Bekdur w hotelowych kartach-kluczach!  [Watch](https://youtu.be/-EA6F9BkSMQ)
+ - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)
 # Channel: Cloud Native Computing Foundation
   
- - Deaf and Hard of Hearing WG Meeting - 2024-10-22  [Watch](https://youtu.be/UGXQ4Zx1Ong)  
+ - ChatLoopBackOff - Episode 34 (Crossplane)  [Watch](https://youtu.be/rqpQgnvSaeY)  
  - Cloud Native Live: Beyond the black box  [Watch](https://youtu.be/CZ8nj2_bzR8)  
+ - Deaf and Hard of Hearing WG Meeting - 2024-10-22  [Watch](https://youtu.be/UGXQ4Zx1Ong)  
  - Cloud Native Live: From inner loop development to Kubernetes with SpinKube  [Watch](https://youtu.be/ke5W8eFx1gM)  
- - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)  
- - Securing the Supply Chain: A Practical Guide to SLSA Compliance from Build to... Enguerrand Allamel  [Watch](https://youtu.be/733HXxEnm0I)
+ - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)
 # Channel: Real Python
   
+ - Python's Global Interpreter Lock (GIL): Concurrency, Threading, & Multitasking  [Watch](https://youtu.be/yBX89xUmnyk)  
  - How to Handle 24-bit WAV Files in Python  [Watch](https://youtu.be/kD0JbpW-n5I)  
  - Making Python More Approachable  [Watch](https://youtu.be/jeJFUHBXLAk)  
  - Narwhals: Expanding DataFrame Compatibility Between Libraries | Real Python Podcast #224  [Watch](https://youtu.be/w5DFZbFYzCM)  
- - It Doesn't Have to Be Perfect!  [Watch](https://youtu.be/OzyFjMIWWM4)  
- - Returning Data of Alternate Types in Python  [Watch](https://youtu.be/6ZLLfvPKTao)
+ - It Doesn't Have to Be Perfect!  [Watch](https://youtu.be/OzyFjMIWWM4)
 # Channel: SysOps / DevOps Polska
   
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
