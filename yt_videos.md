@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)  
  - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)  
  - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
  - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
- - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)  
- - ⚡ FastAPI in 30 Seconds  [Watch](https://youtu.be/lX_G0l9jU94)
+ - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - Will AI help you write your code faster?  [Watch](https://youtu.be/H-7CaAFnk_M)  
+ - PROJECTS! 🎯  [Watch](https://youtu.be/IWv_fhsA73s)  
  - It’s tempting to dive right into the code editor and start building.  [Watch](https://youtu.be/BK5SLdRr-s4)  
  - What if I told you...  [Watch](https://youtu.be/rRCbfK8QfSM)  
- - This is the one thing you need to focus on first!  [Watch](https://youtu.be/Tvg2JCpGeq4)  
- - ADVANCED Python AI Multi-Agent Tutorial (RAG, Streamlit, Langflow & More!)  [Watch](https://youtu.be/msLovKSj8Q0)  
- - It's about being resourceful! Learn to use different AI tools to work smarter, not harder.  [Watch](https://youtu.be/IYg_5_l6YGw)
+ - This is the one thing you need to focus on first!  [Watch](https://youtu.be/Tvg2JCpGeq4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Ways You’re Not Using Copilot to Its Full Potential  [Watch](https://youtu.be/SLMfhuptCo8)  
  - Version Lens 👓  [Watch](https://youtu.be/JWxXhQrRpMQ)  
  - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
  - Try this to select text in the terminal and editor!  [Watch](https://youtu.be/NQngxM6GD9g)  
- - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)  
- - Software developer packing list  [Watch](https://youtu.be/GU0w682MpaQ)
+ - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)
 # Channel: Mateusz Chrobok
   
+ - 🎓 Zdradzę Ci moje know-how  [Watch](https://youtu.be/PqoWDrGiR4E)  
  - 📈 Ranking platform społecznościowych  [Watch](https://youtu.be/4pm80_W4O9c)  
  - 🪟 sudo w Windowsach nadchodzi  [Watch](https://youtu.be/NM3mPJsggpQ)  
  - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)  
- - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)  
- - Signal - komunikator, z którym możesz czuć się bezpiecznie  [Watch](https://youtu.be/iwB_zC51KlY)
+ - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 34 (Crossplane)  [Watch](https://youtu.be/rqpQgnvSaeY)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)
 # Channel: Real Python
   
+ - YAML vs JSON: Why Anchors Make YAML a Game Changer  [Watch](https://youtu.be/0Vl7IVc0OFI)  
+ - Python Getting Faster and Leaner & Ideas for Django Projects | Real Python Podcast #225  [Watch](https://youtu.be/0XHKjHgrlP0)  
  - Python's Global Interpreter Lock (GIL): Concurrency, Threading, & Multitasking  [Watch](https://youtu.be/yBX89xUmnyk)  
  - How to Handle 24-bit WAV Files in Python  [Watch](https://youtu.be/kD0JbpW-n5I)  
- - Making Python More Approachable  [Watch](https://youtu.be/jeJFUHBXLAk)  
- - Narwhals: Expanding DataFrame Compatibility Between Libraries | Real Python Podcast #224  [Watch](https://youtu.be/w5DFZbFYzCM)  
- - It Doesn't Have to Be Perfect!  [Watch](https://youtu.be/OzyFjMIWWM4)
+ - Making Python More Approachable  [Watch](https://youtu.be/jeJFUHBXLAk)
 # Channel: SysOps / DevOps Polska
   
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)
 # Channel: GitHub
   
+ - NixOS & Flux: Open Source Innovation and Sustainable Community Growth  [Watch](https://youtu.be/5ZqyewSRTg8)  
+ - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/yRVk86cvybg)  
  - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
- - Enhancing App Development: Integrating GitHub Models with Firebase  [Watch](https://youtu.be/xPZBNtoXgnk)  
- - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)  
- - GitHub Universe 2024 Security Track  [Watch](https://youtu.be/Ove_GSC49wo)  
- - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)
+ - Enhancing App Development: Integrating GitHub Models with Firebase-Genkitx  [Watch](https://youtu.be/xPZBNtoXgnk)  
+ - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
