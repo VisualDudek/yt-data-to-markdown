@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)  
  - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)  
  - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)  
  - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
- - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)  
- - 15 POWERFUL Python Libraries You Should Be Using  [Watch](https://youtu.be/OiLgG4CabPo)
+ - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - The Importance Of Feedback  [Watch](https://youtu.be/a7_wP5Tw01E)  
+ - 14 Hours of Python Game Development - from Beginner to Advanced  [Watch](https://youtu.be/RuTmd4g5K8Q)  
+ - Detach your ego from what you're building.  [Watch](https://youtu.be/QMm_e9soy8g)  
  - Will AI help you write your code faster?  [Watch](https://youtu.be/H-7CaAFnk_M)  
- - PROJECTS! 🎯  [Watch](https://youtu.be/IWv_fhsA73s)  
- - It’s tempting to dive right into the code editor and start building.  [Watch](https://youtu.be/BK5SLdRr-s4)  
- - What if I told you...  [Watch](https://youtu.be/rRCbfK8QfSM)  
- - This is the one thing you need to focus on first!  [Watch](https://youtu.be/Tvg2JCpGeq4)
+ - PROJECTS! 🎯  [Watch](https://youtu.be/IWv_fhsA73s)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -95,7 +95,7 @@ Youtube Videos
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)
 # Channel: GitHub
   
- - NixOS & Flux: Open Source Innovation and Sustainable Community Growth  [Watch](https://youtu.be/5ZqyewSRTg8)  
+ - NixOS & Flox: Open Source Innovation and Sustainable Community Growth  [Watch](https://youtu.be/5ZqyewSRTg8)  
  - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/yRVk86cvybg)  
  - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
  - Enhancing App Development: Integrating GitHub Models with Firebase-Genkitx  [Watch](https://youtu.be/xPZBNtoXgnk)  
