@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - Is this you?  [Watch](https://youtu.be/UakWmMBEN4c)  
+ - How to stand out as a software developer in 2024  [Watch](https://youtu.be/QwxnUNd4nP4)  
  - The Importance Of Feedback  [Watch](https://youtu.be/a7_wP5Tw01E)  
  - 14 Hours of Python Game Development - from Beginner to Advanced  [Watch](https://youtu.be/RuTmd4g5K8Q)  
- - Detach your ego from what you're building.  [Watch](https://youtu.be/QMm_e9soy8g)  
- - Will AI help you write your code faster?  [Watch](https://youtu.be/H-7CaAFnk_M)  
- - PROJECTS! 🎯  [Watch](https://youtu.be/IWv_fhsA73s)
+ - Detach your ego from what you're building.  [Watch](https://youtu.be/QMm_e9soy8g)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)
 # Channel: Mateusz Chrobok
   
+ - AI uciekła z piaskownicy - będzie jak w filmach?  [Watch](https://youtu.be/O0TAYlQ8RVk)  
  - 🎓 Zdradzę Ci moje know-how  [Watch](https://youtu.be/PqoWDrGiR4E)  
  - 📈 Ranking platform społecznościowych  [Watch](https://youtu.be/4pm80_W4O9c)  
  - 🪟 sudo w Windowsach nadchodzi  [Watch](https://youtu.be/NM3mPJsggpQ)  
- - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)  
- - Niemcy łapią darknetowych przestępców  [Watch](https://youtu.be/3IqEgmFTark)
+ - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 34 (Crossplane)  [Watch](https://youtu.be/rqpQgnvSaeY)  
