@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
  - The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)  
  - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)  
  - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)  
- - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)  
- - 3 Essential Testing Tips Every Developer Needs  [Watch](https://youtu.be/meeA-bFOcuk)
+ - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
 # Channel: Tech With Tim
   
+ - To be a Python dev, you’ll need more than just Python.  [Watch](https://youtu.be/24jxjAK2sas)  
+ - The best prep HACK to crush your software developer interview  [Watch](https://youtu.be/iXxeeuxIqvI)  
  - Is this you?  [Watch](https://youtu.be/UakWmMBEN4c)  
  - How to stand out as a software developer in 2024  [Watch](https://youtu.be/QwxnUNd4nP4)  
- - The Importance Of Feedback  [Watch](https://youtu.be/a7_wP5Tw01E)  
- - 14 Hours of Python Game Development - from Beginner to Advanced  [Watch](https://youtu.be/RuTmd4g5K8Q)  
- - Detach your ego from what you're building.  [Watch](https://youtu.be/QMm_e9soy8g)
+ - The Importance Of Feedback  [Watch](https://youtu.be/a7_wP5Tw01E)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Ways You’re Not Using Copilot to Its Full Potential  [Watch](https://youtu.be/SLMfhuptCo8)  
+ - The fastest way to get started with C#  [Watch](https://youtu.be/0qe30WAxeWE)  
+ - Unlock GitHub Copilot’s Full Potential: Advanced Features You’re Overlooking!  [Watch](https://youtu.be/SLMfhuptCo8)  
  - Version Lens 👓  [Watch](https://youtu.be/JWxXhQrRpMQ)  
  - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
- - Try this to select text in the terminal and editor!  [Watch](https://youtu.be/NQngxM6GD9g)  
- - Getting Started with Remote Development  [Watch](https://youtu.be/QA9jlp-o5vQ)
+ - Try this to select text in the terminal and editor!  [Watch](https://youtu.be/NQngxM6GD9g)
 # Channel: Mateusz Chrobok
   
  - AI uciekła z piaskownicy - będzie jak w filmach?  [Watch](https://youtu.be/O0TAYlQ8RVk)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)
 # Channel: Real Python
   
+ - our first gen z edit!  [Watch](https://youtu.be/kRSlb2RVBME)  
  - YAML vs JSON: Why Anchors Make YAML a Game Changer  [Watch](https://youtu.be/0Vl7IVc0OFI)  
  - Python Getting Faster and Leaner & Ideas for Django Projects | Real Python Podcast #225  [Watch](https://youtu.be/0XHKjHgrlP0)  
  - Python's Global Interpreter Lock (GIL): Concurrency, Threading, & Multitasking  [Watch](https://youtu.be/yBX89xUmnyk)  
- - How to Handle 24-bit WAV Files in Python  [Watch](https://youtu.be/kD0JbpW-n5I)  
- - Making Python More Approachable  [Watch](https://youtu.be/jeJFUHBXLAk)
+ - How to Handle 24-bit WAV Files in Python  [Watch](https://youtu.be/kD0JbpW-n5I)
 # Channel: SysOps / DevOps Polska
   
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)
 # Channel: GitHub
   
+ - GitHub Universe 2024: Stepping into style with custom sneakers  [Watch](https://youtu.be/w82LvHz94jA)  
+ - GitHub Universe 2024: 150+ speakers, 100+ sessions, endless possibilities  [Watch](https://youtu.be/0rk_hQF7rHo)  
+ - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)  
  - NixOS & Flox: Open Source Innovation and Sustainable Community Growth  [Watch](https://youtu.be/5ZqyewSRTg8)  
- - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/yRVk86cvybg)  
- - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)  
- - Enhancing App Development: Integrating GitHub Models with Firebase-Genkitx  [Watch](https://youtu.be/xPZBNtoXgnk)  
- - The Download: GitHub Universe, GitHub Copilot Workspace Tips & Tricks, and more  [Watch](https://youtu.be/AQW5eY5aX-s)
+ - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)  
  - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)  
  - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)  
  - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)  
- - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)  
- - REST APIs Explained in 30 secs #javascript #python #web #coding #programming  [Watch](https://youtu.be/hQUjpbb75eY)
+ - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)
