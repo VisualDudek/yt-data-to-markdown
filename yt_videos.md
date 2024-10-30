@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
+ - Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
+ - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
  - The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)  
  - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)  
- - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)  
- - What I Learnt as a Business Owner  [Watch](https://youtu.be/awqWiYUJy9k)
+ - ⚡ Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)  
  - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)  
  - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)  
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)  
- - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)  
- - stop using manual cloud creds! (oidc)  [Watch](https://youtu.be/YCGb7RP960E)
+ - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
- - To be a Python dev, you’ll need more than just Python.  [Watch](https://youtu.be/24jxjAK2sas)  
- - The best prep HACK to crush your software developer interview  [Watch](https://youtu.be/iXxeeuxIqvI)  
- - Is this you?  [Watch](https://youtu.be/UakWmMBEN4c)  
- - How to stand out as a software developer in 2024  [Watch](https://youtu.be/QwxnUNd4nP4)  
- - The Importance Of Feedback  [Watch](https://youtu.be/a7_wP5Tw01E)
+ - As a backend developer, you must be comfortable and pretty skilled in this area!  [Watch](https://youtu.be/K4QZZoGfgJs)  
+ - What To Learn To Become a Python Backend Developer In 2024+  [Watch](https://youtu.be/W3_5Tuur0o8)  
+ - frontend 🤝backend development #softwareengineer #softwaredeveloper #coding  [Watch](https://youtu.be/c9qmlYLerRI)  
+ - Python is an interesting programming language.  [Watch](https://youtu.be/WaJKuFLKtM0)  
+ - Why doesn't anyone talk about this Python Trick?  [Watch](https://youtu.be/YKtzKqPwops)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - The fastest way to get started with C#  [Watch](https://youtu.be/0qe30WAxeWE)  
- - Unlock GitHub Copilot’s Full Potential: Advanced Features You’re Overlooking!  [Watch](https://youtu.be/SLMfhuptCo8)  
- - Version Lens 👓  [Watch](https://youtu.be/JWxXhQrRpMQ)  
- - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
- - Try this to select text in the terminal and editor!  [Watch](https://youtu.be/NQngxM6GD9g)
+ - Themes for your icons in VS Code!  [Watch](https://youtu.be/HV-cSSXka_I)  
+ - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
+ - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
+ - 🔴 El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
+ - Voice-Powered Coding with GitHub Copilot  [Watch](https://youtu.be/pUPqKm5wVhw)
 # Channel: Mateusz Chrobok
   
+ - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)  
+ - 🏟️ Zapraszam na Oh My Hack!  [Watch](https://youtu.be/X36jpfUhknQ)  
+ - ⏰ W 60 sekund o Uczmnie  [Watch](https://youtu.be/exej7neyGVc)  
  - AI uciekła z piaskownicy - będzie jak w filmach?  [Watch](https://youtu.be/O0TAYlQ8RVk)  
- - 🎓 Zdradzę Ci moje know-how  [Watch](https://youtu.be/PqoWDrGiR4E)  
- - 📈 Ranking platform społecznościowych  [Watch](https://youtu.be/4pm80_W4O9c)  
- - 🪟 sudo w Windowsach nadchodzi  [Watch](https://youtu.be/NM3mPJsggpQ)  
- - 🥷 Chrome zabił uBlocka  [Watch](https://youtu.be/m7nHDu9F9-Q)
+ - 🎓 Zdradzę Ci moje know-how  [Watch](https://youtu.be/PqoWDrGiR4E)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: What's new in Kyverno 1.13?  [Watch](https://youtu.be/5iCOoLWMRzE)  
+ - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)  
  - ChatLoopBackOff - Episode 34 (Crossplane)  [Watch](https://youtu.be/rqpQgnvSaeY)  
  - Cloud Native Live: Beyond the black box  [Watch](https://youtu.be/CZ8nj2_bzR8)  
- - Deaf and Hard of Hearing WG Meeting - 2024-10-22  [Watch](https://youtu.be/UGXQ4Zx1Ong)  
- - Cloud Native Live: From inner loop development to Kubernetes with SpinKube  [Watch](https://youtu.be/ke5W8eFx1gM)  
- - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/hoprkEsqLcg)
+ - Deaf and Hard of Hearing WG Meeting - 2024-10-22  [Watch](https://youtu.be/UGXQ4Zx1Ong)
 # Channel: Real Python
   
+ - What Will You Learn From Real Python? (Trailer)  [Watch](https://youtu.be/3pIQEJdLWLE)  
+ - Rebuild Customer Trust: Leveraging Data Insights for Better Connections  [Watch](https://youtu.be/nco8kP3F2Po)  
  - our first gen z edit!  [Watch](https://youtu.be/kRSlb2RVBME)  
  - YAML vs JSON: Why Anchors Make YAML a Game Changer  [Watch](https://youtu.be/0Vl7IVc0OFI)  
- - Python Getting Faster and Leaner & Ideas for Django Projects | Real Python Podcast #225  [Watch](https://youtu.be/0XHKjHgrlP0)  
- - Python's Global Interpreter Lock (GIL): Concurrency, Threading, & Multitasking  [Watch](https://youtu.be/yBX89xUmnyk)  
- - How to Handle 24-bit WAV Files in Python  [Watch](https://youtu.be/kD0JbpW-n5I)
+ - Python Getting Faster and Leaner & Ideas for Django Projects | Real Python Podcast #225  [Watch](https://youtu.be/0XHKjHgrlP0)
 # Channel: SysOps / DevOps Polska
   
+ - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
  - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)  
  - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
- - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)  
- - [#518] Mixing GitOps and Terraform for a Scalable EKS CP at Ocado - M. Józefczyk, M. Mencner  [Watch](https://youtu.be/Bgkd07dxaBA)
+ - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -81,25 +81,25 @@ Youtube Videos
  - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)
 # Channel: Beyond Fireship
   
+ - JavaScript performance is weird... Write scientifically faster code with benchmarking  [Watch](https://youtu.be/_pWA4rbzvIg)  
  - Does Deno 2 really uncomplicate JavaScript?  [Watch](https://youtu.be/8IHhvkaVqVE)  
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)  
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)  
- - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)  
- - This UI component library is mind-blowing  [Watch](https://youtu.be/RPa3_AD1_Vs)
+ - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)
 # Channel: Christian Lempa
   
+ - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)  
  - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)  
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)  
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)  
- - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)  
- - My NEW HomeLab storage server!  [Watch](https://youtu.be/HriJkdgNlKs)
+ - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
- - GitHub Universe 2024: Stepping into style with custom sneakers  [Watch](https://youtu.be/w82LvHz94jA)  
- - GitHub Universe 2024: 150+ speakers, 100+ sessions, endless possibilities  [Watch](https://youtu.be/0rk_hQF7rHo)  
- - GitHub Constellation South Africa: Exclusive Preview Livestream  [Watch](https://youtu.be/aquJ62w7PF0)  
- - NixOS & Flox: Open Source Innovation and Sustainable Community Growth  [Watch](https://youtu.be/5ZqyewSRTg8)  
- - GitHub Start Up Wednesday with Jason Shen  [Watch](https://youtu.be/IfvJMcLrTkA)
+ - GitHub Universe 2024 - Day 2 Wednesday, Oct 30  [Watch](https://youtu.be/951OQEn4SN0)  
+ - GitHub Universe 2024 Day 1 Recap  [Watch](https://youtu.be/6Opo7AJIEwk)  
+ - The AI-native developer experience | GitHub Universe 2024  [Watch](https://youtu.be/dFNrunK1az8)  
+ - Multi file editing magic with AI-native Copilot! (Cassidy Williams) #githubuniverse Opening Keynote  [Watch](https://youtu.be/ZQ4WwRyo5pc)  
+ - GitHub's AI-native future is here. Join us as we share phase 2! #githubuniverse Opening Keynote  [Watch](https://youtu.be/DQqyzesgDfg)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
