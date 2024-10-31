@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
- - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
+ - Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
  - The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)  
- - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)  
- - ⚡ Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)
+ - When You Shouldn’t Remove Code Duplication (And How to Refactor the Right Way)  [Watch](https://youtu.be/6AGDnJ_26uw)  
+ - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
+ - How to become a backend developer in 2024  [Watch](https://youtu.be/kh8COqqaEE0)  
  - As a backend developer, you must be comfortable and pretty skilled in this area!  [Watch](https://youtu.be/K4QZZoGfgJs)  
  - What To Learn To Become a Python Backend Developer In 2024+  [Watch](https://youtu.be/W3_5Tuur0o8)  
  - frontend 🤝backend development #softwareengineer #softwaredeveloper #coding  [Watch](https://youtu.be/c9qmlYLerRI)  
- - Python is an interesting programming language.  [Watch](https://youtu.be/WaJKuFLKtM0)  
- - Why doesn't anyone talk about this Python Trick?  [Watch](https://youtu.be/YKtzKqPwops)
+ - Python is an interesting programming language.  [Watch](https://youtu.be/WaJKuFLKtM0)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Voice-Powered Coding with GitHub Copilot  [Watch](https://youtu.be/pUPqKm5wVhw)
 # Channel: Mateusz Chrobok
   
+ - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)  
  - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)  
  - 🏟️ Zapraszam na Oh My Hack!  [Watch](https://youtu.be/X36jpfUhknQ)  
  - ⏰ W 60 sekund o Uczmnie  [Watch](https://youtu.be/exej7neyGVc)  
- - AI uciekła z piaskownicy - będzie jak w filmach?  [Watch](https://youtu.be/O0TAYlQ8RVk)  
- - 🎓 Zdradzę Ci moje know-how  [Watch](https://youtu.be/PqoWDrGiR4E)
+ - AI uciekła z piaskownicy - będzie jak w filmach?  [Watch](https://youtu.be/O0TAYlQ8RVk)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 35 (OpenFGA)  [Watch](https://youtu.be/pcN2QcwinKE)  
+ - Cloud Native Live: Virtual Event - Whats new in Kyverno?  [Watch](https://youtu.be/Bf_pUu644pU)  
  - Cloud Native Live: What's new in Kyverno 1.13?  [Watch](https://youtu.be/5iCOoLWMRzE)  
- - Cloud Native Live: Cloud-native secrets mgmt with Pulumi ESC and K8s  [Watch](https://youtu.be/AnUAsxEsUQQ)  
- - ChatLoopBackOff - Episode 34 (Crossplane)  [Watch](https://youtu.be/rqpQgnvSaeY)  
- - Cloud Native Live: Beyond the black box  [Watch](https://youtu.be/CZ8nj2_bzR8)  
- - Deaf and Hard of Hearing WG Meeting - 2024-10-22  [Watch](https://youtu.be/UGXQ4Zx1Ong)
+ - Applicability of Open Policy Agent (OPA) in telecom domain  [Watch](https://youtu.be/wWZYY6lV8Pc)  
+ - Fine grained authorization for Backstage using OpenFGA  [Watch](https://youtu.be/wWFbLPvwOyQ)
 # Channel: Real Python
   
+ - Magic Methods: Initializing and Instantiating  [Watch](https://youtu.be/rRdT-eJdUuA)  
  - What Will You Learn From Real Python? (Trailer)  [Watch](https://youtu.be/3pIQEJdLWLE)  
  - Rebuild Customer Trust: Leveraging Data Insights for Better Connections  [Watch](https://youtu.be/nco8kP3F2Po)  
  - our first gen z edit!  [Watch](https://youtu.be/kRSlb2RVBME)  
- - YAML vs JSON: Why Anchors Make YAML a Game Changer  [Watch](https://youtu.be/0Vl7IVc0OFI)  
- - Python Getting Faster and Leaner & Ideas for Django Projects | Real Python Podcast #225  [Watch](https://youtu.be/0XHKjHgrlP0)
+ - YAML vs JSON: Why Anchors Make YAML a Game Changer  [Watch](https://youtu.be/0Vl7IVc0OFI)
 # Channel: SysOps / DevOps Polska
   
  - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
- - GitHub Universe 2024 - Day 2 Wednesday, Oct 30  [Watch](https://youtu.be/951OQEn4SN0)  
- - GitHub Universe 2024 Day 1 Recap  [Watch](https://youtu.be/6Opo7AJIEwk)  
- - The AI-native developer experience | GitHub Universe 2024  [Watch](https://youtu.be/dFNrunK1az8)  
- - Multi file editing magic with AI-native Copilot! (Cassidy Williams) #githubuniverse Opening Keynote  [Watch](https://youtu.be/ZQ4WwRyo5pc)  
- - GitHub's AI-native future is here. Join us as we share phase 2! #githubuniverse Opening Keynote  [Watch](https://youtu.be/DQqyzesgDfg)
+ - How GitHub Copilot helped SAP reimagine the developer experience  [Watch](https://youtu.be/wGmCYMiIoUc)  
+ - Embracing AI: How It Elevates the Developer Community  [Watch](https://youtu.be/BpQBOTXgPRA)  
+ - GitHub Universe 2024 - Day 1 Tuesday, Oct 29  [Watch](https://youtu.be/5ov2NYBdGSw)  
+ - An inside look at how GitHub uses LLMs, fine-tuning, and prompt engineering in GitHub Copilot  [Watch](https://youtu.be/IUjXuTrJuPw)  
+ - Securely building GitHub on GitHub  [Watch](https://youtu.be/eig5tJUl688)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
