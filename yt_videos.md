@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
+ - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)  
+ - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
  - Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
  - The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)  
- - When You Shouldn’t Remove Code Duplication (And How to Refactor the Right Way)  [Watch](https://youtu.be/6AGDnJ_26uw)  
- - Deploying FastAPI: Start With the End in Mind  [Watch](https://youtu.be/A5I45e0CDbI)
+ - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
+ - 3 main things you need to include in your Programming Resume  [Watch](https://youtu.be/7VF2zz8OSDM)  
+ - Before you can become a Front-end Developer, you need to learn these 3 core things  [Watch](https://youtu.be/3llgxidA6R0)  
  - How to become a backend developer in 2024  [Watch](https://youtu.be/kh8COqqaEE0)  
  - As a backend developer, you must be comfortable and pretty skilled in this area!  [Watch](https://youtu.be/K4QZZoGfgJs)  
- - What To Learn To Become a Python Backend Developer In 2024+  [Watch](https://youtu.be/W3_5Tuur0o8)  
- - frontend 🤝backend development #softwareengineer #softwaredeveloper #coding  [Watch](https://youtu.be/c9qmlYLerRI)  
- - Python is an interesting programming language.  [Watch](https://youtu.be/WaJKuFLKtM0)
+ - What To Learn To Become a Python Backend Developer In 2024+  [Watch](https://youtu.be/W3_5Tuur0o8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Themes for your icons in VS Code!  [Watch](https://youtu.be/HV-cSSXka_I)  
+ - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
+ - VS Code icon themes  [Watch](https://youtu.be/HV-cSSXka_I)  
  - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
  - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
- - 🔴 El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
- - Voice-Powered Coding with GitHub Copilot  [Watch](https://youtu.be/pUPqKm5wVhw)
+ - 🔴 El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)
 # Channel: Mateusz Chrobok
   
+ - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)  
  - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)  
  - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)  
  - 🏟️ Zapraszam na Oh My Hack!  [Watch](https://youtu.be/X36jpfUhknQ)  
- - ⏰ W 60 sekund o Uczmnie  [Watch](https://youtu.be/exej7neyGVc)  
- - AI uciekła z piaskownicy - będzie jak w filmach?  [Watch](https://youtu.be/O0TAYlQ8RVk)
+ - ⏰ W 60 sekund o Uczmnie  [Watch](https://youtu.be/exej7neyGVc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 35 (OpenFGA)  [Watch](https://youtu.be/pcN2QcwinKE)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Fine grained authorization for Backstage using OpenFGA  [Watch](https://youtu.be/wWFbLPvwOyQ)
 # Channel: Real Python
   
+ - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)  
+ - PySheets: Spreadsheets in the Browser Using PyScript | Real Python Podcast #226  [Watch](https://youtu.be/wg7OXHtF3n0)  
  - Magic Methods: Initializing and Instantiating  [Watch](https://youtu.be/rRdT-eJdUuA)  
  - What Will You Learn From Real Python? (Trailer)  [Watch](https://youtu.be/3pIQEJdLWLE)  
- - Rebuild Customer Trust: Leveraging Data Insights for Better Connections  [Watch](https://youtu.be/nco8kP3F2Po)  
- - our first gen z edit!  [Watch](https://youtu.be/kRSlb2RVBME)  
- - YAML vs JSON: Why Anchors Make YAML a Game Changer  [Watch](https://youtu.be/0Vl7IVc0OFI)
+ - Rebuild Customer Trust: Leveraging Data Insights for Better Connections  [Watch](https://youtu.be/nco8kP3F2Po)
 # Channel: SysOps / DevOps Polska
   
  - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)  
+ - Using your repository for RAG: Learnings from GitHub Copilot Chat  [Watch](https://youtu.be/MqBBEgpYh0Y)  
+ - Let’s hack a #GitHubUniverse badge!  [Watch](https://youtu.be/z7sN6Slu0IM)  
  - How GitHub Copilot helped SAP reimagine the developer experience  [Watch](https://youtu.be/wGmCYMiIoUc)  
- - Embracing AI: How It Elevates the Developer Community  [Watch](https://youtu.be/BpQBOTXgPRA)  
- - GitHub Universe 2024 - Day 1 Tuesday, Oct 29  [Watch](https://youtu.be/5ov2NYBdGSw)  
- - An inside look at how GitHub uses LLMs, fine-tuning, and prompt engineering in GitHub Copilot  [Watch](https://youtu.be/IUjXuTrJuPw)  
- - Securely building GitHub on GitHub  [Watch](https://youtu.be/eig5tJUl688)
+ - Embracing AI: How It Elevates the Developer Community  [Watch](https://youtu.be/BpQBOTXgPRA)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
