@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
  - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)  
- - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
- - Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
- - The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)  
- - Be CAREFUL With Removing Code Duplication  [Watch](https://youtu.be/6AGDnJ_26uw)
+ - Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
+ - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
+ - 😣 The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
+ - What country are you from? 🌍 Drop it in the comments!  [Watch](https://youtu.be/xg8np-PRk-o)  
+ - 5 Useful f String Tricks  [Watch](https://youtu.be/xDTOz3qCOVM)  
+ - Hidden Python operator that will make your code 3x shorter  [Watch](https://youtu.be/p-CO1tNyiTU)  
  - 3 main things you need to include in your Programming Resume  [Watch](https://youtu.be/7VF2zz8OSDM)  
- - Before you can become a Front-end Developer, you need to learn these 3 core things  [Watch](https://youtu.be/3llgxidA6R0)  
- - How to become a backend developer in 2024  [Watch](https://youtu.be/kh8COqqaEE0)  
- - As a backend developer, you must be comfortable and pretty skilled in this area!  [Watch](https://youtu.be/K4QZZoGfgJs)  
- - What To Learn To Become a Python Backend Developer In 2024+  [Watch](https://youtu.be/W3_5Tuur0o8)
+ - Before you can become a Front-end Developer, you need to learn these 3 core things  [Watch](https://youtu.be/3llgxidA6R0)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Copilot Edits in VS Code  [Watch](https://youtu.be/C2ikOtidlUQ)  
  - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
  - VS Code icon themes  [Watch](https://youtu.be/HV-cSSXka_I)  
  - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
- - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
- - 🔴 El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)
+ - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)
 # Channel: Mateusz Chrobok
   
+ - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)  
  - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)  
  - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)  
  - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)  
- - 🏟️ Zapraszam na Oh My Hack!  [Watch](https://youtu.be/X36jpfUhknQ)  
- - ⏰ W 60 sekund o Uczmnie  [Watch](https://youtu.be/exej7neyGVc)
+ - 🏟️ Zapraszam na Oh My Hack!  [Watch](https://youtu.be/X36jpfUhknQ)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 35 (OpenFGA)  [Watch](https://youtu.be/pcN2QcwinKE)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
  - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)  
  - Using your repository for RAG: Learnings from GitHub Copilot Chat  [Watch](https://youtu.be/MqBBEgpYh0Y)  
  - Let’s hack a #GitHubUniverse badge!  [Watch](https://youtu.be/z7sN6Slu0IM)  
- - How GitHub Copilot helped SAP reimagine the developer experience  [Watch](https://youtu.be/wGmCYMiIoUc)  
- - Embracing AI: How It Elevates the Developer Community  [Watch](https://youtu.be/BpQBOTXgPRA)
+ - How GitHub Copilot helped SAP reimagine the developer experience  [Watch](https://youtu.be/wGmCYMiIoUc)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
