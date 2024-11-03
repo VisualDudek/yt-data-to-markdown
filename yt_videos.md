@@ -6,7 +6,7 @@ Youtube Videos
   
  - Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
  - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)  
- - Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
+ - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
  - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
  - 😣 The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
+ - Hidden Features in Pythons Print Function!  [Watch](https://youtu.be/tUK3b2xX7Sk)  
+ - To be a software developer in 2024, you have to do much more than just code...  [Watch](https://youtu.be/OYCaFwv90BI)  
+ - Here’s why I use the Command Line  [Watch](https://youtu.be/t6m_DduTBIY)  
  - What country are you from? 🌍 Drop it in the comments!  [Watch](https://youtu.be/xg8np-PRk-o)  
- - 5 Useful f String Tricks  [Watch](https://youtu.be/xDTOz3qCOVM)  
- - Hidden Python operator that will make your code 3x shorter  [Watch](https://youtu.be/p-CO1tNyiTU)  
- - 3 main things you need to include in your Programming Resume  [Watch](https://youtu.be/7VF2zz8OSDM)  
- - Before you can become a Front-end Developer, you need to learn these 3 core things  [Watch](https://youtu.be/3llgxidA6R0)
+ - 5 Useful f String Tricks  [Watch](https://youtu.be/xDTOz3qCOVM)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)
 # Channel: Mateusz Chrobok
   
+ - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)  
  - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)  
  - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)  
  - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)  
- - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)  
- - 🏟️ Zapraszam na Oh My Hack!  [Watch](https://youtu.be/X36jpfUhknQ)
+ - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 35 (OpenFGA)  [Watch](https://youtu.be/pcN2QcwinKE)  
