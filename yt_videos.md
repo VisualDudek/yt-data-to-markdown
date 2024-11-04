@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
  - Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
  - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)  
  - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
- - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)  
- - 😣 The Innovation Misstep  [Watch](https://youtu.be/37fDArEgOI8)
+ - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
+ - 1 year vs 10 years as a programmer  [Watch](https://youtu.be/YhAH0NSEOes)  
  - Hidden Features in Pythons Print Function!  [Watch](https://youtu.be/tUK3b2xX7Sk)  
  - To be a software developer in 2024, you have to do much more than just code...  [Watch](https://youtu.be/OYCaFwv90BI)  
  - Here’s why I use the Command Line  [Watch](https://youtu.be/t6m_DduTBIY)  
- - What country are you from? 🌍 Drop it in the comments!  [Watch](https://youtu.be/xg8np-PRk-o)  
- - 5 Useful f String Tricks  [Watch](https://youtu.be/xDTOz3qCOVM)
+ - What country are you from? 🌍 Drop it in the comments!  [Watch](https://youtu.be/xg8np-PRk-o)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)
 # Channel: Mateusz Chrobok
   
+ - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)  
  - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)  
  - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)  
  - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)  
- - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)  
- - Wyzwania menedżerów w dobie AI, feat. Bartek Pucek  [Watch](https://youtu.be/_5yuE1ibvgw)
+ - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 35 (OpenFGA)  [Watch](https://youtu.be/pcN2QcwinKE)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Fine grained authorization for Backstage using OpenFGA  [Watch](https://youtu.be/wWFbLPvwOyQ)
 # Channel: Real Python
   
+ - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)  
  - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)  
  - PySheets: Spreadsheets in the Browser Using PyScript | Real Python Podcast #226  [Watch](https://youtu.be/wg7OXHtF3n0)  
  - Magic Methods: Initializing and Instantiating  [Watch](https://youtu.be/rRdT-eJdUuA)  
- - What Will You Learn From Real Python? (Trailer)  [Watch](https://youtu.be/3pIQEJdLWLE)  
- - Rebuild Customer Trust: Leveraging Data Insights for Better Connections  [Watch](https://youtu.be/nco8kP3F2Po)
+ - What Will You Learn From Real Python? (Trailer)  [Watch](https://youtu.be/3pIQEJdLWLE)
 # Channel: SysOps / DevOps Polska
   
+ - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
  - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
  - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)  
- - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)  
- - [#519] Zarządzanie tożsamością i dostępami w MSP z wykorzystaniem FreeIPA - Krzysztof Wierzbicki  [Watch](https://youtu.be/Gu0ziZbrlmY)
+ - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
  - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
  - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)  
  - Using your repository for RAG: Learnings from GitHub Copilot Chat  [Watch](https://youtu.be/MqBBEgpYh0Y)  
- - Let’s hack a #GitHubUniverse badge!  [Watch](https://youtu.be/z7sN6Slu0IM)  
- - How GitHub Copilot helped SAP reimagine the developer experience  [Watch](https://youtu.be/wGmCYMiIoUc)
+ - Let’s hack a #GitHubUniverse badge!  [Watch](https://youtu.be/z7sN6Slu0IM)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
