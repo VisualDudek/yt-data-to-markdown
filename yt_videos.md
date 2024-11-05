@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
  - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
- - Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
- - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)  
- - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)  
- - ❌ Why Rushing into Legacy Code Changes is a Mistake  [Watch](https://youtu.be/hn_0mjT5zTA)
+ - 🥳 Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
+ - GitHub Actions for Python Packages: How to Automate Releases to PyPi  [Watch](https://youtu.be/NMQwzI9hprg)  
+ - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
 # Channel: Tech With Tim
   
+ - Best programming language to start with in 2024 for beginners.  [Watch](https://youtu.be/xfGCZRBKknA)  
+ - Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)  [Watch](https://youtu.be/rBEQL2tC2xY)  
+ - The Mindset of Successful Programmers  [Watch](https://youtu.be/-J5Q4-0eViM)  
  - 1 year vs 10 years as a programmer  [Watch](https://youtu.be/YhAH0NSEOes)  
- - Hidden Features in Pythons Print Function!  [Watch](https://youtu.be/tUK3b2xX7Sk)  
- - To be a software developer in 2024, you have to do much more than just code...  [Watch](https://youtu.be/OYCaFwv90BI)  
- - Here’s why I use the Command Line  [Watch](https://youtu.be/t6m_DduTBIY)  
- - What country are you from? 🌍 Drop it in the comments!  [Watch](https://youtu.be/xg8np-PRk-o)
+ - Hidden Features in Pythons Print Function!  [Watch](https://youtu.be/tUK3b2xX7Sk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)
 # Channel: Mateusz Chrobok
   
+ - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)  
  - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)  
  - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)  
  - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)  
- - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)  
- - 📻 Radio jednak nie dla AI  [Watch](https://youtu.be/IEkoTFa2OOc)
+ - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff - Episode 35 (OpenFGA)  [Watch](https://youtu.be/pcN2QcwinKE)  
- - Cloud Native Live: Virtual Event - Whats new in Kyverno?  [Watch](https://youtu.be/Bf_pUu644pU)  
- - Cloud Native Live: What's new in Kyverno 1.13?  [Watch](https://youtu.be/5iCOoLWMRzE)  
- - Applicability of Open Policy Agent (OPA) in telecom domain  [Watch](https://youtu.be/wWZYY6lV8Pc)  
- - Fine grained authorization for Backstage using OpenFGA  [Watch](https://youtu.be/wWFbLPvwOyQ)
+ - Build authorization at scale with SpiceDB on Amazon EKS  [Watch](https://youtu.be/KT1RqTBeA1c)  
+ - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/nQOvFtqgHZg)  
+ - Cloud Native Live: Managing threat intelligence in Falco  [Watch](https://youtu.be/H-7LAo1IalY)  
+ - Containerd Fundamentals  [Watch](https://youtu.be/cr1062-s8x4)  
+ - Balancing Innovation with Responsibility Ethics in Cloud Native Development  [Watch](https://youtu.be/w1q36eAaURY)
 # Channel: Real Python
   
  - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - 🌟 GitHub Constellation South Africa 2024 - Live from Sandton, Johannesburg  [Watch](https://youtu.be/sus7PorxzYY)  
  - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
  - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
  - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)  
- - Using your repository for RAG: Learnings from GitHub Copilot Chat  [Watch](https://youtu.be/MqBBEgpYh0Y)  
- - Let’s hack a #GitHubUniverse badge!  [Watch](https://youtu.be/z7sN6Slu0IM)
+ - Using your repository for RAG: Learnings from GitHub Copilot Chat  [Watch](https://youtu.be/MqBBEgpYh0Y)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - How SSH Really Works  [Watch](https://youtu.be/rlMfRa7vfO8)  
  - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)  
  - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)  
  - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)  
- - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)  
- - Introduction to Generative AI  [Watch](https://youtu.be/2p5OHDxR2l8)
+ - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)
