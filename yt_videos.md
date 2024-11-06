@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/QANzqo1D8w8)  
- - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
- - 🥳 Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
- - GitHub Actions for Python Packages: How to Automate Releases to PyPi  [Watch](https://youtu.be/NMQwzI9hprg)  
- - 💣 Why Failing Fast is Good  [Watch](https://youtu.be/-N9O5IkQEWg)
+ - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
+ - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)  
+ - 🦺 Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
+ - Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
+ - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)  
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)  
  - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)  
  - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)  
- - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)  
- - stop making giant changesets!  [Watch](https://youtu.be/Gu6XrmfwivI)
+ - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
+ - Are you just a "hobby programmer"?  [Watch](https://youtu.be/ABzrAyQYFww)  
+ - Python Unpacking trick you probably didn't know about  [Watch](https://youtu.be/AJn5C9NALBA)  
  - Best programming language to start with in 2024 for beginners.  [Watch](https://youtu.be/xfGCZRBKknA)  
  - Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)  [Watch](https://youtu.be/rBEQL2tC2xY)  
- - The Mindset of Successful Programmers  [Watch](https://youtu.be/-J5Q4-0eViM)  
- - 1 year vs 10 years as a programmer  [Watch](https://youtu.be/YhAH0NSEOes)  
- - Hidden Features in Pythons Print Function!  [Watch](https://youtu.be/tUK3b2xX7Sk)
+ - The Mindset of Successful Programmers  [Watch](https://youtu.be/-J5Q4-0eViM)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 🔴 El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
+ - 🔴 Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
  - Copilot Edits in VS Code  [Watch](https://youtu.be/C2ikOtidlUQ)  
  - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
- - VS Code icon themes  [Watch](https://youtu.be/HV-cSSXka_I)  
- - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
- - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)
+ - VS Code icon themes  [Watch](https://youtu.be/HV-cSSXka_I)
 # Channel: Mateusz Chrobok
   
+ - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)  
  - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)  
  - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)  
  - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)  
- - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)  
- - 🎙️ Myliłem się  [Watch](https://youtu.be/JjAkX4fMDso)
+ - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)
 # Channel: Cloud Native Computing Foundation
   
- - Build authorization at scale with SpiceDB on Amazon EKS  [Watch](https://youtu.be/KT1RqTBeA1c)  
- - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/nQOvFtqgHZg)  
+ - ChatLoopBackOff - Episode 36 (Istio)  [Watch](https://youtu.be/yfAcnsjPmtQ)  
+ - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-11-05  [Watch](https://youtu.be/A-wOBCO4d_Q)  
  - Cloud Native Live: Managing threat intelligence in Falco  [Watch](https://youtu.be/H-7LAo1IalY)  
- - Containerd Fundamentals  [Watch](https://youtu.be/cr1062-s8x4)  
- - Balancing Innovation with Responsibility Ethics in Cloud Native Development  [Watch](https://youtu.be/w1q36eAaURY)
+ - Keynote Engineering Success The Blueprint for Effective Platform Adoption  [Watch](https://youtu.be/AthNAz8BZSU)  
+ - Build authorization at scale with SpiceDB on Amazon EKS  [Watch](https://youtu.be/KT1RqTBeA1c)
 # Channel: Real Python
   
+ - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)  
  - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)  
  - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)  
  - PySheets: Spreadsheets in the Browser Using PyScript | Real Python Podcast #226  [Watch](https://youtu.be/wg7OXHtF3n0)  
- - Magic Methods: Initializing and Instantiating  [Watch](https://youtu.be/rRdT-eJdUuA)  
- - What Will You Learn From Real Python? (Trailer)  [Watch](https://youtu.be/3pIQEJdLWLE)
+ - Magic Methods: Initializing and Instantiating  [Watch](https://youtu.be/rRdT-eJdUuA)
 # Channel: SysOps / DevOps Polska
   
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - How these software developers got their start in programming  [Watch](https://youtu.be/-buwvYd2v2Y)  
  - 🌟 GitHub Constellation South Africa 2024 - Live from Sandton, Johannesburg  [Watch](https://youtu.be/sus7PorxzYY)  
  - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
  - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
- - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)  
- - Using your repository for RAG: Learnings from GitHub Copilot Chat  [Watch](https://youtu.be/MqBBEgpYh0Y)
+ - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
