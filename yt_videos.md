@@ -6,9 +6,9 @@ Youtube Videos
   
  - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
  - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)  
- - 🦺 Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
- - Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
- - Step-by-Step Python Package Deployment with GitHub Actions  [Watch](https://youtu.be/NMQwzI9hprg)
+ - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
+ - 🥳 Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
+ - GitHub Actions for Python Packages: How to Automate Releases to PyPi  [Watch](https://youtu.be/NMQwzI9hprg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
+ - Why you might want to skip Python in 2024  [Watch](https://youtu.be/xX0ZTZDUTho)  
  - Are you just a "hobby programmer"?  [Watch](https://youtu.be/ABzrAyQYFww)  
  - Python Unpacking trick you probably didn't know about  [Watch](https://youtu.be/AJn5C9NALBA)  
  - Best programming language to start with in 2024 for beginners.  [Watch](https://youtu.be/xfGCZRBKknA)  
- - Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)  [Watch](https://youtu.be/rBEQL2tC2xY)  
- - The Mindset of Successful Programmers  [Watch](https://youtu.be/-J5Q4-0eViM)
+ - Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)  [Watch](https://youtu.be/rBEQL2tC2xY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - 🔴 El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
- - 🔴 Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
+ - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
+ - Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
+ - El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
  - Copilot Edits in VS Code  [Watch](https://youtu.be/C2ikOtidlUQ)  
- - 🔴 Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)  
- - VS Code icon themes  [Watch](https://youtu.be/HV-cSSXka_I)
+ - Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)
 # Channel: Mateusz Chrobok
   
+ - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)  
  - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)  
  - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)  
  - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)  
- - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)  
- - 💊 Zhakowano SuperPharm  [Watch](https://youtu.be/aZRznHEXPoc)
+ - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 36 (Istio)  [Watch](https://youtu.be/yfAcnsjPmtQ)  
- - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-11-05  [Watch](https://youtu.be/A-wOBCO4d_Q)  
- - Cloud Native Live: Managing threat intelligence in Falco  [Watch](https://youtu.be/H-7LAo1IalY)  
- - Keynote Engineering Success The Blueprint for Effective Platform Adoption  [Watch](https://youtu.be/AthNAz8BZSU)  
- - Build authorization at scale with SpiceDB on Amazon EKS  [Watch](https://youtu.be/KT1RqTBeA1c)
+ - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/WHT1CisdKEE)  
+ - IBAC for Devs: Automate Istio Authorization Policies using Envoy metrics with a declarative approach  [Watch](https://youtu.be/ul4Vp02pG74)  
+ - Building WebAssembly Apps with Spin & .NET 9  [Watch](https://youtu.be/GoVZLWFQHMU)  
+ - OTel at KubeCon - Know before you go  [Watch](https://youtu.be/RoWOmku0bCQ)
 # Channel: Real Python
   
+ - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)  
  - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)  
  - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)  
  - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)  
- - PySheets: Spreadsheets in the Browser Using PyScript | Real Python Podcast #226  [Watch](https://youtu.be/wg7OXHtF3n0)  
- - Magic Methods: Initializing and Instantiating  [Watch](https://youtu.be/rRdT-eJdUuA)
+ - PySheets: Spreadsheets in the Browser Using PyScript | Real Python Podcast #226  [Watch](https://youtu.be/wg7OXHtF3n0)
 # Channel: SysOps / DevOps Polska
   
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
@@ -96,9 +96,9 @@ Youtube Videos
 # Channel: GitHub
   
  - How these software developers got their start in programming  [Watch](https://youtu.be/-buwvYd2v2Y)  
- - 🌟 GitHub Constellation South Africa 2024 - Live from Sandton, Johannesburg  [Watch](https://youtu.be/sus7PorxzYY)  
  - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
  - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
+ - Open source and accessibility: Empowering people with disabilities globally  [Watch](https://youtu.be/0Wc-mnYx8jA)  
  - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)
 # Channel: CloudHeroes - Video
   
