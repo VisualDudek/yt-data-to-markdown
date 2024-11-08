@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
+ - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
+ - 💡 Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
  - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)  
- - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
- - 🥳 Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)  
- - GitHub Actions for Python Packages: How to Automate Releases to PyPi  [Watch](https://youtu.be/NMQwzI9hprg)
+ - 🦺 Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
+ - 🥳 Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
+ - Part 1: Do you think a CS degree is necessary to be a great software developer?  [Watch](https://youtu.be/a6F8MrAnV1A)  
+ - Learn Go With This ONE Project  [Watch](https://youtu.be/0ySoir3qBuM)  
+ - Are you more interested in building UI?  [Watch](https://youtu.be/Irk2e8Jre8Y)  
  - Why you might want to skip Python in 2024  [Watch](https://youtu.be/xX0ZTZDUTho)  
- - Are you just a "hobby programmer"?  [Watch](https://youtu.be/ABzrAyQYFww)  
- - Python Unpacking trick you probably didn't know about  [Watch](https://youtu.be/AJn5C9NALBA)  
- - Best programming language to start with in 2024 for beginners.  [Watch](https://youtu.be/xfGCZRBKknA)  
- - Automate Your Life Using Python! (Email Unsubscribe with Python Tutorial)  [Watch](https://youtu.be/rBEQL2tC2xY)
+ - Are you just a "hobby programmer"?  [Watch](https://youtu.be/ABzrAyQYFww)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
  - Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
+ - Comment your code better  [Watch](https://youtu.be/pBOBR8INXNM)  
+ - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
  - El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
- - Copilot Edits in VS Code  [Watch](https://youtu.be/C2ikOtidlUQ)  
- - Animaciones en la Web: Aprende HTML, CSS y JS con Movimiento  [Watch](https://youtu.be/JcPyHU6a4zY)
+ - Copilot Edits in VS Code  [Watch](https://youtu.be/C2ikOtidlUQ)
 # Channel: Mateusz Chrobok
   
  - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)  
@@ -60,11 +60,11 @@ Youtube Videos
  - OTel at KubeCon - Know before you go  [Watch](https://youtu.be/RoWOmku0bCQ)
 # Channel: Real Python
   
+ - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)  
  - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)  
  - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)  
  - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)  
- - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)  
- - PySheets: Spreadsheets in the Browser Using PyScript | Real Python Podcast #226  [Watch](https://youtu.be/wg7OXHtF3n0)
+ - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)
 # Channel: SysOps / DevOps Polska
   
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions  [Watch](https://youtu.be/rhSir1KB2M0)  
  - How these software developers got their start in programming  [Watch](https://youtu.be/-buwvYd2v2Y)  
  - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
  - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
- - Open source and accessibility: Empowering people with disabilities globally  [Watch](https://youtu.be/0Wc-mnYx8jA)  
- - GitHub Universe 2024 - Day 2 (Live Replay)  [Watch](https://youtu.be/951OQEn4SN0)
+ - Open source and accessibility: Empowering people with disabilities globally  [Watch](https://youtu.be/0Wc-mnYx8jA)
 # Channel: CloudHeroes - Video
   
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
