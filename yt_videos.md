@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
  - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
- - 💡 Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
+ - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
  - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)  
- - 🦺 Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)  
- - 🥳 Celebrating Small Wins in Refactoring  [Watch](https://youtu.be/OdTLI5DV4Vw)
+ - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
- - Part 1: Do you think a CS degree is necessary to be a great software developer?  [Watch](https://youtu.be/a6F8MrAnV1A)  
- - Learn Go With This ONE Project  [Watch](https://youtu.be/0ySoir3qBuM)  
- - Are you more interested in building UI?  [Watch](https://youtu.be/Irk2e8Jre8Y)  
- - Why you might want to skip Python in 2024  [Watch](https://youtu.be/xX0ZTZDUTho)  
- - Are you just a "hobby programmer"?  [Watch](https://youtu.be/ABzrAyQYFww)
+ - How did your first interview go as a software developer?  [Watch](https://youtu.be/xCsHF4m4dyM)  
+ - 5 reasons you would wanna switch  [Watch](https://youtu.be/WjlqiiMOxVo)  
+ - Part 2 :  [Watch](https://youtu.be/J2J5JJP9BHY)  
+ - Part 1:  [Watch](https://youtu.be/a6F8MrAnV1A)  
+ - Learn Go With This ONE Project  [Watch](https://youtu.be/0ySoir3qBuM)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Add Copilot to your VS Code extension  [Watch](https://youtu.be/qtf7X4SOK1w)  
  - Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
  - Comment your code better  [Watch](https://youtu.be/pBOBR8INXNM)  
  - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
- - El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)  
- - Copilot Edits in VS Code  [Watch](https://youtu.be/C2ikOtidlUQ)
+ - El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)
 # Channel: Mateusz Chrobok
   
+ - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)  
  - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)  
  - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)  
  - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)  
- - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)  
- - Jak łapać cyberszpiegów i złodziei?  [Watch](https://youtu.be/c8EdWObvKUs)
+ - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 36 (Istio)  [Watch](https://youtu.be/yfAcnsjPmtQ)  
@@ -95,18 +95,18 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - Copilot Workspace: 4 tips to supercharge your AI coding  [Watch](https://youtu.be/vfbQoFxUfqo)  
  - Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions  [Watch](https://youtu.be/rhSir1KB2M0)  
  - How these software developers got their start in programming  [Watch](https://youtu.be/-buwvYd2v2Y)  
  - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
- - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)  
- - Open source and accessibility: Empowering people with disabilities globally  [Watch](https://youtu.be/0Wc-mnYx8jA)
+ - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)
 # Channel: CloudHeroes - Video
   
+ - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
  - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
- - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)  
- - NEW - Zmiany w alokacji publicznych adresów IP dla EC2  [Watch](https://youtu.be/ltZzJRP3Wxg)
+ - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)
 # Channel: Nicole van der Hoeven
   
  - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
