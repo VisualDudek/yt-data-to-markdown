@@ -6,9 +6,9 @@ Youtube Videos
   
  - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
  - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
- - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
+ - 💡 Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
  - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)  
- - Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)
+ - 🦺 Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
+ - Any gamers here? 🎮  [Watch](https://youtu.be/bc3DJP-uum8)  
  - How did your first interview go as a software developer?  [Watch](https://youtu.be/xCsHF4m4dyM)  
  - 5 reasons you would wanna switch  [Watch](https://youtu.be/WjlqiiMOxVo)  
  - Part 2 :  [Watch](https://youtu.be/J2J5JJP9BHY)  
- - Part 1:  [Watch](https://youtu.be/a6F8MrAnV1A)  
- - Learn Go With This ONE Project  [Watch](https://youtu.be/0ySoir3qBuM)
+ - Part 1:  [Watch](https://youtu.be/a6F8MrAnV1A)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)
 # Channel: Mateusz Chrobok
   
+ - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)  
  - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)  
  - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)  
  - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)  
- - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)  
- - 🔭 Nadchodzi Orion  [Watch](https://youtu.be/w20Sc0gerK8)
+ - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 36 (Istio)  [Watch](https://youtu.be/yfAcnsjPmtQ)  
