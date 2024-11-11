@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
- - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
- - 💡 Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
- - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)  
- - 🦺 Building a Test-Driven Safety Net  [Watch](https://youtu.be/1vHR5sJPuKY)
+ - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
+ - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
+ - The Right Way to Shut Down a SaaS Product  [Watch](https://youtu.be/KrJCVqtwOMk)  
+ - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
+ - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
+ - Tutorial: Caught yourself making this coding mistake?  [Watch](https://youtu.be/J3n-qagP8qw)  
+ - Learn JavaScript as Fast as Possible Learn JavaScript in ~75 Minutes  [Watch](https://youtu.be/TjjKcgtlsY8)  
+ - First developer job...  [Watch](https://youtu.be/Fh1ITaMjlA8)  
  - Any gamers here? 🎮  [Watch](https://youtu.be/bc3DJP-uum8)  
- - How did your first interview go as a software developer?  [Watch](https://youtu.be/xCsHF4m4dyM)  
- - 5 reasons you would wanna switch  [Watch](https://youtu.be/WjlqiiMOxVo)  
- - Part 2 :  [Watch](https://youtu.be/J2J5JJP9BHY)  
- - Part 1:  [Watch](https://youtu.be/a6F8MrAnV1A)
+ - How did your first interview go as a software developer?  [Watch](https://youtu.be/xCsHF4m4dyM)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Enabling self-service for developers using K8s operators  [Watch](https://youtu.be/sLcekxuKdgQ)  
  - ChatLoopBackOff - Episode 36 (Istio)  [Watch](https://youtu.be/yfAcnsjPmtQ)  
  - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/WHT1CisdKEE)  
  - IBAC for Devs: Automate Istio Authorization Policies using Envoy metrics with a declarative approach  [Watch](https://youtu.be/ul4Vp02pG74)  
- - Building WebAssembly Apps with Spin & .NET 9  [Watch](https://youtu.be/GoVZLWFQHMU)  
- - OTel at KubeCon - Know before you go  [Watch](https://youtu.be/RoWOmku0bCQ)
+ - Building WebAssembly Apps with Spin & .NET 9  [Watch](https://youtu.be/GoVZLWFQHMU)
 # Channel: Real Python
   
+ - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)  
  - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)  
  - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)  
  - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)  
- - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)  
- - Going Offline Transformed My Sleep and Work Focus  [Watch](https://youtu.be/yzwvJ34Mh6k)
+ - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)
 # Channel: SysOps / DevOps Polska
   
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
 # Channel: GitHub
   
+ - Preventing Code Leaks: GitHub's Secret Scanning Success  [Watch](https://youtu.be/hBBUkpqguRc)  
  - Copilot Workspace: 4 tips to supercharge your AI coding  [Watch](https://youtu.be/vfbQoFxUfqo)  
  - Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions  [Watch](https://youtu.be/rhSir1KB2M0)  
  - How these software developers got their start in programming  [Watch](https://youtu.be/-buwvYd2v2Y)  
- - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)  
- - Introducing the next chapter for GitHub Enterprise  [Watch](https://youtu.be/pr025bvJt-o)
+ - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
