@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
- - The Right Way to Shut Down a SaaS Product  [Watch](https://youtu.be/KrJCVqtwOMk)  
+ - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
+ - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
  - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
  - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
 # Channel: Tech With Tim
   
+ - The one thing that sets a good developer apart from an average one.  [Watch](https://youtu.be/RVMQsVhdlqc)  
+ - Devs do you do this before building?  [Watch](https://youtu.be/Xe7cSRMX2-w)  
+ - Tutorial: Ever written code like this?  [Watch](https://youtu.be/YYWEKjPbRME)  
  - Tutorial: Caught yourself making this coding mistake?  [Watch](https://youtu.be/J3n-qagP8qw)  
- - Learn JavaScript as Fast as Possible Learn JavaScript in ~75 Minutes  [Watch](https://youtu.be/TjjKcgtlsY8)  
- - First developer job...  [Watch](https://youtu.be/Fh1ITaMjlA8)  
- - Any gamers here? 🎮  [Watch](https://youtu.be/bc3DJP-uum8)  
- - How did your first interview go as a software developer?  [Watch](https://youtu.be/xCsHF4m4dyM)
+ - JavaScript Speed Course - JavaScript in ~75 Minutes  [Watch](https://youtu.be/TjjKcgtlsY8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)
 # Channel: SysOps / DevOps Polska
   
+ - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
  - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
  - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
- - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)  
- - [#520] No space left on device / Too many open files - ale czy na pewno? - Patryk Kuźmicz  [Watch](https://youtu.be/mhoB8ZSUbbw)
+ - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)
 # Channel: Christian Lempa
   
+ - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)  
  - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)  
  - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)  
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)  
- - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)  
- - Automate GitLab + Terraform (state file, and more)  [Watch](https://youtu.be/X-Amz-Hdy8Q)
+ - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)
 # Channel: GitHub
   
+ - How to measure the effectiveness of GitHub Copilot  [Watch](https://youtu.be/QKkhS-yUF_g)  
+ - Octoverse 2024: The rise of Python and AI  [Watch](https://youtu.be/b5Ho2_Si6hY)  
  - Preventing Code Leaks: GitHub's Secret Scanning Success  [Watch](https://youtu.be/hBBUkpqguRc)  
  - Copilot Workspace: 4 tips to supercharge your AI coding  [Watch](https://youtu.be/vfbQoFxUfqo)  
- - Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions  [Watch](https://youtu.be/rhSir1KB2M0)  
- - How these software developers got their start in programming  [Watch](https://youtu.be/-buwvYd2v2Y)  
- - Use GitHub Spark to create a podcast timers app  [Watch](https://youtu.be/T9bx_Dn2zxg)
+ - Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions  [Watch](https://youtu.be/rhSir1KB2M0)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Big-O Notation in 3 Minutes  [Watch](https://youtu.be/x2CRZaN2xgM)  
  - How SSH Really Works  [Watch](https://youtu.be/rlMfRa7vfO8)  
  - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)  
  - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)  
- - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)  
- - Top Kafka Use Cases You Should Know  [Watch](https://youtu.be/Ajz6dBp_EB4)
+ - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)
