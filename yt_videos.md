@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
- - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
- - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)  
- - Live Code Review | Manim  [Watch](https://youtu.be/QANzqo1D8w8)
+ - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
+ - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
+ - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
+ - The Right Way to Shut Down a SaaS Product  [Watch](https://youtu.be/KrJCVqtwOMk)  
+ - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)  
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)  
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)  
  - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)  
- - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)  
- - debugging flaky cascading failure after upgrading pytest!  [Watch](https://youtu.be/zyZXdvJgGPM)
+ - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)
 # Channel: Tech With Tim
   
+ - When did you first start coding?  [Watch](https://youtu.be/S5LSHmsskOo)  
+ - Have you ever tried this trick in F String?  [Watch](https://youtu.be/Yc2KogWYk6U)  
  - The one thing that sets a good developer apart from an average one.  [Watch](https://youtu.be/RVMQsVhdlqc)  
  - Devs do you do this before building?  [Watch](https://youtu.be/Xe7cSRMX2-w)  
- - Tutorial: Ever written code like this?  [Watch](https://youtu.be/YYWEKjPbRME)  
- - Tutorial: Caught yourself making this coding mistake?  [Watch](https://youtu.be/J3n-qagP8qw)  
- - JavaScript Speed Course - JavaScript in ~75 Minutes  [Watch](https://youtu.be/TjjKcgtlsY8)
+ - Tutorial: Ever written code like this?  [Watch](https://youtu.be/YYWEKjPbRME)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The all NEW GitHub Copilot Experience  [Watch](https://youtu.be/NvWl-bZTDKw)  
  - Add Copilot to your VS Code extension  [Watch](https://youtu.be/qtf7X4SOK1w)  
  - Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
  - Comment your code better  [Watch](https://youtu.be/pBOBR8INXNM)  
- - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)  
- - El día que comencé a desarrollar todas mis webs con Python  [Watch](https://youtu.be/FJEXZi7QdbM)
+ - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)
 # Channel: Mateusz Chrobok
   
+ - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)  
  - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)  
  - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)  
  - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)  
- - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)  
- - 👀 Ukrywanie szortów może szkodzić  [Watch](https://youtu.be/NyYjf9Gsnrk)
+ - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Enabling self-service for developers using K8s operators  [Watch](https://youtu.be/sLcekxuKdgQ)  
- - ChatLoopBackOff - Episode 36 (Istio)  [Watch](https://youtu.be/yfAcnsjPmtQ)  
- - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/WHT1CisdKEE)  
- - IBAC for Devs: Automate Istio Authorization Policies using Envoy metrics with a declarative approach  [Watch](https://youtu.be/ul4Vp02pG74)  
- - Building WebAssembly Apps with Spin & .NET 9  [Watch](https://youtu.be/GoVZLWFQHMU)
+ - Sponsored Keynote: The Evolution of MLOps - Alex Yeh, GMI Cloud  [Watch](https://youtu.be/_5jJM1yR3Dc)  
+ - Sponsored Keynote: IBM Instana's Automated Resource Optimization Powered by IBM Turbon... Joe Sforza  [Watch](https://youtu.be/AWKM-u1X1kQ)  
+ - Day 0 - KubeCon + CloudNativeCon North America  [Watch](https://youtu.be/bHEBxXf7t6U)  
+ - ArgoCon | Welcome + Project Update - Pratik Wadher, Intuit  [Watch](https://youtu.be/UsknzklBaaU)  
+ - Sponsored Keynote: Advancing Cloud Native AI Innovation Through Open Collaboration - Yuan Tang  [Watch](https://youtu.be/kG_wqP2CXUE)
 # Channel: Real Python
   
+ - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)  
  - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)  
  - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)  
  - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)  
- - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)  
- - Safeguard Your Code! How PEP 750 Enhances Python f-Strings  [Watch](https://youtu.be/zCduPzLekwM)
+ - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)
 # Channel: SysOps / DevOps Polska
   
  - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)
 # Channel: GitHub
   
+ - Unlocking AI at scale: Crafting a compliant and high-impact AI strategy  [Watch](https://youtu.be/yZtzZXBYAek)  
+ - Why AI is now a developer's best friend  [Watch](https://youtu.be/Gg4Widve_mA)  
+ - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)  
  - How to measure the effectiveness of GitHub Copilot  [Watch](https://youtu.be/QKkhS-yUF_g)  
- - Octoverse 2024: The rise of Python and AI  [Watch](https://youtu.be/b5Ho2_Si6hY)  
- - Preventing Code Leaks: GitHub's Secret Scanning Success  [Watch](https://youtu.be/hBBUkpqguRc)  
- - Copilot Workspace: 4 tips to supercharge your AI coding  [Watch](https://youtu.be/vfbQoFxUfqo)  
- - Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions  [Watch](https://youtu.be/rhSir1KB2M0)
+ - Octoverse 2024: The rise of Python and AI  [Watch](https://youtu.be/b5Ho2_Si6hY)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
