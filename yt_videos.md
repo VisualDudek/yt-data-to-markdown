@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
- - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
- - The Right Way to Shut Down a SaaS Product  [Watch](https://youtu.be/KrJCVqtwOMk)  
+ - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
+ - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
+ - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
  - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)
 # Channel: Tech With Tim
   
+ - For all the beginner Full-stack Developers, this one is for you🫡  [Watch](https://youtu.be/Fz-jdNsl9Fg)  
+ - Build a Python AI Image Generator in 15 Minutes (Free & Local)  [Watch](https://youtu.be/-X_d2AVXVkQ)  
  - When did you first start coding?  [Watch](https://youtu.be/S5LSHmsskOo)  
  - Have you ever tried this trick in F String?  [Watch](https://youtu.be/Yc2KogWYk6U)  
- - The one thing that sets a good developer apart from an average one.  [Watch](https://youtu.be/RVMQsVhdlqc)  
- - Devs do you do this before building?  [Watch](https://youtu.be/Xe7cSRMX2-w)  
- - Tutorial: Ever written code like this?  [Watch](https://youtu.be/YYWEKjPbRME)
+ - The one thing that sets a good developer apart from an average one.  [Watch](https://youtu.be/RVMQsVhdlqc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - The all NEW GitHub Copilot Experience  [Watch](https://youtu.be/NvWl-bZTDKw)  
- - Add Copilot to your VS Code extension  [Watch](https://youtu.be/qtf7X4SOK1w)  
- - Announcing VS Code for the Web - Azure (private preview)  [Watch](https://youtu.be/qmJigVn8gcg)  
- - Comment your code better  [Watch](https://youtu.be/pBOBR8INXNM)  
- - 🔴  Introducción al front-end: Crea interfaces increíbles desde cero  [Watch](https://youtu.be/3cbhKA2mQW8)
+ - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
+ - You're copying your code wrong  [Watch](https://youtu.be/2dR_u_Nhb-Y)  
+ - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
+ - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)  
+ - The all NEW GitHub Copilot Experience  [Watch](https://youtu.be/NvWl-bZTDKw)
 # Channel: Mateusz Chrobok
   
+ - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)  
  - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)  
  - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)  
  - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)  
- - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)  
- - 🪠 Zhakowane robo-odkurzacze przemówiły  [Watch](https://youtu.be/Z91Rqr5eMas)
+ - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)
 # Channel: Cloud Native Computing Foundation
   
- - Sponsored Keynote: The Evolution of MLOps - Alex Yeh, GMI Cloud  [Watch](https://youtu.be/_5jJM1yR3Dc)  
- - Sponsored Keynote: IBM Instana's Automated Resource Optimization Powered by IBM Turbon... Joe Sforza  [Watch](https://youtu.be/AWKM-u1X1kQ)  
- - Day 0 - KubeCon + CloudNativeCon North America  [Watch](https://youtu.be/bHEBxXf7t6U)  
- - ArgoCon | Welcome + Project Update - Pratik Wadher, Intuit  [Watch](https://youtu.be/UsknzklBaaU)  
- - Sponsored Keynote: Advancing Cloud Native AI Innovation Through Open Collaboration - Yuan Tang  [Watch](https://youtu.be/kG_wqP2CXUE)
+ - XRegistry - Looking Beyond CloudEvents - Calum Murray, University of Toronto  [Watch](https://youtu.be/FW-yBJNgPaw)  
+ - How to Expand Your IDP: The New Building Blocks of Backstage- Ben Lambert & Patrik Oldsberg, Spotify  [Watch](https://youtu.be/BzPCJMQH8tg)  
+ - How to Get Started Contributing in the CNCF - Destiny O'Connor & Riaan Kleinhans  [Watch](https://youtu.be/8qnSMnWqifg)  
+ - Guiding Kubernetes: The Steering Committee's Role in Project Evolution - Maciej Szulik  [Watch](https://youtu.be/qZNnA562sJY)  
+ - Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi  [Watch](https://youtu.be/VbCtDF8qlWA)
 # Channel: Real Python
   
+ - Working With TOML and Python: Data Types & Tables  [Watch](https://youtu.be/V2Vi0FSR8Eo)  
  - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)  
  - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)  
  - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)  
- - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)  
- - Secure Your Brand on PyPI! Exploring PEP 752's Namespace Proposal  [Watch](https://youtu.be/BxRpUnVVdFc)
+ - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)
 # Channel: SysOps / DevOps Polska
   
  - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
