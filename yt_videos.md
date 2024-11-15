@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
- - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
- - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)  
- - Dependency Inversion Principle (DIP)  [Watch](https://youtu.be/LI_QnHRf3jU)
+ - Why You Should Switch to SQLModel for FastAPI Projects  [Watch](https://youtu.be/GONyd0CUrPc)  
+ - ⚡ FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
+ - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
+ - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
+ - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)
 # Channel: Tech With Tim
   
+ - Tutorial: F-string debugging  [Watch](https://youtu.be/Sgve1Db5w1E)  
+ - Can you solve this problem? 🫡👆  [Watch](https://youtu.be/0WDJwAcUAA4)  
+ - Looking at the old way of formatting Strings  [Watch](https://youtu.be/QyvV7-rGCBA)  
  - For all the beginner Full-stack Developers, this one is for you🫡  [Watch](https://youtu.be/Fz-jdNsl9Fg)  
- - Build a Python AI Image Generator in 15 Minutes (Free & Local)  [Watch](https://youtu.be/-X_d2AVXVkQ)  
- - When did you first start coding?  [Watch](https://youtu.be/S5LSHmsskOo)  
- - Have you ever tried this trick in F String?  [Watch](https://youtu.be/Yc2KogWYk6U)  
- - The one thing that sets a good developer apart from an average one.  [Watch](https://youtu.be/RVMQsVhdlqc)
+ - Build a Python AI Image Generator in 15 Minutes (Free & Local)  [Watch](https://youtu.be/-X_d2AVXVkQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Can Copilot build Copilot?  [Watch](https://youtu.be/uzz1F4Cw2bA)  
  - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
  - You're copying your code wrong  [Watch](https://youtu.be/2dR_u_Nhb-Y)  
  - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
- - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)  
- - The all NEW GitHub Copilot Experience  [Watch](https://youtu.be/NvWl-bZTDKw)
+ - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
 # Channel: Mateusz Chrobok
   
+ - 💰 Jak łatwo na AI się wzbogacić  [Watch](https://youtu.be/tyu5jiWZOMo)  
  - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)  
  - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)  
  - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)  
- - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)  
- - 🧠 Muzyka dobra dla mózgu  [Watch](https://youtu.be/IJcUC-Ixajs)
+ - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)
 # Channel: Cloud Native Computing Foundation
   
- - XRegistry - Looking Beyond CloudEvents - Calum Murray, University of Toronto  [Watch](https://youtu.be/FW-yBJNgPaw)  
- - How to Expand Your IDP: The New Building Blocks of Backstage- Ben Lambert & Patrik Oldsberg, Spotify  [Watch](https://youtu.be/BzPCJMQH8tg)  
- - How to Get Started Contributing in the CNCF - Destiny O'Connor & Riaan Kleinhans  [Watch](https://youtu.be/8qnSMnWqifg)  
- - Guiding Kubernetes: The Steering Committee's Role in Project Evolution - Maciej Szulik  [Watch](https://youtu.be/qZNnA562sJY)  
- - Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi  [Watch](https://youtu.be/VbCtDF8qlWA)
+ - Database DevOps: CD for Stateful Applications - Stephen Atwell & Christopher Crow  [Watch](https://youtu.be/oXrHyOrUwB8)  
+ - Engineering a Kubernetes Operator: Lessons Learned from Versions 1 to 5 - Andrew L'Ecuyer  [Watch](https://youtu.be/p2v7bPJkrVU)  
+ - Evolving Reddit’s Infrastructure via Principled Platform Abstractions - Karan Thukral & Harvey Xia  [Watch](https://youtu.be/ruto5Sak-jI)  
+ - From Chaos to Harmony, Transforming ML Engineering: A Kubernetes Adoption Jou... Paris Nakita Kejser  [Watch](https://youtu.be/yqobcMJ_1as)  
+ - Measuring All the Costs with OpenCost Plugins - Alex Meijer, Stackwatch  [Watch](https://youtu.be/yLAx2z4FqSk)
 # Channel: Real Python
   
- - Working With TOML and Python: Data Types & Tables  [Watch](https://youtu.be/V2Vi0FSR8Eo)  
+ - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
+ - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)  
  - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)  
  - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)  
- - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)  
- - Introduction to Web Scraping With Python: Your Scraping Environment & Creating BeautifulSoup Objects  [Watch](https://youtu.be/soVCCHAgRQI)
+ - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)
 # Channel: SysOps / DevOps Polska
   
  - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)
 # Channel: GitHub
   
- - Unlocking AI at scale: Crafting a compliant and high-impact AI strategy  [Watch](https://youtu.be/yZtzZXBYAek)  
- - Why AI is now a developer's best friend  [Watch](https://youtu.be/Gg4Widve_mA)  
  - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)  
- - How to measure the effectiveness of GitHub Copilot  [Watch](https://youtu.be/QKkhS-yUF_g)  
- - Octoverse 2024: The rise of Python and AI  [Watch](https://youtu.be/b5Ho2_Si6hY)
+ - How GitHub Strengthens Security Teamwork & Culture  [Watch](https://youtu.be/agQdYgEbWhA)  
+ - Honeywell delivers the future of automation, aviation, and energy transition with GitHub Copilot  [Watch](https://youtu.be/dFtZ3E27pqQ)  
+ - Thriving through change: A decade of engineering evolution at Spotify  [Watch](https://youtu.be/0oDH-0ulbMo)  
+ - Unlocking AI at scale: Crafting a compliant and high-impact AI strategy  [Watch](https://youtu.be/yZtzZXBYAek)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
