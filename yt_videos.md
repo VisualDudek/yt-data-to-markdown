@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
  - Why You Should Switch to SQLModel for FastAPI Projects  [Watch](https://youtu.be/GONyd0CUrPc)  
- - ⚡ FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
- - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)  
- - Killing off a SaaS Product is Harder Than You Think  [Watch](https://youtu.be/KrJCVqtwOMk)
+ - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
+ - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
+ - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)  
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)  
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)  
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)  
- - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)  
- - simplifying sorting! (all code sucks) #09  [Watch](https://youtu.be/VEG2kj87Uxw)
+ - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)
 # Channel: Tech With Tim
   
+ - Tutorial:  [Watch](https://youtu.be/4aHxtKWBpBw)  
+ - Coding Will NEVER Be The Same - Insane New AI Code Editor…  [Watch](https://youtu.be/YV7IPn4QmnE)  
  - Tutorial: F-string debugging  [Watch](https://youtu.be/Sgve1Db5w1E)  
  - Can you solve this problem? 🫡👆  [Watch](https://youtu.be/0WDJwAcUAA4)  
- - Looking at the old way of formatting Strings  [Watch](https://youtu.be/QyvV7-rGCBA)  
- - For all the beginner Full-stack Developers, this one is for you🫡  [Watch](https://youtu.be/Fz-jdNsl9Fg)  
- - Build a Python AI Image Generator in 15 Minutes (Free & Local)  [Watch](https://youtu.be/-X_d2AVXVkQ)
+ - Looking at the old way of formatting Strings  [Watch](https://youtu.be/QyvV7-rGCBA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
 # Channel: Mateusz Chrobok
   
+ - ☠️ W ransomware stabilnie  [Watch](https://youtu.be/EiLb5RsG7to)  
  - 💰 Jak łatwo na AI się wzbogacić  [Watch](https://youtu.be/tyu5jiWZOMo)  
  - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)  
  - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)  
- - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)  
- - 📱 Zarekwirowane iPhony… restartują się  [Watch](https://youtu.be/9otHL0Rzr9Q)
+ - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)
 # Channel: Cloud Native Computing Foundation
   
- - Database DevOps: CD for Stateful Applications - Stephen Atwell & Christopher Crow  [Watch](https://youtu.be/oXrHyOrUwB8)  
- - Engineering a Kubernetes Operator: Lessons Learned from Versions 1 to 5 - Andrew L'Ecuyer  [Watch](https://youtu.be/p2v7bPJkrVU)  
- - Evolving Reddit’s Infrastructure via Principled Platform Abstractions - Karan Thukral & Harvey Xia  [Watch](https://youtu.be/ruto5Sak-jI)  
- - From Chaos to Harmony, Transforming ML Engineering: A Kubernetes Adoption Jou... Paris Nakita Kejser  [Watch](https://youtu.be/yqobcMJ_1as)  
- - Measuring All the Costs with OpenCost Plugins - Alex Meijer, Stackwatch  [Watch](https://youtu.be/yLAx2z4FqSk)
+ - Day 3 - KubeCon + CloudNativeCon North America Highlights  [Watch](https://youtu.be/PHsNO6A2EaU)  
+ - Day 2 - KubeCon + CloudNativeCon North America Highlights  [Watch](https://youtu.be/-3QRZhloI6c)  
+ - Keynote: Closing Remarks  [Watch](https://youtu.be/a9yfILcQo34)  
+ - Keynote: Open Source Security Is Not A Spectator Sport - Justin Cappos & Santiago Torres Arias  [Watch](https://youtu.be/tqvjzsNmJZ8)  
+ - Sponsored Keynote: Application Development’s Great Cloud Native Di... Colin Walters & Preethi Thomas  [Watch](https://youtu.be/wpXl_8RckB8)
 # Channel: Real Python
   
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)
 # Channel: GitHub
   
+ - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)  
  - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)  
  - How GitHub Strengthens Security Teamwork & Culture  [Watch](https://youtu.be/agQdYgEbWhA)  
  - Honeywell delivers the future of automation, aviation, and energy transition with GitHub Copilot  [Watch](https://youtu.be/dFtZ3E27pqQ)  
- - Thriving through change: A decade of engineering evolution at Spotify  [Watch](https://youtu.be/0oDH-0ulbMo)  
- - Unlocking AI at scale: Crafting a compliant and high-impact AI strategy  [Watch](https://youtu.be/yZtzZXBYAek)
+ - Thriving through change: A decade of engineering evolution at Spotify  [Watch](https://youtu.be/0oDH-0ulbMo)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
