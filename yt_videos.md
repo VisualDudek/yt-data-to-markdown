@@ -6,9 +6,9 @@ Youtube Videos
   
  - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
  - Why You Should Switch to SQLModel for FastAPI Projects  [Watch](https://youtu.be/GONyd0CUrPc)  
- - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
- - Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)
+ - ⚡ FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
+ - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
+ - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)
 # Channel: Tech With Tim
   
+ - The easiest way to document your Python code!  [Watch](https://youtu.be/ARn7fbLaSAc)  
+ - Cracking the code to land a job at Google👀  [Watch](https://youtu.be/sxSVJAfuiPU)  
  - Tutorial:  [Watch](https://youtu.be/4aHxtKWBpBw)  
  - Coding Will NEVER Be The Same - Insane New AI Code Editor…  [Watch](https://youtu.be/YV7IPn4QmnE)  
- - Tutorial: F-string debugging  [Watch](https://youtu.be/Sgve1Db5w1E)  
- - Can you solve this problem? 🫡👆  [Watch](https://youtu.be/0WDJwAcUAA4)  
- - Looking at the old way of formatting Strings  [Watch](https://youtu.be/QyvV7-rGCBA)
+ - Tutorial: F-string debugging  [Watch](https://youtu.be/Sgve1Db5w1E)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
 # Channel: Mateusz Chrobok
   
+ - Uwierz w kłamstwo #DEFCON32  [Watch](https://youtu.be/SImGw8kfrj4)  
  - ☠️ W ransomware stabilnie  [Watch](https://youtu.be/EiLb5RsG7to)  
  - 💰 Jak łatwo na AI się wzbogacić  [Watch](https://youtu.be/tyu5jiWZOMo)  
  - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)  
- - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)  
- - Rozmowy z ChatemGPT to nie tajemnica #DEFCON32  [Watch](https://youtu.be/f2nl2Ml7H-w)
+ - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)
 # Channel: Cloud Native Computing Foundation
   
- - Day 3 - KubeCon + CloudNativeCon North America Highlights  [Watch](https://youtu.be/PHsNO6A2EaU)  
- - Day 2 - KubeCon + CloudNativeCon North America Highlights  [Watch](https://youtu.be/-3QRZhloI6c)  
- - Keynote: Closing Remarks  [Watch](https://youtu.be/a9yfILcQo34)  
- - Keynote: Open Source Security Is Not A Spectator Sport - Justin Cappos & Santiago Torres Arias  [Watch](https://youtu.be/tqvjzsNmJZ8)  
- - Sponsored Keynote: Application Development’s Great Cloud Native Di... Colin Walters & Preethi Thomas  [Watch](https://youtu.be/wpXl_8RckB8)
+ - WASM + KWOK Wizardry: Writing and Testing Scheduler Plugins at... Dejan Pejchev & Jonathan Giannuzzi  [Watch](https://youtu.be/O-cFJJYZkcs)  
+ - The Maintainer Monologues - Sarah Christoff, Jason Hall, Scott Rigby, Karen Chu & Ryan Nowak  [Watch](https://youtu.be/Qf1_5rU-Fts)  
+ - What Istio Got Wrong: Learnings from the Last Seven Years of Service... Christian Posta & Louis Ryan  [Watch](https://youtu.be/XW10IpsTmH8)  
+ - Which GPU Sharing Strategy Is Right for You? A Comprehensive Benchmark St... Kevin Klues & Yuan Chen  [Watch](https://youtu.be/nOgxv_R13Dg)  
+ - Gateway API: What's New, What's N... Christine Kim, Nick Young, Mattia Lavacca & Guilherme Cassolato  [Watch](https://youtu.be/reGxuaM7XBs)
 # Channel: Real Python
   
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)
 # Channel: GitHub
   
+ - AI's human touch: Embracing diverse abilities  [Watch](https://youtu.be/OtOZlBSgRk4)  
  - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)  
  - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)  
  - How GitHub Strengthens Security Teamwork & Culture  [Watch](https://youtu.be/agQdYgEbWhA)  
- - Honeywell delivers the future of automation, aviation, and energy transition with GitHub Copilot  [Watch](https://youtu.be/dFtZ3E27pqQ)  
- - Thriving through change: A decade of engineering evolution at Spotify  [Watch](https://youtu.be/0oDH-0ulbMo)
+ - Honeywell delivers the future of automation, aviation, and energy transition with GitHub Copilot  [Watch](https://youtu.be/dFtZ3E27pqQ)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
