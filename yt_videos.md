@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
  - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
- - Why You Should Switch to SQLModel for FastAPI Projects  [Watch](https://youtu.be/GONyd0CUrPc)  
- - ⚡ FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
- - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)  
- - 🗝️ What are SSH Keys?  [Watch](https://youtu.be/GMzMlDQf_6A)
+ - SQLModel + FastAPI: Say Goodbye to Repetitive Database Code  [Watch](https://youtu.be/GONyd0CUrPc)  
+ - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
+ - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)
 # Channel: Tech With Tim
   
+ - You need to know about live share if you're a Python developer and work in VSCode.  [Watch](https://youtu.be/a3VFs6KusUc)  
+ - Wanna code for Netflix?  [Watch](https://youtu.be/d-mT0I96qhI)  
  - The easiest way to document your Python code!  [Watch](https://youtu.be/ARn7fbLaSAc)  
  - Cracking the code to land a job at Google👀  [Watch](https://youtu.be/sxSVJAfuiPU)  
- - Tutorial:  [Watch](https://youtu.be/4aHxtKWBpBw)  
- - Coding Will NEVER Be The Same - Insane New AI Code Editor…  [Watch](https://youtu.be/YV7IPn4QmnE)  
- - Tutorial: F-string debugging  [Watch](https://youtu.be/Sgve1Db5w1E)
+ - Tutorial: How to test your Python code  [Watch](https://youtu.be/4aHxtKWBpBw)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)
 # Channel: Cloud Native Computing Foundation
   
+ - Day 0 - KubeCon + CloudNativeCon North America Highlights  [Watch](https://youtu.be/GeRtqLoderI)  
  - WASM + KWOK Wizardry: Writing and Testing Scheduler Plugins at... Dejan Pejchev & Jonathan Giannuzzi  [Watch](https://youtu.be/O-cFJJYZkcs)  
  - The Maintainer Monologues - Sarah Christoff, Jason Hall, Scott Rigby, Karen Chu & Ryan Nowak  [Watch](https://youtu.be/Qf1_5rU-Fts)  
  - What Istio Got Wrong: Learnings from the Last Seven Years of Service... Christian Posta & Louis Ryan  [Watch](https://youtu.be/XW10IpsTmH8)  
- - Which GPU Sharing Strategy Is Right for You? A Comprehensive Benchmark St... Kevin Klues & Yuan Chen  [Watch](https://youtu.be/nOgxv_R13Dg)  
- - Gateway API: What's New, What's N... Christine Kim, Nick Young, Mattia Lavacca & Guilherme Cassolato  [Watch](https://youtu.be/reGxuaM7XBs)
+ - Which GPU Sharing Strategy Is Right for You? A Comprehensive Benchmark St... Kevin Klues & Yuan Chen  [Watch](https://youtu.be/nOgxv_R13Dg)
 # Channel: Real Python
   
+ - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
  - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)  
  - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)  
- - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)  
- - New PEPs: Template Strings & External Wheel Hosting | Real Python Podcast #227  [Watch](https://youtu.be/iuB-s6L9Eao)
+ - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)
 # Channel: SysOps / DevOps Polska
   
+ - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)  
  - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
  - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
- - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)  
- - [#521] Prężenie muskułów, czyli deploymenty w Azure za pomocą Bicepa - Maciej Widomski  [Watch](https://youtu.be/7PKUj37mBlI)
+ - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
