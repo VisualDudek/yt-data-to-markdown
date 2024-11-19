@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
- - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
- - SQLModel + FastAPI: Say Goodbye to Repetitive Database Code  [Watch](https://youtu.be/GONyd0CUrPc)  
+ - 🤔 The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
+ - Why You Should Switch to SQLModel for FastAPI Projects  [Watch](https://youtu.be/GONyd0CUrPc)  
  - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
  - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)
 # Channel: Tech With Tim
   
+ - Ever used Python’s pprint function? It’s a game-changer  [Watch](https://youtu.be/oWNT3A3mQxA)  
+ - How to Create a FastAPI & React Project - Python Backend + React Frontend  [Watch](https://youtu.be/aSdVU9-SxH4)  
  - You need to know about live share if you're a Python developer and work in VSCode.  [Watch](https://youtu.be/a3VFs6KusUc)  
  - Wanna code for Netflix?  [Watch](https://youtu.be/d-mT0I96qhI)  
- - The easiest way to document your Python code!  [Watch](https://youtu.be/ARn7fbLaSAc)  
- - Cracking the code to land a job at Google👀  [Watch](https://youtu.be/sxSVJAfuiPU)  
- - Tutorial: How to test your Python code  [Watch](https://youtu.be/4aHxtKWBpBw)
+ - The easiest way to document your Python code!  [Watch](https://youtu.be/ARn7fbLaSAc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -40,7 +40,7 @@ Youtube Videos
 # Channel: Visual Studio Code
   
  - Can Copilot build Copilot?  [Watch](https://youtu.be/uzz1F4Cw2bA)  
- - 🔴 ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
+ - ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
  - You're copying your code wrong  [Watch](https://youtu.be/2dR_u_Nhb-Y)  
  - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
  - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
@@ -53,11 +53,11 @@ Youtube Videos
  - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)
 # Channel: Cloud Native Computing Foundation
   
- - Day 0 - KubeCon + CloudNativeCon North America Highlights  [Watch](https://youtu.be/GeRtqLoderI)  
- - WASM + KWOK Wizardry: Writing and Testing Scheduler Plugins at... Dejan Pejchev & Jonathan Giannuzzi  [Watch](https://youtu.be/O-cFJJYZkcs)  
- - The Maintainer Monologues - Sarah Christoff, Jason Hall, Scott Rigby, Karen Chu & Ryan Nowak  [Watch](https://youtu.be/Qf1_5rU-Fts)  
- - What Istio Got Wrong: Learnings from the Last Seven Years of Service... Christian Posta & Louis Ryan  [Watch](https://youtu.be/XW10IpsTmH8)  
- - Which GPU Sharing Strategy Is Right for You? A Comprehensive Benchmark St... Kevin Klues & Yuan Chen  [Watch](https://youtu.be/nOgxv_R13Dg)
+ - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/WHT1CisdKEE)  
+ - Sharing Is Caring: GPU Sharing and CDI in Device Plugins - Christopher Desiniotis & David Porter  [Watch](https://youtu.be/4YS8mQuI_-Y)  
+ - Securing Outgoing Traffic: Building a Powerful Internet Egress Gate... - Edie Yang & Akshita Agarwal  [Watch](https://youtu.be/YsCNJJbRLCk)  
+ - Open Policy Agent (OPA) Intro, Deep Dive & V1.0 Update - Charlie Egan, Styra & Rita Zhang, Microsoft  [Watch](https://youtu.be/QuotLxFb2f4)  
+ - The Future of DBaaS on Kubernetes - M. Logan, S. Pronin, D. Sigireddi, G. Bartolini  [Watch](https://youtu.be/Z35SlsYd1ds)
 # Channel: Real Python
   
  - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
@@ -88,18 +88,18 @@ Youtube Videos
  - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)
 # Channel: Christian Lempa
   
+ - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)  
  - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)  
  - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)  
  - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)  
- - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)  
- - Setup a personal NAS OS // Unraid Tutorial  [Watch](https://youtu.be/Y2VkyZiPaM8)
+ - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
 # Channel: GitHub
   
+ - #HappyCoding! Build intelligent apps with Visual Studio Code, GitHub, and Azure  [Watch](https://youtu.be/30OpmbWL1t8)  
  - AI's human touch: Embracing diverse abilities  [Watch](https://youtu.be/OtOZlBSgRk4)  
  - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)  
  - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)  
- - How GitHub Strengthens Security Teamwork & Culture  [Watch](https://youtu.be/agQdYgEbWhA)  
- - Honeywell delivers the future of automation, aviation, and energy transition with GitHub Copilot  [Watch](https://youtu.be/dFtZ3E27pqQ)
+ - How GitHub Strengthens Security Teamwork & Culture  [Watch](https://youtu.be/agQdYgEbWhA)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
