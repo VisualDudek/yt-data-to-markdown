@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
- - 🤔 The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
- - Why You Should Switch to SQLModel for FastAPI Projects  [Watch](https://youtu.be/GONyd0CUrPc)  
- - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)  
- - 😣 Regex Risks: What Every Developer Should Know  [Watch](https://youtu.be/nNOvX7Ajscs)
+ - Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
+ - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
+ - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
+ - SQLModel + FastAPI: Say Goodbye to Repetitive Database Code  [Watch](https://youtu.be/GONyd0CUrPc)  
+ - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)  
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)  
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)  
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)  
- - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)  
- - how does python's module `__getattr__` actually work?  [Watch](https://youtu.be/K1-wYUSQoF8)
+ - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
 # Channel: Tech With Tim
   
+ - Tutorial: Python Counter Function  [Watch](https://youtu.be/buPw2dK3gYo)  
  - Ever used Python’s pprint function? It’s a game-changer  [Watch](https://youtu.be/oWNT3A3mQxA)  
  - How to Create a FastAPI & React Project - Python Backend + React Frontend  [Watch](https://youtu.be/aSdVU9-SxH4)  
- - You need to know about live share if you're a Python developer and work in VSCode.  [Watch](https://youtu.be/a3VFs6KusUc)  
- - Wanna code for Netflix?  [Watch](https://youtu.be/d-mT0I96qhI)  
- - The easiest way to document your Python code!  [Watch](https://youtu.be/ARn7fbLaSAc)
+ - Want to work at Apple?  [Watch](https://youtu.be/OWDdixdRros)  
+ - You need to know about live share if you're a Python developer and work in VSCode.  [Watch](https://youtu.be/a3VFs6KusUc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -41,37 +41,37 @@ Youtube Videos
   
  - Can Copilot build Copilot?  [Watch](https://youtu.be/uzz1F4Cw2bA)  
  - ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
- - You're copying your code wrong  [Watch](https://youtu.be/2dR_u_Nhb-Y)  
+ - Shortcuts for copying in VS Code  [Watch](https://youtu.be/2dR_u_Nhb-Y)  
  - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
- - Browse your webapps directly in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
+ - Preview HTML in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
 # Channel: Mateusz Chrobok
   
+ - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)  
  - Uwierz w kłamstwo #DEFCON32  [Watch](https://youtu.be/SImGw8kfrj4)  
  - ☠️ W ransomware stabilnie  [Watch](https://youtu.be/EiLb5RsG7to)  
  - 💰 Jak łatwo na AI się wzbogacić  [Watch](https://youtu.be/tyu5jiWZOMo)  
- - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)  
- - 🍏 Restarty iPhonów - wiemy więcej  [Watch](https://youtu.be/UD7bR2NM_-w)
+ - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)
 # Channel: Cloud Native Computing Foundation
   
  - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/WHT1CisdKEE)  
+ - Keynote: Graduated Project Updates  [Watch](https://youtu.be/Qs2GFx8l43U)  
  - Sharing Is Caring: GPU Sharing and CDI in Device Plugins - Christopher Desiniotis & David Porter  [Watch](https://youtu.be/4YS8mQuI_-Y)  
  - Securing Outgoing Traffic: Building a Powerful Internet Egress Gate... - Edie Yang & Akshita Agarwal  [Watch](https://youtu.be/YsCNJJbRLCk)  
- - Open Policy Agent (OPA) Intro, Deep Dive & V1.0 Update - Charlie Egan, Styra & Rita Zhang, Microsoft  [Watch](https://youtu.be/QuotLxFb2f4)  
- - The Future of DBaaS on Kubernetes - M. Logan, S. Pronin, D. Sigireddi, G. Bartolini  [Watch](https://youtu.be/Z35SlsYd1ds)
+ - Open Policy Agent (OPA) Intro, Deep Dive & V1.0 Update - Charlie Egan, Styra & Rita Zhang, Microsoft  [Watch](https://youtu.be/QuotLxFb2f4)
 # Channel: Real Python
   
+ - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)  
  - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
  - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)  
- - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)  
- - Why Python Logging Feels Hard (and How to Start)  [Watch](https://youtu.be/odocrtCysCQ)
+ - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)
 # Channel: SysOps / DevOps Polska
   
+ - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)  
  - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)  
  - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
  - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
- - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)  
- - [#522] Droga do Platform Engineering w OLX - Maciej Sobkowiak  [Watch](https://youtu.be/rQKbypWsNCI)
+ - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
 # Channel: GitHub
   
+ - Building agentic systems with VS Code extensibility and GitHub Copilot at Uber  [Watch](https://youtu.be/8rkA5vWUE4Y)  
  - #HappyCoding! Build intelligent apps with Visual Studio Code, GitHub, and Azure  [Watch](https://youtu.be/30OpmbWL1t8)  
  - AI's human touch: Embracing diverse abilities  [Watch](https://youtu.be/OtOZlBSgRk4)  
  - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)  
- - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)  
- - How GitHub Strengthens Security Teamwork & Culture  [Watch](https://youtu.be/agQdYgEbWhA)
+ - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)  
  - Big-O Notation in 3 Minutes  [Watch](https://youtu.be/x2CRZaN2xgM)  
  - How SSH Really Works  [Watch](https://youtu.be/rlMfRa7vfO8)  
  - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)  
- - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)  
- - Why is Kubernetes Popular | What is Kubernetes?  [Watch](https://youtu.be/lv0DdVLZuHc)
+ - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)
