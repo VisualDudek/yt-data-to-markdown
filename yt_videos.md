@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
+ - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
  - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
- - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
+ - 🤔 The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
  - SQLModel + FastAPI: Say Goodbye to Repetitive Database Code  [Watch](https://youtu.be/GONyd0CUrPc)  
  - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
 # Channel: Tech With Tim
   
+ - Python Functions: The Data Class Function  [Watch](https://youtu.be/xT8JlhwZ_aE)  
+ - Tutorial: Python Enumerate Function  [Watch](https://youtu.be/R-hi43zoC64)  
  - Tutorial: Python Counter Function  [Watch](https://youtu.be/buPw2dK3gYo)  
  - Ever used Python’s pprint function? It’s a game-changer  [Watch](https://youtu.be/oWNT3A3mQxA)  
- - How to Create a FastAPI & React Project - Python Backend + React Frontend  [Watch](https://youtu.be/aSdVU9-SxH4)  
- - Want to work at Apple?  [Watch](https://youtu.be/OWDdixdRros)  
- - You need to know about live share if you're a Python developer and work in VSCode.  [Watch](https://youtu.be/a3VFs6KusUc)
+ - How to Create a FastAPI & React Project - Python Backend + React Frontend  [Watch](https://youtu.be/aSdVU9-SxH4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
+ - It's not a bug, it's a feature  [Watch](https://youtu.be/7Pipfjf3Mig)  
  - Can Copilot build Copilot?  [Watch](https://youtu.be/uzz1F4Cw2bA)  
  - ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
- - Shortcuts for copying in VS Code  [Watch](https://youtu.be/2dR_u_Nhb-Y)  
- - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
- - Preview HTML in VS Code  [Watch](https://youtu.be/ibZulGLXGf8)
+ - Shortcuts for copying in VS Code  [Watch](https://youtu.be/2dR_u_Nhb-Y)
 # Channel: Mateusz Chrobok
   
  - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)
 # Channel: Cloud Native Computing Foundation
   
- - Live with the Experts! CNCF Ambassadors & the Best of KubeCon  [Watch](https://youtu.be/WHT1CisdKEE)  
- - Keynote: Graduated Project Updates  [Watch](https://youtu.be/Qs2GFx8l43U)  
- - Sharing Is Caring: GPU Sharing and CDI in Device Plugins - Christopher Desiniotis & David Porter  [Watch](https://youtu.be/4YS8mQuI_-Y)  
- - Securing Outgoing Traffic: Building a Powerful Internet Egress Gate... - Edie Yang & Akshita Agarwal  [Watch](https://youtu.be/YsCNJJbRLCk)  
- - Open Policy Agent (OPA) Intro, Deep Dive & V1.0 Update - Charlie Egan, Styra & Rita Zhang, Microsoft  [Watch](https://youtu.be/QuotLxFb2f4)
+ - Securing Outgoing Traffic: Building a Powerful Internet Egress Gate... - Edie Yang & Akshita Agarwal  [Watch](https://youtu.be/y6oUAktso_4)  
+ - Cloud Native Live: From cloud to code  [Watch](https://youtu.be/t_rNSAyFDHE)  
+ - Accelerating Adoption: What’s New in Envoy Gateway and Why It Matters | Project Lightning Talk  [Watch](https://youtu.be/y6O220qbmXc)  
+ - Project Overview: A Hitchhiker's Guide to the CNCF Landscape - Katherine Druckman and Lori Lorusso  [Watch](https://youtu.be/ilVd19DDyIk)  
+ - Lightning Talk: Running Kind Clusters with GPU Support Using Nvkind - Evan Lezar, NVIDIA  [Watch](https://youtu.be/jnHlwZKJiL4)
 # Channel: Real Python
   
  - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)  
  - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
  - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)  
- - Why 'It Works on My Machine' Isn't Enough in Python  [Watch](https://youtu.be/RYRjd6P0e9k)
+ - Working With TOML and Python: Data Types & Tables  [Watch](https://youtu.be/V2Vi0FSR8Eo)
 # Channel: SysOps / DevOps Polska
   
  - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
 # Channel: GitHub
   
+ - Inside GitHub: SNEEK PEAK into the creative world of GitHub stickers!  [Watch](https://youtu.be/o04e5Vz3ujg)  
  - Building agentic systems with VS Code extensibility and GitHub Copilot at Uber  [Watch](https://youtu.be/8rkA5vWUE4Y)  
  - #HappyCoding! Build intelligent apps with Visual Studio Code, GitHub, and Azure  [Watch](https://youtu.be/30OpmbWL1t8)  
  - AI's human touch: Embracing diverse abilities  [Watch](https://youtu.be/OtOZlBSgRk4)  
- - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)  
- - Open Source Friday with LunaFocus - prioritizing data privacy  [Watch](https://youtu.be/v0dRWqk7qzE)
+ - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
