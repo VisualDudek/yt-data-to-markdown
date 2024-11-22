@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - COMPLETE No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
  - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
- - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
- - 🤔 The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
- - SQLModel + FastAPI: Say Goodbye to Repetitive Database Code  [Watch](https://youtu.be/GONyd0CUrPc)  
- - FastAPI: Move Operations for Cleaner Code  [Watch](https://youtu.be/Oq8Pp3M7CUQ)
+ - Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
+ - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)  
+ - SQLModel + FastAPI: Say Goodbye to Repetitive Database Code  [Watch](https://youtu.be/GONyd0CUrPc)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
 # Channel: Tech With Tim
   
+ - Chatted about coding, passion, and why I chose this path 10 years ago. 🎙️  [Watch](https://youtu.be/FMAsMNIdTdc)  
+ - Python Functions: The Pickle Function  [Watch](https://youtu.be/OxGFvSKgwDM)  
  - Python Functions: The Data Class Function  [Watch](https://youtu.be/xT8JlhwZ_aE)  
  - Tutorial: Python Enumerate Function  [Watch](https://youtu.be/R-hi43zoC64)  
- - Tutorial: Python Counter Function  [Watch](https://youtu.be/buPw2dK3gYo)  
- - Ever used Python’s pprint function? It’s a game-changer  [Watch](https://youtu.be/oWNT3A3mQxA)  
- - How to Create a FastAPI & React Project - Python Backend + React Frontend  [Watch](https://youtu.be/aSdVU9-SxH4)
+ - Tutorial: Python Counter Function  [Watch](https://youtu.be/buPw2dK3gYo)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)  
+ - The most adorable VS Code extension  [Watch](https://youtu.be/_r5RzX5u6ig)  
  - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
  - It's not a bug, it's a feature  [Watch](https://youtu.be/7Pipfjf3Mig)  
- - Can Copilot build Copilot?  [Watch](https://youtu.be/uzz1F4Cw2bA)  
- - ¡Trucazos de Visual Studio Code para Programadores Web!  [Watch](https://youtu.be/UdIcAdQtiws)  
- - Shortcuts for copying in VS Code  [Watch](https://youtu.be/2dR_u_Nhb-Y)
+ - Can Copilot build Copilot?  [Watch](https://youtu.be/uzz1F4Cw2bA)
 # Channel: Mateusz Chrobok
   
+ - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)  
  - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)  
  - Uwierz w kłamstwo #DEFCON32  [Watch](https://youtu.be/SImGw8kfrj4)  
  - ☠️ W ransomware stabilnie  [Watch](https://youtu.be/EiLb5RsG7to)  
- - 💰 Jak łatwo na AI się wzbogacić  [Watch](https://youtu.be/tyu5jiWZOMo)  
- - 📸 Lampka nagrywania jednak nic nie znaczy  [Watch](https://youtu.be/FEjQsKYgwG4)
+ - 💰 Jak łatwo na AI się wzbogacić  [Watch](https://youtu.be/tyu5jiWZOMo)
 # Channel: Cloud Native Computing Foundation
   
- - Securing Outgoing Traffic: Building a Powerful Internet Egress Gate... - Edie Yang & Akshita Agarwal  [Watch](https://youtu.be/y6oUAktso_4)  
- - Cloud Native Live: From cloud to code  [Watch](https://youtu.be/t_rNSAyFDHE)  
- - Accelerating Adoption: What’s New in Envoy Gateway and Why It Matters | Project Lightning Talk  [Watch](https://youtu.be/y6O220qbmXc)  
- - Project Overview: A Hitchhiker's Guide to the CNCF Landscape - Katherine Druckman and Lori Lorusso  [Watch](https://youtu.be/ilVd19DDyIk)  
- - Lightning Talk: Running Kind Clusters with GPU Support Using Nvkind - Evan Lezar, NVIDIA  [Watch](https://youtu.be/jnHlwZKJiL4)
+ - Insightful Traffic Monitoring: Harnessing Cilium for Comp... Sudheendra Murthy & Adithya Yavanamanda  [Watch](https://youtu.be/C5eSFAeW4ec)  
+ - Cilium + eBPF Day | Welcome + Opening Remarks - Bill Mulligan, Program Co-Chair  [Watch](https://youtu.be/De2dWv8wP0Y)  
+ - Confluent's Multi-Cloud Journey to Cilium: Pitfalls and Lessons Lea... Nimisha Mehta & Alvaro Aleman  [Watch](https://youtu.be/vOSiVeBXYpM)  
+ - How to Use XDP and eBPF to Accelerate IPSec Throughput by 400% - Ryan Drew, Isovalent  [Watch](https://youtu.be/mGnwhokYw4k)  
+ - Panel: Exploring eBPF Use Cases in Cloud-Native Security  [Watch](https://youtu.be/towNkbPMDjE)
 # Channel: Real Python
   
+ - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)  
  - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)  
  - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
- - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)  
- - Working With TOML and Python: Data Types & Tables  [Watch](https://youtu.be/V2Vi0FSR8Eo)
+ - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)
 # Channel: SysOps / DevOps Polska
   
+ - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)  
  - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)  
  - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)  
  - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
- - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)  
- - [#523] Narzędzia AI w codziennej pracy programisty - Adam Hakowski  [Watch](https://youtu.be/o3JK7REsJIM)
+ - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
 # Channel: GitHub
   
+ - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)  
+ - Start it Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)  
  - Inside GitHub: SNEEK PEAK into the creative world of GitHub stickers!  [Watch](https://youtu.be/o04e5Vz3ujg)  
  - Building agentic systems with VS Code extensibility and GitHub Copilot at Uber  [Watch](https://youtu.be/8rkA5vWUE4Y)  
- - #HappyCoding! Build intelligent apps with Visual Studio Code, GitHub, and Azure  [Watch](https://youtu.be/30OpmbWL1t8)  
- - AI's human touch: Embracing diverse abilities  [Watch](https://youtu.be/OtOZlBSgRk4)  
- - Dungeons and deployments: The clusters of chaos  [Watch](https://youtu.be/Sylft2zTQ48)
+ - #HappyCoding! Build intelligent apps with Visual Studio Code, GitHub, and Azure  [Watch](https://youtu.be/30OpmbWL1t8)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
