@@ -25,11 +25,11 @@ Youtube Videos
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
 # Channel: Tech With Tim
   
+ - Learn React With This ONE Project  [Watch](https://youtu.be/G6D9cBaLViA)  
+ - Starting from scratch as a programmer?  [Watch](https://youtu.be/LCv958dvxD4)  
+ - The truth is...  [Watch](https://youtu.be/xbfb86VV4IQ)  
  - Python Functions: Timeit Function  [Watch](https://youtu.be/5EhzK67sgvo)  
- - Let’s talk about how long it took me to make money with coding!  [Watch](https://youtu.be/Xg5KvSqduWA)  
- - Chatted about coding, passion, and why I chose this path 10 years ago. 🎙️  [Watch](https://youtu.be/FMAsMNIdTdc)  
- - Python Functions: The Pickle Function  [Watch](https://youtu.be/OxGFvSKgwDM)  
- - Python Functions: The Data Class Function  [Watch](https://youtu.be/xT8JlhwZ_aE)
+ - Let’s talk about how long it took me to make money with coding!  [Watch](https://youtu.be/Xg5KvSqduWA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - It's not a bug, it's a feature  [Watch](https://youtu.be/7Pipfjf3Mig)
 # Channel: Mateusz Chrobok
   
+ - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)  
  - 🌐 Google ma sprzedać Chrome  [Watch](https://youtu.be/jWE--NAInJM)  
  - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)  
  - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)  
- - Uwierz w kłamstwo #DEFCON32  [Watch](https://youtu.be/SImGw8kfrj4)  
- - ☠️ W ransomware stabilnie  [Watch](https://youtu.be/EiLb5RsG7to)
+ - Uwierz w kłamstwo #DEFCON32  [Watch](https://youtu.be/SImGw8kfrj4)
 # Channel: Cloud Native Computing Foundation
   
  - Navigating the No-Code to Full-Code Spectrum - a Platform Engine... - Jared Watts & Maximilian Blatt  [Watch](https://youtu.be/hHpcLmWaWLk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
 # Channel: GitHub
   
+ - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/pmoG7pLpAAU)  
  - The stories behind GitHub's most beloved stickers  [Watch](https://youtu.be/PMFzDvXOoYo)  
  - This is why GitHub Workspaces is changing the developer experience  [Watch](https://youtu.be/2ZjE8MPtXyw)  
  - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)  
- - GitHub Start Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)  
- - Inside GitHub: SNEEK PEAK into the creative world of GitHub stickers!  [Watch](https://youtu.be/o04e5Vz3ujg)
+ - GitHub Start Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)
 # Channel: CloudHeroes - Video
   
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
