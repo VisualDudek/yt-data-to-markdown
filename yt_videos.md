@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
  - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
- - COMPLETE No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
- - Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
- - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)  
- - The Real Problem with Inheritance  [Watch](https://youtu.be/M8myswQlF1M)
+ - The BEST No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
+ - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
+ - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
 # Channel: Tech With Tim
   
+ - Python Functions: Lambda Function With Filter Function  [Watch](https://youtu.be/S9NXL_8nJl4)  
+ - Do you agree?  [Watch](https://youtu.be/Ts3VvfBdEVs)  
  - Learn React With This ONE Project  [Watch](https://youtu.be/G6D9cBaLViA)  
  - Starting from scratch as a programmer?  [Watch](https://youtu.be/LCv958dvxD4)  
- - The truth is...  [Watch](https://youtu.be/xbfb86VV4IQ)  
- - Python Functions: Timeit Function  [Watch](https://youtu.be/5EhzK67sgvo)  
- - Let’s talk about how long it took me to make money with coding!  [Watch](https://youtu.be/Xg5KvSqduWA)
+ - The truth is...  [Watch](https://youtu.be/xbfb86VV4IQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)  
  - Claude? o1? GPT? Try them all  [Watch](https://youtu.be/rYcPML187ro)  
  - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)  
  - The most adorable VS Code extension  [Watch](https://youtu.be/_r5RzX5u6ig)  
- - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)  
- - It's not a bug, it's a feature  [Watch](https://youtu.be/7Pipfjf3Mig)
+ - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)
 # Channel: Mateusz Chrobok
   
+ - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)  
  - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)  
  - 🌐 Google ma sprzedać Chrome  [Watch](https://youtu.be/jWE--NAInJM)  
  - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)  
- - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)  
- - Uwierz w kłamstwo #DEFCON32  [Watch](https://youtu.be/SImGw8kfrj4)
+ - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)
 # Channel: Cloud Native Computing Foundation
   
- - Navigating the No-Code to Full-Code Spectrum - a Platform Engine... - Jared Watts & Maximilian Blatt  [Watch](https://youtu.be/hHpcLmWaWLk)  
- - Sponsored Keynote: Make Workloads, Not Infrastructure - Will Stewart, Northflank  [Watch](https://youtu.be/jqNa0nkzKxI)  
- - Innovating at Scale: Building and Managing Modern Developer Platfo... - Poonam Garg & Carrie Pommier  [Watch](https://youtu.be/kWDNKZtuyWw)  
- - Portals and Platforms, Two Ps in a Pod? How Good Interfaces Make...- Jorge Lainfiesta & Abby Bangser  [Watch](https://youtu.be/mYq5H91X-CU)  
- - Lightning Talk: The Hidden Discipline: Marketing Secrets for Engineering Platforms - Erica Hughberg  [Watch](https://youtu.be/qCp-rPQgpNQ)
+ - Dapr & Kubernetes at SharperImage.com: Experiences from the Trenches - Alice Gibbons & Aaron Olds  [Watch](https://youtu.be/0wKyX97e128)  
+ - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)  
+ - Building Real-World Applications with Dapr: A Startup Developer's Journey - Whit Waldo  [Watch](https://youtu.be/MgRLAr9akE4)  
+ - Closing keynote - Joe Beda  [Watch](https://youtu.be/ggQ3r_9aohU)  
+ - The Dapr Actors Journey: From Understanding to Intuition - Elena Kolevska  [Watch](https://youtu.be/1U3PULZk4VU)
 # Channel: Real Python
   
+ - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)  
  - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)  
  - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)  
  - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
- - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)  
- - Formatting Floats Inside Python F-Strings: Rounding & Percentages  [Watch](https://youtu.be/7MciGRf8V3A)
+ - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)
 # Channel: SysOps / DevOps Polska
   
+ - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)  
  - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)  
  - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)  
  - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)  
- - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)  
- - [#524] APIM ❤️ Azure OpenAI - Marek Grabarz  [Watch](https://youtu.be/ZGX04vpvf4I)
+ - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -102,11 +102,11 @@ Youtube Videos
  - GitHub Start Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)
 # Channel: CloudHeroes - Video
   
+ - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
  - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
- - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)  
- - Konfiguracja Guardrails w Amazon Bedrock  [Watch](https://youtu.be/mVQrBKucLGM)
+ - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)
 # Channel: Nicole van der Hoeven
   
  - What's in Brandon Boswell's EDC?  [Watch](https://youtu.be/Noswl0jCA4k)  
