@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
- - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
- - The BEST No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
+ - 📄 The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
+ - COMPLETE No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
  - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
  - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
 # Channel: Tech With Tim
   
+ - Have you ever heard about the one line anonymous function?  [Watch](https://youtu.be/s-O0oLqfBz4)  
+ - Full transparency...  [Watch](https://youtu.be/SgXCOfiP2YU)  
  - Python Functions: Lambda Function With Filter Function  [Watch](https://youtu.be/S9NXL_8nJl4)  
  - Do you agree?  [Watch](https://youtu.be/Ts3VvfBdEVs)  
- - Learn React With This ONE Project  [Watch](https://youtu.be/G6D9cBaLViA)  
- - Starting from scratch as a programmer?  [Watch](https://youtu.be/LCv958dvxD4)  
- - The truth is...  [Watch](https://youtu.be/xbfb86VV4IQ)
+ - Learn React With This ONE Project  [Watch](https://youtu.be/G6D9cBaLViA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)  
  - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)  
  - Claude? o1? GPT? Try them all  [Watch](https://youtu.be/rYcPML187ro)  
  - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)  
- - The most adorable VS Code extension  [Watch](https://youtu.be/_r5RzX5u6ig)  
- - 🔴 Pulumi IaC and Config Management Extension for VS Code  [Watch](https://youtu.be/rRsnk1sv_xE)
+ - The most adorable VS Code extension  [Watch](https://youtu.be/_r5RzX5u6ig)
 # Channel: Mateusz Chrobok
   
+ - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)  
  - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)  
  - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)  
  - 🌐 Google ma sprzedać Chrome  [Watch](https://youtu.be/jWE--NAInJM)  
- - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)  
- - 👵 Antyscamerska AI  [Watch](https://youtu.be/VatBfwdu4nI)
+ - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)
 # Channel: Cloud Native Computing Foundation
   
  - Dapr & Kubernetes at SharperImage.com: Experiences from the Trenches - Alice Gibbons & Aaron Olds  [Watch](https://youtu.be/0wKyX97e128)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)
 # Channel: SysOps / DevOps Polska
   
+ - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)  
  - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)  
  - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)  
  - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)  
- - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)  
- - [#525] Zarządzanie zasobami GPU na środowiskach Kubernetes - Piotr Wlazło  [Watch](https://youtu.be/PrAMaA-8biY)
+ - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
 # Channel: GitHub
   
+ - Mastering Cluster Security: Essential Upgrade Strategies  [Watch](https://youtu.be/-GHeJhgR_IM)  
+ - Introducing GitHub Copilot in Xcode  [Watch](https://youtu.be/AXtHdAand4o)  
  - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/pmoG7pLpAAU)  
  - The stories behind GitHub's most beloved stickers  [Watch](https://youtu.be/PMFzDvXOoYo)  
- - This is why GitHub Workspaces is changing the developer experience  [Watch](https://youtu.be/2ZjE8MPtXyw)  
- - Beyond Human: HolmesGPT and the Future of AIOps  [Watch](https://youtu.be/ruVHFt20x0w)  
- - GitHub Start Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)
+ - This is why GitHub Workspaces is changing the developer experience  [Watch](https://youtu.be/2ZjE8MPtXyw)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
