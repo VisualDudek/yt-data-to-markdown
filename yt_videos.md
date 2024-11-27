@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
- - 📄 The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
- - COMPLETE No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
- - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)  
- - ✋🏻 Stop Using This Git Command  [Watch](https://youtu.be/CEaWanW-7cM)
+ - Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
+ - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)  
+ - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
+ - The BEST No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
+ - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)  
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)  
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)  
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)  
- - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)  
- - python warnings got way better in 3.12!  [Watch](https://youtu.be/Ljfn4x8t3Ow)
+ - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
- - Have you ever heard about the one line anonymous function?  [Watch](https://youtu.be/s-O0oLqfBz4)  
- - Full transparency...  [Watch](https://youtu.be/SgXCOfiP2YU)  
- - Python Functions: Lambda Function With Filter Function  [Watch](https://youtu.be/S9NXL_8nJl4)  
- - Do you agree?  [Watch](https://youtu.be/Ts3VvfBdEVs)  
- - Learn React With This ONE Project  [Watch](https://youtu.be/G6D9cBaLViA)
+ - Lambda function as a key function to a sort  [Watch](https://youtu.be/4qBajOfRCBg)  
+ - How to Land a Software Engineering Internship in 2025  [Watch](https://youtu.be/jWQ7eKglSv8)  
+ - Is this the BEST Monitor for Programmers? #RD320U #BenQ #Programmingmonitor  [Watch](https://youtu.be/1seLFqER_9k)  
+ - Kevin and I were chatting about the coding program - Did you know...  [Watch](https://youtu.be/PEixMDOAF60)  
+ - Have you ever heard about the one line anonymous function?  [Watch](https://youtu.be/s-O0oLqfBz4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
  - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)  
  - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)  
  - Claude? o1? GPT? Try them all  [Watch](https://youtu.be/rYcPML187ro)  
- - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)  
- - The most adorable VS Code extension  [Watch](https://youtu.be/_r5RzX5u6ig)
+ - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)
 # Channel: Mateusz Chrobok
   
  - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)
 # Channel: Cloud Native Computing Foundation
   
+ - Deaf and Hard of Hearing WG Meeting - 2024-11-26  [Watch](https://youtu.be/7erhfssJy_s)  
  - Dapr & Kubernetes at SharperImage.com: Experiences from the Trenches - Alice Gibbons & Aaron Olds  [Watch](https://youtu.be/0wKyX97e128)  
  - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)  
  - Building Real-World Applications with Dapr: A Startup Developer's Journey - Whit Waldo  [Watch](https://youtu.be/MgRLAr9akE4)  
- - Closing keynote - Joe Beda  [Watch](https://youtu.be/ggQ3r_9aohU)  
- - The Dapr Actors Journey: From Understanding to Intuition - Elena Kolevska  [Watch](https://youtu.be/1U3PULZk4VU)
+ - Closing keynote - Joe Beda  [Watch](https://youtu.be/ggQ3r_9aohU)
 # Channel: Real Python
   
+ - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)  
  - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)  
  - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)  
  - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)  
- - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)  
- - Maintaining the Foundations of Python & Cautionary Tales | Real Python Podcast #228  [Watch](https://youtu.be/bQylj1i3Rog)
+ - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)
 # Channel: SysOps / DevOps Polska
   
+ - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)  
  - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)  
  - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)  
  - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)  
- - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)  
- - [#526] Przegląd usług bezpieczeństwa w Azure Entra - Przemysław Chmielecki  [Watch](https://youtu.be/SxZ-qLkTtZo)
+ - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -81,25 +81,25 @@ Youtube Videos
  - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)
 # Channel: Beyond Fireship
   
+ - Is Next.js 15 any good? "use cache" API first look  [Watch](https://youtu.be/xWkozeculPo)  
  - JavaScript performance is weird... Write scientifically faster code with benchmarking  [Watch](https://youtu.be/_pWA4rbzvIg)  
  - Does Deno 2 really uncomplicate JavaScript?  [Watch](https://youtu.be/8IHhvkaVqVE)  
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)  
- - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)  
- - How I deploy serverless containers for free  [Watch](https://youtu.be/cw34KMPSt4k)
+ - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)  
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)  
  - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)  
  - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)  
- - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)  
- - Docker always up to date! (and more) Renovate Tutorial  [Watch](https://youtu.be/FoUE3HPorPY)
+ - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)
 # Channel: GitHub
   
+ - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)  
  - Mastering Cluster Security: Essential Upgrade Strategies  [Watch](https://youtu.be/-GHeJhgR_IM)  
  - Introducing GitHub Copilot in Xcode  [Watch](https://youtu.be/AXtHdAand4o)  
  - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/pmoG7pLpAAU)  
- - The stories behind GitHub's most beloved stickers  [Watch](https://youtu.be/PMFzDvXOoYo)  
- - This is why GitHub Workspaces is changing the developer experience  [Watch](https://youtu.be/2ZjE8MPtXyw)
+ - The stories behind GitHub's most beloved stickers  [Watch](https://youtu.be/PMFzDvXOoYo)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
