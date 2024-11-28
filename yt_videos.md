@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
- - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)  
+ - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
  - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
- - The BEST No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
+ - COMPLETE No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
  - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
+ - How To Make Money From Python - A Complete Guide  [Watch](https://youtu.be/r0m-iSnbKvc)  
+ - What is your end goal? Why are you doing this? Why are you LIVING this?  [Watch](https://youtu.be/bbyr81NfpRQ)  
  - Lambda function as a key function to a sort  [Watch](https://youtu.be/4qBajOfRCBg)  
- - How to Land a Software Engineering Internship in 2025  [Watch](https://youtu.be/jWQ7eKglSv8)  
- - Is this the BEST Monitor for Programmers? #RD320U #BenQ #Programmingmonitor  [Watch](https://youtu.be/1seLFqER_9k)  
- - Kevin and I were chatting about the coding program - Did you know...  [Watch](https://youtu.be/PEixMDOAF60)  
- - Have you ever heard about the one line anonymous function?  [Watch](https://youtu.be/s-O0oLqfBz4)
+ - The SECRET To Landing a Software Engineering Internship 🤫  [Watch](https://youtu.be/jWQ7eKglSv8)  
+ - Is this the BEST Monitor for Programmers? #RD320U #BenQ #Programmingmonitor  [Watch](https://youtu.be/1seLFqER_9k)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 37 (Flux)  [Watch](https://youtu.be/xmbtgTWRaGc)  
  - Deaf and Hard of Hearing WG Meeting - 2024-11-26  [Watch](https://youtu.be/7erhfssJy_s)  
  - Dapr & Kubernetes at SharperImage.com: Experiences from the Trenches - Alice Gibbons & Aaron Olds  [Watch](https://youtu.be/0wKyX97e128)  
  - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)  
- - Building Real-World Applications with Dapr: A Startup Developer's Journey - Whit Waldo  [Watch](https://youtu.be/MgRLAr9akE4)  
- - Closing keynote - Joe Beda  [Watch](https://youtu.be/ggQ3r_9aohU)
+ - Building Real-World Applications with Dapr: A Startup Developer's Journey - Whit Waldo  [Watch](https://youtu.be/MgRLAr9akE4)
 # Channel: Real Python
   
+ - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)  
  - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)  
  - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)  
  - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)  
- - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)  
- - No More Pip Installs! Use Wat for Quick Python Object Insights.  [Watch](https://youtu.be/sGo5BbImmd8)
+ - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)
 # Channel: SysOps / DevOps Polska
   
+ - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)  
  - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)  
  - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)  
  - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)  
- - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)  
- - 🔥 Nowości w wersji 1.32 Kubernetesa 🔥 #shorts #kubernetes #news #k8s  [Watch](https://youtu.be/_rpKi-abJTY)
+ - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)
 # Channel: GitHub
   
+ - Passwordless deployments with GitHub Actions & OpenID Connect  [Watch](https://youtu.be/JOo6OaOnsIs)  
+ - The origin story of GitHub's Octocat Mona  [Watch](https://youtu.be/5b47Bv3CNnY)  
  - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)  
  - Mastering Cluster Security: Essential Upgrade Strategies  [Watch](https://youtu.be/-GHeJhgR_IM)  
- - Introducing GitHub Copilot in Xcode  [Watch](https://youtu.be/AXtHdAand4o)  
- - Mercedes-Benz & GitHub: A Data Center on Wheels  [Watch](https://youtu.be/pmoG7pLpAAU)  
- - The stories behind GitHub's most beloved stickers  [Watch](https://youtu.be/PMFzDvXOoYo)
+ - JUST ANNOUNCED: GitHub Copilot in Xcode  [Watch](https://youtu.be/AXtHdAand4o)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
