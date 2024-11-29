@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
- - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
+ - Should You Use gRPC Instead of REST?  [Watch](https://youtu.be/WpXs7e7kEoI)  
+ - 🔐 Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
+ - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)  
  - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
- - COMPLETE No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)  
- - 💾 Data Formats in Data Science: Choose Wisely  [Watch](https://youtu.be/FcIEWBSLnJk)
+ - The BEST No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
+ - Understanding closures in Python  [Watch](https://youtu.be/mHIsnntBzNQ)  
  - How To Make Money From Python - A Complete Guide  [Watch](https://youtu.be/r0m-iSnbKvc)  
  - What is your end goal? Why are you doing this? Why are you LIVING this?  [Watch](https://youtu.be/bbyr81NfpRQ)  
  - Lambda function as a key function to a sort  [Watch](https://youtu.be/4qBajOfRCBg)  
- - The SECRET To Landing a Software Engineering Internship 🤫  [Watch](https://youtu.be/jWQ7eKglSv8)  
- - Is this the BEST Monitor for Programmers? #RD320U #BenQ #Programmingmonitor  [Watch](https://youtu.be/1seLFqER_9k)
+ - The SECRET To Landing a Software Engineering Internship 🤫  [Watch](https://youtu.be/jWQ7eKglSv8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Building Real-World Applications with Dapr: A Startup Developer's Journey - Whit Waldo  [Watch](https://youtu.be/MgRLAr9akE4)
 # Channel: Real Python
   
+ - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)  
  - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)  
  - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)  
  - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)  
- - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)  
- - Open Source Tip: How README Links Can Solve Your Last 20%  [Watch](https://youtu.be/3_aQ81kniHE)
+ - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)
 # Channel: SysOps / DevOps Polska
   
  - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)
 # Channel: GitHub
   
+ - GitHub Copilot code review | New feature announcement  [Watch](https://youtu.be/cyPaAkRfEBQ)  
  - Passwordless deployments with GitHub Actions & OpenID Connect  [Watch](https://youtu.be/JOo6OaOnsIs)  
  - The origin story of GitHub's Octocat Mona  [Watch](https://youtu.be/5b47Bv3CNnY)  
  - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)  
- - Mastering Cluster Security: Essential Upgrade Strategies  [Watch](https://youtu.be/-GHeJhgR_IM)  
- - JUST ANNOUNCED: GitHub Copilot in Xcode  [Watch](https://youtu.be/AXtHdAand4o)
+ - Mastering Cluster Security: Essential Upgrade Strategies  [Watch](https://youtu.be/-GHeJhgR_IM)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
