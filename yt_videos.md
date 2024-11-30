@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
  - Should You Use gRPC Instead of REST?  [Watch](https://youtu.be/WpXs7e7kEoI)  
  - 🔐 Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
  - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)  
- - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)  
- - The BEST No-Nonsense VSCode Setup for Python Devs  [Watch](https://youtu.be/PwGKhvqJCQM)
+ - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
+ - Focus on becoming THIS first and a programmer second  [Watch](https://youtu.be/b7F85714ERY)  
+ - So... is Python still the move for beginner programmers in 2024/2025?  [Watch](https://youtu.be/uFol7SxJhq8)  
  - Understanding closures in Python  [Watch](https://youtu.be/mHIsnntBzNQ)  
  - How To Make Money From Python - A Complete Guide  [Watch](https://youtu.be/r0m-iSnbKvc)  
- - What is your end goal? Why are you doing this? Why are you LIVING this?  [Watch](https://youtu.be/bbyr81NfpRQ)  
- - Lambda function as a key function to a sort  [Watch](https://youtu.be/4qBajOfRCBg)  
- - The SECRET To Landing a Software Engineering Internship 🤫  [Watch](https://youtu.be/jWQ7eKglSv8)
+ - What is your end goal? Why are you doing this? Why are you LIVING this?  [Watch](https://youtu.be/bbyr81NfpRQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)
 # Channel: Mateusz Chrobok
   
+ - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)  
  - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)  
  - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)  
  - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)  
- - 🌐 Google ma sprzedać Chrome  [Watch](https://youtu.be/jWE--NAInJM)  
- - 📸 Uważaj, co skanujesz. Zwłaszcza w Katowicach.  [Watch](https://youtu.be/3q2nZmAHji4)
+ - 🌐 Google ma sprzedać Chrome  [Watch](https://youtu.be/jWE--NAInJM)
 # Channel: Cloud Native Computing Foundation
   
+ - Securing Outgoing Traffic: Building a Powerful Internet Egress Gateway for Re... E. Yang, A. Agarwal  [Watch](https://youtu.be/zGN5eCJ-DxE)  
  - ChatLoopBackOff - Episode 37 (Flux)  [Watch](https://youtu.be/xmbtgTWRaGc)  
  - Deaf and Hard of Hearing WG Meeting - 2024-11-26  [Watch](https://youtu.be/7erhfssJy_s)  
  - Dapr & Kubernetes at SharperImage.com: Experiences from the Trenches - Alice Gibbons & Aaron Olds  [Watch](https://youtu.be/0wKyX97e128)  
- - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)  
- - Building Real-World Applications with Dapr: A Startup Developer's Journey - Whit Waldo  [Watch](https://youtu.be/MgRLAr9akE4)
+ - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)
 # Channel: Real Python
   
  - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)  
@@ -95,11 +95,11 @@ Youtube Videos
  - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)
 # Channel: GitHub
   
+ - How AI empowers developer creativity  [Watch](https://youtu.be/IeLqnlfB7VE)  
  - GitHub Copilot code review | New feature announcement  [Watch](https://youtu.be/cyPaAkRfEBQ)  
  - Passwordless deployments with GitHub Actions & OpenID Connect  [Watch](https://youtu.be/JOo6OaOnsIs)  
  - The origin story of GitHub's Octocat Mona  [Watch](https://youtu.be/5b47Bv3CNnY)  
- - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)  
- - Mastering Cluster Security: Essential Upgrade Strategies  [Watch](https://youtu.be/-GHeJhgR_IM)
+ - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
