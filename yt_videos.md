@@ -6,8 +6,8 @@ Youtube Videos
   
  - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
  - Should You Use gRPC Instead of REST?  [Watch](https://youtu.be/WpXs7e7kEoI)  
- - 🔐 Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
- - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)  
+ - Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
+ - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
  - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
+ - A Monitor Designed Just for Programmers? | BenQ RD Series Review  [Watch](https://youtu.be/NZKSrrWAJeE)  
+ - Three things you NEED to start doing as a dev  [Watch](https://youtu.be/uqzsLK9mo2Q)  
  - Focus on becoming THIS first and a programmer second  [Watch](https://youtu.be/b7F85714ERY)  
  - So... is Python still the move for beginner programmers in 2024/2025?  [Watch](https://youtu.be/uFol7SxJhq8)  
- - Understanding closures in Python  [Watch](https://youtu.be/mHIsnntBzNQ)  
- - How To Make Money From Python - A Complete Guide  [Watch](https://youtu.be/r0m-iSnbKvc)  
- - What is your end goal? Why are you doing this? Why are you LIVING this?  [Watch](https://youtu.be/bbyr81NfpRQ)
+ - Understanding closures in Python  [Watch](https://youtu.be/mHIsnntBzNQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)
 # Channel: Mateusz Chrobok
   
+ - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)  
  - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)  
  - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)  
  - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)  
- - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)  
- - 🌐 Google ma sprzedać Chrome  [Watch](https://youtu.be/jWE--NAInJM)
+ - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)
 # Channel: Cloud Native Computing Foundation
   
  - Securing Outgoing Traffic: Building a Powerful Internet Egress Gateway for Re... E. Yang, A. Agarwal  [Watch](https://youtu.be/zGN5eCJ-DxE)  
