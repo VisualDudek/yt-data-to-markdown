@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
  - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
  - Should You Use gRPC Instead of REST?  [Watch](https://youtu.be/WpXs7e7kEoI)  
  - Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
- - Keep It Simple, Developer  [Watch](https://youtu.be/sK7PCCHMaBg)  
- - The Self-Explanatory Code  [Watch](https://youtu.be/hbOrQ0UMq3Q)
+ - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
+ - Want to impress her? Turn this feature on in VS Code  [Watch](https://youtu.be/lXQpEKoNYv4)  
+ - Who’s that one person you’d go to when your code just doesn’t work?  [Watch](https://youtu.be/6Tvz3ZWMZho)  
  - A Monitor Designed Just for Programmers? | BenQ RD Series Review  [Watch](https://youtu.be/NZKSrrWAJeE)  
  - Three things you NEED to start doing as a dev  [Watch](https://youtu.be/uqzsLK9mo2Q)  
- - Focus on becoming THIS first and a programmer second  [Watch](https://youtu.be/b7F85714ERY)  
- - So... is Python still the move for beginner programmers in 2024/2025?  [Watch](https://youtu.be/uFol7SxJhq8)  
- - Understanding closures in Python  [Watch](https://youtu.be/mHIsnntBzNQ)
+ - Focus on becoming THIS first and a programmer second  [Watch](https://youtu.be/b7F85714ERY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)
 # Channel: Real Python
   
+ - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)  
  - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)  
  - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)  
  - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)  
- - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)  
- - The Joy of Tinkering & Python Free-Threading Performance | Real Python Podcast #229  [Watch](https://youtu.be/_DbWQnAQkVc)
+ - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)
 # Channel: SysOps / DevOps Polska
   
+ - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)  
  - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)  
  - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)  
  - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)  
- - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)  
- - [#527] Konfiguracja kontekstu bezpieczeństwa dla Poda i Kontenera - Michał Jędrzejczak  [Watch](https://youtu.be/Wyyj4m1yBYo)
+ - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
