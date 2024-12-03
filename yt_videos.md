@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
  - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
- - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
- - Should You Use gRPC Instead of REST?  [Watch](https://youtu.be/WpXs7e7kEoI)  
- - Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)  
- - Keep It Simple, Developer❗  [Watch](https://youtu.be/sK7PCCHMaBg)
+ - 🛡️ Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
+ - Now I Know Why Most People Don’t Use gRPC  [Watch](https://youtu.be/WpXs7e7kEoI)  
+ - 🔐 Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
 # Channel: Tech With Tim
   
+ - 12 Years of Software Engineering Advice in 8 Minutes  [Watch](https://youtu.be/GXjEfdxYfqI)  
+ - What is the hardest project you have build in 2024? Comment down below🤫  [Watch](https://youtu.be/aNK9vqL2QCw)  
  - Want to impress her? Turn this feature on in VS Code  [Watch](https://youtu.be/lXQpEKoNYv4)  
  - Who’s that one person you’d go to when your code just doesn’t work?  [Watch](https://youtu.be/6Tvz3ZWMZho)  
- - A Monitor Designed Just for Programmers? | BenQ RD Series Review  [Watch](https://youtu.be/NZKSrrWAJeE)  
- - Three things you NEED to start doing as a dev  [Watch](https://youtu.be/uqzsLK9mo2Q)  
- - Focus on becoming THIS first and a programmer second  [Watch](https://youtu.be/b7F85714ERY)
+ - A Monitor Designed Just for Programmers? | BenQ RD Series Review  [Watch](https://youtu.be/NZKSrrWAJeE)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)
 # Channel: Mateusz Chrobok
   
+ - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
  - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)  
  - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)  
  - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)  
- - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)  
- - Na czym zarabia, i czy w ogóle, LinkedIn?  [Watch](https://youtu.be/2p5hxX81H_M)
+ - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)
 # Channel: Cloud Native Computing Foundation
   
+ - Object, Block, or File Storage? Choosing the Right Cloud Storage to Integr... M. Becker, T. McDonald  [Watch](https://youtu.be/QQgmaHqKRyY)  
+ - Cloud Native Live: From cloud to code  [Watch](https://youtu.be/t_rNSAyFDHE)  
  - Securing Outgoing Traffic: Building a Powerful Internet Egress Gateway for Re... E. Yang, A. Agarwal  [Watch](https://youtu.be/zGN5eCJ-DxE)  
  - ChatLoopBackOff - Episode 37 (Flux)  [Watch](https://youtu.be/xmbtgTWRaGc)  
- - Deaf and Hard of Hearing WG Meeting - 2024-11-26  [Watch](https://youtu.be/7erhfssJy_s)  
- - Dapr & Kubernetes at SharperImage.com: Experiences from the Trenches - Alice Gibbons & Aaron Olds  [Watch](https://youtu.be/0wKyX97e128)  
- - Bindings for Event Sourcing and CQRS capabilities in Dapr applications - Marc Klefter  [Watch](https://youtu.be/1AqSqafsb2E)
+ - Deaf and Hard of Hearing WG Meeting - 2024-11-26  [Watch](https://youtu.be/7erhfssJy_s)
 # Channel: Real Python
   
  - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)
 # Channel: SysOps / DevOps Polska
   
+ - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
  - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)  
  - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)  
  - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)  
- - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)  
- - Czy można płacić mniej za Kubernetes? 🤔 #kubernetes #k8s #karpenter #sodo #sysops #devops #tip #news  [Watch](https://youtu.be/ahVLhnSUC38)
+ - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,11 +88,11 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - Self-host your own Git platform! // Gitea Tutorial  [Watch](https://youtu.be/Kg0ct2lBUVg)  
  - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)  
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)  
  - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)  
- - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)  
- - NAS OS Showdown! // TrueNAS vs Unraid  [Watch](https://youtu.be/BmpzgcslQRQ)
+ - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)
 # Channel: GitHub
   
  - How AI empowers developer creativity  [Watch](https://youtu.be/IeLqnlfB7VE)  
