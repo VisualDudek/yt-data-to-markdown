@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Under the Hood | Live Code Review  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
- - 🛡️ Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
- - Now I Know Why Most People Don’t Use gRPC  [Watch](https://youtu.be/WpXs7e7kEoI)  
- - 🔐 Secrets in Code: The Least Privilege Principle  [Watch](https://youtu.be/xvsitNaBG1k)
+ - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
+ - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)  
+ - 🔮 The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
+ - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
+ - Now I Know Why Most People Don’t Use gRPC  [Watch](https://youtu.be/WpXs7e7kEoI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)  
  - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)  
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)  
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)  
- - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)  
- - Sequence[str] is a tiny landmine (all code sucks) #10  [Watch](https://youtu.be/f0zD9d7kBrU)
+ - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Let's talk about common Python mistakes we all make  [Watch](https://youtu.be/WAZq0Ez7otY)  
+ - This is what really matters when starting out with coding  [Watch](https://youtu.be/S0mKW3APv9Y)  
  - 12 Years of Software Engineering Advice in 8 Minutes  [Watch](https://youtu.be/GXjEfdxYfqI)  
  - What is the hardest project you have build in 2024? Comment down below🤫  [Watch](https://youtu.be/aNK9vqL2QCw)  
- - Want to impress her? Turn this feature on in VS Code  [Watch](https://youtu.be/lXQpEKoNYv4)  
- - Who’s that one person you’d go to when your code just doesn’t work?  [Watch](https://youtu.be/6Tvz3ZWMZho)  
- - A Monitor Designed Just for Programmers? | BenQ RD Series Review  [Watch](https://youtu.be/NZKSrrWAJeE)
+ - Want to impress her? Turn this feature on in VS Code  [Watch](https://youtu.be/lXQpEKoNYv4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)
 # Channel: Cloud Native Computing Foundation
   
- - Object, Block, or File Storage? Choosing the Right Cloud Storage to Integr... M. Becker, T. McDonald  [Watch](https://youtu.be/QQgmaHqKRyY)  
+ - Cloud Native Live: Nirmata Shift Down Security  [Watch](https://youtu.be/ykPN7ycUmkg)  
  - Cloud Native Live: From cloud to code  [Watch](https://youtu.be/t_rNSAyFDHE)  
- - Securing Outgoing Traffic: Building a Powerful Internet Egress Gateway for Re... E. Yang, A. Agarwal  [Watch](https://youtu.be/zGN5eCJ-DxE)  
- - ChatLoopBackOff - Episode 37 (Flux)  [Watch](https://youtu.be/xmbtgTWRaGc)  
- - Deaf and Hard of Hearing WG Meeting - 2024-11-26  [Watch](https://youtu.be/7erhfssJy_s)
+ - Distributed Multi-Node Model Inference Using the LeaderWorkerSet API- Abdullah Gharaibeh, Rupeng Liu  [Watch](https://youtu.be/Al51wafTrRE)  
+ - Divide and Conquer: Master GPU Partitioning and Visualize Savings with OpenCost - K. Yu & A. Ford  [Watch](https://youtu.be/EAcoIZh118I)  
+ - Improving Service Availability: Scaling Ahead with Machine Learning for HP... A. Sharma & E. Ramirez  [Watch](https://youtu.be/wg66TXytlps)
 # Channel: Real Python
   
+ - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)  
  - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)  
  - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)  
  - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)  
- - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)  
- - Why pip install --user Drives Python Developers Crazy  [Watch](https://youtu.be/RVvdh7AaFgI)
+ - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)
 # Channel: SysOps / DevOps Polska
   
  - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)
 # Channel: GitHub
   
+ - Manage your repositories at scale across the enterprise  [Watch](https://youtu.be/aXsneNY4a0Q)  
+ - Maximize efficiency with GitHub Copilot: Revolutionize your development  [Watch](https://youtu.be/9m3cmaaoFp8)  
  - How AI empowers developer creativity  [Watch](https://youtu.be/IeLqnlfB7VE)  
  - GitHub Copilot code review | New feature announcement  [Watch](https://youtu.be/cyPaAkRfEBQ)  
- - Passwordless deployments with GitHub Actions & OpenID Connect  [Watch](https://youtu.be/JOo6OaOnsIs)  
- - The origin story of GitHub's Octocat Mona  [Watch](https://youtu.be/5b47Bv3CNnY)  
- - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)
+ - Passwordless deployments with GitHub Actions & OpenID Connect  [Watch](https://youtu.be/JOo6OaOnsIs)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
