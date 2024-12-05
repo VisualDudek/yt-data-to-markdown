@@ -6,8 +6,8 @@ Youtube Videos
   
  - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
  - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - 🔮 The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
- - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
+ - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
+ - 🛡️ Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
  - Now I Know Why Most People Don’t Use gRPC  [Watch](https://youtu.be/WpXs7e7kEoI)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Shopify offered me a backend developer position, and here's how I landed it!  [Watch](https://youtu.be/7A_9y8QS5bE)  
+ - This one is for the beginner coders , a quick Python trick🤝  [Watch](https://youtu.be/wYaDyFLRd7c)  
+ - If there’s one piece of advice I’d share, it’s this...  [Watch](https://youtu.be/s87upaWU5kk)  
  - Let's talk about common Python mistakes we all make  [Watch](https://youtu.be/WAZq0Ez7otY)  
- - This is what really matters when starting out with coding  [Watch](https://youtu.be/S0mKW3APv9Y)  
- - 12 Years of Software Engineering Advice in 8 Minutes  [Watch](https://youtu.be/GXjEfdxYfqI)  
- - What is the hardest project you have build in 2024? Comment down below🤫  [Watch](https://youtu.be/aNK9vqL2QCw)  
- - Want to impress her? Turn this feature on in VS Code  [Watch](https://youtu.be/lXQpEKoNYv4)
+ - This is what really matters when starting out with coding  [Watch](https://youtu.be/S0mKW3APv9Y)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)  
  - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
  - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)  
  - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)  
- - Claude? o1? GPT? Try them all  [Watch](https://youtu.be/rYcPML187ro)  
- - Learn Visual Studio Code (For the Web)  [Watch](https://youtu.be/2sdXMJZKLJE)
+ - Claude? o1? GPT? Try them all  [Watch](https://youtu.be/rYcPML187ro)
 # Channel: Mateusz Chrobok
   
  - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)  
+ - Fine-Grained Authorization for Retrieval Augmented Generation  [Watch](https://youtu.be/74G7Pwnaj_U)  
+ - Dapr - build distributed applications faster  [Watch](https://youtu.be/algEdPTXtWI)  
  - Cloud Native Live: Nirmata Shift Down Security  [Watch](https://youtu.be/ykPN7ycUmkg)  
- - Cloud Native Live: From cloud to code  [Watch](https://youtu.be/t_rNSAyFDHE)  
- - Distributed Multi-Node Model Inference Using the LeaderWorkerSet API- Abdullah Gharaibeh, Rupeng Liu  [Watch](https://youtu.be/Al51wafTrRE)  
- - Divide and Conquer: Master GPU Partitioning and Visualize Savings with OpenCost - K. Yu & A. Ford  [Watch](https://youtu.be/EAcoIZh118I)  
- - Improving Service Availability: Scaling Ahead with Machine Learning for HP... A. Sharma & E. Ramirez  [Watch](https://youtu.be/wg66TXytlps)
+ - Introduction to Falco Talon  [Watch](https://youtu.be/g6oD3jDi8fs)
 # Channel: Real Python
   
+ - Handling or Preventing Errors in Python: LBYL vs EAFP -  [Watch](https://youtu.be/TotBLX6rQw8)  
  - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)  
  - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)  
  - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)  
- - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)  
- - The Dangers of Copying Big Tech Solutions Blindly  [Watch](https://youtu.be/tkEeyZ5T3nU)
+ - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)
 # Channel: SysOps / DevOps Polska
   
  - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
