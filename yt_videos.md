@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
  - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
  - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
- - 🛡️ Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)  
- - Now I Know Why Most People Don’t Use gRPC  [Watch](https://youtu.be/WpXs7e7kEoI)
+ - 🔮 The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
+ - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Best framework when building projects on a time crunch  [Watch](https://youtu.be/mfC4OgAKpK4)  
  - Shopify offered me a backend developer position, and here's how I landed it!  [Watch](https://youtu.be/7A_9y8QS5bE)  
  - This one is for the beginner coders , a quick Python trick🤝  [Watch](https://youtu.be/wYaDyFLRd7c)  
  - If there’s one piece of advice I’d share, it’s this...  [Watch](https://youtu.be/s87upaWU5kk)  
- - Let's talk about common Python mistakes we all make  [Watch](https://youtu.be/WAZq0Ez7otY)  
- - This is what really matters when starting out with coding  [Watch](https://youtu.be/S0mKW3APv9Y)
+ - Let's talk about common Python mistakes we all make  [Watch](https://youtu.be/WAZq0Ez7otY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,39 +39,39 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)  
+ - Build a Mobile Game with Just Your Voice! 🎮🗣️  [Watch](https://youtu.be/Vj13SdN6OxU)  
  - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
+ - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)  
  - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)  
- - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)  
- - Claude? o1? GPT? Try them all  [Watch](https://youtu.be/rYcPML187ro)
+ - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)
 # Channel: Mateusz Chrobok
   
+ - 🍝 Wesprzyj Pajacyka. Ze smakiem!  [Watch](https://youtu.be/Jp8QD0-HMfo)  
  - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
  - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)  
  - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)  
- - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)  
- - 🏷️ Uważaj na wyprzedażach  [Watch](https://youtu.be/RvxWjnOPQ_g)
+ - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)  
  - Fine-Grained Authorization for Retrieval Augmented Generation  [Watch](https://youtu.be/74G7Pwnaj_U)  
  - Dapr - build distributed applications faster  [Watch](https://youtu.be/algEdPTXtWI)  
- - Cloud Native Live: Nirmata Shift Down Security  [Watch](https://youtu.be/ykPN7ycUmkg)  
+ - Cloud Native Live: Introducing Kyverno Authz Server  [Watch](https://youtu.be/ykPN7ycUmkg)  
  - Introduction to Falco Talon  [Watch](https://youtu.be/g6oD3jDi8fs)
 # Channel: Real Python
   
- - Handling or Preventing Errors in Python: LBYL vs EAFP -  [Watch](https://youtu.be/TotBLX6rQw8)  
+ - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)  
+ - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)  
  - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)  
  - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)  
- - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)  
- - Getting Started With Python Poetry  [Watch](https://youtu.be/bTaqePEky6Q)
+ - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)
 # Channel: SysOps / DevOps Polska
   
+ - Instalowałeś k8s przez Kubernetes Image Builder? Uważaj ⚠️ #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/nB4vxQ3NfOc)  
  - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
  - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)  
  - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)  
- - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)  
- - [#528] Metody kontroli oraz optymalizacji kosztów Amazon EKS - Jarosław Grząbel  [Watch](https://youtu.be/1WkiaFXq7_8)
+ - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)
 # Channel: GitHub
   
+ - The hidden risks of manual certificate management | GitHub  [Watch](https://youtu.be/rSDU4PMLBTo)  
+ - Testing with GitHub Copilot  [Watch](https://youtu.be/smdBqEu7fx4)  
+ - GitHub and Sovereign Tech Agency: Funding Open Source Ecosystems  [Watch](https://youtu.be/M_flWJy-MwI)  
  - Manage your repositories at scale across the enterprise  [Watch](https://youtu.be/aXsneNY4a0Q)  
- - Maximize efficiency with GitHub Copilot: Revolutionize your development  [Watch](https://youtu.be/9m3cmaaoFp8)  
- - How AI empowers developer creativity  [Watch](https://youtu.be/IeLqnlfB7VE)  
- - GitHub Copilot code review | New feature announcement  [Watch](https://youtu.be/cyPaAkRfEBQ)  
- - Passwordless deployments with GitHub Actions & OpenID Connect  [Watch](https://youtu.be/JOo6OaOnsIs)
+ - Maximize efficiency with GitHub Copilot: Revolutionize your development  [Watch](https://youtu.be/9m3cmaaoFp8)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
