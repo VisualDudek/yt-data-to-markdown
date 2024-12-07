@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
  - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
  - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
  - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - 🔮 The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)  
- - Your First Line of Defense Against Credential Leaks  [Watch](https://youtu.be/ttWVbQF7yfI)
+ - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - The first thing I would do if I had to build a software system right now  [Watch](https://youtu.be/jEwMS6pvmTo)  
+ - The best piece of advice I have for both beginner and advanced programmers is...  [Watch](https://youtu.be/we50sfLFP0c)  
  - Best framework when building projects on a time crunch  [Watch](https://youtu.be/mfC4OgAKpK4)  
  - Shopify offered me a backend developer position, and here's how I landed it!  [Watch](https://youtu.be/7A_9y8QS5bE)  
- - This one is for the beginner coders , a quick Python trick🤝  [Watch](https://youtu.be/wYaDyFLRd7c)  
- - If there’s one piece of advice I’d share, it’s this...  [Watch](https://youtu.be/s87upaWU5kk)  
- - Let's talk about common Python mistakes we all make  [Watch](https://youtu.be/WAZq0Ez7otY)
+ - This one is for the beginner coders , a quick Python trick🤝  [Watch](https://youtu.be/wYaDyFLRd7c)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,14 +39,14 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Build a Mobile Game with Just Your Voice! 🎮🗣️  [Watch](https://youtu.be/Vj13SdN6OxU)  
+ - Using GitHub Copilot to build a mobile app without writing a SINGLE line of code  [Watch](https://youtu.be/Vj13SdN6OxU)  
  - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
  - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)  
  - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)  
  - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)
 # Channel: Mateusz Chrobok
   
- - 🍝 Wesprzyj Pajacyka. Ze smakiem!  [Watch](https://youtu.be/Jp8QD0-HMfo)  
+ - 🕶 Europol zamknął Matriksa  [Watch](https://youtu.be/YfL6eDzI8HM)  
  - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
  - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)  
  - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)  
