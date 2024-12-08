@@ -8,7 +8,7 @@ Youtube Videos
  - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
  - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
  - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)
+ - 🔮 The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Game-changing Python tip for all programmers!  [Watch](https://youtu.be/kppuH3epeh8)  
+ - If I started from scratch in 2024/2025, this is how I would do it🤝👀  [Watch](https://youtu.be/IsF2Hp-Hk-s)  
  - The first thing I would do if I had to build a software system right now  [Watch](https://youtu.be/jEwMS6pvmTo)  
  - The best piece of advice I have for both beginner and advanced programmers is...  [Watch](https://youtu.be/we50sfLFP0c)  
- - Best framework when building projects on a time crunch  [Watch](https://youtu.be/mfC4OgAKpK4)  
- - Shopify offered me a backend developer position, and here's how I landed it!  [Watch](https://youtu.be/7A_9y8QS5bE)  
- - This one is for the beginner coders , a quick Python trick🤝  [Watch](https://youtu.be/wYaDyFLRd7c)
+ - Best framework when building projects on a time crunch  [Watch](https://youtu.be/mfC4OgAKpK4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)
 # Channel: Mateusz Chrobok
   
+ - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)  
  - 🕶 Europol zamknął Matriksa  [Watch](https://youtu.be/YfL6eDzI8HM)  
  - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
  - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)  
- - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)  
- - 🛍️ Jak rozpoznać fałszywy sklep?  [Watch](https://youtu.be/0H1qGxPLn_A)
+ - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)  
