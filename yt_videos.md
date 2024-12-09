@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
  - Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
  - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
  - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
- - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)  
- - 🔮 The Result Monad Demystified  [Watch](https://youtu.be/jSfDIQ5re8Y)
+ - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - The 3 biggest mistakes people make when starting out with software engineering  [Watch](https://youtu.be/UkxFgUPLgws)  
+ - Stop learning Python👀  [Watch](https://youtu.be/Zsa26236rio)  
+ - My top 3 things I focus on when coding  [Watch](https://youtu.be/Zsl7LIwbmgU)  
  - Game-changing Python tip for all programmers!  [Watch](https://youtu.be/kppuH3epeh8)  
- - If I started from scratch in 2024/2025, this is how I would do it🤝👀  [Watch](https://youtu.be/IsF2Hp-Hk-s)  
- - The first thing I would do if I had to build a software system right now  [Watch](https://youtu.be/jEwMS6pvmTo)  
- - The best piece of advice I have for both beginner and advanced programmers is...  [Watch](https://youtu.be/we50sfLFP0c)  
- - Best framework when building projects on a time crunch  [Watch](https://youtu.be/mfC4OgAKpK4)
+ - If I started from scratch in 2024/2025, this is how I would do it🤝👀  [Watch](https://youtu.be/IsF2Hp-Hk-s)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Introduction to Falco Talon  [Watch](https://youtu.be/g6oD3jDi8fs)
 # Channel: Real Python
   
+ - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)  
  - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)  
  - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)  
  - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)  
- - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)  
- - marimo: Reactive Notebooks and Deployable Web Apps in Python | Real Python Podcast #230  [Watch](https://youtu.be/3lc_0xIKzbE)
+ - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)
 # Channel: SysOps / DevOps Polska
   
  - Instalowałeś k8s przez Kubernetes Image Builder? Uważaj ⚠️ #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/nB4vxQ3NfOc)  
