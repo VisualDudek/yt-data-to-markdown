@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
- - Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
- - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
- - Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
+ - 🏗️ Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
+ - Why You Should Think Twice Before Using Returns in Python  [Watch](https://youtu.be/qkxf583t4Vc)  
+ - 🗝️ Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
  - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - How to Build a Freelance Coding Career - ft. @NicolaiAI  [Watch](https://youtu.be/kGvXPulXoB4)  
+ - Let me show you this one-liner trick!  [Watch](https://youtu.be/0k4zc5AQw1s)  
  - The 3 biggest mistakes people make when starting out with software engineering  [Watch](https://youtu.be/UkxFgUPLgws)  
  - Stop learning Python👀  [Watch](https://youtu.be/Zsa26236rio)  
- - My top 3 things I focus on when coding  [Watch](https://youtu.be/Zsl7LIwbmgU)  
- - Game-changing Python tip for all programmers!  [Watch](https://youtu.be/kppuH3epeh8)  
- - If I started from scratch in 2024/2025, this is how I would do it🤝👀  [Watch](https://youtu.be/IsF2Hp-Hk-s)
+ - My top 3 things I focus on when coding  [Watch](https://youtu.be/Zsl7LIwbmgU)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)
 # Channel: Mateusz Chrobok
   
+ - 💻️ Microsoftowy Recall dostępny szerzej  [Watch](https://youtu.be/BHGj0qZF48w)  
  - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)  
  - 🕶 Europol zamknął Matriksa  [Watch](https://youtu.be/YfL6eDzI8HM)  
  - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
- - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)  
- - Facebook ♥️ oszuści  [Watch](https://youtu.be/LEkWZR_R0Zs)
+ - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)
 # Channel: Cloud Native Computing Foundation
   
+ - KubeCon + CloudNativeCon is coming to London in April 2025  [Watch](https://youtu.be/-h4D7-RM848)  
+ - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
+ - ARM-Wrestling: Overcoming CPU Migration Challenges to Reduce Costs- Laurent Bernaille, Eric Mountain  [Watch](https://youtu.be/hD5lXEgp9Tg)  
  - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)  
- - Fine-Grained Authorization for Retrieval Augmented Generation  [Watch](https://youtu.be/74G7Pwnaj_U)  
- - Dapr - build distributed applications faster  [Watch](https://youtu.be/algEdPTXtWI)  
- - Cloud Native Live: Introducing Kyverno Authz Server  [Watch](https://youtu.be/ykPN7ycUmkg)  
- - Introduction to Falco Talon  [Watch](https://youtu.be/g6oD3jDi8fs)
+ - Fine-Grained Authorization for Retrieval Augmented Generation  [Watch](https://youtu.be/74G7Pwnaj_U)
 # Channel: Real Python
   
  - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)  
@@ -67,11 +67,11 @@ Youtube Videos
  - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)
 # Channel: SysOps / DevOps Polska
   
+ - [#530] LLM - jak tym w ogóle operować? LLMOps zderza się z DevOps - Kamil Dudek  [Watch](https://youtu.be/PPg3C5e870A)  
  - Instalowałeś k8s przez Kubernetes Image Builder? Uważaj ⚠️ #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/nB4vxQ3NfOc)  
  - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
  - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)  
- - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)  
- - Kubernetes - kara czy nagroda? #SODO #MeetUp #Kubernetes #k8s  [Watch](https://youtu.be/THiRBnUZroo)
+ - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - What’s the better Git? // GitLab vs Gitea  [Watch](https://youtu.be/SpXAdOeE1YU)  
  - Self-host your own Git platform! // Gitea Tutorial  [Watch](https://youtu.be/Kg0ct2lBUVg)  
  - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)  
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)  
- - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)  
- - Simple HTTPs for Docker! // Traefik Tutorial (updated)  [Watch](https://youtu.be/-hfejNXqOzA)
+ - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)
 # Channel: GitHub
   
- - The hidden risks of manual certificate management | GitHub  [Watch](https://youtu.be/rSDU4PMLBTo)  
- - Testing with GitHub Copilot  [Watch](https://youtu.be/smdBqEu7fx4)  
  - GitHub and Sovereign Tech Agency: Funding Open Source Ecosystems  [Watch](https://youtu.be/M_flWJy-MwI)  
- - Manage your repositories at scale across the enterprise  [Watch](https://youtu.be/aXsneNY4a0Q)  
- - Maximize efficiency with GitHub Copilot: Revolutionize your development  [Watch](https://youtu.be/9m3cmaaoFp8)
+ - Fix security alerts at scale with security campaigns  [Watch](https://youtu.be/sE8ZWsP1Qnk)  
+ - Intelligent apps: The future of user experience | GitHub  [Watch](https://youtu.be/EgHIQKkRPDc)  
+ - The hidden risks of manual certificate management | GitHub  [Watch](https://youtu.be/rSDU4PMLBTo)  
+ - Testing with GitHub Copilot  [Watch](https://youtu.be/smdBqEu7fx4)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)  
  - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)  
  - Big-O Notation in 3 Minutes  [Watch](https://youtu.be/x2CRZaN2xgM)  
  - How SSH Really Works  [Watch](https://youtu.be/rlMfRa7vfO8)  
- - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)  
- - Scalability Simply Explained in 10 Minutes  [Watch](https://youtu.be/EWS_CIxttVw)
+ - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)
