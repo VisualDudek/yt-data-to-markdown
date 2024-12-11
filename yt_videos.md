@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
- - 🏗️ Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
- - Why You Should Think Twice Before Using Returns in Python  [Watch](https://youtu.be/qkxf583t4Vc)  
- - 🗝️ Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)  
- - Live Code Review | FastAPI  [Watch](https://youtu.be/-FA4Hc7c4ek)
+ - Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
+ - ⛓️ Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
+ - Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
+ - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
+ - 🗝️ Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Let me show you how this function can make your life easier.  [Watch](https://youtu.be/y-GWbdUWN-E)  
+ - What does the future hold for software devs?  [Watch](https://youtu.be/yzyWp_5zLjI)  
  - How to Build a Freelance Coding Career - ft. @NicolaiAI  [Watch](https://youtu.be/kGvXPulXoB4)  
  - Let me show you this one-liner trick!  [Watch](https://youtu.be/0k4zc5AQw1s)  
- - The 3 biggest mistakes people make when starting out with software engineering  [Watch](https://youtu.be/UkxFgUPLgws)  
- - Stop learning Python👀  [Watch](https://youtu.be/Zsa26236rio)  
- - My top 3 things I focus on when coding  [Watch](https://youtu.be/Zsl7LIwbmgU)
+ - The 3 biggest mistakes people make when starting out with software engineering  [Watch](https://youtu.be/UkxFgUPLgws)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - GitHub Copilot for Azure Extension  [Watch](https://youtu.be/sj9E7WUHbmU)  
  - Using GitHub Copilot to build a mobile app without writing a SINGLE line of code  [Watch](https://youtu.be/Vj13SdN6OxU)  
  - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
  - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)  
- - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)  
- - Test like a pro with Playwright and GitHub Copilot  [Watch](https://youtu.be/rjbaIVOGfyo)
+ - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)
 # Channel: Mateusz Chrobok
   
  - 💻️ Microsoftowy Recall dostępny szerzej  [Watch](https://youtu.be/BHGj0qZF48w)  
@@ -53,18 +53,18 @@ Youtube Videos
  - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)
 # Channel: Cloud Native Computing Foundation
   
- - KubeCon + CloudNativeCon is coming to London in April 2025  [Watch](https://youtu.be/-h4D7-RM848)  
+ - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/wPF19-4s5lM)  
  - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
+ - KubeCon + CloudNativeCon is coming to London in April 2025  [Watch](https://youtu.be/-h4D7-RM848)  
  - ARM-Wrestling: Overcoming CPU Migration Challenges to Reduce Costs- Laurent Bernaille, Eric Mountain  [Watch](https://youtu.be/hD5lXEgp9Tg)  
- - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)  
- - Fine-Grained Authorization for Retrieval Augmented Generation  [Watch](https://youtu.be/74G7Pwnaj_U)
+ - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)
 # Channel: Real Python
   
+ - Do You Really Need Comments in Python Code?  [Watch](https://youtu.be/NxjEKKzgGfE)  
  - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)  
  - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)  
  - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)  
- - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)  
- - The Reality of Adapting to Pre-Existing Systems in Programming  [Watch](https://youtu.be/UvJbJ2JORP0)
+ - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)
 # Channel: SysOps / DevOps Polska
   
  - [#530] LLM - jak tym w ogóle operować? LLMOps zderza się z DevOps - Kamil Dudek  [Watch](https://youtu.be/PPg3C5e870A)  
