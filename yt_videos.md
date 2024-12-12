@@ -4,10 +4,10 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
+ - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
  - ⛓️ Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
  - Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
- - Try This if You Don’t Like Python’s Exception Handling  [Watch](https://youtu.be/qkxf583t4Vc)  
+ - Why You Should Think Twice Before Using Returns in Python  [Watch](https://youtu.be/qkxf583t4Vc)  
  - 🗝️ Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Wondering how long it’ll take to land your first job if you start today?  [Watch](https://youtu.be/2ZBHthl2oVc)  
+ - Coding is Changing Fast... AI Agents Explained  [Watch](https://youtu.be/IpktEXs4wFU)  
+ - frontend first, or dive straight into backend?  [Watch](https://youtu.be/blF-6zWAKvA)  
  - Let me show you how this function can make your life easier.  [Watch](https://youtu.be/y-GWbdUWN-E)  
- - What does the future hold for software devs?  [Watch](https://youtu.be/yzyWp_5zLjI)  
- - How to Build a Freelance Coding Career - ft. @NicolaiAI  [Watch](https://youtu.be/kGvXPulXoB4)  
- - Let me show you this one-liner trick!  [Watch](https://youtu.be/0k4zc5AQw1s)  
- - The 3 biggest mistakes people make when starting out with software engineering  [Watch](https://youtu.be/UkxFgUPLgws)
+ - What does the future hold for software devs?  [Watch](https://youtu.be/yzyWp_5zLjI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Sticky Scroll  [Watch](https://youtu.be/PZrOEjuhL24)  
  - GitHub Copilot for Azure Extension  [Watch](https://youtu.be/sj9E7WUHbmU)  
  - Using GitHub Copilot to build a mobile app without writing a SINGLE line of code  [Watch](https://youtu.be/Vj13SdN6OxU)  
  - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
- - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)  
- - Vision for Copilot Preview  [Watch](https://youtu.be/8wkuBGTr9QY)
+ - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)
 # Channel: Mateusz Chrobok
   
+ - 🦴 Przestępcy kupują reklamy w Google  [Watch](https://youtu.be/jPixeoV5ZSk)  
  - 💻️ Microsoftowy Recall dostępny szerzej  [Watch](https://youtu.be/BHGj0qZF48w)  
  - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)  
  - 🕶 Europol zamknął Matriksa  [Watch](https://youtu.be/YfL6eDzI8HM)  
- - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)  
- - AI znalazła 0daya. Sama*.  [Watch](https://youtu.be/nHfkcRPQOu8)
+ - 🐛 Pożyczka? Malware i okup!  [Watch](https://youtu.be/BLdIH1gSRH0)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)  
+ - Security and Performance Optimization with the API Gateway  [Watch](https://youtu.be/OYfIipp508o)  
  - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/wPF19-4s5lM)  
- - CNCF Live Webinar: Serverless - The next step in cloud native  [Watch](https://youtu.be/H8fVbww5YSU)  
- - KubeCon + CloudNativeCon is coming to London in April 2025  [Watch](https://youtu.be/-h4D7-RM848)  
- - ARM-Wrestling: Overcoming CPU Migration Challenges to Reduce Costs- Laurent Bernaille, Eric Mountain  [Watch](https://youtu.be/hD5lXEgp9Tg)  
- - ChatLoopBackOff - Episode 38 (Copacetic)  [Watch](https://youtu.be/8eBaDvNQckY)
+ - Securing the Software Supply Chain: Industry-Standard Practices, Insights, and Getting Started  [Watch](https://youtu.be/mz0gSf1Ip6w)  
+ - Simplifying the experience working with containers and K8s - Podman and Podman Desktop  [Watch](https://youtu.be/v16c7-Gzpeo)
 # Channel: Real Python
   
+ - Introduction to Sphinx Python Document Generation  [Watch](https://youtu.be/VcPVfmmsfa4)  
  - Do You Really Need Comments in Python Code?  [Watch](https://youtu.be/NxjEKKzgGfE)  
  - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)  
  - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)  
- - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)  
- - The Art of 'Why Not' Comments in Your Code  [Watch](https://youtu.be/SfIP8Fp_iQg)
+ - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)
 # Channel: SysOps / DevOps Polska
   
  - [#530] LLM - jak tym w ogóle operować? LLMOps zderza się z DevOps - Kamil Dudek  [Watch](https://youtu.be/PPg3C5e870A)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)
 # Channel: GitHub
   
+ - Mercedes robotics: GitHub's role in future mobility  [Watch](https://youtu.be/K1lFAvz16iw)  
+ - GitHub Start Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)  
  - GitHub and Sovereign Tech Agency: Funding Open Source Ecosystems  [Watch](https://youtu.be/M_flWJy-MwI)  
  - Fix security alerts at scale with security campaigns  [Watch](https://youtu.be/sE8ZWsP1Qnk)  
- - Intelligent apps: The future of user experience | GitHub  [Watch](https://youtu.be/EgHIQKkRPDc)  
- - The hidden risks of manual certificate management | GitHub  [Watch](https://youtu.be/rSDU4PMLBTo)  
- - Testing with GitHub Copilot  [Watch](https://youtu.be/smdBqEu7fx4)
+ - Intelligent apps: The future of user experience | GitHub  [Watch](https://youtu.be/EgHIQKkRPDc)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
