@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
- - ⛓️ Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
- - Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
- - Why You Should Think Twice Before Using Returns in Python  [Watch](https://youtu.be/qkxf583t4Vc)  
- - 🗝️ Best Practices for SSH Key Usage  [Watch](https://youtu.be/wuohAHj5PG4)
+ - I’ve Switched to UV for Python, and So Should You  [Watch](https://youtu.be/qh98qOND6MI)  
+ - Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
+ - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
+ - 🏗️ Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)  
+ - Why You Should Think Twice Before Using Returns in Python  [Watch](https://youtu.be/qkxf583t4Vc)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - The tech world never slows down.  [Watch](https://youtu.be/xdDHGAh8x2Y)  
+ - Mess around with different languages and frameworks first when you just start out  [Watch](https://youtu.be/dYAWWMuXcGA)  
  - Wondering how long it’ll take to land your first job if you start today?  [Watch](https://youtu.be/2ZBHthl2oVc)  
  - Coding is Changing Fast... AI Agents Explained  [Watch](https://youtu.be/IpktEXs4wFU)  
- - frontend first, or dive straight into backend?  [Watch](https://youtu.be/blF-6zWAKvA)  
- - Let me show you how this function can make your life easier.  [Watch](https://youtu.be/y-GWbdUWN-E)  
- - What does the future hold for software devs?  [Watch](https://youtu.be/yzyWp_5zLjI)
+ - frontend first, or dive straight into backend?  [Watch](https://youtu.be/blF-6zWAKvA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)  
+ - Terminal ligatures  [Watch](https://youtu.be/faf6PhmgSzw)  
  - Sticky Scroll  [Watch](https://youtu.be/PZrOEjuhL24)  
  - GitHub Copilot for Azure Extension  [Watch](https://youtu.be/sj9E7WUHbmU)  
- - Using GitHub Copilot to build a mobile app without writing a SINGLE line of code  [Watch](https://youtu.be/Vj13SdN6OxU)  
- - 🔴 Level Up Your SQL Workflow in VS Code: Dev Containers & MSSQL Extension  [Watch](https://youtu.be/7axbKTpwF1c)  
- - Port forwarding in VS Code  [Watch](https://youtu.be/zyaG4zGxz0c)
+ - Using GitHub Copilot to build a mobile app without writing a SINGLE line of code  [Watch](https://youtu.be/Vj13SdN6OxU)
 # Channel: Mateusz Chrobok
   
  - 🦴 Przestępcy kupują reklamy w Google  [Watch](https://youtu.be/jPixeoV5ZSk)  
@@ -54,10 +54,10 @@ Youtube Videos
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)  
- - Security and Performance Optimization with the API Gateway  [Watch](https://youtu.be/OYfIipp508o)  
  - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/wPF19-4s5lM)  
- - Securing the Software Supply Chain: Industry-Standard Practices, Insights, and Getting Started  [Watch](https://youtu.be/mz0gSf1Ip6w)  
- - Simplifying the experience working with containers and K8s - Podman and Podman Desktop  [Watch](https://youtu.be/v16c7-Gzpeo)
+ - Tales from the Crypt: Application Packaging and Delivery Nightmares - Scott Rigby & Sarah Christoff  [Watch](https://youtu.be/_9qM5GgxAxc)  
+ - Security and Performance Optimization with the API Gateway  [Watch](https://youtu.be/OYfIipp508o)  
+ - Securing the Software Supply Chain: Industry-Standard Practices, Insights, and Getting Started  [Watch](https://youtu.be/mz0gSf1Ip6w)
 # Channel: Real Python
   
  - Introduction to Sphinx Python Document Generation  [Watch](https://youtu.be/VcPVfmmsfa4)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)
 # Channel: SysOps / DevOps Polska
   
+ - 💡 Szybkie uruchomienie Kubernetes za pomocą kind.  #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/hZI9aPIJRZg)  
  - [#530] LLM - jak tym w ogóle operować? LLMOps zderza się z DevOps - Kamil Dudek  [Watch](https://youtu.be/PPg3C5e870A)  
  - Instalowałeś k8s przez Kubernetes Image Builder? Uważaj ⚠️ #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/nB4vxQ3NfOc)  
  - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
- - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)  
- - Jak dodać do Kubernetesa generowanie bezpłatnych certyfikatów SSL💡 #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/IrU_9v0bWUk)
+ - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)
 # Channel: GitHub
   
+ - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)  
  - Mercedes robotics: GitHub's role in future mobility  [Watch](https://youtu.be/K1lFAvz16iw)  
  - GitHub Start Up Wednesday with Danny Sheridan and Fern  [Watch](https://youtu.be/jqBPmGWwt8c)  
  - GitHub and Sovereign Tech Agency: Funding Open Source Ecosystems  [Watch](https://youtu.be/M_flWJy-MwI)  
- - Fix security alerts at scale with security campaigns  [Watch](https://youtu.be/sE8ZWsP1Qnk)  
- - Intelligent apps: The future of user experience | GitHub  [Watch](https://youtu.be/EgHIQKkRPDc)
+ - Fix security alerts at scale with security campaigns  [Watch](https://youtu.be/sE8ZWsP1Qnk)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
