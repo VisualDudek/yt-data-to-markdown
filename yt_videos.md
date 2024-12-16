@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
  - Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
  - I’ve Switched to UV for Python, and So Should You  [Watch](https://youtu.be/qh98qOND6MI)  
- - Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
- - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)  
- - 🏗️ Building a CLI with Python  [Watch](https://youtu.be/V703bl-8QRc)
+ - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
+ - ⛓️ Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
- - A simple yet super handy function!  [Watch](https://youtu.be/JVE53-ChCvI)  
- - Feel like you’re stuck watching YouTube tutorials but not actually coding?  [Watch](https://youtu.be/rtuIr14wKh0)  
- - Let’s dive into Python’s Map ( ) Function!  [Watch](https://youtu.be/SWsEnzNKbBI)  
- - The tech world never slows down.  [Watch](https://youtu.be/xdDHGAh8x2Y)  
- - Mess around with different languages and frameworks first when you just start out  [Watch](https://youtu.be/dYAWWMuXcGA)
+ - This is where most beginner coders get it wrong when starting out  [Watch](https://youtu.be/pjxUCLaaOew)  
+ - ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents  [Watch](https://youtu.be/QmUsG_3wHPg)  
+ - This is a pretty straightforward function.  [Watch](https://youtu.be/jc_MSihR0TU)  
+ - Rather, try doing this when coding—it will change the game for how you code.  [Watch](https://youtu.be/g_G55cFaSq4)  
+ - A simple yet super handy function!  [Watch](https://youtu.be/JVE53-ChCvI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Vertical rulers #vscode  [Watch](https://youtu.be/HPKBkJPs2DM)  
  - The most underrated GitHub Copilot feature  [Watch](https://youtu.be/YoXqJIGQwMw)  
  - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)  
  - Terminal ligatures  [Watch](https://youtu.be/faf6PhmgSzw)  
- - Sticky Scroll  [Watch](https://youtu.be/PZrOEjuhL24)  
- - GitHub Copilot for Azure Extension  [Watch](https://youtu.be/sj9E7WUHbmU)
+ - Sticky Scroll  [Watch](https://youtu.be/PZrOEjuhL24)
 # Channel: Mateusz Chrobok
   
+ - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)  
  - Kim jest David Mayer?!  [Watch](https://youtu.be/jqTGmS-961k)  
  - 🦴 Przestępcy kupują reklamy w Google  [Watch](https://youtu.be/jPixeoV5ZSk)  
  - 💻️ Microsoftowy Recall dostępny szerzej  [Watch](https://youtu.be/BHGj0qZF48w)  
- - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)  
- - 🕶 Europol zamknął Matriksa  [Watch](https://youtu.be/YfL6eDzI8HM)
+ - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)
 # Channel: Cloud Native Computing Foundation
   
  - Conquering Configuration Constraints: Real-World Patterns for Distributing Data... Daniel Hrabovcak  [Watch](https://youtu.be/_BkW5OAeXPQ)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Security and Performance Optimization with the API Gateway  [Watch](https://youtu.be/OYfIipp508o)
 # Channel: Real Python
   
+ - Why We Don’t Upgrade Immediately  [Watch](https://youtu.be/IKkKj5fw2Lg)  
  - Introduction to Sphinx Python Document Generation  [Watch](https://youtu.be/VcPVfmmsfa4)  
  - Do You Really Need Comments in Python Code?  [Watch](https://youtu.be/NxjEKKzgGfE)  
  - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)  
- - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)  
- - Handling or Preventing Errors in Python: LBYL vs EAFP - Getting Started & Choosing a Style  [Watch](https://youtu.be/TotBLX6rQw8)
+ - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)
 # Channel: SysOps / DevOps Polska
   
+ - [#531] Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny  [Watch](https://youtu.be/KyxcjaaFC0g)  
  - 💡 Szybkie uruchomienie Kubernetes za pomocą kind.  #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/hZI9aPIJRZg)  
  - [#530] LLM - jak tym w ogóle operować? LLMOps zderza się z DevOps - Kamil Dudek  [Watch](https://youtu.be/PPg3C5e870A)  
  - Instalowałeś k8s przez Kubernetes Image Builder? Uważaj ⚠️ #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/nB4vxQ3NfOc)  
- - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)  
- - [#529] Od pomysłu przez ChatGPT do działającego narzędzia: gdy admin udaje programistę - B. Feński  [Watch](https://youtu.be/sM6R9OjblNE)
+ - 💥Masz dość Ingressa w Kubernetesie? #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/v9PEtmVUHv8)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
