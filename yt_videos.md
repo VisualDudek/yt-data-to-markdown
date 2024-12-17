@@ -8,7 +8,7 @@ Youtube Videos
  - Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
  - I’ve Switched to UV for Python, and So Should You  [Watch](https://youtu.be/qh98qOND6MI)  
  - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
- - ⛓️ Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)
+ - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
 # Channel: Tech With Tim
   
+ - Avoid doing this when starting out with coding🤫✅  [Watch](https://youtu.be/EW_aJfF4D-M)  
  - This is where most beginner coders get it wrong when starting out  [Watch](https://youtu.be/pjxUCLaaOew)  
  - ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents  [Watch](https://youtu.be/QmUsG_3wHPg)  
  - This is a pretty straightforward function.  [Watch](https://youtu.be/jc_MSihR0TU)  
- - Rather, try doing this when coding—it will change the game for how you code.  [Watch](https://youtu.be/g_G55cFaSq4)  
- - A simple yet super handy function!  [Watch](https://youtu.be/JVE53-ChCvI)
+ - Rather, try doing this when coding—it will change the game for how you code.  [Watch](https://youtu.be/g_G55cFaSq4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)
 # Channel: Cloud Native Computing Foundation
   
+ - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-12-10  [Watch](https://youtu.be/_gxOSr6fay4)  
+ - Deaf in Cloud Native: KubeCon NA 2024 Recap  [Watch](https://youtu.be/4n6n-LPlI_k)  
+ - BIPOC: Under the rug - tackling bias and building allies in cloud native  [Watch](https://youtu.be/NhI4Ur_3Tq8)  
  - Conquering Configuration Constraints: Real-World Patterns for Distributing Data... Daniel Hrabovcak  [Watch](https://youtu.be/_BkW5OAeXPQ)  
- - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)  
- - Cloud Native Live: Level up your database security  [Watch](https://youtu.be/wPF19-4s5lM)  
- - Tales from the Crypt: Application Packaging and Delivery Nightmares - Scott Rigby & Sarah Christoff  [Watch](https://youtu.be/_9qM5GgxAxc)  
- - Security and Performance Optimization with the API Gateway  [Watch](https://youtu.be/OYfIipp508o)
+ - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)
 # Channel: Real Python
   
  - Why We Don’t Upgrade Immediately  [Watch](https://youtu.be/IKkKj5fw2Lg)  
@@ -88,11 +88,11 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - Terminal tools for IT pros  [Watch](https://youtu.be/79rmEOrd5u8)  
  - What’s the better Git? // GitLab vs Gitea  [Watch](https://youtu.be/SpXAdOeE1YU)  
  - Self-host your own Git platform! // Gitea Tutorial  [Watch](https://youtu.be/Kg0ct2lBUVg)  
  - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)  
- - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)  
- - Storage and Backup in Kubernetes! // Longhorn Tutorial  [Watch](https://youtu.be/-ImtLXcEna8)
+ - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
  - The many faces of GitHub's Octocat  [Watch](https://youtu.be/hcE7zs6WnuI)  
