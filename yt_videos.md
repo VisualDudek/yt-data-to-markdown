@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
- - Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
- - I’ve Switched to UV for Python, and So Should You  [Watch](https://youtu.be/qh98qOND6MI)  
- - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)  
- - Rust’s Ownership Model Explained in 35 Seconds  [Watch](https://youtu.be/unaEcKvT4lQ)
+ - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
+ - ❌ Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
+ - 👀 Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
+ - UV for Python… (Almost) All Batteries Included  [Watch](https://youtu.be/qh98qOND6MI)  
+ - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)  
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)  
  - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)  
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)  
- - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)  
- - be careful with NoReturn / Never! (all code sucks) #11  [Watch](https://youtu.be/WuXRn3euN8k)
+ - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Do you know another name for Dunder Methods?  [Watch](https://youtu.be/CxPNS6BPlBI)  
+ - Did you master this Python function?  [Watch](https://youtu.be/_41_aZfU7ic)  
+ - Learn Programming the Right Way: Avoid These 5 Common Traps  [Watch](https://youtu.be/OpjEl58VmRk)  
  - Avoid doing this when starting out with coding🤫✅  [Watch](https://youtu.be/EW_aJfF4D-M)  
- - This is where most beginner coders get it wrong when starting out  [Watch](https://youtu.be/pjxUCLaaOew)  
- - ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents  [Watch](https://youtu.be/QmUsG_3wHPg)  
- - This is a pretty straightforward function.  [Watch](https://youtu.be/jc_MSihR0TU)  
- - Rather, try doing this when coding—it will change the game for how you code.  [Watch](https://youtu.be/g_G55cFaSq4)
+ - This is where most beginner coders get it wrong when starting out  [Watch](https://youtu.be/pjxUCLaaOew)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)  
+ - A free GitHub Copilot for VS Code  [Watch](https://youtu.be/pm4hY8fG58g)  
  - Vertical rulers #vscode  [Watch](https://youtu.be/HPKBkJPs2DM)  
  - The most underrated GitHub Copilot feature  [Watch](https://youtu.be/YoXqJIGQwMw)  
- - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)  
- - Terminal ligatures  [Watch](https://youtu.be/faf6PhmgSzw)  
- - Sticky Scroll  [Watch](https://youtu.be/PZrOEjuhL24)
+ - Terminal ligatures  [Watch](https://youtu.be/faf6PhmgSzw)
 # Channel: Mateusz Chrobok
   
+ - 🕯️ RIP Suchir Balaji  [Watch](https://youtu.be/U-wErWO4kto)  
  - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)  
  - Kim jest David Mayer?!  [Watch](https://youtu.be/jqTGmS-961k)  
  - 🦴 Przestępcy kupują reklamy w Google  [Watch](https://youtu.be/jPixeoV5ZSk)  
- - 💻️ Microsoftowy Recall dostępny szerzej  [Watch](https://youtu.be/BHGj0qZF48w)  
- - Oszust nasz pan. Jak Facebook chroni scamerów.  [Watch](https://youtu.be/cVEX2WhamYU)
+ - 💻️ Microsoftowy Recall dostępny szerzej  [Watch](https://youtu.be/BHGj0qZF48w)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Enabling self-service for developers using K8s operators  [Watch](https://youtu.be/sLcekxuKdgQ)  
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2024-12-10  [Watch](https://youtu.be/_gxOSr6fay4)  
  - Deaf in Cloud Native: KubeCon NA 2024 Recap  [Watch](https://youtu.be/4n6n-LPlI_k)  
  - BIPOC: Under the rug - tackling bias and building allies in cloud native  [Watch](https://youtu.be/NhI4Ur_3Tq8)  
- - Conquering Configuration Constraints: Real-World Patterns for Distributing Data... Daniel Hrabovcak  [Watch](https://youtu.be/_BkW5OAeXPQ)  
- - ChatLoopBackOff - Episode 39 (KubeStellar)  [Watch](https://youtu.be/fZJewWN29EE)
+ - Conquering Configuration Constraints: Real-World Patterns for Distributing Data... Daniel Hrabovcak  [Watch](https://youtu.be/_BkW5OAeXPQ)
 # Channel: Real Python
   
+ - Handcuff-Free Coding: Why Tool Choice Matters  [Watch](https://youtu.be/H_9rl6KyhqQ)  
  - Why We Don’t Upgrade Immediately  [Watch](https://youtu.be/IKkKj5fw2Lg)  
  - Introduction to Sphinx Python Document Generation  [Watch](https://youtu.be/VcPVfmmsfa4)  
  - Do You Really Need Comments in Python Code?  [Watch](https://youtu.be/NxjEKKzgGfE)  
- - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)  
- - Good Python Programming Practices When New to the Language | Real Python Podcast #231  [Watch](https://youtu.be/4bupOgeK6zg)
+ - abs() function in Python: absolute value!  [Watch](https://youtu.be/61ofMgWiulA)
 # Channel: SysOps / DevOps Polska
   
  - [#531] Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny  [Watch](https://youtu.be/KyxcjaaFC0g)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Build Conway's Game of Life with GitHub Copilot Free  [Watch](https://youtu.be/pGV_T6g1hcU)  
+ - How to get started with GitHub Copilot Free in Visual Studio Code  [Watch](https://youtu.be/dMbOh114Vd4)  
  - The many faces of GitHub's Octocat  [Watch](https://youtu.be/hcE7zs6WnuI)  
  - Code Completion Made Easy with GitHub Copilot  [Watch](https://youtu.be/Wk1GVJWt2JA)  
- - Govern your repositories with Push Rulesets  [Watch](https://youtu.be/u3MHqfeBzek)  
- - Open Source Spotlight: Building Copilot Extensions with Nick Taylor  [Watch](https://youtu.be/zE-O-3CGcEc)  
- - Mercedes robotics: GitHub's role in future mobility  [Watch](https://youtu.be/K1lFAvz16iw)
+ - Govern your repositories with Push Rulesets  [Watch](https://youtu.be/u3MHqfeBzek)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
