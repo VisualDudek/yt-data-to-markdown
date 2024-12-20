@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
+ - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
+ - 🤔 Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
  - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
- - 👀 Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
- - UV for Python… (Almost) All Batteries Included  [Watch](https://youtu.be/qh98qOND6MI)  
- - 👉🏻 Follow These Standards for Better APIs  [Watch](https://youtu.be/M3lOr8216EU)
+ - Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
+ - I’ve Switched to UV for Python, and So Should You  [Watch](https://youtu.be/qh98qOND6MI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Ever wondered how to get access to the class, not just its instances?  [Watch](https://youtu.be/reESIDhkyyc)  
+ - 10 Python Concepts You NEED To Know in 2025  [Watch](https://youtu.be/Rkzbhmy9MMY)  
+ - It's normal to struggle with imposter syndrome...  [Watch](https://youtu.be/gDtb1WZ73TQ)  
  - Master these Python functions to elevate your programming skills and enhance your projects🤝🤫  [Watch](https://youtu.be/FF7OLiGAZvM)  
- - I’d say this is hands down one of the best ways to learn coding ☝️  [Watch](https://youtu.be/fUXY7w4g1-M)  
- - Do you know another name for Dunder Methods?  [Watch](https://youtu.be/CxPNS6BPlBI)  
- - Did you master this Python function?  [Watch](https://youtu.be/_41_aZfU7ic)  
- - Learn Programming the Right Way...  [Watch](https://youtu.be/OpjEl58VmRk)
+ - I’d say this is hands down one of the best ways to learn coding ☝️  [Watch](https://youtu.be/fUXY7w4g1-M)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🦴 Przestępcy kupują reklamy w Google  [Watch](https://youtu.be/jPixeoV5ZSk)
 # Channel: Cloud Native Computing Foundation
   
+ - Deaf in Cloud Native: KubeCon NA 2024 Recap  [Watch](https://youtu.be/4n6n-LPlI_k)  
+ - ChatLoopBackOff - Episode 40 (Spiderpool)  [Watch](https://youtu.be/GiCOnFCwRno)  
  - LitmusChaos community connect  [Watch](https://youtu.be/1NrLu3HiW_I)  
  - The Hitchhiker's Guide to Testing Kubernetes - Sreeram Venkitesh, SIG Testing  [Watch](https://youtu.be/CH0H47Ov8fA)  
- - Welcome + Opening - Bob Killen, Nabarun Pal & Priyanka Saggu  [Watch](https://youtu.be/HzuuRwvaU90)  
- - Hands-On Chaos Engineering Workshop with LitmusChaos and the Road to CNCF Graduation - Panel  [Watch](https://youtu.be/ZCUnSpTvCt0)  
- - containerd Packaging: Who Should Ship and How? - Akhil Mohan, containerd  [Watch](https://youtu.be/lrEFji9AkiQ)
+ - Welcome + Opening - Bob Killen, Nabarun Pal & Priyanka Saggu  [Watch](https://youtu.be/HzuuRwvaU90)
 # Channel: Real Python
   
+ - Exploring Modern Sentiment Analysis Approaches in Python  | Real Python Podcast #232  [Watch](https://youtu.be/5UkgTvYj17g)  
  - Programming Sockets in Python: Fetching Pages & Looking at the Network  [Watch](https://youtu.be/wwdDmdap_Oc)  
  - Handcuff-Free Coding: Why Tool Choice Matters  [Watch](https://youtu.be/H_9rl6KyhqQ)  
  - Why We Don’t Upgrade Immediately  [Watch](https://youtu.be/IKkKj5fw2Lg)  
- - Introduction to Sphinx Python Document Generation  [Watch](https://youtu.be/VcPVfmmsfa4)  
- - Do You Really Need Comments in Python Code?  [Watch](https://youtu.be/NxjEKKzgGfE)
+ - Introduction to Sphinx Python Document Generation  [Watch](https://youtu.be/VcPVfmmsfa4)
 # Channel: SysOps / DevOps Polska
   
  - [#531] Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny  [Watch](https://youtu.be/KyxcjaaFC0g)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Kubernetes security: What developers need to know  [Watch](https://youtu.be/X6pbFjblcc4)  
  - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)  
  - Build Conway's Game of Life with GitHub Copilot Free  [Watch](https://youtu.be/pGV_T6g1hcU)  
  - How to get started with GitHub Copilot Free in Visual Studio Code  [Watch](https://youtu.be/dMbOh114Vd4)  
- - The many faces of GitHub's Octocat  [Watch](https://youtu.be/hcE7zs6WnuI)  
- - Code Completion Made Easy with GitHub Copilot  [Watch](https://youtu.be/Wk1GVJWt2JA)
+ - The many faces of GitHub's Octocat  [Watch](https://youtu.be/hcE7zs6WnuI)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
@@ -116,8 +116,8 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
+ - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)  
  - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)  
  - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)  
  - Big-O Notation in 3 Minutes  [Watch](https://youtu.be/x2CRZaN2xgM)  
- - How SSH Really Works  [Watch](https://youtu.be/rlMfRa7vfO8)  
- - Everything You NEED to KNOW About Web Applications  [Watch](https://youtu.be/_higfXfhjdo)
+ - How SSH Really Works  [Watch](https://youtu.be/rlMfRa7vfO8)
