@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
  - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
- - 🤔 Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
- - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
- - Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)  
- - I’ve Switched to UV for Python, and So Should You  [Watch](https://youtu.be/qh98qOND6MI)
+ - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
+ - ❌ Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
+ - 👀 Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - How one of my students landed their first coding job just 3 weeks after finishing my course!  [Watch](https://youtu.be/d_Ay2dKrQgA)  
+ - Have you ever written all your methods in only 4 lines?  [Watch](https://youtu.be/1uJVLhv5EcE)  
+ - Stop Watching Coding Tutorials  ✅👨‍💻  [Watch](https://youtu.be/dkC2448ISLw)  
  - Ever wondered how to get access to the class, not just its instances?  [Watch](https://youtu.be/reESIDhkyyc)  
- - 10 Python Concepts You NEED To Know in 2025  [Watch](https://youtu.be/Rkzbhmy9MMY)  
- - It's normal to struggle with imposter syndrome...  [Watch](https://youtu.be/gDtb1WZ73TQ)  
- - Master these Python functions to elevate your programming skills and enhance your projects🤝🤫  [Watch](https://youtu.be/FF7OLiGAZvM)  
- - I’d say this is hands down one of the best ways to learn coding ☝️  [Watch](https://youtu.be/fUXY7w4g1-M)
+ - 10 Python Concepts You NEED To Know in 2025  [Watch](https://youtu.be/Rkzbhmy9MMY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Slash Commands in GitHub Copilot  [Watch](https://youtu.be/Ipm6noRuC-Y)  
  - Kubernetes security: What developers need to know  [Watch](https://youtu.be/X6pbFjblcc4)  
  - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)  
  - Build Conway's Game of Life with GitHub Copilot Free  [Watch](https://youtu.be/pGV_T6g1hcU)  
- - How to get started with GitHub Copilot Free in Visual Studio Code  [Watch](https://youtu.be/dMbOh114Vd4)  
- - The many faces of GitHub's Octocat  [Watch](https://youtu.be/hcE7zs6WnuI)
+ - How to get started with GitHub Copilot Free in Visual Studio Code  [Watch](https://youtu.be/dMbOh114Vd4)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
