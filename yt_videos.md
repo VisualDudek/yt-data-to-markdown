@@ -7,8 +7,8 @@ Youtube Videos
  - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
  - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
  - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
- - ❌ Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
- - 👀 Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)
+ - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)  
+ - Shutting Down a Product? Here’s What You Need to Know  [Watch](https://youtu.be/CvGpqiCrdfE)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - This week, we’re diving into AI projects! A fun series on projects to challenge your skills.  [Watch](https://youtu.be/J2qL7fuz1MY)  
+ - How To Get Good at Programming - Without Tutorial Hell...  [Watch](https://youtu.be/sQd2NRrtGgs)  
+ - Want to stand out? Your network will take you further than any degree.  [Watch](https://youtu.be/4IUxx4UmpWQ)  
  - How one of my students landed their first coding job just 3 weeks after finishing my course!  [Watch](https://youtu.be/d_Ay2dKrQgA)  
- - Have you ever written all your methods in only 4 lines?  [Watch](https://youtu.be/1uJVLhv5EcE)  
- - Stop Watching Coding Tutorials  ✅👨‍💻  [Watch](https://youtu.be/dkC2448ISLw)  
- - Ever wondered how to get access to the class, not just its instances?  [Watch](https://youtu.be/reESIDhkyyc)  
- - 10 Python Concepts You NEED To Know in 2025  [Watch](https://youtu.be/Rkzbhmy9MMY)
+ - Have you ever written all your methods in only 4 lines?  [Watch](https://youtu.be/1uJVLhv5EcE)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - The most underrated GitHub Copilot feature  [Watch](https://youtu.be/YoXqJIGQwMw)
 # Channel: Mateusz Chrobok
   
+ - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)  
  - 📖  Panoptykon czyta raport Facebooka  [Watch](https://youtu.be/MDIbNeGeniQ)  
  - 🕯️ RIP Suchir Balaji  [Watch](https://youtu.be/U-wErWO4kto)  
  - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)  
- - Kim jest David Mayer?!  [Watch](https://youtu.be/jqTGmS-961k)  
- - 🦴 Przestępcy kupują reklamy w Google  [Watch](https://youtu.be/jPixeoV5ZSk)
+ - Kim jest David Mayer?!  [Watch](https://youtu.be/jqTGmS-961k)
 # Channel: Cloud Native Computing Foundation
   
  - Deaf in Cloud Native: KubeCon NA 2024 Recap  [Watch](https://youtu.be/4n6n-LPlI_k)  
