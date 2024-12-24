@@ -8,7 +8,7 @@ Youtube Videos
  - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
  - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
  - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
- - ❌ Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)
+ - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Top 5 Passive Income Streams for Developers  [Watch](https://youtu.be/qIOoX85v7vs)  
+ - The Truth About Comp Sci in 2025 👀 #compsci #computerscience#fyp #tech  [Watch](https://youtu.be/s75WI6rOUfI)  
  - Here is why I switched from JavaScript to TypeScript  [Watch](https://youtu.be/PF5SrWbQ8nY)  
  - Sentiment Analysis Code Sample - Part 2  [Watch](https://youtu.be/4SJv8YxGho4)  
- - This week, we’re diving into AI projects! A fun series on projects to challenge your skills.  [Watch](https://youtu.be/J2qL7fuz1MY)  
- - How To Get Good at Programming - Without Tutorial Hell...  [Watch](https://youtu.be/sQd2NRrtGgs)  
- - Want to stand out? Your network will take you further than any degree.  [Watch](https://youtu.be/4IUxx4UmpWQ)
+ - This week, we’re diving into AI projects! A fun series on projects to challenge your skills.  [Watch](https://youtu.be/J2qL7fuz1MY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
