@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)  
  - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)  
  - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
  - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
- - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)  
- - Stop Using Bad Names in Your Code  [Watch](https://youtu.be/GZ3lxU6Ee-w)
+ - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Merry Christmas Tech With Tim Family🎄 What is your plans this Christmas? Comment down below👇  [Watch](https://youtu.be/AfkThO18cxc)  
+ - So next up on our AI Project Series we have. AI Voice Assistant🤖  [Watch](https://youtu.be/M_EmE5xdUvg)  
  - Top 5 Passive Income Streams for Developers  [Watch](https://youtu.be/qIOoX85v7vs)  
  - The Truth About Comp Sci in 2025 👀 #compsci #computerscience#fyp #tech  [Watch](https://youtu.be/s75WI6rOUfI)  
- - Here is why I switched from JavaScript to TypeScript  [Watch](https://youtu.be/PF5SrWbQ8nY)  
- - Sentiment Analysis Code Sample - Part 2  [Watch](https://youtu.be/4SJv8YxGho4)  
- - This week, we’re diving into AI projects! A fun series on projects to challenge your skills.  [Watch](https://youtu.be/J2qL7fuz1MY)
+ - Here is why I switched from JavaScript to TypeScript  [Watch](https://youtu.be/PF5SrWbQ8nY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
