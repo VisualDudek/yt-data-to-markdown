@@ -8,7 +8,7 @@ Youtube Videos
  - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)  
  - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
  - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
- - Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)
+ - 🤔 Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
- - Merry Christmas Tech With Tim Family🎄 What is your plans this Christmas? Comment down below👇  [Watch](https://youtu.be/AfkThO18cxc)  
- - So next up on our AI Project Series we have. AI Voice Assistant🤖  [Watch](https://youtu.be/M_EmE5xdUvg)  
- - Top 5 Passive Income Streams for Developers  [Watch](https://youtu.be/qIOoX85v7vs)  
- - The Truth About Comp Sci in 2025 👀 #compsci #computerscience#fyp #tech  [Watch](https://youtu.be/s75WI6rOUfI)  
- - Here is why I switched from JavaScript to TypeScript  [Watch](https://youtu.be/PF5SrWbQ8nY)
+ - Next AI Project is Image Classification in Python🔍🤖  [Watch](https://youtu.be/xk_WqFmw8ss)  
+ - How To Become an AI Engineer in 2025 - ft. @NicolaiAI  [Watch](https://youtu.be/_SwY6yWzW00)  
+ - A quick Image Classifier code sample with TensorFlow and Keras in Python💻  [Watch](https://youtu.be/0NBFsaPy_rQ)  
+ - Should you join a Coding Bootcamp in 2025?  [Watch](https://youtu.be/KwKaQNBAxh4)  
+ - Merry Christmas Tech With Tim Family🎄 What is your plans this Christmas? Comment down below👇  [Watch](https://youtu.be/AfkThO18cxc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)  
  - Coding on my super old college laptop  [Watch](https://youtu.be/BtCSS9cto2M)  
  - Get started with Copilot Free in VS Code  [Watch](https://youtu.be/X_Aet9ndh_Y)  
  - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)  
- - A free GitHub Copilot for VS Code  [Watch](https://youtu.be/pm4hY8fG58g)  
- - Vertical rulers #vscode  [Watch](https://youtu.be/HPKBkJPs2DM)
+ - A free GitHub Copilot for VS Code  [Watch](https://youtu.be/pm4hY8fG58g)
 # Channel: Mateusz Chrobok
   
  - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
- - AI-Powered Development: Exploring the Latest GitHub Copilot Features Dec. 2024  [Watch](https://youtu.be/07mUcfiTpag)  
+ - Unlocking AI advancements: Copilot's impact on industries  [Watch](https://youtu.be/V22lp_nEl-w)  
+ - AI-powered development: Exploring the latest GitHub Copilot features  [Watch](https://youtu.be/07mUcfiTpag)  
  - Slash Commands in GitHub Copilot  [Watch](https://youtu.be/Ipm6noRuC-Y)  
  - Kubernetes security: What developers need to know  [Watch](https://youtu.be/X6pbFjblcc4)  
- - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)  
- - Build Conway's Game of Life with GitHub Copilot Free  [Watch](https://youtu.be/pGV_T6g1hcU)
+ - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
