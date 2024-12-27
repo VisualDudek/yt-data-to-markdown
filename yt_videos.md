@@ -25,8 +25,8 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Recommendation Systems. Ever watched a movie on Netflix and got suggestions for similar ones?  [Watch](https://youtu.be/4hNDC7F3BW0)  
  - Next AI Project is Image Classification in Python🔍🤖  [Watch](https://youtu.be/xk_WqFmw8ss)  
- - How To Become an AI Engineer in 2025 - ft. @NicolaiAI  [Watch](https://youtu.be/_SwY6yWzW00)  
  - A quick Image Classifier code sample with TensorFlow and Keras in Python💻  [Watch](https://youtu.be/0NBFsaPy_rQ)  
  - Should you join a Coding Bootcamp in 2025?  [Watch](https://youtu.be/KwKaQNBAxh4)  
  - Merry Christmas Tech With Tim Family🎄 What is your plans this Christmas? Comment down below👇  [Watch](https://youtu.be/AfkThO18cxc)
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Folders & Files Made Fast Like This!  [Watch](https://youtu.be/wUcYp_J93VM)  
  - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)  
  - Coding on my super old college laptop  [Watch](https://youtu.be/BtCSS9cto2M)  
  - Get started with Copilot Free in VS Code  [Watch](https://youtu.be/X_Aet9ndh_Y)  
- - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)  
- - A free GitHub Copilot for VS Code  [Watch](https://youtu.be/pm4hY8fG58g)
+ - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)
 # Channel: Mateusz Chrobok
   
  - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Welcome + Opening - Bob Killen, Nabarun Pal & Priyanka Saggu  [Watch](https://youtu.be/HzuuRwvaU90)
 # Channel: Real Python
   
+ - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)  
  - The Hidden Pitfalls of Customizing Your Editor  [Watch](https://youtu.be/8fzgqymYhZw)  
  - Exploring Modern Sentiment Analysis Approaches in Python  | Real Python Podcast #232  [Watch](https://youtu.be/5UkgTvYj17g)  
  - Programming Sockets in Python: Fetching Pages & Looking at the Network  [Watch](https://youtu.be/wwdDmdap_Oc)  
- - Handcuff-Free Coding: Why Tool Choice Matters  [Watch](https://youtu.be/H_9rl6KyhqQ)  
- - Why We Don’t Upgrade Immediately  [Watch](https://youtu.be/IKkKj5fw2Lg)
+ - Handcuff-Free Coding: Why Tool Choice Matters  [Watch](https://youtu.be/H_9rl6KyhqQ)
 # Channel: SysOps / DevOps Polska
   
+ - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swój Zabbix 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
+ - [#533] Kubernetes: unprivileged docker-in-docker with sysbox - Adam Dziomdziora  [Watch](https://youtu.be/oqTnAO6mAjU)  
  - [#532] Jak lepiej zrozumieć Terraform Output za pomocą GenAI? - Adam Obrębski  [Watch](https://youtu.be/Lj2-2Qy6E8k)  
  - [#531] Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny  [Watch](https://youtu.be/KyxcjaaFC0g)  
- - 💡 Szybkie uruchomienie Kubernetes za pomocą kind.  #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/hZI9aPIJRZg)  
- - [#530] LLM - jak tym w ogóle operować? LLMOps zderza się z DevOps - Kamil Dudek  [Watch](https://youtu.be/PPg3C5e870A)  
- - Instalowałeś k8s przez Kubernetes Image Builder? Uważaj ⚠️ #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/nB4vxQ3NfOc)
+ - 💡 Szybkie uruchomienie Kubernetes za pomocą kind.  #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/hZI9aPIJRZg)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Knowledge Bases in GitHub Copilot  [Watch](https://youtu.be/uCGRH6Jf1-g)  
  - Unlocking AI advancements: Copilot's impact on industries  [Watch](https://youtu.be/V22lp_nEl-w)  
  - AI-powered development: Exploring the latest GitHub Copilot features  [Watch](https://youtu.be/07mUcfiTpag)  
  - Slash Commands in GitHub Copilot  [Watch](https://youtu.be/Ipm6noRuC-Y)  
- - Kubernetes security: What developers need to know  [Watch](https://youtu.be/X6pbFjblcc4)  
- - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)
+ - Kubernetes security: What developers need to know  [Watch](https://youtu.be/X6pbFjblcc4)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
