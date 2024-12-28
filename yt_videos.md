@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)  
  - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)  
  - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)  
  - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
- - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)  
- - 🤔 Mojo vs. Rust: Which Should You Pick?  [Watch](https://youtu.be/8tf-9ekVD-s)
+ - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Please Master This MAGIC Python Feature... 🪄  [Watch](https://youtu.be/qqp6QN20CpE)  
+ - Definitely one of my favorite AI projects to work on!  [Watch](https://youtu.be/_ah7rll_Jik)  
+ - Quick code sample on how to code a Recommendation System in Python  [Watch](https://youtu.be/kLn9OUPTo9I)  
  - Recommendation Systems. Ever watched a movie on Netflix and got suggestions for similar ones?  [Watch](https://youtu.be/4hNDC7F3BW0)  
- - Next AI Project is Image Classification in Python🔍🤖  [Watch](https://youtu.be/xk_WqFmw8ss)  
- - A quick Image Classifier code sample with TensorFlow and Keras in Python💻  [Watch](https://youtu.be/0NBFsaPy_rQ)  
- - Should you join a Coding Bootcamp in 2025?  [Watch](https://youtu.be/KwKaQNBAxh4)  
- - Merry Christmas Tech With Tim Family🎄 What is your plans this Christmas? Comment down below👇  [Watch](https://youtu.be/AfkThO18cxc)
+ - Next AI Project is Image Classification in Python🔍🤖  [Watch](https://youtu.be/xk_WqFmw8ss)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -67,7 +67,7 @@ Youtube Videos
  - Handcuff-Free Coding: Why Tool Choice Matters  [Watch](https://youtu.be/H_9rl6KyhqQ)
 # Channel: SysOps / DevOps Polska
   
- - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swój Zabbix 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
+ - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
  - [#533] Kubernetes: unprivileged docker-in-docker with sysbox - Adam Dziomdziora  [Watch](https://youtu.be/oqTnAO6mAjU)  
  - [#532] Jak lepiej zrozumieć Terraform Output za pomocą GenAI? - Adam Obrębski  [Watch](https://youtu.be/Lj2-2Qy6E8k)  
  - [#531] Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny  [Watch](https://youtu.be/KyxcjaaFC0g)  
