@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - How to decide which backend language is for you? when looking at Java, Python, or JavaScript?  [Watch](https://youtu.be/bPLr0onDA_k)  
+ - And to finish off the AI Project series.  [Watch](https://youtu.be/aT175p57kCI)  
  - Please Master This MAGIC Python Feature... 🪄  [Watch](https://youtu.be/qqp6QN20CpE)  
  - Definitely one of my favorite AI projects to work on!  [Watch](https://youtu.be/_ah7rll_Jik)  
- - Quick code sample on how to code a Recommendation System in Python  [Watch](https://youtu.be/kLn9OUPTo9I)  
- - Recommendation Systems. Ever watched a movie on Netflix and got suggestions for similar ones?  [Watch](https://youtu.be/4hNDC7F3BW0)  
- - Next AI Project is Image Classification in Python🔍🤖  [Watch](https://youtu.be/xk_WqFmw8ss)
+ - Quick code sample on how to code a Recommendation System in Python  [Watch](https://youtu.be/kLn9OUPTo9I)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)
 # Channel: Mateusz Chrobok
   
+ - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
  - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)  
  - 📖  Panoptykon czyta raport Facebooka  [Watch](https://youtu.be/MDIbNeGeniQ)  
  - 🕯️ RIP Suchir Balaji  [Watch](https://youtu.be/U-wErWO4kto)  
- - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)  
- - Kim jest David Mayer?!  [Watch](https://youtu.be/jqTGmS-961k)
+ - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)
 # Channel: Cloud Native Computing Foundation
   
  - Deaf in Cloud Native: KubeCon NA 2024 Recap  [Watch](https://youtu.be/4n6n-LPlI_k)  
