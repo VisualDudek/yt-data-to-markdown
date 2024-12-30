@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)  
  - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)  
  - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)  
  - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)  
- - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)  
- - Refactoring a Python Data Validation Interactive Shell  [Watch](https://youtu.be/YWKd-S0m9YA)
+ - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Tools EVERY Software Engineer Should Know  [Watch](https://youtu.be/aAvYXkc8XqU)  
+ - To all my CompSci Students this one is for you!  [Watch](https://youtu.be/1hRkKTv8LEI)  
+ - We’ve all been there 💀 Here’s how I avoid it and the mindset I’ve adopted to stay on track☝️  [Watch](https://youtu.be/RGmwz1vahuk)  
  - How to decide which backend language is for you? when looking at Java, Python, or JavaScript?  [Watch](https://youtu.be/bPLr0onDA_k)  
- - And to finish off the AI Project series.  [Watch](https://youtu.be/aT175p57kCI)  
- - Please Master This MAGIC Python Feature... 🪄  [Watch](https://youtu.be/qqp6QN20CpE)  
- - Definitely one of my favorite AI projects to work on!  [Watch](https://youtu.be/_ah7rll_Jik)  
- - Quick code sample on how to code a Recommendation System in Python  [Watch](https://youtu.be/kLn9OUPTo9I)
+ - And to finish off the AI Project series.  [Watch](https://youtu.be/aT175p57kCI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)  
  - Folders & Files Made Fast Like This!  [Watch](https://youtu.be/wUcYp_J93VM)  
  - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)  
  - Coding on my super old college laptop  [Watch](https://youtu.be/BtCSS9cto2M)  
- - Get started with Copilot Free in VS Code  [Watch](https://youtu.be/X_Aet9ndh_Y)  
- - 🔴 A Very Special Gift from VS Code  [Watch](https://youtu.be/CijHJBR9KbQ)
+ - Get started with Copilot Free in VS Code  [Watch](https://youtu.be/X_Aet9ndh_Y)
 # Channel: Mateusz Chrobok
   
  - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Welcome + Opening - Bob Killen, Nabarun Pal & Priyanka Saggu  [Watch](https://youtu.be/HzuuRwvaU90)
 # Channel: Real Python
   
+ - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)  
  - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)  
  - The Hidden Pitfalls of Customizing Your Editor  [Watch](https://youtu.be/8fzgqymYhZw)  
  - Exploring Modern Sentiment Analysis Approaches in Python  | Real Python Podcast #232  [Watch](https://youtu.be/5UkgTvYj17g)  
- - Programming Sockets in Python: Fetching Pages & Looking at the Network  [Watch](https://youtu.be/wwdDmdap_Oc)  
- - Handcuff-Free Coding: Why Tool Choice Matters  [Watch](https://youtu.be/H_9rl6KyhqQ)
+ - Programming Sockets in Python: Fetching Pages & Looking at the Network  [Watch](https://youtu.be/wwdDmdap_Oc)
 # Channel: SysOps / DevOps Polska
   
  - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
