@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - This one thing changed how I code and how quick I code.  [Watch](https://youtu.be/wnzqs4COa80)  
+ - If you're still doing this as a coder in 2024 , you might wanna consider doing it like this.  [Watch](https://youtu.be/XV9EAWqbxMw)  
  - Tools EVERY Software Engineer Should Know  [Watch](https://youtu.be/aAvYXkc8XqU)  
  - To all my CompSci Students this one is for you!  [Watch](https://youtu.be/1hRkKTv8LEI)  
- - We’ve all been there 💀 Here’s how I avoid it and the mindset I’ve adopted to stay on track☝️  [Watch](https://youtu.be/RGmwz1vahuk)  
- - How to decide which backend language is for you? when looking at Java, Python, or JavaScript?  [Watch](https://youtu.be/bPLr0onDA_k)  
- - And to finish off the AI Project series.  [Watch](https://youtu.be/aT175p57kCI)
+ - We’ve all been there 💀 Here’s how I avoid it and the mindset I’ve adopted to stay on track☝️  [Watch](https://youtu.be/RGmwz1vahuk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)
 # Channel: Cloud Native Computing Foundation
   
- - Deaf in Cloud Native: KubeCon NA 2024 Recap  [Watch](https://youtu.be/4n6n-LPlI_k)  
- - ChatLoopBackOff - Episode 40 (Spiderpool)  [Watch](https://youtu.be/GiCOnFCwRno)  
- - LitmusChaos community connect  [Watch](https://youtu.be/1NrLu3HiW_I)  
- - The Hitchhiker's Guide to Testing Kubernetes - Sreeram Venkitesh, SIG Testing  [Watch](https://youtu.be/CH0H47Ov8fA)  
- - Welcome + Opening - Bob Killen, Nabarun Pal & Priyanka Saggu  [Watch](https://youtu.be/HzuuRwvaU90)
+ - Karmada: Project Introduction and Updates | Project Lightning Talk  [Watch](https://youtu.be/s8VmWBRAb7o)  
+ - Contributing to Submariner - How to Get Started | Project Lightning Talk  [Watch](https://youtu.be/vUOTSxO4u_s)  
+ - Keynote: Closing Remarks  [Watch](https://youtu.be/dSjXc4yQzVE)  
+ - What's happening with CAPIBM | SIG Lightning Talk  [Watch](https://youtu.be/u6NT4QEtab8)  
+ - Intro to the CNCF App Development Working Group | WG Lightning Talk  [Watch](https://youtu.be/JRowQL3dmYk)
 # Channel: Real Python
   
  - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Programming Sockets in Python: Fetching Pages & Looking at the Network  [Watch](https://youtu.be/wwdDmdap_Oc)
 # Channel: SysOps / DevOps Polska
   
+ - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
+ - 🚨 Uważaj na błąd w kublet kubernetesa 🚨 #kubernetes #k8s #sysops #devops #security  [Watch](https://youtu.be/cm8-LokzlSA)  
  - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
  - [#533] Kubernetes: unprivileged docker-in-docker with sysbox - Adam Dziomdziora  [Watch](https://youtu.be/oqTnAO6mAjU)  
- - [#532] Jak lepiej zrozumieć Terraform Output za pomocą GenAI? - Adam Obrębski  [Watch](https://youtu.be/Lj2-2Qy6E8k)  
- - [#531] Od chaosu do harmonii: lekcje z zarządzania klastrami k8s w środowisku multi-cloud - M. Godny  [Watch](https://youtu.be/KyxcjaaFC0g)  
- - 💡 Szybkie uruchomienie Kubernetes za pomocą kind.  #kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/hZI9aPIJRZg)
+ - [#532] Jak lepiej zrozumieć Terraform Output za pomocą GenAI? - Adam Obrębski  [Watch](https://youtu.be/Lj2-2Qy6E8k)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Unlocking hypergrowth: Spotify's evolution from hardware to cloud  [Watch](https://youtu.be/Q1b1O7hlo3A)  
+ - Chat Variables in GitHub Copilot Chat  [Watch](https://youtu.be/aOwTBAP2O6w)  
  - Knowledge Bases in GitHub Copilot  [Watch](https://youtu.be/uCGRH6Jf1-g)  
  - Unlocking AI advancements: Copilot's impact on industries  [Watch](https://youtu.be/V22lp_nEl-w)  
- - AI-powered development: Exploring the latest GitHub Copilot features  [Watch](https://youtu.be/07mUcfiTpag)  
- - Slash Commands in GitHub Copilot  [Watch](https://youtu.be/Ipm6noRuC-Y)  
- - Kubernetes security: What developers need to know  [Watch](https://youtu.be/X6pbFjblcc4)
+ - AI-powered development: Exploring the latest GitHub Copilot features  [Watch](https://youtu.be/07mUcfiTpag)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
