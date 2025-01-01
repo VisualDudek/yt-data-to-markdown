@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)  
  - Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)  
  - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)  
  - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)  
- - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)  
- - One Function, One Job!  [Watch](https://youtu.be/gWS4VHUJbe0)
+ - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - If you’re aiming for Python roles, this project will refresh your skills...  [Watch](https://youtu.be/jtTglR0EwI4)  
  - This one thing changed how I code and how quick I code.  [Watch](https://youtu.be/wnzqs4COa80)  
  - If you're still doing this as a coder in 2024 , you might wanna consider doing it like this.  [Watch](https://youtu.be/XV9EAWqbxMw)  
  - Tools EVERY Software Engineer Should Know  [Watch](https://youtu.be/aAvYXkc8XqU)  
- - To all my CompSci Students this one is for you!  [Watch](https://youtu.be/1hRkKTv8LEI)  
- - We’ve all been there 💀 Here’s how I avoid it and the mindset I’ve adopted to stay on track☝️  [Watch](https://youtu.be/RGmwz1vahuk)
+ - To all my CompSci Students this one is for you!  [Watch](https://youtu.be/1hRkKTv8LEI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Intro to the CNCF App Development Working Group | WG Lightning Talk  [Watch](https://youtu.be/JRowQL3dmYk)
 # Channel: Real Python
   
+ - Why Syntactic Sugar Matters: F-Strings, Decorators, and More  [Watch](https://youtu.be/bS__QGaD8c4)  
  - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)  
  - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)  
  - The Hidden Pitfalls of Customizing Your Editor  [Watch](https://youtu.be/8fzgqymYhZw)  
- - Exploring Modern Sentiment Analysis Approaches in Python  | Real Python Podcast #232  [Watch](https://youtu.be/5UkgTvYj17g)  
- - Programming Sockets in Python: Fetching Pages & Looking at the Network  [Watch](https://youtu.be/wwdDmdap_Oc)
+ - Exploring Modern Sentiment Analysis Approaches in Python  | Real Python Podcast #232  [Watch](https://youtu.be/5UkgTvYj17g)
 # Channel: SysOps / DevOps Polska
   
  - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
