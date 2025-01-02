@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - This is one of my ultime favourite Python projects to add to a resume for 2025📈  [Watch](https://youtu.be/yjQx31i--DA)  
+ - Here are 3 signs that programming is NOT for you☝  [Watch](https://youtu.be/pg6a6wHhSeQ)  
  - If you’re aiming for Python roles, this project will refresh your skills...  [Watch](https://youtu.be/jtTglR0EwI4)  
  - This one thing changed how I code and how quick I code.  [Watch](https://youtu.be/wnzqs4COa80)  
- - If you're still doing this as a coder in 2024 , you might wanna consider doing it like this.  [Watch](https://youtu.be/XV9EAWqbxMw)  
- - Tools EVERY Software Engineer Should Know  [Watch](https://youtu.be/aAvYXkc8XqU)  
- - To all my CompSci Students this one is for you!  [Watch](https://youtu.be/1hRkKTv8LEI)
+ - If you're still doing this as a coder in 2024 , you might wanna consider doing it like this.  [Watch](https://youtu.be/XV9EAWqbxMw)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - IMPORTANT: Don't Copy Paste Like This!!  [Watch](https://youtu.be/aG_86XkrGqY)  
  - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)  
  - Folders & Files Made Fast Like This!  [Watch](https://youtu.be/wUcYp_J93VM)  
  - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)  
- - Coding on my super old college laptop  [Watch](https://youtu.be/BtCSS9cto2M)  
- - Get started with Copilot Free in VS Code  [Watch](https://youtu.be/X_Aet9ndh_Y)
+ - Coding on my super old college laptop  [Watch](https://youtu.be/BtCSS9cto2M)
 # Channel: Mateusz Chrobok
   
  - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Intro to the CNCF App Development Working Group | WG Lightning Talk  [Watch](https://youtu.be/JRowQL3dmYk)
 # Channel: Real Python
   
+ - Building HTTP APIs With Django REST Framework: Serialization & Viewsets  [Watch](https://youtu.be/hZskpnk6iDQ)  
  - Why Syntactic Sugar Matters: F-Strings, Decorators, and More  [Watch](https://youtu.be/bS__QGaD8c4)  
  - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)  
  - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)  
- - The Hidden Pitfalls of Customizing Your Editor  [Watch](https://youtu.be/8fzgqymYhZw)  
- - Exploring Modern Sentiment Analysis Approaches in Python  | Real Python Podcast #232  [Watch](https://youtu.be/5UkgTvYj17g)
+ - The Hidden Pitfalls of Customizing Your Editor  [Watch](https://youtu.be/8fzgqymYhZw)
 # Channel: SysOps / DevOps Polska
   
  - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
