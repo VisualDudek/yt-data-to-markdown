@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - How to Easily Debug a FastAPI App in VSCode  [Watch](https://youtu.be/C-bie4ZY_o0)  
  - Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)  
  - Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)  
  - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)  
- - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)  
- - Too Many Arguments? Use This Trick  [Watch](https://youtu.be/ybaLf6mJ8y8)
+ - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - This is what companies really want to see when hiring Software Engineers🤝  [Watch](https://youtu.be/ZW4p6xYkNgE)  
  - This is one of my ultime favourite Python projects to add to a resume for 2025📈  [Watch](https://youtu.be/yjQx31i--DA)  
  - Here are 3 signs that programming is NOT for you☝  [Watch](https://youtu.be/pg6a6wHhSeQ)  
  - If you’re aiming for Python roles, this project will refresh your skills...  [Watch](https://youtu.be/jtTglR0EwI4)  
- - This one thing changed how I code and how quick I code.  [Watch](https://youtu.be/wnzqs4COa80)  
- - If you're still doing this as a coder in 2024 , you might wanna consider doing it like this.  [Watch](https://youtu.be/XV9EAWqbxMw)
+ - This one thing changed how I code and how quick I code.  [Watch](https://youtu.be/wnzqs4COa80)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Visualizer Data Structures in VS Code  [Watch](https://youtu.be/3O6BFlOiFRg)  
  - IMPORTANT: Don't Copy Paste Like This!!  [Watch](https://youtu.be/aG_86XkrGqY)  
  - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)  
  - Folders & Files Made Fast Like This!  [Watch](https://youtu.be/wUcYp_J93VM)  
- - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)  
- - Coding on my super old college laptop  [Watch](https://youtu.be/BtCSS9cto2M)
+ - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)
 # Channel: Mateusz Chrobok
   
  - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)
 # Channel: Cloud Native Computing Foundation
   
- - Karmada: Project Introduction and Updates | Project Lightning Talk  [Watch](https://youtu.be/s8VmWBRAb7o)  
- - Contributing to Submariner - How to Get Started | Project Lightning Talk  [Watch](https://youtu.be/vUOTSxO4u_s)  
- - Keynote: Closing Remarks  [Watch](https://youtu.be/dSjXc4yQzVE)  
- - What's happening with CAPIBM | SIG Lightning Talk  [Watch](https://youtu.be/u6NT4QEtab8)  
- - Intro to the CNCF App Development Working Group | WG Lightning Talk  [Watch](https://youtu.be/JRowQL3dmYk)
+ - Kubernetes: Food Festival Analogy Explained #kubernetes #foodfestival  [Watch](https://youtu.be/lqdIlESawDg)  
+ - Kubernetes Optimization: Save Your Job & Budget!  #kubernetes #cloudoptimization  [Watch](https://youtu.be/puiQcCW4pxQ)  
+ - Kubernetes Costs: 2024 Cloud Native Challenges  #kubernetes #cloudcost #cloudcostoptimization  [Watch](https://youtu.be/nCFGxE0XykM)  
+ - Kubernetes Needs a Linux Moment NOW!  #kubernetes #linux  [Watch](https://youtu.be/wkRRXCehWyA)  
+ - Kubernetes Optimization: Carpenter Saves You $$$ #kubernetes #costsaving  [Watch](https://youtu.be/RKB6hQomotE)
 # Channel: Real Python
   
+ - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)  
  - Building HTTP APIs With Django REST Framework: Serialization & Viewsets  [Watch](https://youtu.be/hZskpnk6iDQ)  
  - Why Syntactic Sugar Matters: F-Strings, Decorators, and More  [Watch](https://youtu.be/bS__QGaD8c4)  
  - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)  
- - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)  
- - The Hidden Pitfalls of Customizing Your Editor  [Watch](https://youtu.be/8fzgqymYhZw)
+ - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)
 # Channel: SysOps / DevOps Polska
   
+ - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)  
  - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
  - 🚨 Uważaj na błąd w kublet kubernetesa 🚨 #kubernetes #k8s #sysops #devops #security  [Watch](https://youtu.be/cm8-LokzlSA)  
  - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
- - [#533] Kubernetes: unprivileged docker-in-docker with sysbox - Adam Dziomdziora  [Watch](https://youtu.be/oqTnAO6mAjU)  
- - [#532] Jak lepiej zrozumieć Terraform Output za pomocą GenAI? - Adam Obrębski  [Watch](https://youtu.be/Lj2-2Qy6E8k)
+ - [#533] Kubernetes: unprivileged docker-in-docker with sysbox - Adam Dziomdziora  [Watch](https://youtu.be/oqTnAO6mAjU)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
