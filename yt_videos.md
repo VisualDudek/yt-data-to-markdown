@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
  - How to Easily Debug a FastAPI App in VSCode  [Watch](https://youtu.be/C-bie4ZY_o0)  
  - Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)  
  - Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)  
- - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)  
- - Immutability Makes Life Easier  [Watch](https://youtu.be/DMIjwpRW1Fk)
+ - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - How you actually should approach programming...  [Watch](https://youtu.be/bp1gWyUv-M4)  
+ - Reddit Clone - Full Tutorial w/ TypeScript, React & Convex  [Watch](https://youtu.be/N2vE2bP5Mok)  
+ - How to maximise ChatGPT for coding in 2025 ☝🙂  [Watch](https://youtu.be/s4gce1IFGcc)  
  - This is what companies really want to see when hiring Software Engineers🤝  [Watch](https://youtu.be/ZW4p6xYkNgE)  
- - This is one of my ultime favourite Python projects to add to a resume for 2025📈  [Watch](https://youtu.be/yjQx31i--DA)  
- - Here are 3 signs that programming is NOT for you☝  [Watch](https://youtu.be/pg6a6wHhSeQ)  
- - If you’re aiming for Python roles, this project will refresh your skills...  [Watch](https://youtu.be/jtTglR0EwI4)  
- - This one thing changed how I code and how quick I code.  [Watch](https://youtu.be/wnzqs4COa80)
+ - This is one of my ultime favourite Python projects to add to a resume for 2025📈  [Watch](https://youtu.be/yjQx31i--DA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
- - Visualizer Data Structures in VS Code  [Watch](https://youtu.be/3O6BFlOiFRg)  
+ - Visualize Data Structures in VS Code  [Watch](https://youtu.be/3O6BFlOiFRg)  
  - IMPORTANT: Don't Copy Paste Like This!!  [Watch](https://youtu.be/aG_86XkrGqY)  
  - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)  
  - Folders & Files Made Fast Like This!  [Watch](https://youtu.be/wUcYp_J93VM)  
  - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)
 # Channel: Mateusz Chrobok
   
+ - 📜 Zmiany w Liście Ostrzeżeń CERT  [Watch](https://youtu.be/N-mMftT4rF4)  
  - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
  - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)  
  - 📖  Panoptykon czyta raport Facebooka  [Watch](https://youtu.be/MDIbNeGeniQ)  
- - 🕯️ RIP Suchir Balaji  [Watch](https://youtu.be/U-wErWO4kto)  
- - 🖥️ AgentON - hakaton!  [Watch](https://youtu.be/_I-nyf5e4oA)
+ - 🕯️ RIP Suchir Balaji  [Watch](https://youtu.be/U-wErWO4kto)
 # Channel: Cloud Native Computing Foundation
   
- - Kubernetes: Food Festival Analogy Explained #kubernetes #foodfestival  [Watch](https://youtu.be/lqdIlESawDg)  
- - Kubernetes Optimization: Save Your Job & Budget!  #kubernetes #cloudoptimization  [Watch](https://youtu.be/puiQcCW4pxQ)  
- - Kubernetes Costs: 2024 Cloud Native Challenges  #kubernetes #cloudcost #cloudcostoptimization  [Watch](https://youtu.be/nCFGxE0XykM)  
- - Kubernetes Needs a Linux Moment NOW!  #kubernetes #linux  [Watch](https://youtu.be/wkRRXCehWyA)  
- - Kubernetes Optimization: Carpenter Saves You $$$ #kubernetes #costsaving  [Watch](https://youtu.be/RKB6hQomotE)
+ - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
+ - Kubernetes Growth to $9.7 Billion: The Future of Tech #kubernetes #cloudnative #futuretech #ai  [Watch](https://youtu.be/Zynq9Qu9jA0)  
+ - CNCF: Making Cloud Native Ubiquitous #kubernetes #cloudnative #cncf  [Watch](https://youtu.be/Zs8MllYF2AE)  
+ - KubeCon Lightning Talks: Daniel Krook's CNCF Deep Dive #cncf  #kubernetes #education  [Watch](https://youtu.be/8Ox-L2RIxOM)  
+ - CNCF: Exploding Growth & Project Maturity #education #kubernetes #kubernetesarchitecture  [Watch](https://youtu.be/4eZPaIOvlvc)
 # Channel: Real Python
   
  - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)
 # Channel: SysOps / DevOps Polska
   
+ - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)  
  - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)  
  - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
  - 🚨 Uważaj na błąd w kublet kubernetesa 🚨 #kubernetes #k8s #sysops #devops #security  [Watch](https://youtu.be/cm8-LokzlSA)  
- - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)  
- - [#533] Kubernetes: unprivileged docker-in-docker with sysbox - Adam Dziomdziora  [Watch](https://youtu.be/oqTnAO6mAjU)
+ - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - GitHub Copilot Upgrade Assistant for Java: Try It First!  [Watch](https://youtu.be/TRPKspCqN78)  
  - Unlocking hypergrowth: Spotify's evolution from hardware to cloud  [Watch](https://youtu.be/Q1b1O7hlo3A)  
  - Chat Variables in GitHub Copilot Chat  [Watch](https://youtu.be/aOwTBAP2O6w)  
  - Knowledge Bases in GitHub Copilot  [Watch](https://youtu.be/uCGRH6Jf1-g)  
- - Unlocking AI advancements: Copilot's impact on industries  [Watch](https://youtu.be/V22lp_nEl-w)  
- - AI-powered development: Exploring the latest GitHub Copilot features  [Watch](https://youtu.be/07mUcfiTpag)
+ - Unlocking AI advancements: Copilot's impact on industries  [Watch](https://youtu.be/V22lp_nEl-w)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
