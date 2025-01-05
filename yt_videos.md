@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Let’s break it down. Here’s how you can monetize  your Python skills into a real income in 2025💸  [Watch](https://youtu.be/oI7D3iwYBIM)  
+ - You can’t skip this. If you’re coding in Python, you need to understand this.  [Watch](https://youtu.be/6wnLAAosUL0)  
  - How you actually should approach programming...  [Watch](https://youtu.be/bp1gWyUv-M4)  
  - Reddit Clone - Full Tutorial w/ TypeScript, React & Convex  [Watch](https://youtu.be/N2vE2bP5Mok)  
- - How to maximise ChatGPT for coding in 2025 ☝🙂  [Watch](https://youtu.be/s4gce1IFGcc)  
- - This is what companies really want to see when hiring Software Engineers🤝  [Watch](https://youtu.be/ZW4p6xYkNgE)  
- - This is one of my ultime favourite Python projects to add to a resume for 2025📈  [Watch](https://youtu.be/yjQx31i--DA)
+ - How to maximise ChatGPT for coding in 2025 ☝🙂  [Watch](https://youtu.be/s4gce1IFGcc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)
 # Channel: Mateusz Chrobok
   
+ - Rosyjski wywiad atakuje Ukrainę.  [Watch](https://youtu.be/HBgvgQIuH7k)  
  - 📜 Zmiany w Liście Ostrzeżeń CERT  [Watch](https://youtu.be/N-mMftT4rF4)  
  - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
  - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)  
- - 📖  Panoptykon czyta raport Facebooka  [Watch](https://youtu.be/MDIbNeGeniQ)  
- - 🕯️ RIP Suchir Balaji  [Watch](https://youtu.be/U-wErWO4kto)
+ - 📖  Panoptykon czyta raport Facebooka  [Watch](https://youtu.be/MDIbNeGeniQ)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Debugging JSON with GitHub Copilot Chat  [Watch](https://youtu.be/KA2aPz6-gLs)  
  - GitHub Copilot Upgrade Assistant for Java: Try It First!  [Watch](https://youtu.be/TRPKspCqN78)  
  - Unlocking hypergrowth: Spotify's evolution from hardware to cloud  [Watch](https://youtu.be/Q1b1O7hlo3A)  
  - Chat Variables in GitHub Copilot Chat  [Watch](https://youtu.be/aOwTBAP2O6w)  
- - Knowledge Bases in GitHub Copilot  [Watch](https://youtu.be/uCGRH6Jf1-g)  
- - Unlocking AI advancements: Copilot's impact on industries  [Watch](https://youtu.be/V22lp_nEl-w)
+ - Knowledge Bases in GitHub Copilot  [Watch](https://youtu.be/uCGRH6Jf1-g)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
