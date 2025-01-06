@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
- - How to Easily Debug a FastAPI App in VSCode  [Watch](https://youtu.be/C-bie4ZY_o0)  
- - Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)  
- - Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)  
- - The Skill Every Senior Developer Needs  [Watch](https://youtu.be/kYL8fpUQx94)
+ - Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
+ - 🚀 Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
+ - Debugging FastAPI in VSCode Is Easier Than You Think  [Watch](https://youtu.be/C-bie4ZY_o0)  
+ - 💪🏻 Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)  
+ - 🤔 Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - How I Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More)  [Watch](https://youtu.be/qX3Dq8p7x0Y)  
+ - 3 Signs That Programming is RIGHT for you ✅  [Watch](https://youtu.be/E7DNvJduHjM)  
+ - You are never really gonna get anything done if you don't commit to...  [Watch](https://youtu.be/71-XeR-r1aA)  
  - Let’s break it down. Here’s how you can monetize  your Python skills into a real income in 2025💸  [Watch](https://youtu.be/oI7D3iwYBIM)  
- - You can’t skip this. If you’re coding in Python, you need to understand this.  [Watch](https://youtu.be/6wnLAAosUL0)  
- - How you actually should approach programming...  [Watch](https://youtu.be/bp1gWyUv-M4)  
- - Reddit Clone - Full Tutorial w/ TypeScript, React & Convex  [Watch](https://youtu.be/N2vE2bP5Mok)  
- - How to maximise ChatGPT for coding in 2025 ☝🙂  [Watch](https://youtu.be/s4gce1IFGcc)
+ - You can’t skip this. If you’re coding in Python, you need to understand this.  [Watch](https://youtu.be/6wnLAAosUL0)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 📖  Panoptykon czyta raport Facebooka  [Watch](https://youtu.be/MDIbNeGeniQ)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF Live Webinar: Kubernetes 1.32 Release  [Watch](https://youtu.be/xf1nCvmVnhE)  
  - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
  - Kubernetes Growth to $9.7 Billion: The Future of Tech #kubernetes #cloudnative #futuretech #ai  [Watch](https://youtu.be/Zynq9Qu9jA0)  
  - CNCF: Making Cloud Native Ubiquitous #kubernetes #cloudnative #cncf  [Watch](https://youtu.be/Zs8MllYF2AE)  
- - KubeCon Lightning Talks: Daniel Krook's CNCF Deep Dive #cncf  #kubernetes #education  [Watch](https://youtu.be/8Ox-L2RIxOM)  
- - CNCF: Exploding Growth & Project Maturity #education #kubernetes #kubernetesarchitecture  [Watch](https://youtu.be/4eZPaIOvlvc)
+ - KubeCon Lightning Talks: Daniel Krook's CNCF Deep Dive #cncf  #kubernetes #education  [Watch](https://youtu.be/8Ox-L2RIxOM)
 # Channel: Real Python
   
+ - Mentorship in Python: Guiding Learners to Code Independently  [Watch](https://youtu.be/TatE5wahM-s)  
  - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)  
  - Building HTTP APIs With Django REST Framework: Serialization & Viewsets  [Watch](https://youtu.be/hZskpnk6iDQ)  
  - Why Syntactic Sugar Matters: F-Strings, Decorators, and More  [Watch](https://youtu.be/bS__QGaD8c4)  
- - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)  
- - Custom Aliases for Faster Python and HTML Searches  [Watch](https://youtu.be/OuChjy8D5W4)
+ - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)
 # Channel: SysOps / DevOps Polska
   
+ - 💡 W jaki sposób Kubernetes uruchamia się w Kubernetesie? 💡#kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/6_QYiZbJs7c)  
  - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)  
  - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)  
  - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
- - 🚨 Uważaj na błąd w kublet kubernetesa 🚨 #kubernetes #k8s #sysops #devops #security  [Watch](https://youtu.be/cm8-LokzlSA)  
- - 🐛 Sprawdź, dlaczego powinieneś zaktualizować swojego Zabbixa 🐜  [Watch](https://youtu.be/eTjJju2RdQ8)
+ - 🚨 Uważaj na błąd w kublet kubernetesa 🚨 #kubernetes #k8s #sysops #devops #security  [Watch](https://youtu.be/cm8-LokzlSA)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
