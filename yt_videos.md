@@ -4,8 +4,8 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
- - 🚀 Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
+ - 📏 Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
+ - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
  - Debugging FastAPI in VSCode Is Easier Than You Think  [Watch](https://youtu.be/C-bie4ZY_o0)  
  - 💪🏻 Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)  
  - 🤔 Recursion: Powerful or Problematic?  [Watch](https://youtu.be/ZBt7tMrzhP8)
@@ -25,11 +25,11 @@ Youtube Videos
  - my computer is sick in a very suspicious way  [Watch](https://youtu.be/l-RjeirBNMQ)
 # Channel: Tech With Tim
   
+ - Python is an interesting language. Because if you import this look at what you get?!  [Watch](https://youtu.be/zb_6H6rKiRk)  
+ - Thinking of being a Python Developer , you are going to need to know more then just Python📈🤝  [Watch](https://youtu.be/jJTV6EGUtjk)  
  - How I Built a Full-Stack AI App in 5 Hours (Agents, Streamlit, Python & More)  [Watch](https://youtu.be/qX3Dq8p7x0Y)  
  - 3 Signs That Programming is RIGHT for you ✅  [Watch](https://youtu.be/E7DNvJduHjM)  
- - You are never really gonna get anything done if you don't commit to...  [Watch](https://youtu.be/71-XeR-r1aA)  
- - Let’s break it down. Here’s how you can monetize  your Python skills into a real income in 2025💸  [Watch](https://youtu.be/oI7D3iwYBIM)  
- - You can’t skip this. If you’re coding in Python, you need to understand this.  [Watch](https://youtu.be/6wnLAAosUL0)
+ - You are never really gonna get anything done if you don't commit to...  [Watch](https://youtu.be/71-XeR-r1aA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Getting the most out of GitHub Copilot's free tier  [Watch](https://youtu.be/z7JVTxiVcNk)  
+ - Code Anywhere Anytime  [Watch](https://youtu.be/xhyj_M-pLD8)  
  - Visualize Data Structures in VS Code  [Watch](https://youtu.be/3O6BFlOiFRg)  
  - IMPORTANT: Don't Copy Paste Like This!!  [Watch](https://youtu.be/aG_86XkrGqY)  
- - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)  
- - Folders & Files Made Fast Like This!  [Watch](https://youtu.be/wUcYp_J93VM)  
- - Don't Hack GitHub Like This  [Watch](https://youtu.be/7jlh7EMageY)
+ - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)
 # Channel: Mateusz Chrobok
   
  - Rosyjski wywiad atakuje Ukrainę.  [Watch](https://youtu.be/HBgvgQIuH7k)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Why T-Strings Might Be the Next Big Thing in Python  [Watch](https://youtu.be/RnkL_uSVCkk)
 # Channel: SysOps / DevOps Polska
   
+ - [#535]Sieć domowa - czy da się to zrobić lepiej? Historia fuckupów z życia wziętych - Amadeusz Kryze  [Watch](https://youtu.be/10t-o_G_2VA)  
  - 💡 W jaki sposób Kubernetes uruchamia się w Kubernetesie? 💡#kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/6_QYiZbJs7c)  
  - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)  
  - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)  
- - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)  
- - 🚨 Uważaj na błąd w kublet kubernetesa 🚨 #kubernetes #k8s #sysops #devops #security  [Watch](https://youtu.be/cm8-LokzlSA)
+ - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Building apps with GitHub Copilot: A developer's perspective  [Watch](https://youtu.be/bsSAywnqptc)  
  - Debugging JSON with GitHub Copilot Chat  [Watch](https://youtu.be/KA2aPz6-gLs)  
  - GitHub Copilot Upgrade Assistant for Java: Try It First!  [Watch](https://youtu.be/TRPKspCqN78)  
  - Unlocking hypergrowth: Spotify's evolution from hardware to cloud  [Watch](https://youtu.be/Q1b1O7hlo3A)  
- - Chat Variables in GitHub Copilot Chat  [Watch](https://youtu.be/aOwTBAP2O6w)  
- - Knowledge Bases in GitHub Copilot  [Watch](https://youtu.be/uCGRH6Jf1-g)
+ - Chat Variables in GitHub Copilot Chat  [Watch](https://youtu.be/aOwTBAP2O6w)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
