@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
- - 📏 Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
- - 🚀 Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
+ - Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
+ - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
  - Debugging FastAPI in VSCode Is Easier Than You Think  [Watch](https://youtu.be/C-bie4ZY_o0)  
- - 💪🏻 Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)
+ - Must-Have VSCode Extensions for Backend Dev  [Watch](https://youtu.be/jSQZ5u-JBVM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)
 # Channel: Tech With Tim
   
+ - Your First Step Too Backend Development Starts By Identifying This!🤞💻  [Watch](https://youtu.be/ysWPrgIbMNQ)  
+ - CompSci Students are you using AI as part of your workflow?!  [Watch](https://youtu.be/xy-yfmsXKwI)  
  - How to be job ready after your Computer Science Degree🎓☝️  [Watch](https://youtu.be/oUogYblpB9E)  
  - The BIGGEST mistake❌ that almost all CompSci Students make is focusing solely on just this.🎓☝️  [Watch](https://youtu.be/OE-SFJEil0s)  
- - Don't focus on the Syntax or all the fancy features , rather focus on this when programming❌🤝  [Watch](https://youtu.be/A51gXc2oTv8)  
- - Python is an interesting language. Because if you import this look at what you get?!  [Watch](https://youtu.be/zb_6H6rKiRk)  
- - Thinking of being a Python Developer , you are going to need to know more then just Python📈🤝  [Watch](https://youtu.be/jJTV6EGUtjk)
+ - Don't focus on the Syntax or all the fancy features , rather focus on this when programming❌🤝  [Watch](https://youtu.be/A51gXc2oTv8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,32 +46,32 @@ Youtube Videos
  - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)
 # Channel: Mateusz Chrobok
   
+ - 🔇 Facebook rezygnuje z moderacji  [Watch](https://youtu.be/7dz3kttAnl4)  
+ - 📡 Czy otwarte WiFi może być bezpieczne?  [Watch](https://youtu.be/DKDzjWyDQqM)  
  - 🪆Telegram blokuje  [Watch](https://youtu.be/XoJEjDSqx2c)  
  - Rosyjski wywiad atakuje Ukrainę.  [Watch](https://youtu.be/HBgvgQIuH7k)  
- - 📜 Zmiany w Liście Ostrzeżeń CERT  [Watch](https://youtu.be/N-mMftT4rF4)  
- - Co działo się u mnie w minionym roku?  [Watch](https://youtu.be/m18rIxC9mdY)  
- - Tanie podsłuchiwanie - serbski Pegasus. #NoviSpy  [Watch](https://youtu.be/-MnJmNlfC1I)
+ - 📜 Zmiany w Liście Ostrzeżeń CERT  [Watch](https://youtu.be/N-mMftT4rF4)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Building open core SaaS services in 2025  [Watch](https://youtu.be/g1CbFW49OKY)  
- - TOC Meeting 2025-01-07  [Watch](https://youtu.be/dTzpAw6lUT0)  
- - TOC Meeting 2024-12-17  [Watch](https://youtu.be/4l0m14qEdCU)  
- - TOC Meeting 2024-12-03  [Watch](https://youtu.be/L08zhYqimPc)  
- - TOC Meeting 2024-11-05  [Watch](https://youtu.be/dmG01Payan0)
+ - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
+ - CNCF Live Webinar: Kubernetes 1.32 Release  [Watch](https://youtu.be/xf1nCvmVnhE)  
+ - CNL: Streamlining K8s deployments with SpinKube & selective deployments  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
+ - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)  
+ - Cloud Native Live: What's latest in KubeArmor v1.5  [Watch](https://youtu.be/OUNEu3h2V3c)
 # Channel: Real Python
   
+ - Ways to Start Interacting With Python: "Hello, World!" in Interactive Mode  [Watch](https://youtu.be/wcnYLsxJmLE)  
  - How Navy.mil Became One of the First Websites Ever  [Watch](https://youtu.be/vkM1RuQFTqQ)  
  - Mentorship in Python: Guiding Learners to Code Independently  [Watch](https://youtu.be/TatE5wahM-s)  
  - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)  
- - Building HTTP APIs With Django REST Framework: Serialization & Viewsets  [Watch](https://youtu.be/hZskpnk6iDQ)  
- - Why Syntactic Sugar Matters: F-Strings, Decorators, and More  [Watch](https://youtu.be/bS__QGaD8c4)
+ - Building HTTP APIs With Django REST Framework: Serialization & Viewsets  [Watch](https://youtu.be/hZskpnk6iDQ)
 # Channel: SysOps / DevOps Polska
   
+ - 🆕Nowy tryb pracy AWS EKS - auto mode  [Watch](https://youtu.be/jJGlJ0h-P4E)  
  - [#535]Sieć domowa - czy da się to zrobić lepiej? Historia fuckupów z życia wziętych - Amadeusz Kryze  [Watch](https://youtu.be/10t-o_G_2VA)  
  - 💡 W jaki sposób Kubernetes uruchamia się w Kubernetesie? 💡#kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/6_QYiZbJs7c)  
  - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)  
- - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)  
- - Co się stanie kiedy Admin udaje programistę? #MeetUp #AI #ChatGPT #pv-mounter #LLM  [Watch](https://youtu.be/sj_-9Zh74v0)
+ - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - "How To Make The Most Of GitHub Copilot"  [Watch](https://youtu.be/mUFYfwzmxBU)  
  - Managing API rate limits with GitHub Copilot Chat  [Watch](https://youtu.be/lJCvN_XJgg4)  
  - Building apps with GitHub Copilot: A developer's perspective  [Watch](https://youtu.be/bsSAywnqptc)  
  - Debugging JSON with GitHub Copilot Chat  [Watch](https://youtu.be/KA2aPz6-gLs)  
- - GitHub Copilot Upgrade Assistant for Java: Try It First!  [Watch](https://youtu.be/TRPKspCqN78)  
- - Unlocking hypergrowth: Spotify's evolution from hardware to cloud  [Watch](https://youtu.be/Q1b1O7hlo3A)
+ - GitHub Copilot Upgrade Assistant for Java: Try It First!  [Watch](https://youtu.be/TRPKspCqN78)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
