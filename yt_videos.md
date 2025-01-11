@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
  - nothing is going to change  [Watch](https://youtu.be/E66tBbIf1nE)  
- - ✍🏻 The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
+ - The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
  - 📏 Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
- - 🚀 Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)  
- - Debugging FastAPI in VSCode Is Easier Than You Think  [Watch](https://youtu.be/C-bie4ZY_o0)
+ - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)
 # Channel: Tech With Tim
   
+ - A bit of a weird Python Feature looking at the For/Else Concept in Python☝  [Watch](https://youtu.be/ZIFgyM558nU)  
  - A New Coding Assistant Just Arrived...  [Watch](https://youtu.be/becL7_JrHSo)  
  - Let's Get Into It With Passive Income Idea One☝📲  [Watch](https://youtu.be/QXmJAmB5xLo)  
  - The next series has arrived👉 FIVE Passive Income Ideas For Programmers in 2025 💵  [Watch](https://youtu.be/PG-mg9nK6dY)  
- - Your First Step Too Backend Development Starts By Identifying This!🤞💻  [Watch](https://youtu.be/ysWPrgIbMNQ)  
- - CompSci Students are you using AI as part of your workflow?!  [Watch](https://youtu.be/xy-yfmsXKwI)
+ - Your First Step Too Backend Development Starts By Identifying This!🤞💻  [Watch](https://youtu.be/ysWPrgIbMNQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -67,11 +67,11 @@ Youtube Videos
  - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)
 # Channel: SysOps / DevOps Polska
   
+ - [#536] Z ransomware do NIS2 - Artur Markiewicz  [Watch](https://youtu.be/bwOI37RAWRU)  
  - 🆕Nowy tryb pracy AWS EKS - auto mode  [Watch](https://youtu.be/jJGlJ0h-P4E)  
  - [#535]Sieć domowa - czy da się to zrobić lepiej? Historia fuckupów z życia wziętych - Amadeusz Kryze  [Watch](https://youtu.be/10t-o_G_2VA)  
  - 💡 W jaki sposób Kubernetes uruchamia się w Kubernetesie? 💡#kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/6_QYiZbJs7c)  
- - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)  
- - [#534] Przypadki użycia Azure DNS - zabezpiecz swoje połączenie z chmurą - Michał Machniak  [Watch](https://youtu.be/V0cuvMy66bU)
+ - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
- - Open Source Friday Special: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/d41b85lZ6oQ)  
+ - Open Source Friday Special: AI's Role Shaping Developer Tools  [Watch](https://youtu.be/GURdeT4zNNU)  
  - Build AI Apps Faster with GitHub Copilot for Azure: See It in Action!  [Watch](https://youtu.be/BoA2HwQZWso)  
  - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
- - Open Source Friday Special: AI's Role Shaping Developer Tools  [Watch](https://youtu.be/GURdeT4zNNU)  
- - "How To Make The Most Of GitHub Copilot"  [Watch](https://youtu.be/mUFYfwzmxBU)
+ - "How To Make The Most Of GitHub Copilot"  [Watch](https://youtu.be/mUFYfwzmxBU)  
+ - Managing API rate limits with GitHub Copilot Chat  [Watch](https://youtu.be/lJCvN_XJgg4)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
