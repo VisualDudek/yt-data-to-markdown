@@ -6,8 +6,8 @@ Youtube Videos
   
  - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
  - nothing is going to change  [Watch](https://youtu.be/E66tBbIf1nE)  
- - The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
- - 📏 Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
+ - ✍🏻 The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
+ - Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
  - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)
 # Channel: Tech With Tim
   
+ - Struggling With A Lack Of Credibility?? As A Software Dev In 2025.  [Watch](https://youtu.be/clDBdAFvIUk)  
+ - This is the last thing you want when applying for jobs in TECH!👈🤫  [Watch](https://youtu.be/zFuANDkCtI4)  
+ - Why NOT to learn Python?!?  [Watch](https://youtu.be/hV50TGITzaM)  
  - A bit of a weird Python Feature looking at the For/Else Concept in Python☝  [Watch](https://youtu.be/ZIFgyM558nU)  
- - A New Coding Assistant Just Arrived...  [Watch](https://youtu.be/becL7_JrHSo)  
- - Let's Get Into It With Passive Income Idea One☝📲  [Watch](https://youtu.be/QXmJAmB5xLo)  
- - The next series has arrived👉 FIVE Passive Income Ideas For Programmers in 2025 💵  [Watch](https://youtu.be/PG-mg9nK6dY)  
- - Your First Step Too Backend Development Starts By Identifying This!🤞💻  [Watch](https://youtu.be/ysWPrgIbMNQ)
+ - A New Coding Assistant Just Arrived...  [Watch](https://youtu.be/becL7_JrHSo)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)
 # Channel: Mateusz Chrobok
   
+ - Jak wyłączyć prąd w całej Europie zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)  
  - 💸 UWAGA, Scamuje ludzi!  [Watch](https://youtu.be/yr58N33MLGQ)  
  - 🔇 Facebook rezygnuje z moderacji  [Watch](https://youtu.be/7dz3kttAnl4)  
  - 📡 Czy otwarte WiFi może być bezpieczne?  [Watch](https://youtu.be/DKDzjWyDQqM)  
- - 🪆Telegram blokuje  [Watch](https://youtu.be/XoJEjDSqx2c)  
- - Rosyjski wywiad atakuje Ukrainę.  [Watch](https://youtu.be/HBgvgQIuH7k)
+ - 🪆Telegram blokuje  [Watch](https://youtu.be/XoJEjDSqx2c)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
@@ -67,11 +67,11 @@ Youtube Videos
  - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)
 # Channel: SysOps / DevOps Polska
   
+ - ❓Jak odnowić wew. certyfikaty kubernetesa? #kubernetes #devops  [Watch](https://youtu.be/OAWU41Jjhes)  
  - [#536] Z ransomware do NIS2 - Artur Markiewicz  [Watch](https://youtu.be/bwOI37RAWRU)  
  - 🆕Nowy tryb pracy AWS EKS - auto mode  [Watch](https://youtu.be/jJGlJ0h-P4E)  
  - [#535]Sieć domowa - czy da się to zrobić lepiej? Historia fuckupów z życia wziętych - Amadeusz Kryze  [Watch](https://youtu.be/10t-o_G_2VA)  
- - 💡 W jaki sposób Kubernetes uruchamia się w Kubernetesie? 💡#kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/6_QYiZbJs7c)  
- - 🚧 Twoje sekrety w klastrze k8s mogą być zagrożone 🚧 #kubernetes #sysops #devops #security  [Watch](https://youtu.be/hqyWMd4I3Gg)
+ - 💡 W jaki sposób Kubernetes uruchamia się w Kubernetesie? 💡#kubernetes #k8s #sysops #devops  [Watch](https://youtu.be/6_QYiZbJs7c)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Decoding legacy code with GitHub Copilot Chat  [Watch](https://youtu.be/XIXzU-5aYrw)  
  - Open Source Friday Special: AI's Role Shaping Developer Tools  [Watch](https://youtu.be/GURdeT4zNNU)  
  - Build AI Apps Faster with GitHub Copilot for Azure: See It in Action!  [Watch](https://youtu.be/BoA2HwQZWso)  
  - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
- - "How To Make The Most Of GitHub Copilot"  [Watch](https://youtu.be/mUFYfwzmxBU)  
- - Managing API rate limits with GitHub Copilot Chat  [Watch](https://youtu.be/lJCvN_XJgg4)
+ - "How To Make The Most Of GitHub Copilot"  [Watch](https://youtu.be/mUFYfwzmxBU)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
