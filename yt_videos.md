@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Remove Emotion from Feedback  [Watch](https://youtu.be/N_xYVrnxXAQ)  
  - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
  - nothing is going to change  [Watch](https://youtu.be/E66tBbIf1nE)  
  - ✍🏻 The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
- - Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)  
- - Stop Wasting Time on Formatting – Try Ruff!  [Watch](https://youtu.be/QihjFTSdzqM)
+ - 📏 Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)
 # Channel: Tech With Tim
   
+ - Let's see how you can scale this in 2025👈📈  [Watch](https://youtu.be/cx0W2gKGzIE)  
+ - Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE  [Watch](https://youtu.be/UtSSMs6ObqY)  
+ - Python *ARGS & **KWARGS Concept☝  [Watch](https://youtu.be/Lu8E6Icalk8)  
  - Struggling With A Lack Of Credibility?? As A Software Dev In 2025.  [Watch](https://youtu.be/clDBdAFvIUk)  
- - This is the last thing you want when applying for jobs in TECH!👈🤫  [Watch](https://youtu.be/zFuANDkCtI4)  
- - Why NOT to learn Python?!?  [Watch](https://youtu.be/hV50TGITzaM)  
- - A bit of a weird Python Feature looking at the For/Else Concept in Python☝  [Watch](https://youtu.be/ZIFgyM558nU)  
- - A New Coding Assistant Just Arrived...  [Watch](https://youtu.be/becL7_JrHSo)
+ - This is the last thing you want when applying for jobs in TECH!👈🤫  [Watch](https://youtu.be/zFuANDkCtI4)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,14 +39,14 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)  
  - Getting the most out of GitHub Copilot's free tier  [Watch](https://youtu.be/z7JVTxiVcNk)  
  - Code Anywhere Anytime  [Watch](https://youtu.be/xhyj_M-pLD8)  
  - Visualize Data Structures in VS Code  [Watch](https://youtu.be/3O6BFlOiFRg)  
- - IMPORTANT: Don't Copy Paste Like This!!  [Watch](https://youtu.be/aG_86XkrGqY)  
- - Select Text in VS Code Like a Boss  [Watch](https://youtu.be/cLxrXSrYTKs)
+ - IMPORTANT: Don't Copy Paste Like This!!  [Watch](https://youtu.be/aG_86XkrGqY)
 # Channel: Mateusz Chrobok
   
- - Jak wyłączyć prąd w całej Europie zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)  
+ - Jak wyłączyć prąd w całej Europie, zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)  
  - 💸 UWAGA, Scamuje ludzi!  [Watch](https://youtu.be/yr58N33MLGQ)  
  - 🔇 Facebook rezygnuje z moderacji  [Watch](https://youtu.be/7dz3kttAnl4)  
  - 📡 Czy otwarte WiFi może być bezpieczne?  [Watch](https://youtu.be/DKDzjWyDQqM)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)
 # Channel: Real Python
   
+ - The Hidden Skills That Make Open Source Thrive  [Watch](https://youtu.be/9vqd_vFQOyk)  
  - Building New Structures for Learning Python | Real Python Podcast #234  [Watch](https://youtu.be/cXfZUUqpIuc)  
  - Ways to Start Interacting With Python: "Hello, World!" in Interactive Mode  [Watch](https://youtu.be/wcnYLsxJmLE)  
  - How Navy.mil Became One of the First Websites Ever  [Watch](https://youtu.be/vkM1RuQFTqQ)  
- - Mentorship in Python: Guiding Learners to Code Independently  [Watch](https://youtu.be/TatE5wahM-s)  
- - PyCoder's Weekly 2024 Top Articles & Missing Gems | Real Python Podcast #233  [Watch](https://youtu.be/jpSBxkuyh4o)
+ - Mentorship in Python: Guiding Learners to Code Independently  [Watch](https://youtu.be/TatE5wahM-s)
 # Channel: SysOps / DevOps Polska
   
  - ❓Jak odnowić wew. certyfikaty kubernetesa? #kubernetes #devops  [Watch](https://youtu.be/OAWU41Jjhes)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
 # Channel: GitHub
   
+ - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)  
  - Decoding legacy code with GitHub Copilot Chat  [Watch](https://youtu.be/XIXzU-5aYrw)  
  - Open Source Friday Special: AI's Role Shaping Developer Tools  [Watch](https://youtu.be/GURdeT4zNNU)  
  - Build AI Apps Faster with GitHub Copilot for Azure: See It in Action!  [Watch](https://youtu.be/BoA2HwQZWso)  
- - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
- - "How To Make The Most Of GitHub Copilot"  [Watch](https://youtu.be/mUFYfwzmxBU)
+ - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
