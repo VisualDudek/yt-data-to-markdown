@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Remove Emotion from Feedback  [Watch](https://youtu.be/N_xYVrnxXAQ)  
- - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
+ - 👊🏻 How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
  - nothing is going to change  [Watch](https://youtu.be/E66tBbIf1nE)  
  - ✍🏻 The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)  
  - 📏 Use Yourself as a Yardstick  [Watch](https://youtu.be/qBbmhIs_Tgo)
@@ -25,11 +25,11 @@ Youtube Videos
  - crossing the streams (all code sucks) #12  [Watch](https://youtu.be/bOKt0DnttxI)
 # Channel: Tech With Tim
   
+ - How to scale your coding resume if you have no Software EXPERIENCE!  [Watch](https://youtu.be/2mXmwsw88_A)  
+ - Looking at licensing your code or your API?  [Watch](https://youtu.be/WWXqFj4o5tU)  
  - Let's see how you can scale this in 2025👈📈  [Watch](https://youtu.be/cx0W2gKGzIE)  
  - Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE  [Watch](https://youtu.be/UtSSMs6ObqY)  
- - Python *ARGS & **KWARGS Concept☝  [Watch](https://youtu.be/Lu8E6Icalk8)  
- - Struggling With A Lack Of Credibility?? As A Software Dev In 2025.  [Watch](https://youtu.be/clDBdAFvIUk)  
- - This is the last thing you want when applying for jobs in TECH!👈🤫  [Watch](https://youtu.be/zFuANDkCtI4)
+ - Python *ARGS & **KWARGS Concept☝  [Watch](https://youtu.be/Lu8E6Icalk8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🪆Telegram blokuje  [Watch](https://youtu.be/XoJEjDSqx2c)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Building open core SaaS services in 2025  [Watch](https://youtu.be/g1CbFW49OKY)  
  - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
  - CNCF Live Webinar: Kubernetes 1.32 Release  [Watch](https://youtu.be/xf1nCvmVnhE)  
  - Copy of ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/ZAQnMn2eTlU)  
- - CNL: Streamlining K8s deployments with SpinKube & selective deployments  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
- - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)
+ - CNL: Streamlining K8s deployments with SpinKube & selective deployments  [Watch](https://youtu.be/Yl5JR1Xz0pA)
 # Channel: Real Python
   
  - The Hidden Skills That Make Open Source Thrive  [Watch](https://youtu.be/9vqd_vFQOyk)  
@@ -88,18 +88,18 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)  
  - Terminal tools for IT pros  [Watch](https://youtu.be/79rmEOrd5u8)  
  - What’s the better Git? // GitLab vs Gitea  [Watch](https://youtu.be/SpXAdOeE1YU)  
  - Self-host your own Git platform! // Gitea Tutorial  [Watch](https://youtu.be/Kg0ct2lBUVg)  
- - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)  
- - Simple HTTPs for Kubernetes // Traefik + Cert-Manager  [Watch](https://youtu.be/vJweuU6Qrgo)
+ - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)
 # Channel: GitHub
   
+ - Home Assistant: Building the open source smart home  [Watch](https://youtu.be/S71LpeMUrYg)  
+ - Is GitHub a Sticker Company? 🤔  [Watch](https://youtu.be/nPvkdFR2_7g)  
  - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)  
  - Decoding legacy code with GitHub Copilot Chat  [Watch](https://youtu.be/XIXzU-5aYrw)  
- - Open Source Friday Special: AI's Role Shaping Developer Tools  [Watch](https://youtu.be/GURdeT4zNNU)  
- - Build AI Apps Faster with GitHub Copilot for Azure: See It in Action!  [Watch](https://youtu.be/BoA2HwQZWso)  
- - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)
+ - Open Source Friday Special: AI's Role Shaping Developer Tools  [Watch](https://youtu.be/GURdeT4zNNU)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
