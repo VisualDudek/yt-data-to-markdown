@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)  
+ - 💉 Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)  
  - Remove Emotion from Feedback  [Watch](https://youtu.be/N_xYVrnxXAQ)  
- - 👊🏻 How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
+ - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
  - nothing is going to change  [Watch](https://youtu.be/E66tBbIf1nE)  
- - The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)
+ - ✍🏻 The Art of Naming Functions  [Watch](https://youtu.be/PyXRt_nuY80)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)
 # Channel: Tech With Tim
   
+ - This is definitely the hardest passive income HUSTLE to break into.  [Watch](https://youtu.be/p9rM7FLd1S8)  
+ - Is Python Still The King Of Coding?!👈⌨️  [Watch](https://youtu.be/mcTPMwXCuN4)  
+ - Concept we're looking at today is Dynamic Typing In Python💻  [Watch](https://youtu.be/ba3Qjv_fbVU)  
  - Next Income Method looks at 👉Blogging.Affiliate Marketing & Newsletters in 2025💻  [Watch](https://youtu.be/hFMYoYULp-0)  
- - Don't be too picky. Let's break it down👆  [Watch](https://youtu.be/GP9AXeobClk)  
- - How to scale your coding resume if you have no Software EXPERIENCE!  [Watch](https://youtu.be/2mXmwsw88_A)  
- - Looking at licensing your code or your API?  [Watch](https://youtu.be/WWXqFj4o5tU)  
- - Let's see how you can scale this in 2025👈📈  [Watch](https://youtu.be/cx0W2gKGzIE)
+ - Don't be too picky. Let's break it down👆  [Watch](https://youtu.be/GP9AXeobClk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 📡 Czy otwarte WiFi może być bezpieczne?  [Watch](https://youtu.be/DKDzjWyDQqM)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 42 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)  
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-01-14  [Watch](https://youtu.be/Bepw3qaJi2A)  
  - Cloud Native Live: Building open core SaaS services in 2025  [Watch](https://youtu.be/g1CbFW49OKY)  
  - Sandbox Review January 2025  [Watch](https://youtu.be/vU94g9tn2WQ)  
- - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)  
- - CNCF Live Webinar: Kubernetes 1.32 Release  [Watch](https://youtu.be/xf1nCvmVnhE)
+ - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)
 # Channel: Real Python
   
+ - Dictionary Comprehensions in Python: Reviewing Dictionaries & Understanding Comprehensions  [Watch](https://youtu.be/NkdFJGb_lqA)  
  - Why Open Source Needs More Than Just Users  [Watch](https://youtu.be/g4nM_Z12DAI)  
  - The Hidden Skills That Make Open Source Thrive  [Watch](https://youtu.be/9vqd_vFQOyk)  
  - Building New Structures for Learning Python | Real Python Podcast #234  [Watch](https://youtu.be/cXfZUUqpIuc)  
- - Ways to Start Interacting With Python: "Hello, World!" in Interactive Mode  [Watch](https://youtu.be/wcnYLsxJmLE)  
- - How Navy.mil Became One of the First Websites Ever  [Watch](https://youtu.be/vkM1RuQFTqQ)
+ - Ways to Start Interacting With Python: "Hello, World!" in Interactive Mode  [Watch](https://youtu.be/wcnYLsxJmLE)
 # Channel: SysOps / DevOps Polska
   
  - Od chaosu do harmonii? #MeetUp #K8s #Terraform #Kubernetes #multi-cloud #SODO  [Watch](https://youtu.be/AVk6Fxii4Mo)  
@@ -95,11 +95,11 @@ Youtube Videos
  - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)
 # Channel: GitHub
   
+ - Demystifying complex code with GitHub Copilot Chat  [Watch](https://youtu.be/5_B-rdoPnHA)  
  - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)  
  - Home Assistant: Building the open source smart home  [Watch](https://youtu.be/S71LpeMUrYg)  
  - Is GitHub a Sticker Company? 🤔  [Watch](https://youtu.be/nPvkdFR2_7g)  
- - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)  
- - Decoding legacy code with GitHub Copilot Chat  [Watch](https://youtu.be/XIXzU-5aYrw)
+ - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
@@ -116,7 +116,7 @@ Youtube Videos
  - Why is text in an Obsidian Excalidraw drawing added to the Markdown note?  [Watch](https://youtu.be/HG5IuDIWHgY)
 # Channel: ByteByteGo
   
- - API and SDK Explained in 5 Minutes  [Watch](https://youtu.be/GhX8sNyFo5w)  
+ - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)  
  - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)  
  - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)  
  - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)  
