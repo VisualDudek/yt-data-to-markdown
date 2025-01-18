@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)  
  - I Made a Version of Honey That Doesn’t SCREW Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
  - Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)  
  - Remove Emotion from Feedback  [Watch](https://youtu.be/N_xYVrnxXAQ)  
- - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)  
- - nothing is going to change  [Watch](https://youtu.be/E66tBbIf1nE)
+ - 👊🏻 How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)
 # Channel: Tech With Tim
   
+ - This was the first feature I built when I worked as a Junior Software Engineer for Microsoft.🫡  [Watch](https://youtu.be/zMfSwHfRN4w)  
  - How to outsmart automated systems when applying for TECH jobs💪💻  [Watch](https://youtu.be/rkqbkhdvqMc)  
  - This is definitely the hardest passive income HUSTLE to break into.  [Watch](https://youtu.be/p9rM7FLd1S8)  
  - Is Python Still The King Of Coding?!👈⌨️  [Watch](https://youtu.be/mcTPMwXCuN4)  
- - Concept we're looking at today is Dynamic Typing In Python💻  [Watch](https://youtu.be/ba3Qjv_fbVU)  
- - Next Income Method looks at 👉Blogging.Affiliate Marketing & Newsletters in 2025💻  [Watch](https://youtu.be/hFMYoYULp-0)
+ - Concept we're looking at today is Dynamic Typing In Python💻  [Watch](https://youtu.be/ba3Qjv_fbVU)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 📡 Czy otwarte WiFi może być bezpieczne?  [Watch](https://youtu.be/DKDzjWyDQqM)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff - Episode 43 (KubeVela)  [Watch](https://youtu.be/ClbJB-m0Kc4)  
  - ChatLoopBackOff - Episode 42 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)  
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-01-14  [Watch](https://youtu.be/Bepw3qaJi2A)  
  - Cloud Native Live: Building open core SaaS services in 2025  [Watch](https://youtu.be/g1CbFW49OKY)  
- - Sandbox Review January 2025  [Watch](https://youtu.be/vU94g9tn2WQ)  
- - ChatLoopBackOff - Episode 41 (Meshery)  [Watch](https://youtu.be/d2E4qDd3_Aw)
+ - Sandbox Review January 2025  [Watch](https://youtu.be/vU94g9tn2WQ)
 # Channel: Real Python
   
+ - Transform Your Python Skills in Just 8 Weeks  [Watch](https://youtu.be/aVNnZuqSBjg)  
  - Principles for Considering Your Python Tooling | Real Python Podcast #235  [Watch](https://youtu.be/nOogLLcOFqI)  
  - Dictionary Comprehensions in Python: Reviewing Dictionaries & Understanding Comprehensions  [Watch](https://youtu.be/NkdFJGb_lqA)  
  - Why Open Source Needs More Than Just Users  [Watch](https://youtu.be/g4nM_Z12DAI)  
- - The Hidden Skills That Make Open Source Thrive  [Watch](https://youtu.be/9vqd_vFQOyk)  
- - Building New Structures for Learning Python | Real Python Podcast #234  [Watch](https://youtu.be/cXfZUUqpIuc)
+ - The Hidden Skills That Make Open Source Thrive  [Watch](https://youtu.be/9vqd_vFQOyk)
 # Channel: SysOps / DevOps Polska
   
+ - 🛠️kubespec.dev - przegląd ciekawego oprogramowania #kubernetes #tools #devops  [Watch](https://youtu.be/iBafBHhYEPQ)  
  - [#537] Open source observability z OpenTelemetry i Elasticsearch - Andrzej Stencel  [Watch](https://youtu.be/4t9jW9S8zBU)  
  - Od chaosu do harmonii? #MeetUp #K8s #Terraform #Kubernetes #multi-cloud #SODO  [Watch](https://youtu.be/AVk6Fxii4Mo)  
  - 🆕Hybrid Mode w AWS EKS #kubernetes #devops  [Watch](https://youtu.be/PmWfK0PVJ0Q)  
- - ❓Jak odnowić wew. certyfikaty kubernetesa? #kubernetes #devops  [Watch](https://youtu.be/OAWU41Jjhes)  
- - [#536] Z ransomware do NIS2 - Artur Markiewicz  [Watch](https://youtu.be/bwOI37RAWRU)
+ - ❓Jak odnowić wew. certyfikaty kubernetesa? #kubernetes #devops  [Watch](https://youtu.be/OAWU41Jjhes)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - ClamAV + Wazuh, powerful Anti-Virus protection for Linux  [Watch](https://youtu.be/9e45TQ61H14)
 # Channel: GitHub
   
+ - Refactoring SQL: GitHub Copilot Chat's smart solution  [Watch](https://youtu.be/k-zHQOXxJI4)  
  - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)  
  - Using GitHub Copilot Free: What to know  [Watch](https://youtu.be/RR7svLAPY7w)  
  - Live demo: GitHub Copilot in Visual Studio Code  [Watch](https://youtu.be/dSbv-1KGu2U)  
- - Demystifying complex code with GitHub Copilot Chat  [Watch](https://youtu.be/5_B-rdoPnHA)  
- - Revolutionizing Authentication: GitHub Startup Wednesday with Rishi Bhargava of Descope  [Watch](https://youtu.be/S1e3YYMKSjA)
+ - Demystifying complex code with GitHub Copilot Chat  [Watch](https://youtu.be/5_B-rdoPnHA)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
