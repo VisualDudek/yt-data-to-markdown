@@ -8,7 +8,7 @@ Youtube Videos
  - I Made a Version of Honey That Doesn’t SCREW Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
  - Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)  
  - Remove Emotion from Feedback  [Watch](https://youtu.be/N_xYVrnxXAQ)  
- - 👊🏻 How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)
+ - How to “Rustify” Your Python Code  [Watch](https://youtu.be/jKLJFwNSv28)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)
 # Channel: Tech With Tim
   
+ - Web Scraping 101: A Million Dollar SaaS Idea  [Watch](https://youtu.be/oyIQenEvWN8)  
+ - 75% of resumes DON'T even get read because its not demonstrating impact💣Let me break it down☝️  [Watch](https://youtu.be/vJOOZKfIcKw)  
  - This was the first feature I built when I worked as a Junior Software Engineer for Microsoft.🫡  [Watch](https://youtu.be/zMfSwHfRN4w)  
  - How to outsmart automated systems when applying for TECH jobs💪💻  [Watch](https://youtu.be/rkqbkhdvqMc)  
- - This is definitely the hardest passive income HUSTLE to break into.  [Watch](https://youtu.be/p9rM7FLd1S8)  
- - Is Python Still The King Of Coding?!👈⌨️  [Watch](https://youtu.be/mcTPMwXCuN4)  
- - Concept we're looking at today is Dynamic Typing In Python💻  [Watch](https://youtu.be/ba3Qjv_fbVU)
+ - This is definitely the hardest passive income HUSTLE to break into.  [Watch](https://youtu.be/p9rM7FLd1S8)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Code Anywhere Anytime  [Watch](https://youtu.be/xhyj_M-pLD8)
 # Channel: Mateusz Chrobok
   
+ - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)  
  - 💵 Elon Musk kupi TikToka?  [Watch](https://youtu.be/TV1XX2vnPAs)  
  - Jak wyłączyć prąd w całej Europie, zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)  
  - 💸 UWAGA, Scamuje ludzi!  [Watch](https://youtu.be/yr58N33MLGQ)  
- - 🔇 Facebook rezygnuje z moderacji  [Watch](https://youtu.be/7dz3kttAnl4)  
- - 📡 Czy otwarte WiFi może być bezpieczne?  [Watch](https://youtu.be/DKDzjWyDQqM)
+ - 🔇 Facebook rezygnuje z moderacji  [Watch](https://youtu.be/7dz3kttAnl4)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff - Episode 43 (KubeVela)  [Watch](https://youtu.be/ClbJB-m0Kc4)  
