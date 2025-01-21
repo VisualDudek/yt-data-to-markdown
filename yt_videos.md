@@ -6,7 +6,7 @@ Youtube Videos
   
  - Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
  - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)  
- - I Made a Version of Honey That Doesn’t SCREW Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
+ - I Built a Version of Honey That Actually SUPPORTS Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
  - 💉 Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)  
  - Remove Emotion from Feedback  [Watch](https://youtu.be/N_xYVrnxXAQ)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - I fixed my computer!  [Watch](https://youtu.be/mUir3YYBudI)
 # Channel: Tech With Tim
   
+ - How I got offered 8,000 U.S. Canadian $$$💵  [Watch](https://youtu.be/gbweFQG7YSU)  
+ - This module is a game-changer for data validation and settings management in Python. 🔥👆  [Watch](https://youtu.be/z67AAjEsMpc)  
  - I use Flask a lot when I need to spin up a backend service.  [Watch](https://youtu.be/asAfqiryQ2A)  
  - PLEASE Learn This Underrated Python Feature...  [Watch](https://youtu.be/jg2zfLLu-eg)  
- - I Created A List Of 10 Python Modules You Need To Learn. Let's look at the first one🎯☝  [Watch](https://youtu.be/HGtLmZAiv1M)  
- - The Next Python Concept We Looking At Is Understanding Mutability🫡  [Watch](https://youtu.be/AH0vU9oHI1g)  
- - Web Scraping 101: A Million Dollar SaaS Idea  [Watch](https://youtu.be/oyIQenEvWN8)
+ - I Created A List Of 10 Python Modules You Need To Learn. Let's look at the first one🎯☝  [Watch](https://youtu.be/HGtLmZAiv1M)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Why Open Source Needs More Than Just Users  [Watch](https://youtu.be/g4nM_Z12DAI)
 # Channel: SysOps / DevOps Polska
   
+ - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)  
+ - [#538] Zbuduj własny Copilot w mniej niż 10 minut! - Paweł Fiderek  [Watch](https://youtu.be/ZYGyPpzOoqU)  
  - 🛠️kubespec.dev - przegląd ciekawego oprogramowania #kubernetes #tools #devops  [Watch](https://youtu.be/iBafBHhYEPQ)  
  - [#537] Open source observability z OpenTelemetry i Elasticsearch - Andrzej Stencel  [Watch](https://youtu.be/4t9jW9S8zBU)  
- - Od chaosu do harmonii? #MeetUp #K8s #Terraform #Kubernetes #multi-cloud #SODO  [Watch](https://youtu.be/AVk6Fxii4Mo)  
- - 🆕Hybrid Mode w AWS EKS #kubernetes #devops  [Watch](https://youtu.be/PmWfK0PVJ0Q)  
- - ❓Jak odnowić wew. certyfikaty kubernetesa? #kubernetes #devops  [Watch](https://youtu.be/OAWU41Jjhes)
+ - Od chaosu do harmonii? #MeetUp #K8s #Terraform #Kubernetes #multi-cloud #SODO  [Watch](https://youtu.be/AVk6Fxii4Mo)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)  
  - Unraid v7 was released! What is new?  [Watch](https://youtu.be/L_x_J-qMlV8)  
  - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)  
  - Terminal tools for IT pros  [Watch](https://youtu.be/79rmEOrd5u8)  
- - What’s the better Git? // GitLab vs Gitea  [Watch](https://youtu.be/SpXAdOeE1YU)  
- - Self-host your own Git platform! // Gitea Tutorial  [Watch](https://youtu.be/Kg0ct2lBUVg)
+ - What’s the better Git? // GitLab vs Gitea  [Watch](https://youtu.be/SpXAdOeE1YU)
 # Channel: GitHub
   
+ - GitHub Models: Your AI exploration playground  [Watch](https://youtu.be/OCNvxcMfunA)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/OHcF_QCZJLk)  
  - Refactoring SQL: GitHub Copilot Chat's smart solution  [Watch](https://youtu.be/k-zHQOXxJI4)  
  - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)  
- - Using GitHub Copilot Free: What to know  [Watch](https://youtu.be/RR7svLAPY7w)  
- - Live demo: GitHub Copilot in Visual Studio Code  [Watch](https://youtu.be/dSbv-1KGu2U)
+ - Using GitHub Copilot Free: What to know  [Watch](https://youtu.be/RR7svLAPY7w)
 # Channel: CloudHeroes - Video
   
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
