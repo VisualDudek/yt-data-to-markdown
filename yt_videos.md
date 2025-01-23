@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
- - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
+ - Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
  - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)  
- - I Built a Version of Honey That Actually SUPPORTS Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
+ - I Made a Version of Honey That Doesn’t SCREW Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
  - 💉 Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
 # Channel: Tech With Tim
   
+ - The Feature We Are Going To Go Over Today Is Slicing In Python⌨️☝  [Watch](https://youtu.be/MQxJG6wQDaU)  
  - This is the Web Framework I prefer using to develop web applications quickly and efficiently.🎯☝  [Watch](https://youtu.be/Q22eWBtwUos)  
  - Computer Science Students - Listen Up...  [Watch](https://youtu.be/xHCQOOzphz8)  
  - If you want to create an API in Python I definitely will recommend using this API!🔥  [Watch](https://youtu.be/a219aK690ZE)  
- - How I got offered 8,000 U.S. Canadian $$$💵  [Watch](https://youtu.be/gbweFQG7YSU)  
- - This module is a game-changer for data validation and settings management in Python. 🔥👆  [Watch](https://youtu.be/z67AAjEsMpc)
+ - How I got offered 8,000 U.S. Canadian $$$💵  [Watch](https://youtu.be/gbweFQG7YSU)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Code Anywhere Anytime  [Watch](https://youtu.be/xhyj_M-pLD8)
 # Channel: Mateusz Chrobok
   
+ - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)  
  - 🇺🇸 TikTok pojawia się i znika  [Watch](https://youtu.be/oZnDkb6WXEs)  
  - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)  
  - 💵 Elon Musk kupi TikToka?  [Watch](https://youtu.be/TV1XX2vnPAs)  
- - Jak wyłączyć prąd w całej Europie, zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)  
- - 💸 UWAGA, Scamuje ludzi!  [Watch](https://youtu.be/yr58N33MLGQ)
+ - Jak wyłączyć prąd w całej Europie, zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)
 # Channel: Cloud Native Computing Foundation
   
- - BIPOC: Under the rug - tackling bias and building allies in cloud native  [Watch](https://youtu.be/NhI4Ur_3Tq8)  
- - Blind & Visually Impaired Initiative Meeting - 2025-01-21  [Watch](https://youtu.be/goJE1w0LppA)  
- - TOC Meeting 2025-01-21  [Watch](https://youtu.be/0gSkmOCFGE8)  
- - ChatLoopBackOff - Episode 43 (KubeVela)  [Watch](https://youtu.be/ClbJB-m0Kc4)  
- - ChatLoopBackOff - Episode 42 (K8gb)  [Watch](https://youtu.be/tKUNI6E1_7c)
+ - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
+ - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
+ - ChatLoopBackOff Episode 46 (Dragonfly)  [Watch](https://youtu.be/gd6HRgr8KcA)  
+ - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)  
+ - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)
 # Channel: Real Python
   
+ - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)  
  - Master Sentiment Analysis with Python: TextBlob & More  [Watch](https://youtu.be/oTW54vx1bpI)  
  - Python's Revolution: What's Coming in the New Era  [Watch](https://youtu.be/EbKSTMoYWTs)  
  - Transform Your Python Skills in Just 8 Weeks  [Watch](https://youtu.be/aVNnZuqSBjg)  
- - Principles for Considering Your Python Tooling | Real Python Podcast #235  [Watch](https://youtu.be/nOogLLcOFqI)  
- - Dictionary Comprehensions in Python: Reviewing Dictionaries & Understanding Comprehensions  [Watch](https://youtu.be/NkdFJGb_lqA)
+ - Principles for Considering Your Python Tooling | Real Python Podcast #235  [Watch](https://youtu.be/nOogLLcOFqI)
 # Channel: SysOps / DevOps Polska
   
  - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)  
@@ -88,25 +88,25 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)  
  - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)  
  - Unraid v7 was released! What is new?  [Watch](https://youtu.be/L_x_J-qMlV8)  
  - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)  
- - Terminal tools for IT pros  [Watch](https://youtu.be/79rmEOrd5u8)  
- - What’s the better Git? // GitLab vs Gitea  [Watch](https://youtu.be/SpXAdOeE1YU)
+ - Terminal tools for IT pros  [Watch](https://youtu.be/79rmEOrd5u8)
 # Channel: GitHub
   
- - GitHub Models: Your AI exploration playground  [Watch](https://youtu.be/OCNvxcMfunA)  
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/3KK1yII129U)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/OHcF_QCZJLk)  
- - Refactoring SQL: GitHub Copilot Chat's smart solution  [Watch](https://youtu.be/k-zHQOXxJI4)  
- - Open Source Friday: Inside Replicate's Journey with Founding Designer Zeke  [Watch](https://youtu.be/Gyzja1ClOs0)  
- - Using GitHub Copilot Free: What to know  [Watch](https://youtu.be/RR7svLAPY7w)
+ - Inside GitHub's Bug Bounty program: Turning security challenges into opportunities  [Watch](https://youtu.be/vPhW2FcPHGQ)  
+ - GitHub Models: Your AI exploration playground  [Watch](https://youtu.be/OCNvxcMfunA)  
+ - Refactoring SQL: GitHub Copilot Chat's smart solution  [Watch](https://youtu.be/k-zHQOXxJI4)
 # Channel: CloudHeroes - Video
   
+ - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
  - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
- - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)  
- - Koniec z AWS CodeCommit.. Co dalej?  [Watch](https://youtu.be/fkggBFBDOVk)
+ - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)  
  - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)  
  - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)  
  - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)  
- - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)  
- - Big-O Notation in 3 Minutes  [Watch](https://youtu.be/x2CRZaN2xgM)
+ - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)
