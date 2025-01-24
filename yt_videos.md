@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
- - Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
+ - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
+ - 🚀 The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
+ - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
  - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)  
- - I Made a Version of Honey That Doesn’t SCREW Creators  [Watch](https://youtu.be/_M1unW6dFA0)  
- - 💉 Why Use a Dependency Injection Framework?  [Watch](https://youtu.be/krcC58domsM)
+ - I Built a Version of Honey That Actually SUPPORTS Creators  [Watch](https://youtu.be/_M1unW6dFA0)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
 # Channel: Tech With Tim
   
+ - The Real Reason Companies Aren't Calling You Back (Software Engineer Edition) 📞  [Watch](https://youtu.be/XHPDAO8x3XI)  
+ - Let's Get Into NUMPY👊💻  [Watch](https://youtu.be/nRkHDb0AAL8)  
+ - We are going to look at Selenium this is one of my favourite modules merely for this reason.🔥🤝  [Watch](https://youtu.be/xfirpfoR3AI)  
  - The Feature We Are Going To Go Over Today Is Slicing In Python⌨️☝  [Watch](https://youtu.be/MQxJG6wQDaU)  
- - This is the Web Framework I prefer using to develop web applications quickly and efficiently.🎯☝  [Watch](https://youtu.be/Q22eWBtwUos)  
- - Computer Science Students - Listen Up...  [Watch](https://youtu.be/xHCQOOzphz8)  
- - If you want to create an API in Python I definitely will recommend using this API!🔥  [Watch](https://youtu.be/a219aK690ZE)  
- - How I got offered 8,000 U.S. Canadian $$$💵  [Watch](https://youtu.be/gbweFQG7YSU)
+ - This is the Web Framework I prefer using to develop web applications quickly and efficiently.🎯☝  [Watch](https://youtu.be/Q22eWBtwUos)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Multiple cursors in VS Code  [Watch](https://youtu.be/qT1QPWgkSFs)  
  - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)  
  - Terminal Inline Chat 🤯  [Watch](https://youtu.be/mnoHT249Kvk)  
  - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)  
- - Getting the most out of GitHub Copilot's free tier  [Watch](https://youtu.be/z7JVTxiVcNk)  
- - Code Anywhere Anytime  [Watch](https://youtu.be/xhyj_M-pLD8)
+ - Getting the most out of GitHub Copilot's free tier  [Watch](https://youtu.be/z7JVTxiVcNk)
 # Channel: Mateusz Chrobok
   
  - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)  
@@ -53,25 +53,25 @@ Youtube Videos
  - Jak wyłączyć prąd w całej Europie, zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
- - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
- - ChatLoopBackOff Episode 46 (Dragonfly)  [Watch](https://youtu.be/gd6HRgr8KcA)  
- - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)  
- - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)
+ - ChatLoopBackOff - Episode 43 (KubeVela)  [Watch](https://youtu.be/ClbJB-m0Kc4)  
+ - Multi-Zone Clusters Inside and Out - Tom Dean & Phil Henderson, Buoyant  [Watch](https://youtu.be/WhFsYVHmg6E)  
+ - Goodbye etcd! Running Kubernetes on Distributed PostgreSQL - Denis Magda, Yugabyte  [Watch](https://youtu.be/VdF1tKfDnQ0)  
+ - Architecting the Future of AI: From Cloud-Native Orchestration to AdvanceL... - Lily Liu, Anyscale  [Watch](https://youtu.be/K3NW-gV1OtA)  
+ - Navigating the Future: Exploring the Latest in Kubernetes Dashboard Dev... M. Maciaszczyk, S. Florek  [Watch](https://youtu.be/7BV1QAgTCxI)
 # Channel: Real Python
   
+ - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
  - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)  
  - Master Sentiment Analysis with Python: TextBlob & More  [Watch](https://youtu.be/oTW54vx1bpI)  
  - Python's Revolution: What's Coming in the New Era  [Watch](https://youtu.be/EbKSTMoYWTs)  
- - Transform Your Python Skills in Just 8 Weeks  [Watch](https://youtu.be/aVNnZuqSBjg)  
- - Principles for Considering Your Python Tooling | Real Python Podcast #235  [Watch](https://youtu.be/nOogLLcOFqI)
+ - Transform Your Python Skills in Just 8 Weeks  [Watch](https://youtu.be/aVNnZuqSBjg)
 # Channel: SysOps / DevOps Polska
   
+ - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)  
  - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)  
  - [#538] Zbuduj własny Copilot w mniej niż 10 minut! - Paweł Fiderek  [Watch](https://youtu.be/ZYGyPpzOoqU)  
  - 🛠️kubespec.dev - przegląd ciekawego oprogramowania #kubernetes #tools #devops  [Watch](https://youtu.be/iBafBHhYEPQ)  
- - [#537] Open source observability z OpenTelemetry i Elasticsearch - Andrzej Stencel  [Watch](https://youtu.be/4t9jW9S8zBU)  
- - Od chaosu do harmonii? #MeetUp #K8s #Terraform #Kubernetes #multi-cloud #SODO  [Watch](https://youtu.be/AVk6Fxii4Mo)
+ - [#537] Open source observability z OpenTelemetry i Elasticsearch - Andrzej Stencel  [Watch](https://youtu.be/4t9jW9S8zBU)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)  
  - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)  
  - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)  
  - Unraid v7 was released! What is new?  [Watch](https://youtu.be/L_x_J-qMlV8)  
- - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)  
- - Terminal tools for IT pros  [Watch](https://youtu.be/79rmEOrd5u8)
+ - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)
 # Channel: GitHub
   
+ - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
+ - Hack Club: Where young innovators thrive  [Watch](https://youtu.be/9lyxsVKGS7M)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/3KK1yII129U)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/OHcF_QCZJLk)  
- - Inside GitHub's Bug Bounty program: Turning security challenges into opportunities  [Watch](https://youtu.be/vPhW2FcPHGQ)  
- - GitHub Models: Your AI exploration playground  [Watch](https://youtu.be/OCNvxcMfunA)  
- - Refactoring SQL: GitHub Copilot Chat's smart solution  [Watch](https://youtu.be/k-zHQOXxJI4)
+ - GitHub Open Source Friday: Bridging Tech & Humanity - A Chat with Daniel Miessler  [Watch](https://youtu.be/mr6oLq513WU)  
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/OHcF_QCZJLk)
 # Channel: CloudHeroes - Video
   
  - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
