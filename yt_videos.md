@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
  - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
  - 🚀 The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
  - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
- - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)  
- - I Built a Version of Honey That Actually SUPPORTS Creators  [Watch](https://youtu.be/_M1unW6dFA0)
+ - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
 # Channel: Tech With Tim
   
- - The Real Reason Companies Aren't Calling You Back (Software Engineer Edition) 📞  [Watch](https://youtu.be/XHPDAO8x3XI)  
+ - An EASY way to manage resources in Python🤝🤌  [Watch](https://youtu.be/qnLqJih7knM)  
+ - Check out this Python module with features you can fully customise!💻🫡  [Watch](https://youtu.be/ENlKMvK5vO0)  
+ - Did you know Pandas could do this?!🐼💻  [Watch](https://youtu.be/FrWqmGN7sug)  
  - Let's Get Into NUMPY👊💻  [Watch](https://youtu.be/nRkHDb0AAL8)  
- - We are going to look at Selenium this is one of my favourite modules merely for this reason.🔥🤝  [Watch](https://youtu.be/xfirpfoR3AI)  
- - The Feature We Are Going To Go Over Today Is Slicing In Python⌨️☝  [Watch](https://youtu.be/MQxJG6wQDaU)  
- - This is the Web Framework I prefer using to develop web applications quickly and efficiently.🎯☝  [Watch](https://youtu.be/Q22eWBtwUos)
+ - We are going to look at Selenium this is one of my favourite modules merely for this reason.🔥🤝  [Watch](https://youtu.be/xfirpfoR3AI)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,25 +39,25 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - why you don't need console.log  [Watch](https://youtu.be/eVs7Gz3q33Q)  
  - Multiple cursors in VS Code  [Watch](https://youtu.be/qT1QPWgkSFs)  
  - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)  
  - Terminal Inline Chat 🤯  [Watch](https://youtu.be/mnoHT249Kvk)  
- - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)  
- - Getting the most out of GitHub Copilot's free tier  [Watch](https://youtu.be/z7JVTxiVcNk)
+ - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)
 # Channel: Mateusz Chrobok
   
+ - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)  
  - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)  
  - 🇺🇸 TikTok pojawia się i znika  [Watch](https://youtu.be/oZnDkb6WXEs)  
  - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)  
- - 💵 Elon Musk kupi TikToka?  [Watch](https://youtu.be/TV1XX2vnPAs)  
- - Jak wyłączyć prąd w całej Europie, zdalnie? #38c3  [Watch](https://youtu.be/FriWxGEZ0y0)
+ - 💵 Elon Musk kupi TikToka?  [Watch](https://youtu.be/TV1XX2vnPAs)
 # Channel: Cloud Native Computing Foundation
   
+ - Now You See Me: Tame MTTR with Real-Time Anomaly Dete... Kruthika Prasanna Simha & Prschita Prschita  [Watch](https://youtu.be/Ipc0SOhB9OM)  
+ - Nothing but NATS - Going Beyond Cloud Native - Byron Ruth & Kevin Hoffman, Synadia  [Watch](https://youtu.be/ypsAus_OBmo)  
  - ChatLoopBackOff - Episode 43 (KubeVela)  [Watch](https://youtu.be/ClbJB-m0Kc4)  
  - Multi-Zone Clusters Inside and Out - Tom Dean & Phil Henderson, Buoyant  [Watch](https://youtu.be/WhFsYVHmg6E)  
- - Goodbye etcd! Running Kubernetes on Distributed PostgreSQL - Denis Magda, Yugabyte  [Watch](https://youtu.be/VdF1tKfDnQ0)  
- - Architecting the Future of AI: From Cloud-Native Orchestration to AdvanceL... - Lily Liu, Anyscale  [Watch](https://youtu.be/K3NW-gV1OtA)  
- - Navigating the Future: Exploring the Latest in Kubernetes Dashboard Dev... M. Maciaszczyk, S. Florek  [Watch](https://youtu.be/7BV1QAgTCxI)
+ - Goodbye etcd! Running Kubernetes on Distributed PostgreSQL - Denis Magda, Yugabyte  [Watch](https://youtu.be/VdF1tKfDnQ0)
 # Channel: Real Python
   
  - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
@@ -95,11 +95,11 @@ Youtube Videos
  - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)
 # Channel: GitHub
   
+ - Event in Spanish: GitHub Presente: Construyendo Puentes entre IA y Comunidad con Carlos Santana  [Watch](https://youtu.be/KB0o482aTr8)  
  - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
+ - Why Python Became The #1 Programming Language in 2024? #coding #dev  [Watch](https://youtu.be/fm0X4oKuTIQ)  
  - Hack Club: Where young innovators thrive  [Watch](https://youtu.be/9lyxsVKGS7M)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/3KK1yII129U)  
- - GitHub Open Source Friday: Bridging Tech & Humanity - A Chat with Daniel Miessler  [Watch](https://youtu.be/mr6oLq513WU)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/OHcF_QCZJLk)
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/3KK1yII129U)
 # Channel: CloudHeroes - Video
   
  - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
