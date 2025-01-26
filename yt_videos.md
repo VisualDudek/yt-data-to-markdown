@@ -7,7 +7,7 @@ Youtube Videos
  - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
  - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
  - 🚀 The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
- - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
+ - Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
  - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
 # Channel: Tech With Tim
   
+ - You Use This Python Feature Everyday - But Never Learned It...  [Watch](https://youtu.be/WW7ppBY3jw4)  
+ - This Python module is your go-to for speech and image recognition!  [Watch](https://youtu.be/OBu-aGl-NSo)  
  - An EASY way to manage resources in Python🤝🤌  [Watch](https://youtu.be/qnLqJih7knM)  
  - Check out this Python module with features you can fully customise!💻🫡  [Watch](https://youtu.be/ENlKMvK5vO0)  
- - Did you know Pandas could do this?!🐼💻  [Watch](https://youtu.be/FrWqmGN7sug)  
- - Let's Get Into NUMPY👊💻  [Watch](https://youtu.be/nRkHDb0AAL8)  
- - We are going to look at Selenium this is one of my favourite modules merely for this reason.🔥🤝  [Watch](https://youtu.be/xfirpfoR3AI)
+ - Did you know Pandas could do this?!🐼💻  [Watch](https://youtu.be/FrWqmGN7sug)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,18 +46,18 @@ Youtube Videos
  - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)
 # Channel: Mateusz Chrobok
   
+ - Wiem, gdzie zaparkowałeś swój samochód* #38c3  [Watch](https://youtu.be/8rYh-AJbZfA)  
  - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)  
  - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)  
  - 🇺🇸 TikTok pojawia się i znika  [Watch](https://youtu.be/oZnDkb6WXEs)  
- - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)  
- - 💵 Elon Musk kupi TikToka?  [Watch](https://youtu.be/TV1XX2vnPAs)
+ - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)
 # Channel: Cloud Native Computing Foundation
   
- - Now You See Me: Tame MTTR with Real-Time Anomaly Dete... Kruthika Prasanna Simha & Prschita Prschita  [Watch](https://youtu.be/Ipc0SOhB9OM)  
- - Nothing but NATS - Going Beyond Cloud Native - Byron Ruth & Kevin Hoffman, Synadia  [Watch](https://youtu.be/ypsAus_OBmo)  
- - ChatLoopBackOff - Episode 43 (KubeVela)  [Watch](https://youtu.be/ClbJB-m0Kc4)  
- - Multi-Zone Clusters Inside and Out - Tom Dean & Phil Henderson, Buoyant  [Watch](https://youtu.be/WhFsYVHmg6E)  
- - Goodbye etcd! Running Kubernetes on Distributed PostgreSQL - Denis Magda, Yugabyte  [Watch](https://youtu.be/VdF1tKfDnQ0)
+ - What’s Going on in the Containerd Neighborhood? - P. Estes, S. Karp, A. Suda, M. Brown, K. Ashok  [Watch](https://youtu.be/kCNhgNXVdxw)  
+ - Welcome & Introduction: A Hitchhiker's Guide to the CNCF Landscape- Katherine Druckman, Lori Lorusso  [Watch](https://youtu.be/hTCAOa0-VdU)  
+ - Navigating the Cgroup Transition: Bridging the Gap Between Kubernetes and User Expec... S. Kunkerkar  [Watch](https://youtu.be/JWwwtW8Hbjs)  
+ - Lightning Talk: Minimizing Data Loss Within the OpenTelemetry (OTel) Collector - Alex Kats  [Watch](https://youtu.be/xxRkfVXdy9E)  
+ - KubeSlice: Migrate Kubernetes Services With Confidence! | Project Lightning Talk  [Watch](https://youtu.be/Xkl7EnILe-o)
 # Channel: Real Python
   
  - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
