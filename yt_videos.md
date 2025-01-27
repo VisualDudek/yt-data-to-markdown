@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
+ - Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
+ - 📊 The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
  - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
  - 🚀 The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
- - Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)  
- - 3 Tips to Avoid Code Duplication  [Watch](https://youtu.be/vkaYqD9IGmE)
+ - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
 # Channel: Tech With Tim
   
+ - Ever built a game or a cool AI model before? Let me know—I’m curious!  [Watch](https://youtu.be/kRBXRqTtG7E)  
+ - Let's look at "7 Rules That Will Teach You How To Code"🔥  [Watch](https://youtu.be/jd1CEFn69OY)  
  - You Use This Python Feature Everyday - But Never Learned It...  [Watch](https://youtu.be/WW7ppBY3jw4)  
  - This Python module is your go-to for speech and image recognition!  [Watch](https://youtu.be/OBu-aGl-NSo)  
- - An EASY way to manage resources in Python🤝🤌  [Watch](https://youtu.be/qnLqJih7knM)  
- - Check out this Python module with features you can fully customise!💻🫡  [Watch](https://youtu.be/ENlKMvK5vO0)  
- - Did you know Pandas could do this?!🐼💻  [Watch](https://youtu.be/FrWqmGN7sug)
+ - An EASY way to manage resources in Python🤝🤌  [Watch](https://youtu.be/qnLqJih7knM)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -53,25 +53,25 @@ Youtube Videos
  - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)
 # Channel: Cloud Native Computing Foundation
   
- - What’s Going on in the Containerd Neighborhood? - P. Estes, S. Karp, A. Suda, M. Brown, K. Ashok  [Watch](https://youtu.be/kCNhgNXVdxw)  
- - Welcome & Introduction: A Hitchhiker's Guide to the CNCF Landscape- Katherine Druckman, Lori Lorusso  [Watch](https://youtu.be/hTCAOa0-VdU)  
- - Navigating the Cgroup Transition: Bridging the Gap Between Kubernetes and User Expec... S. Kunkerkar  [Watch](https://youtu.be/JWwwtW8Hbjs)  
- - Lightning Talk: Minimizing Data Loss Within the OpenTelemetry (OTel) Collector - Alex Kats  [Watch](https://youtu.be/xxRkfVXdy9E)  
- - KubeSlice: Migrate Kubernetes Services With Confidence! | Project Lightning Talk  [Watch](https://youtu.be/Xkl7EnILe-o)
+ - ASL Container  [Watch](https://youtu.be/meUtsFU7ndo)  
+ - ASL Autoscaling 2  [Watch](https://youtu.be/cGONmC1smaM)  
+ - ASL Reliability  [Watch](https://youtu.be/pQluo2FG2eA)  
+ - ASL Serverless 2  [Watch](https://youtu.be/rbyBgXqCN2k)  
+ - ASL Service  [Watch](https://youtu.be/rE5OCe3upMo)
 # Channel: Real Python
   
+ - Why Fine-Tuning Beats RAG for Sentiment Analysis  [Watch](https://youtu.be/jOfFtL-aLt8)  
  - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
  - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)  
  - Master Sentiment Analysis with Python: TextBlob & More  [Watch](https://youtu.be/oTW54vx1bpI)  
- - Python's Revolution: What's Coming in the New Era  [Watch](https://youtu.be/EbKSTMoYWTs)  
- - Transform Your Python Skills in Just 8 Weeks  [Watch](https://youtu.be/aVNnZuqSBjg)
+ - Python's Revolution: What's Coming in the New Era  [Watch](https://youtu.be/EbKSTMoYWTs)
 # Channel: SysOps / DevOps Polska
   
+ - Nowy tryb rezerwacji CPU w Kubernetesie 1.32 #kubernetes #devops  [Watch](https://youtu.be/sAHUHhWaAWk)  
  - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)  
  - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)  
  - [#538] Zbuduj własny Copilot w mniej niż 10 minut! - Paweł Fiderek  [Watch](https://youtu.be/ZYGyPpzOoqU)  
- - 🛠️kubespec.dev - przegląd ciekawego oprogramowania #kubernetes #tools #devops  [Watch](https://youtu.be/iBafBHhYEPQ)  
- - [#537] Open source observability z OpenTelemetry i Elasticsearch - Andrzej Stencel  [Watch](https://youtu.be/4t9jW9S8zBU)
+ - 🛠️kubespec.dev - przegląd ciekawego oprogramowania #kubernetes #tools #devops  [Watch](https://youtu.be/iBafBHhYEPQ)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,25 +88,25 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - Raycast focus boosts your productivity (Raycast Focus)  [Watch](https://youtu.be/MANsazTgWTU)  
  - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)  
  - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)  
  - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)  
- - Unraid v7 was released! What is new?  [Watch](https://youtu.be/L_x_J-qMlV8)  
- - New Unraid Storage Server upgrades and testing!  [Watch](https://youtu.be/xMHMkpA5XnM)
+ - Unraid v7 was released! What is new?  [Watch](https://youtu.be/L_x_J-qMlV8)
 # Channel: GitHub
   
+ - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)  
  - Event in Spanish: GitHub Presente: Construyendo Puentes entre IA y Comunidad con Carlos Santana  [Watch](https://youtu.be/KB0o482aTr8)  
  - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
  - Why Python Became The #1 Programming Language in 2024? #coding #dev  [Watch](https://youtu.be/fm0X4oKuTIQ)  
- - Hack Club: Where young innovators thrive  [Watch](https://youtu.be/9lyxsVKGS7M)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/3KK1yII129U)
+ - Hack Club: Where young innovators thrive  [Watch](https://youtu.be/9lyxsVKGS7M)
 # Channel: CloudHeroes - Video
   
+ - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
  - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
  - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
- - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)  
- - Łączenie środowisk z Overlapping IP Ranges w AWS  [Watch](https://youtu.be/71qb57dMMFs)
+ - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
