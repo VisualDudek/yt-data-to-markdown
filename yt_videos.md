@@ -7,7 +7,7 @@ Youtube Videos
  - Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
  - 📊 The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
  - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
- - 🚀 The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
+ - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
  - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
 # Channel: Tech With Tim
   
+ - Populating a list in place in Python? Here’s the easiest way to do it!  [Watch](https://youtu.be/7Xj13uW5YNM)  
+ - 7 Rules For Learning to Code in 2025...and should you?  [Watch](https://youtu.be/K-L189UDQMo)  
+ - Tired of overcomplicating variable swaps in Python? Check out this simple trick!👊  [Watch](https://youtu.be/6sAg6O-tPDI)  
  - Ever built a game or a cool AI model before? Let me know—I’m curious!  [Watch](https://youtu.be/kRBXRqTtG7E)  
- - Let's look at "7 Rules That Will Teach You How To Code"🔥  [Watch](https://youtu.be/jd1CEFn69OY)  
- - You Use This Python Feature Everyday - But Never Learned It...  [Watch](https://youtu.be/WW7ppBY3jw4)  
- - This Python module is your go-to for speech and image recognition!  [Watch](https://youtu.be/OBu-aGl-NSo)  
- - An EASY way to manage resources in Python🤝🤌  [Watch](https://youtu.be/qnLqJih7knM)
+ - Let's look at "7 Rules That Will Teach You How To Code"🔥  [Watch](https://youtu.be/jd1CEFn69OY)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)
 # Channel: Mateusz Chrobok
   
+ - 🔏 Eurocert + ransomware = RIP  [Watch](https://youtu.be/oWxih9KP3Pk)  
  - Wiem, gdzie zaparkowałeś swój samochód* #38c3  [Watch](https://youtu.be/8rYh-AJbZfA)  
  - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)  
  - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)  
- - 🇺🇸 TikTok pojawia się i znika  [Watch](https://youtu.be/oZnDkb6WXEs)  
- - Dlaczego kryzysy zawsze wybuchają w weekendy?  [Watch](https://youtu.be/O4g__xjR0ig)
+ - 🇺🇸 TikTok pojawia się i znika  [Watch](https://youtu.be/oZnDkb6WXEs)
 # Channel: Cloud Native Computing Foundation
   
  - ASL Container  [Watch](https://youtu.be/meUtsFU7ndo)  
@@ -88,18 +88,18 @@ Youtube Videos
  - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
 # Channel: Christian Lempa
   
+ - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)  
  - Raycast focus boosts your productivity (Raycast Focus)  [Watch](https://youtu.be/MANsazTgWTU)  
  - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)  
  - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)  
- - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)  
- - Unraid v7 was released! What is new?  [Watch](https://youtu.be/L_x_J-qMlV8)
+ - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)
 # Channel: GitHub
   
+ - Event in Spanish: GitHub Presente Transformando Empresas con GitHub  [Watch](https://youtu.be/RJSSQYMeo70)  
  - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)  
  - Event in Spanish: GitHub Presente: Construyendo Puentes entre IA y Comunidad con Carlos Santana  [Watch](https://youtu.be/KB0o482aTr8)  
  - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
- - Why Python Became The #1 Programming Language in 2024? #coding #dev  [Watch](https://youtu.be/fm0X4oKuTIQ)  
- - Hack Club: Where young innovators thrive  [Watch](https://youtu.be/9lyxsVKGS7M)
+ - Why Python Became The #1 Programming Language in 2024? #coding #dev  [Watch](https://youtu.be/fm0X4oKuTIQ)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
