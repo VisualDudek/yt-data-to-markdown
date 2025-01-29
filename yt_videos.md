@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
+ - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)  
+ - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
  - 📊 The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
  - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
- - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)  
- - 🪦 Why You Shouldn’t Kill Your Product Overnight  [Watch](https://youtu.be/kWwo0kgvNn4)
+ - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)  
  - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)  
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)  
  - why don't signals work in docker?  [Watch](https://youtu.be/0pQxONR73f8)  
- - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)  
- - supercharging coverage with sys.monitoring (PEP 669)  [Watch](https://youtu.be/_JwwSVPg9RI)
+ - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
+ - FIVE ways I use AI to automate my life. #3 will change your life!🚀  [Watch](https://youtu.be/RkpKoCeay9A)  
  - Populating a list in place in Python? Here’s the easiest way to do it!  [Watch](https://youtu.be/7Xj13uW5YNM)  
  - 7 Rules For Learning to Code in 2025...and should you?  [Watch](https://youtu.be/K-L189UDQMo)  
  - Tired of overcomplicating variable swaps in Python? Check out this simple trick!👊  [Watch](https://youtu.be/6sAg6O-tPDI)  
- - Ever built a game or a cool AI model before? Let me know—I’m curious!  [Watch](https://youtu.be/kRBXRqTtG7E)  
- - Let's look at "7 Rules That Will Teach You How To Code"🔥  [Watch](https://youtu.be/jd1CEFn69OY)
+ - Ever built a game or a cool AI model before? Let me know—I’m curious!  [Watch](https://youtu.be/kRBXRqTtG7E)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -60,18 +60,18 @@ Youtube Videos
  - ASL Service  [Watch](https://youtu.be/rE5OCe3upMo)
 # Channel: Real Python
   
+ - How to Simplify LLM Deployment for Real-World Tasks  [Watch](https://youtu.be/5GJ8N7A2fRg)  
  - Why Fine-Tuning Beats RAG for Sentiment Analysis  [Watch](https://youtu.be/jOfFtL-aLt8)  
  - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
  - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)  
- - Master Sentiment Analysis with Python: TextBlob & More  [Watch](https://youtu.be/oTW54vx1bpI)  
- - Python's Revolution: What's Coming in the New Era  [Watch](https://youtu.be/EbKSTMoYWTs)
+ - Master Sentiment Analysis with Python: TextBlob & More  [Watch](https://youtu.be/oTW54vx1bpI)
 # Channel: SysOps / DevOps Polska
   
+ - [#539] Good, bad and ugly - the art of load balancing at scale - Jacek Marmuszewski  [Watch](https://youtu.be/WsDQdL4F_EI)  
  - Nowy tryb rezerwacji CPU w Kubernetesie 1.32 #kubernetes #devops  [Watch](https://youtu.be/sAHUHhWaAWk)  
  - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)  
  - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)  
- - [#538] Zbuduj własny Copilot w mniej niż 10 minut! - Paweł Fiderek  [Watch](https://youtu.be/ZYGyPpzOoqU)  
- - 🛠️kubespec.dev - przegląd ciekawego oprogramowania #kubernetes #tools #devops  [Watch](https://youtu.be/iBafBHhYEPQ)
+ - [#538] Zbuduj własny Copilot w mniej niż 10 minut! - Paweł Fiderek  [Watch](https://youtu.be/ZYGyPpzOoqU)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -81,11 +81,11 @@ Youtube Videos
  - We Have A Problem..  [Watch](https://youtu.be/1-0r90bm6CE)
 # Channel: Beyond Fireship
   
+ - I built a DeepSeek R1 powered VS Code extension…  [Watch](https://youtu.be/clJCDHml2cA)  
  - Is Next.js 15 any good? "use cache" API first look  [Watch](https://youtu.be/xWkozeculPo)  
  - JavaScript performance is weird... Write scientifically faster code with benchmarking  [Watch](https://youtu.be/_pWA4rbzvIg)  
  - Does Deno 2 really uncomplicate JavaScript?  [Watch](https://youtu.be/8IHhvkaVqVE)  
- - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)  
- - GitHub Copilot now controls your command line...  [Watch](https://youtu.be/P8MfgV9us4o)
+ - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)
 # Channel: GitHub
   
+ - GitHub Copilot: Chat Participants & Extensions  [Watch](https://youtu.be/wP5JeYTl13s)  
+ - Rubber Duck Thursdays!  [Watch](https://youtu.be/o7b6t6uZJPA)  
+ - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)  
  - Event in Spanish: GitHub Presente Transformando Empresas con GitHub  [Watch](https://youtu.be/RJSSQYMeo70)  
- - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)  
- - Event in Spanish: GitHub Presente: Construyendo Puentes entre IA y Comunidad con Carlos Santana  [Watch](https://youtu.be/KB0o482aTr8)  
- - Open Source Friday: Oh My Zsh: The Community-Driven Terminal Enhancer  [Watch](https://youtu.be/a8Z4RS_E3dA)  
- - Why Python Became The #1 Programming Language in 2024? #coding #dev  [Watch](https://youtu.be/fm0X4oKuTIQ)
+ - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
