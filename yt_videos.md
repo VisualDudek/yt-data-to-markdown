@@ -6,7 +6,7 @@ Youtube Videos
   
  - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)  
  - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
- - 📊 The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
+ - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
  - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
  - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
- - FIVE ways I use AI to automate my life. #3 will change your life!🚀  [Watch](https://youtu.be/RkpKoCeay9A)  
- - Populating a list in place in Python? Here’s the easiest way to do it!  [Watch](https://youtu.be/7Xj13uW5YNM)  
- - 7 Rules For Learning to Code in 2025...and should you?  [Watch](https://youtu.be/K-L189UDQMo)  
- - Tired of overcomplicating variable swaps in Python? Check out this simple trick!👊  [Watch](https://youtu.be/6sAg6O-tPDI)  
- - Ever built a game or a cool AI model before? Let me know—I’m curious!  [Watch](https://youtu.be/kRBXRqTtG7E)
+ - Mastering the @staticmethod decorator in Python—here’s what you need to know!👀☝  [Watch](https://youtu.be/xsPGAGX-X30)  
+ - Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend  [Watch](https://youtu.be/Ew7fOQpkKBw)  
+ - If I were learning to code today, this is exactly how I’d use AI🚀🤖  [Watch](https://youtu.be/tSWK9ch2sHo)  
+ - This is what happens when a dataclass inherits from a non-dataclass.☝️💻  [Watch](https://youtu.be/fK75HMIRWVQ)  
+ - FIVE ways I use AI to automate my life. #3 will change your life!🚀  [Watch](https://youtu.be/RkpKoCeay9A)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,32 +46,32 @@ Youtube Videos
  - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)
 # Channel: Mateusz Chrobok
   
+ - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)  
  - 🔏 Eurocert + ransomware = RIP  [Watch](https://youtu.be/oWxih9KP3Pk)  
  - Wiem, gdzie zaparkowałeś swój samochód* #38c3  [Watch](https://youtu.be/8rYh-AJbZfA)  
  - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)  
- - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)  
- - 🇺🇸 TikTok pojawia się i znika  [Watch](https://youtu.be/oZnDkb6WXEs)
+ - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)  
+ - Deaf and Hard of Hearing WG Meeting - 2025-01-28  [Watch](https://youtu.be/Rndt_zS6v_w)  
  - ASL Container  [Watch](https://youtu.be/meUtsFU7ndo)  
  - ASL Autoscaling 2  [Watch](https://youtu.be/cGONmC1smaM)  
- - ASL Reliability  [Watch](https://youtu.be/pQluo2FG2eA)  
- - ASL Serverless 2  [Watch](https://youtu.be/rbyBgXqCN2k)  
- - ASL Service  [Watch](https://youtu.be/rE5OCe3upMo)
+ - ASL Reliability  [Watch](https://youtu.be/pQluo2FG2eA)
 # Channel: Real Python
   
+ - Creating a Scalable Flask Web Application From Scratch: Setting Up & Running Flask  [Watch](https://youtu.be/yBxIpgDWw3M)  
  - How to Simplify LLM Deployment for Real-World Tasks  [Watch](https://youtu.be/5GJ8N7A2fRg)  
  - Why Fine-Tuning Beats RAG for Sentiment Analysis  [Watch](https://youtu.be/jOfFtL-aLt8)  
  - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
- - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)  
- - Master Sentiment Analysis with Python: TextBlob & More  [Watch](https://youtu.be/oTW54vx1bpI)
+ - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)
 # Channel: SysOps / DevOps Polska
   
+ - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)  
  - [#539] Good, bad and ugly - the art of load balancing at scale - Jacek Marmuszewski  [Watch](https://youtu.be/WsDQdL4F_EI)  
  - Nowy tryb rezerwacji CPU w Kubernetesie 1.32 #kubernetes #devops  [Watch](https://youtu.be/sAHUHhWaAWk)  
  - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)  
- - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)  
- - [#538] Zbuduj własny Copilot w mniej niż 10 minut! - Paweł Fiderek  [Watch](https://youtu.be/ZYGyPpzOoqU)
+ - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)
 # Channel: GitHub
   
- - GitHub Copilot: Chat Participants & Extensions  [Watch](https://youtu.be/wP5JeYTl13s)  
  - Rubber Duck Thursdays!  [Watch](https://youtu.be/o7b6t6uZJPA)  
- - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)  
- - Event in Spanish: GitHub Presente Transformando Empresas con GitHub  [Watch](https://youtu.be/RJSSQYMeo70)  
- - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)
+ - Open Source Friday with OpenFn - Workflow Automation made Simple  [Watch](https://youtu.be/yO27a9evirE)  
+ - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)  
+ - GitHub Copilot: Chat Participants & Extensions  [Watch](https://youtu.be/wP5JeYTl13s)  
+ - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
