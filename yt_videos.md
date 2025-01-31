@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)  
  - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)  
- - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
+ - Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
  - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
- - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)  
- - The Mindset Shift That Changed My Life  [Watch](https://youtu.be/GJDKluyoLI4)
+ - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
+ - If you want to level up in Software Development, you NEED to get comfortable with this! 🔥  [Watch](https://youtu.be/OWMTtx9fAjw)  
  - Mastering the @staticmethod decorator in Python—here’s what you need to know!👀☝  [Watch](https://youtu.be/xsPGAGX-X30)  
  - Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend  [Watch](https://youtu.be/Ew7fOQpkKBw)  
  - If I were learning to code today, this is exactly how I’d use AI🚀🤖  [Watch](https://youtu.be/tSWK9ch2sHo)  
- - This is what happens when a dataclass inherits from a non-dataclass.☝️💻  [Watch](https://youtu.be/fK75HMIRWVQ)  
- - FIVE ways I use AI to automate my life. #3 will change your life!🚀  [Watch](https://youtu.be/RkpKoCeay9A)
+ - This is what happens when a dataclass inherits from a non-dataclass.☝️💻  [Watch](https://youtu.be/fK75HMIRWVQ)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,11 +39,11 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Get Started with GitHub Copilot in VS Code (2025)  [Watch](https://youtu.be/vdBxfFVXnc0)  
+ - Cats + HTML  [Watch](https://youtu.be/Uy3buYwDIpY)  
  - why you don't need console.log  [Watch](https://youtu.be/eVs7Gz3q33Q)  
  - Multiple cursors in VS Code  [Watch](https://youtu.be/qT1QPWgkSFs)  
- - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)  
- - Terminal Inline Chat 🤯  [Watch](https://youtu.be/mnoHT249Kvk)  
- - I don't remember what my code does  [Watch](https://youtu.be/4Q5ceNbNdew)
+ - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)
 # Channel: Mateusz Chrobok
   
  - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)  
@@ -60,11 +60,11 @@ Youtube Videos
  - ASL Reliability  [Watch](https://youtu.be/pQluo2FG2eA)
 # Channel: Real Python
   
+ - Testing Your Python Code Base: Unit vs. Integration | Real Python Podcast #237  [Watch](https://youtu.be/RPhZPXHn4jA)  
  - Creating a Scalable Flask Web Application From Scratch: Setting Up & Running Flask  [Watch](https://youtu.be/yBxIpgDWw3M)  
  - How to Simplify LLM Deployment for Real-World Tasks  [Watch](https://youtu.be/5GJ8N7A2fRg)  
  - Why Fine-Tuning Beats RAG for Sentiment Analysis  [Watch](https://youtu.be/jOfFtL-aLt8)  
- - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)  
- - Python's tuple Data Type: Creating a Tuple & Retrieving Elements  [Watch](https://youtu.be/0DfQS3ZdYYk)
+ - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)
 # Channel: SysOps / DevOps Polska
   
  - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Proxmox Terraform provider updated, what you need to change!  [Watch](https://youtu.be/oZRkQol8fts)  
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)  
  - Raycast focus boosts your productivity (Raycast Focus)  [Watch](https://youtu.be/MANsazTgWTU)  
  - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)  
- - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)  
- - Authentik proxy outposts for Traefik, Docker and K8S  [Watch](https://youtu.be/_I3hUI1JQP4)
+ - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)
 # Channel: GitHub
   
- - Rubber Duck Thursdays!  [Watch](https://youtu.be/o7b6t6uZJPA)  
  - Open Source Friday with OpenFn - Workflow Automation made Simple  [Watch](https://youtu.be/yO27a9evirE)  
+ - Event in Spanish: GitHub Presente Transformando Empresas con GitHub  [Watch](https://youtu.be/RJSSQYMeo70)  
+ - Rubber Duck Thursdays!  [Watch](https://youtu.be/o7b6t6uZJPA)  
  - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)  
- - GitHub Copilot: Chat Participants & Extensions  [Watch](https://youtu.be/wP5JeYTl13s)  
- - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)
+ - GitHub Copilot: Chat Participants & Extensions  [Watch](https://youtu.be/wP5JeYTl13s)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
