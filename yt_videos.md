@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)  
  - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)  
  - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)  
- - Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
- - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)  
- - 10 Tips to Become REALLY Good at Python  [Watch](https://youtu.be/zml0rTMJVXg)
+ - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
+ - 📊 The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
+ - Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor??  [Watch](https://youtu.be/8TcWGk1DJVs)  
+ - Mastering initialization variables in Python dataclasses—here’s what you need to know! 🚀  [Watch](https://youtu.be/hkn-qEeCkqU)  
+ - Stop writing unnecessary methods! Use @property in Python like this! 🔥  [Watch](https://youtu.be/gXtgboLXYm0)  
  - If you want to level up in Software Development, you NEED to get comfortable with this! 🔥  [Watch](https://youtu.be/OWMTtx9fAjw)  
- - Mastering the @staticmethod decorator in Python—here’s what you need to know!👀☝  [Watch](https://youtu.be/xsPGAGX-X30)  
- - Python Advanced AI Voice Assistant - Full Tutorial with Frontend & Backend  [Watch](https://youtu.be/Ew7fOQpkKBw)  
- - If I were learning to code today, this is exactly how I’d use AI🚀🤖  [Watch](https://youtu.be/tSWK9ch2sHo)  
- - This is what happens when a dataclass inherits from a non-dataclass.☝️💻  [Watch](https://youtu.be/fK75HMIRWVQ)
+ - Mastering the @staticmethod decorator in Python—here’s what you need to know!👀☝  [Watch](https://youtu.be/xsPGAGX-X30)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -95,11 +95,11 @@ Youtube Videos
  - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)
 # Channel: GitHub
   
+ - Daniel Meissler on Augmenting Humanity with AI  [Watch](https://youtu.be/uy1puvUVLZg)  
+ - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/9GUsEdOg3IQ)  
+ - The $75,000 bug: GitHub's biggest bounty revealed  [Watch](https://youtu.be/ZmtMOzxnHAo)  
  - Open Source Friday with OpenFn - Workflow Automation made Simple  [Watch](https://youtu.be/yO27a9evirE)  
- - Event in Spanish: GitHub Presente Transformando Empresas con GitHub  [Watch](https://youtu.be/RJSSQYMeo70)  
- - Rubber Duck Thursdays!  [Watch](https://youtu.be/o7b6t6uZJPA)  
- - Rubber Duck Thursday  [Watch](https://youtu.be/Vku103Z_jCY)  
- - GitHub Copilot: Chat Participants & Extensions  [Watch](https://youtu.be/wP5JeYTl13s)
+ - Try the latest AI models with GitHub Models - now with OpenAI's o3-mini and DeepSeek-R1  [Watch](https://youtu.be/ovwhrAQj5x8)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
