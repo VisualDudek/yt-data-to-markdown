@@ -8,7 +8,7 @@ Youtube Videos
  - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)  
  - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)  
  - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
- - 📊 The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)
+ - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
- - Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor??  [Watch](https://youtu.be/8TcWGk1DJVs)  
- - Mastering initialization variables in Python dataclasses—here’s what you need to know! 🚀  [Watch](https://youtu.be/hkn-qEeCkqU)  
- - Stop writing unnecessary methods! Use @property in Python like this! 🔥  [Watch](https://youtu.be/gXtgboLXYm0)  
- - If you want to level up in Software Development, you NEED to get comfortable with this! 🔥  [Watch](https://youtu.be/OWMTtx9fAjw)  
- - Mastering the @staticmethod decorator in Python—here’s what you need to know!👀☝  [Watch](https://youtu.be/xsPGAGX-X30)
+ - Simplify your Python classes with the @dataclass decorator—here’s how it works!  [Watch](https://youtu.be/a6Iy85v3PIk)  
+ - What does '__init__.py' do in Python?  [Watch](https://youtu.be/VEbuZox5qC4)  
+ - 🚀 The Pros of Using AI as a Beginner Coder – How It Can Boost Your Learning!  [Watch](https://youtu.be/3k1BD2lsdMA)  
+ - ⚠️ The Downsides of Using AI as a Beginner Coder – What You Need to Know! 🤖  [Watch](https://youtu.be/5eZL5rgbjcQ)  
+ - Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor??  [Watch](https://youtu.be/8TcWGk1DJVs)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)
 # Channel: Mateusz Chrobok
   
+ - AINews: Make AI Great Again!  [Watch](https://youtu.be/ypY4CbQR1cA)  
  - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)  
  - 🔏 Eurocert + ransomware = RIP  [Watch](https://youtu.be/oWxih9KP3Pk)  
  - Wiem, gdzie zaparkowałeś swój samochód* #38c3  [Watch](https://youtu.be/8rYh-AJbZfA)  
- - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)  
- - 🇧🇾 Białorusini atakują Polskę  [Watch](https://youtu.be/4etMMXAbcpY)
+ - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)
 # Channel: SysOps / DevOps Polska
   
+ - Nowy endpoint API do sprawdzania dostępnych wersji kubernetsa w AWS #kubernetes #devops  [Watch](https://youtu.be/maHmXDHImZ8)  
  - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)  
  - [#539] Good, bad and ugly - the art of load balancing at scale - Jacek Marmuszewski  [Watch](https://youtu.be/WsDQdL4F_EI)  
  - Nowy tryb rezerwacji CPU w Kubernetesie 1.32 #kubernetes #devops  [Watch](https://youtu.be/sAHUHhWaAWk)  
- - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)  
- - Wreszcie nowy Prometheus! #kubernetes #prometheus #tools #devops  [Watch](https://youtu.be/-GYYDgxzQ5M)
+ - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
