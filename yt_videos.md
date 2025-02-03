@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
  - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)  
  - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)  
  - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)  
- - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)  
- - The Perfect Analytics Database for Python  [Watch](https://youtu.be/2s85lLBmUfQ)
+ - 😩 Why 9 Out of 10 Products Fail  [Watch](https://youtu.be/myhpzmeuN9Q)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
+ - 🔥 Stop overcomplicating Fibonacci! Here’s the cleanest way to do it.  [Watch](https://youtu.be/OEmmLvlqbmg)  
+ - Will AI help or hurt you as a beginner programmer?Here’s what you need to know! 🔥  [Watch](https://youtu.be/ojOvfSKoyC8)  
  - Simplify your Python classes with the @dataclass decorator—here’s how it works!  [Watch](https://youtu.be/a6Iy85v3PIk)  
  - What does '__init__.py' do in Python?  [Watch](https://youtu.be/VEbuZox5qC4)  
- - 🚀 The Pros of Using AI as a Beginner Coder – How It Can Boost Your Learning!  [Watch](https://youtu.be/3k1BD2lsdMA)  
- - ⚠️ The Downsides of Using AI as a Beginner Coder – What You Need to Know! 🤖  [Watch](https://youtu.be/5eZL5rgbjcQ)  
- - Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor??  [Watch](https://youtu.be/8TcWGk1DJVs)
+ - 🚀 The Pros of Using AI as a Beginner Coder – How It Can Boost Your Learning!  [Watch](https://youtu.be/3k1BD2lsdMA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)
 # Channel: Mateusz Chrobok
   
+ - 👨‍🔬 ChatGPT w roli naukowca?  [Watch](https://youtu.be/24Hc0mbb6vc)  
  - AINews: Make AI Great Again!  [Watch](https://youtu.be/ypY4CbQR1cA)  
  - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)  
  - 🔏 Eurocert + ransomware = RIP  [Watch](https://youtu.be/oWxih9KP3Pk)  
- - Wiem, gdzie zaparkowałeś swój samochód* #38c3  [Watch](https://youtu.be/8rYh-AJbZfA)  
- - 🌍 Deanonimizowanie Signala?  [Watch](https://youtu.be/bKDr04x8J1M)
+ - Wiem, gdzie zaparkowałeś swój samochód* #38c3  [Watch](https://youtu.be/8rYh-AJbZfA)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)  
@@ -60,18 +60,18 @@ Youtube Videos
  - ASL Reliability  [Watch](https://youtu.be/pQluo2FG2eA)
 # Channel: Real Python
   
+ - Master Dependency Management with Python Poetry!  [Watch](https://youtu.be/IUS51NU2qJw)  
  - Testing Your Python Code Base: Unit vs. Integration | Real Python Podcast #237  [Watch](https://youtu.be/RPhZPXHn4jA)  
  - Creating a Scalable Flask Web Application From Scratch: Setting Up & Running Flask  [Watch](https://youtu.be/yBxIpgDWw3M)  
  - How to Simplify LLM Deployment for Real-World Tasks  [Watch](https://youtu.be/5GJ8N7A2fRg)  
- - Why Fine-Tuning Beats RAG for Sentiment Analysis  [Watch](https://youtu.be/jOfFtL-aLt8)  
- - Simon Willison: Using LLMs for Python Development | Real Python Podcast #236  [Watch](https://youtu.be/CH_AQJ2--FI)
+ - Why Fine-Tuning Beats RAG for Sentiment Analysis  [Watch](https://youtu.be/jOfFtL-aLt8)
 # Channel: SysOps / DevOps Polska
   
+ - [#540] Po co Ci IaC? Czyli jak nie zabić projektu overengineeringiem - Sebastian Fyda  [Watch](https://youtu.be/lMokdqV55oo)  
  - Nowy endpoint API do sprawdzania dostępnych wersji kubernetsa w AWS #kubernetes #devops  [Watch](https://youtu.be/maHmXDHImZ8)  
  - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)  
  - [#539] Good, bad and ugly - the art of load balancing at scale - Jacek Marmuszewski  [Watch](https://youtu.be/WsDQdL4F_EI)  
- - Nowy tryb rezerwacji CPU w Kubernetesie 1.32 #kubernetes #devops  [Watch](https://youtu.be/sAHUHhWaAWk)  
- - Nowy dodatek do EKS od AWS - health addon #kubernetes #devops #aws  [Watch](https://youtu.be/srw11svq0gE)
+ - Nowy tryb rezerwacji CPU w Kubernetesie 1.32 #kubernetes #devops  [Watch](https://youtu.be/sAHUHhWaAWk)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/-03aQo8Td-o)  
  - Daniel Meissler on Augmenting Humanity with AI  [Watch](https://youtu.be/uy1puvUVLZg)  
  - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/9GUsEdOg3IQ)  
  - The $75,000 bug: GitHub's biggest bounty revealed  [Watch](https://youtu.be/ZmtMOzxnHAo)  
- - Open Source Friday with OpenFn - Workflow Automation made Simple  [Watch](https://youtu.be/yO27a9evirE)  
- - Try the latest AI models with GitHub Models - now with OpenAI's o3-mini and DeepSeek-R1  [Watch](https://youtu.be/ovwhrAQj5x8)
+ - Open Source Friday with OpenFn - Workflow Automation made Simple  [Watch](https://youtu.be/yO27a9evirE)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)  
  - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)  
  - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)  
  - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)  
- - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)  
- - API Pagination: Making Billions of Products Scrolling Possible  [Watch](https://youtu.be/14K_a2kKTxU)
+ - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)
