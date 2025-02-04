@@ -25,11 +25,11 @@ Youtube Videos
  - debugging a broken cache!  [Watch](https://youtu.be/bhUk7Vog108)
 # Channel: Tech With Tim
   
+ - I Learned Python By Building These Projects - Tutorial for Beginners  [Watch](https://youtu.be/ehD6tdxmjDU)  
+ - 🚀 Most people overlook this Python feature!!  [Watch](https://youtu.be/xEzy9q43w2E)  
  - 🔥 Stop overcomplicating Fibonacci! Here’s the cleanest way to do it.  [Watch](https://youtu.be/OEmmLvlqbmg)  
  - Will AI help or hurt you as a beginner programmer?Here’s what you need to know! 🔥  [Watch](https://youtu.be/ojOvfSKoyC8)  
- - Simplify your Python classes with the @dataclass decorator—here’s how it works!  [Watch](https://youtu.be/a6Iy85v3PIk)  
- - What does '__init__.py' do in Python?  [Watch](https://youtu.be/VEbuZox5qC4)  
- - 🚀 The Pros of Using AI as a Beginner Coder – How It Can Boost Your Learning!  [Watch](https://youtu.be/3k1BD2lsdMA)
+ - Simplify your Python classes with the @dataclass decorator—here’s how it works!  [Watch](https://youtu.be/a6Iy85v3PIk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)  
  - Proxmox Terraform provider updated, what you need to change!  [Watch](https://youtu.be/oZRkQol8fts)  
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)  
  - Raycast focus boosts your productivity (Raycast Focus)  [Watch](https://youtu.be/MANsazTgWTU)  
- - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)  
- - New 16GB Raspberry Pi 5! Should you buy it?  [Watch](https://youtu.be/7cwDwBXZpmg)
+ - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)
 # Channel: GitHub
   
+ - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/-03aQo8Td-o)  
  - Daniel Meissler on Augmenting Humanity with AI  [Watch](https://youtu.be/uy1puvUVLZg)  
  - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/9GUsEdOg3IQ)  
- - The $75,000 bug: GitHub's biggest bounty revealed  [Watch](https://youtu.be/ZmtMOzxnHAo)  
- - Open Source Friday with OpenFn - Workflow Automation made Simple  [Watch](https://youtu.be/yO27a9evirE)
+ - The $75,000 bug: GitHub's biggest bounty revealed  [Watch](https://youtu.be/ZmtMOzxnHAo)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
