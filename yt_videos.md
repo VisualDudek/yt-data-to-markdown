@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)  
- - ☠️ Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
+ - Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
  - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)  
  - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)  
  - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)
@@ -25,11 +25,11 @@ Youtube Videos
  - why don't signals work in docker?  [Watch](https://youtu.be/0pQxONR73f8)
 # Channel: Tech With Tim
   
- - 🔥 A quick LIST of tools every Software Dev should have!  [Watch](https://youtu.be/JRllcrGL24w)  
- - Calling APIs in Python using functools.partial💻☝  [Watch](https://youtu.be/b5oQJF_Ncxk)  
- - I Learned Python By Building These Projects - Tutorial for Beginners  [Watch](https://youtu.be/ehD6tdxmjDU)  
- - 🚀 Most people overlook this Python feature!!  [Watch](https://youtu.be/xEzy9q43w2E)  
- - 🔥 Stop overcomplicating Fibonacci! Here’s the cleanest way to do it.  [Watch](https://youtu.be/OEmmLvlqbmg)
+ - 🐍 How to Use map() for Cleaner Python Code!  [Watch](https://youtu.be/wB5dTqOy-xc)  
+ - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/x5IbdKnvt6k)  
+ - 🔥 Create an environment function in Python using functools.partial!  [Watch](https://youtu.be/fqklEjCd7d4)  
+ - Here’s what it takes to really land that internship!🚀  [Watch](https://youtu.be/geemG-2hrkU)  
+ - 🔥 A quick LIST of tools every Software Dev should have!  [Watch](https://youtu.be/JRllcrGL24w)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)
 # Channel: Mateusz Chrobok
   
+ - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)  
  - 🐋 DeepSeek zbanowany  [Watch](https://youtu.be/y6nN3C02fdw)  
  - 👨‍🔬 ChatGPT w roli naukowca?  [Watch](https://youtu.be/24Hc0mbb6vc)  
  - AINews: Make AI Great Again!  [Watch](https://youtu.be/ypY4CbQR1cA)  
- - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)  
- - 🔏 Eurocert + ransomware = RIP  [Watch](https://youtu.be/oWxih9KP3Pk)
+ - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)  
  - Cloud Native Live: What's latest in KubeArmor v1.5  [Watch](https://youtu.be/OUNEu3h2V3c)  
+ - AI for observability  [Watch](https://youtu.be/IIz8Xpyebug)  
  - TOC Meeting 2025-02-04  [Watch](https://youtu.be/R3H_ceqR6Us)  
- - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)  
- - Deaf and Hard of Hearing WG Meeting - 2025-01-28  [Watch](https://youtu.be/Rndt_zS6v_w)  
- - ASL Container  [Watch](https://youtu.be/meUtsFU7ndo)
+ - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)
 # Channel: Real Python
   
+ - NumPy Techniques and Practical Examples: Populating & Changing Multidimensional Arrays  [Watch](https://youtu.be/mn00N93oszs)  
  - Abstract Base Classes in Python: Why & How to Use Them  [Watch](https://youtu.be/0HbgNSoexFw)  
  - Master Dependency Management with Python Poetry!  [Watch](https://youtu.be/IUS51NU2qJw)  
  - Testing Your Python Code Base: Unit vs. Integration | Real Python Podcast #237  [Watch](https://youtu.be/RPhZPXHn4jA)  
- - Creating a Scalable Flask Web Application From Scratch: Setting Up & Running Flask  [Watch](https://youtu.be/yBxIpgDWw3M)  
- - How to Simplify LLM Deployment for Real-World Tasks  [Watch](https://youtu.be/5GJ8N7A2fRg)
+ - Creating a Scalable Flask Web Application From Scratch: Setting Up & Running Flask  [Watch](https://youtu.be/yBxIpgDWw3M)
 # Channel: SysOps / DevOps Polska
   
  - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)
 # Channel: GitHub
   
- - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)  
- - Open Source and AI with Danny Thompson  [Watch](https://youtu.be/68qYBxBiofE)  
- - Open Source and AI: Exploring Langbase State of AI Agents Research  [Watch](https://youtu.be/ZAiPNSFDJpY)  
- - GitHub Copilot Chat mastery: Context is key  [Watch](https://youtu.be/M0NwxHmjCd4)  
- - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)
+ - Rubber Duck Thursdays!  [Watch](https://youtu.be/z2a6ANDojAI)  
+ - GitHub Copilot: the agent awakens  [Watch](https://youtu.be/C95drFKy4ss)  
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/-03aQo8Td-o)  
+ - Daniel Meissler on Augmenting Humanity with AI  [Watch](https://youtu.be/uy1puvUVLZg)  
+ - Open Source and AI with Demetris Cheatham  [Watch](https://youtu.be/5MCTtYdNAvs)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
