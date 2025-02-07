@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)  
+ - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)  
+ - 👀 Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)  
  - Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
  - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)  
- - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)  
- - Why Pydantic Is a Must for Data Validation  [Watch](https://youtu.be/H6SeIkCybts)
+ - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - why don't signals work in docker?  [Watch](https://youtu.be/0pQxONR73f8)
 # Channel: Tech With Tim
   
+ - 🔥 __str__ vs __repr__ in Python. What’s the Difference?  [Watch](https://youtu.be/ZpZt-SZQp3o)  
  - 🐍 How to Use map() for Cleaner Python Code!  [Watch](https://youtu.be/wB5dTqOy-xc)  
  - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/x5IbdKnvt6k)  
  - 🔥 Create an environment function in Python using functools.partial!  [Watch](https://youtu.be/fqklEjCd7d4)  
- - Here’s what it takes to really land that internship!🚀  [Watch](https://youtu.be/geemG-2hrkU)  
- - 🔥 A quick LIST of tools every Software Dev should have!  [Watch](https://youtu.be/JRllcrGL24w)
+ - Here’s what it takes to really land that internship!🚀  [Watch](https://youtu.be/geemG-2hrkU)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - The Developer's Journey: Episode 1  [Watch](https://youtu.be/ZQwGd4MNQyU)  
  - Get Started with GitHub Copilot in VS Code (2025)  [Watch](https://youtu.be/vdBxfFVXnc0)  
  - Cats + HTML  [Watch](https://youtu.be/Uy3buYwDIpY)  
  - why you don't need console.log  [Watch](https://youtu.be/eVs7Gz3q33Q)  
- - Multiple cursors in VS Code  [Watch](https://youtu.be/qT1QPWgkSFs)  
- - Python Pulse - AI-Powered Python: Exploring GitHub Copilot Free Features  [Watch](https://youtu.be/reJpOCniWs8)
+ - Multiple cursors in VS Code  [Watch](https://youtu.be/qT1QPWgkSFs)
 # Channel: Mateusz Chrobok
   
+ - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
  - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)  
  - 🐋 DeepSeek zbanowany  [Watch](https://youtu.be/y6nN3C02fdw)  
  - 👨‍🔬 ChatGPT w roli naukowca?  [Watch](https://youtu.be/24Hc0mbb6vc)  
- - AINews: Make AI Great Again!  [Watch](https://youtu.be/ypY4CbQR1cA)  
- - 🗨️ Signal zsynchronizuje historię  [Watch](https://youtu.be/YI0ztvQO6VA)
+ - AINews: Make AI Great Again!  [Watch](https://youtu.be/ypY4CbQR1cA)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)  
@@ -60,11 +60,11 @@ Youtube Videos
  - ChatLoopBackOff Episode 44 (k3s)  [Watch](https://youtu.be/6vYfJ6MM9_o)
 # Channel: Real Python
   
+ - Charlie Marsh: Accelerating Python Tooling With Ruff and uv | Real Python Podcast #238  [Watch](https://youtu.be/hGFb4mMMmkE)  
  - NumPy Techniques and Practical Examples: Populating & Changing Multidimensional Arrays  [Watch](https://youtu.be/mn00N93oszs)  
  - Abstract Base Classes in Python: Why & How to Use Them  [Watch](https://youtu.be/0HbgNSoexFw)  
  - Master Dependency Management with Python Poetry!  [Watch](https://youtu.be/IUS51NU2qJw)  
- - Testing Your Python Code Base: Unit vs. Integration | Real Python Podcast #237  [Watch](https://youtu.be/RPhZPXHn4jA)  
- - Creating a Scalable Flask Web Application From Scratch: Setting Up & Running Flask  [Watch](https://youtu.be/yBxIpgDWw3M)
+ - Testing Your Python Code Base: Unit vs. Integration | Real Python Podcast #237  [Watch](https://youtu.be/RPhZPXHn4jA)
 # Channel: SysOps / DevOps Polska
   
  - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)
 # Channel: GitHub
   
+ - Open Source and AI with Demetris Cheatham  [Watch](https://youtu.be/5MCTtYdNAvs)  
+ - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/9GUsEdOg3IQ)  
  - Rubber Duck Thursdays!  [Watch](https://youtu.be/z2a6ANDojAI)  
- - GitHub Copilot: the agent awakens  [Watch](https://youtu.be/C95drFKy4ss)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/-03aQo8Td-o)  
- - Daniel Meissler on Augmenting Humanity with AI  [Watch](https://youtu.be/uy1puvUVLZg)  
- - Open Source and AI with Demetris Cheatham  [Watch](https://youtu.be/5MCTtYdNAvs)
+ - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
