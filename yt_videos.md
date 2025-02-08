@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
  - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)  
  - 👀 Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)  
- - Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
- - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)  
- - DeepSeek Won't Matter for Software Engineers  [Watch](https://youtu.be/G9iXHhXRIs8)
+ - ☠️ Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
+ - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - why don't signals work in docker?  [Watch](https://youtu.be/0pQxONR73f8)
 # Channel: Tech With Tim
   
+ - 5 AI Frameworks I Wished I Learned Earlier  [Watch](https://youtu.be/LUttsadgSEY)  
+ - ☝Most devs have an introductory knowledge about this...  [Watch](https://youtu.be/JGJghomCRbo)  
+ - 🚀 Want a Software Engineering Internship in 2025? Here’s EXACTLY How I’d Do It!  [Watch](https://youtu.be/WeC0b2jSW4s)  
  - 🔥 __str__ vs __repr__ in Python. What’s the Difference?  [Watch](https://youtu.be/ZpZt-SZQp3o)  
- - 🐍 How to Use map() for Cleaner Python Code!  [Watch](https://youtu.be/wB5dTqOy-xc)  
- - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/x5IbdKnvt6k)  
- - 🔥 Create an environment function in Python using functools.partial!  [Watch](https://youtu.be/fqklEjCd7d4)  
- - Here’s what it takes to really land that internship!🚀  [Watch](https://youtu.be/geemG-2hrkU)
+ - 🐍 How to Use map() for Cleaner Python Code!  [Watch](https://youtu.be/wB5dTqOy-xc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Testing Your Python Code Base: Unit vs. Integration | Real Python Podcast #237  [Watch](https://youtu.be/RPhZPXHn4jA)
 # Channel: SysOps / DevOps Polska
   
+ - Nowe funkcje w AWS EKS - upgrade insights #kubernetes #aws #devops  [Watch](https://youtu.be/4S291sDxBzA)  
  - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)  
  - [#540] Po co Ci IaC? Czyli jak nie zabić projektu overengineeringiem - Sebastian Fyda  [Watch](https://youtu.be/lMokdqV55oo)  
  - Nowy endpoint API do sprawdzania dostępnych wersji kubernetsa w AWS #kubernetes #devops  [Watch](https://youtu.be/maHmXDHImZ8)  
- - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)  
- - [#539] Good, bad and ugly - the art of load balancing at scale - Jacek Marmuszewski  [Watch](https://youtu.be/WsDQdL4F_EI)
+ - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)
 # Channel: GitHub
   
+ - Replay - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)  
  - Open Source and AI with Demetris Cheatham  [Watch](https://youtu.be/5MCTtYdNAvs)  
  - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/9GUsEdOg3IQ)  
  - Rubber Duck Thursdays!  [Watch](https://youtu.be/z2a6ANDojAI)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/-03aQo8Td-o)  
- - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/-03aQo8Td-o)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
