@@ -7,7 +7,7 @@ Youtube Videos
  - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
  - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)  
  - 👀 Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)  
- - ☠️ Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
+ - Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)  
  - SQLAlchemy: Python + Databases = ❤️  [Watch](https://youtu.be/0xA7WoCzf3s)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - why don't signals work in docker?  [Watch](https://youtu.be/0pQxONR73f8)
 # Channel: Tech With Tim
   
+ - Let’s Talk About Context Managers in Python. And WHY you NEED to know this!🚀  [Watch](https://youtu.be/GgHYezo6Ofo)  
+ - This ONE Trick with functools.partial Will Change How You Use Classes in Python! 🐍  [Watch](https://youtu.be/t2H2t8mYQNI)  
  - 5 AI Frameworks I Wished I Learned Earlier  [Watch](https://youtu.be/LUttsadgSEY)  
  - ☝Most devs have an introductory knowledge about this...  [Watch](https://youtu.be/JGJghomCRbo)  
- - 🚀 Want a Software Engineering Internship in 2025? Here’s EXACTLY How I’d Do It!  [Watch](https://youtu.be/WeC0b2jSW4s)  
- - 🔥 __str__ vs __repr__ in Python. What’s the Difference?  [Watch](https://youtu.be/ZpZt-SZQp3o)  
- - 🐍 How to Use map() for Cleaner Python Code!  [Watch](https://youtu.be/wB5dTqOy-xc)
+ - 🚀 Want a Software Engineering Internship in 2025? Here’s EXACTLY How I’d Do It!  [Watch](https://youtu.be/WeC0b2jSW4s)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,18 +39,18 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Agent mode in GitHub Copilot  [Watch](https://youtu.be/KSxUr0BU9ig)  
  - The Developer's Journey: Episode 1  [Watch](https://youtu.be/ZQwGd4MNQyU)  
  - Get Started with GitHub Copilot in VS Code (2025)  [Watch](https://youtu.be/vdBxfFVXnc0)  
  - Cats + HTML  [Watch](https://youtu.be/Uy3buYwDIpY)  
- - why you don't need console.log  [Watch](https://youtu.be/eVs7Gz3q33Q)  
- - Multiple cursors in VS Code  [Watch](https://youtu.be/qT1QPWgkSFs)
+ - why you don't need console.log  [Watch](https://youtu.be/eVs7Gz3q33Q)
 # Channel: Mateusz Chrobok
   
+ - AirTagi, psychofani i toksyczni eks-  [Watch](https://youtu.be/CyjOwe3WiQA)  
  - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
  - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)  
  - 🐋 DeepSeek zbanowany  [Watch](https://youtu.be/y6nN3C02fdw)  
- - 👨‍🔬 ChatGPT w roli naukowca?  [Watch](https://youtu.be/24Hc0mbb6vc)  
- - AINews: Make AI Great Again!  [Watch](https://youtu.be/ypY4CbQR1cA)
+ - 👨‍🔬 ChatGPT w roli naukowca?  [Watch](https://youtu.be/24Hc0mbb6vc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)  
