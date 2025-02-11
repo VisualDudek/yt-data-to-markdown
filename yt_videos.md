@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
- - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
- - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)  
+ - 🤔 Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
+ - Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas  [Watch](https://youtu.be/8SYQtpSk_OI)  
  - Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)  
- - ☠️ Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)
+ - Why Overengineering Can Kill Your Project  [Watch](https://youtu.be/ChZdeA4a6_I)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - why don't signals work in docker?  [Watch](https://youtu.be/0pQxONR73f8)
 # Channel: Tech With Tim
   
+ - Should Beginner Programmers Use AI? (It’s Not That Simple…)  [Watch](https://youtu.be/1quHNuX7QHk)  
+ - ✅ Use functools to streamline process logging in Python  [Watch](https://youtu.be/Jks0y5w438E)  
+ - 🔥 Here's how to break into coding freelancing the right way!  [Watch](https://youtu.be/uJMsaFLZkN0)  
  - 🔥 Want to stand out as a Software Dev? Start focusing on THIS☝  [Watch](https://youtu.be/3SfmQM10zCs)  
- - 🔥 How to Properly Inherit from Another Dataclass in Python!  [Watch](https://youtu.be/jA1Yk3w4_ZA)  
- - Let’s Talk About Context Managers in Python. And WHY you NEED to know this!🚀  [Watch](https://youtu.be/GgHYezo6Ofo)  
- - This ONE Trick with functools.partial Will Change How You Use Classes in Python! 🐍  [Watch](https://youtu.be/t2H2t8mYQNI)  
- - 5 AI Frameworks I Wished I Learned Earlier  [Watch](https://youtu.be/LUttsadgSEY)
+ - 🔥 How to Properly Inherit from Another Dataclass in Python!  [Watch](https://youtu.be/jA1Yk3w4_ZA)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Cats + HTML  [Watch](https://youtu.be/Uy3buYwDIpY)
 # Channel: Mateusz Chrobok
   
+ - UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)  
  - AirTagi, psychofani i toksyczni eks-  [Watch](https://youtu.be/CyjOwe3WiQA)  
  - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
  - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)  
- - 🐋 DeepSeek zbanowany  [Watch](https://youtu.be/y6nN3C02fdw)  
- - 👨‍🔬 ChatGPT w roli naukowca?  [Watch](https://youtu.be/24Hc0mbb6vc)
+ - 🐋 DeepSeek zbanowany  [Watch](https://youtu.be/y6nN3C02fdw)
 # Channel: Cloud Native Computing Foundation
   
  - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Master Dependency Management with Python Poetry!  [Watch](https://youtu.be/IUS51NU2qJw)
 # Channel: SysOps / DevOps Polska
   
+ - Headlamp - alternatywny dashboard dla Kubernetesa #kubernetes #tools #devops  [Watch](https://youtu.be/1f8e-T_uqHs)  
  - Nowe funkcje w AWS EKS - upgrade insights #kubernetes #aws #devops  [Watch](https://youtu.be/4S291sDxBzA)  
  - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)  
  - [#540] Po co Ci IaC? Czyli jak nie zabić projektu overengineeringiem - Sebastian Fyda  [Watch](https://youtu.be/lMokdqV55oo)  
- - Nowy endpoint API do sprawdzania dostępnych wersji kubernetsa w AWS #kubernetes #devops  [Watch](https://youtu.be/maHmXDHImZ8)  
- - k9s - konsolowy manager dla Kubernetesa #kubernets #devops #tools  [Watch](https://youtu.be/R8HXX9LJDHA)
+ - Nowy endpoint API do sprawdzania dostępnych wersji kubernetsa w AWS #kubernetes #devops  [Watch](https://youtu.be/maHmXDHImZ8)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Raspberry Pi: The Coolest LCD Screen Server Monitor!  [Watch](https://youtu.be/EzxhX0OFCl8)  
  - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)  
  - Proxmox Terraform provider updated, what you need to change!  [Watch](https://youtu.be/oZRkQol8fts)  
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)  
- - Raycast focus boosts your productivity (Raycast Focus)  [Watch](https://youtu.be/MANsazTgWTU)  
- - Prometheus v3 released! What is new?  [Watch](https://youtu.be/c4TN3Jt7qwo)
+ - Raycast focus boosts your productivity (Raycast Focus)  [Watch](https://youtu.be/MANsazTgWTU)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/07DLsbbHf-I)  
+ - Start Up Wednesday with Unsloth.AI  [Watch](https://youtu.be/lyVxD0bJDOk)  
  - Event in Spanish: Revolución Digital en la Banca con BCP  [Watch](https://youtu.be/WtKry6lWEJM)  
- - Replay - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)  
- - Open Source and AI with Demetris Cheatham  [Watch](https://youtu.be/5MCTtYdNAvs)  
- - Open Source Friday AI edition: Lessons from GitHub Accelerator alumni  [Watch](https://youtu.be/9GUsEdOg3IQ)  
- - Rubber Duck Thursdays!  [Watch](https://youtu.be/z2a6ANDojAI)
+ - Code with GitHub Copilot for FREE  [Watch](https://youtu.be/gJW1o7q--B4)  
+ - Replay - Open Source Friday AI Edition: Lessons from GitHub Accelerator Alumni  [Watch](https://youtu.be/OmYy0j4xDaA)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
