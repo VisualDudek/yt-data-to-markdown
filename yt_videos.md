@@ -6,8 +6,8 @@ Youtube Videos
   
  - Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
  - 🛡️ Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
- - 🤔 Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
- - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)  
+ - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
+ - Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas  [Watch](https://youtu.be/8SYQtpSk_OI)  
  - Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
 # Channel: Tech With Tim
   
+ - I encourage you master this coding skill that will make you stand out as a software developer.  [Watch](https://youtu.be/zr7PpbRxq3c)  
+ - Please Master This Magic Python Feature...👀  [Watch](https://youtu.be/EABFumsYHRc)  
  - ✅ A decorator that every programmer should have in their toolkit!☝  [Watch](https://youtu.be/woX0_KrGttE)  
  - ☝This one is for the Senior Devs!  [Watch](https://youtu.be/UeNjBYgdWtM)  
- - Should Beginner Programmers Use AI? (It’s Not That Simple…)  [Watch](https://youtu.be/1quHNuX7QHk)  
- - ✅ Use functools to streamline process logging in Python  [Watch](https://youtu.be/Jks0y5w438E)  
- - 🔥 Here's how to break into coding freelancing the right way!  [Watch](https://youtu.be/uJMsaFLZkN0)
+ - Should Beginner Programmers Use AI? (It’s Not That Simple…)  [Watch](https://youtu.be/1quHNuX7QHk)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -39,32 +39,32 @@ Youtube Videos
  - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
 # Channel: Visual Studio Code
   
+ - Enhancing Your Python Workflow: Environment Management in VS Code  [Watch](https://youtu.be/Rlvm9gcAqoM)  
+ - Introducing GitHub Copilot Next Edit Suggestions (preview) in VS Code  [Watch](https://youtu.be/mbUnwaSllTY)  
+ - Introducing Copilot Next Edit Suggestions (preview)  [Watch](https://youtu.be/DkpHePA_UYg)  
  - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)  
- - GitHub Copilot Agent Mode: Build an iOS App in Minutes  [Watch](https://youtu.be/gKEWB0vg_Cs)  
- - Agent mode in GitHub Copilot  [Watch](https://youtu.be/KSxUr0BU9ig)  
- - The Developer's Journey: Episode 1  [Watch](https://youtu.be/ZQwGd4MNQyU)  
- - Get Started with GitHub Copilot in VS Code (2025)  [Watch](https://youtu.be/vdBxfFVXnc0)
+ - GitHub Copilot Agent Mode: Build an iOS App in Minutes  [Watch](https://youtu.be/gKEWB0vg_Cs)
 # Channel: Mateusz Chrobok
   
+ - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
+ - Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)  
  - UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)  
  - AirTagi, psychofani i toksyczni eks-  [Watch](https://youtu.be/CyjOwe3WiQA)  
- - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
- - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)  
- - 🐋 DeepSeek zbanowany  [Watch](https://youtu.be/y6nN3C02fdw)
+ - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 46 (Dragonfly)  [Watch](https://youtu.be/gd6HRgr8KcA)  
+ - Sandbox environments: Creating efficient and isolated testing realms  [Watch](https://youtu.be/fh7-lQVmX-o)  
+ - KitOps: AI Model Packaging Standards  [Watch](https://youtu.be/1TD-e_wVe4Q)  
  - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)  
- - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)  
- - Cloud Native Live: What's latest in KubeArmor v1.5  [Watch](https://youtu.be/OUNEu3h2V3c)  
- - AI for observability  [Watch](https://youtu.be/IIz8Xpyebug)  
- - TOC Meeting 2025-02-04  [Watch](https://youtu.be/R3H_ceqR6Us)
+ - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)
 # Channel: Real Python
   
+ - Building a Python Command-Line To-Do App With Typer: Setting Up & Introducing Typer  [Watch](https://youtu.be/w7M5QzE_8u0)  
  - The Secret to Keeping Your Blog Alive (Even After Years Away)  [Watch](https://youtu.be/35u6Di3gklo)  
  - The Sneaky Trick to Never Solve the Same Problem Twice  [Watch](https://youtu.be/oxKd29twYaQ)  
  - Charlie Marsh: Accelerating Python Tooling With Ruff and uv | Real Python Podcast #238  [Watch](https://youtu.be/hGFb4mMMmkE)  
- - NumPy Techniques and Practical Examples: Populating & Changing Multidimensional Arrays  [Watch](https://youtu.be/mn00N93oszs)  
- - Abstract Base Classes in Python: Why & How to Use Them  [Watch](https://youtu.be/0HbgNSoexFw)
+ - NumPy Techniques and Practical Examples: Populating & Changing Multidimensional Arrays  [Watch](https://youtu.be/mn00N93oszs)
 # Channel: SysOps / DevOps Polska
   
  - Jak nie zabić projektu overengineeringiem? #MeetUp #IaC #Terraform #IaaC #ARM/Bicep #SODO  [Watch](https://youtu.be/oDK2rgiIFFg)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)
 # Channel: GitHub
   
- - Open Source and AI: Exploring Langbase State of AI Agents Research  [Watch](https://youtu.be/ZAiPNSFDJpY)  
+ - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)  
+ - Open Source and AI with Danny Thompson  [Watch](https://youtu.be/68qYBxBiofE)  
+ - Event in Spanish: Programa Reconecta: Regreso a Carreras Tech Sesión Informativa Virtual  [Watch](https://youtu.be/f3Z4PFcCFkY)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/07DLsbbHf-I)  
- - Start Up Wednesday with Unsloth.AI  [Watch](https://youtu.be/lyVxD0bJDOk)  
- - Event in Spanish: Revolución Digital en la Banca con BCP  [Watch](https://youtu.be/WtKry6lWEJM)  
- - Code with GitHub Copilot for FREE  [Watch](https://youtu.be/gJW1o7q--B4)
+ - Open Source and AI: Exploring Langbase State of AI Agents Research  [Watch](https://youtu.be/ZAiPNSFDJpY)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - How the Garbage Collector Works in Java, Python, and Go!  [Watch](https://youtu.be/3Kqal7QaCCM)  
  - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)  
  - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)  
  - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)  
- - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)  
- - Apache Kafka Fundamentals You Should Know  [Watch](https://youtu.be/-RDyEFvnTXI)
+ - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)
