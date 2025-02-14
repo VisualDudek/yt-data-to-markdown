@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
- - 🛡️ Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
+ - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
+ - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
+ - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
  - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
- - Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas  [Watch](https://youtu.be/8SYQtpSk_OI)  
- - Rust’s Stack vs. Heap Memory Model  [Watch](https://youtu.be/x3BRSUwJnPM)
+ - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
 # Channel: Tech With Tim
   
+ - This Will Seriously Help You Stand Out as a Developer!🚀  [Watch](https://youtu.be/DWs7dEBsm58)  
+ - 🔥 Start with THIS to Optimize Your Code for Maximum Efficiency!  [Watch](https://youtu.be/EqtOAGq5JbE)  
+ - Let's look at a practical example of how to use @dataclass in Python? 🚀🐍  [Watch](https://youtu.be/xKhEyAkB79A)  
  - I encourage you master this coding skill that will make you stand out as a software developer.  [Watch](https://youtu.be/zr7PpbRxq3c)  
- - Please Master This Magic Python Feature...👀  [Watch](https://youtu.be/EABFumsYHRc)  
- - ✅ A decorator that every programmer should have in their toolkit!☝  [Watch](https://youtu.be/woX0_KrGttE)  
- - ☝This one is for the Senior Devs!  [Watch](https://youtu.be/UeNjBYgdWtM)  
- - Should Beginner Programmers Use AI? (It’s Not That Simple…)  [Watch](https://youtu.be/1quHNuX7QHk)
+ - Please Master This Magic Python Feature...👀  [Watch](https://youtu.be/EABFumsYHRc)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -40,38 +40,38 @@ Youtube Videos
 # Channel: Visual Studio Code
   
  - Enhancing Your Python Workflow: Environment Management in VS Code  [Watch](https://youtu.be/Rlvm9gcAqoM)  
+ - You should get paid for interview take-home tests  [Watch](https://youtu.be/_TOI-rt4wto)  
  - Introducing GitHub Copilot Next Edit Suggestions (preview) in VS Code  [Watch](https://youtu.be/mbUnwaSllTY)  
  - Introducing Copilot Next Edit Suggestions (preview)  [Watch](https://youtu.be/DkpHePA_UYg)  
- - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)  
- - GitHub Copilot Agent Mode: Build an iOS App in Minutes  [Watch](https://youtu.be/gKEWB0vg_Cs)
+ - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)
 # Channel: Mateusz Chrobok
   
+ - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)  
  - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
- - Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)  
- - UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)  
- - AirTagi, psychofani i toksyczni eks-  [Watch](https://youtu.be/CyjOwe3WiQA)  
- - 💬 WhatsApp złapał szpiegów  [Watch](https://youtu.be/SVQgXaE3YXo)
+ - 💳 Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)  
+ - 🚪 UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)  
+ - AirTagi, psychofani i toksyczni eks-  [Watch](https://youtu.be/CyjOwe3WiQA)
 # Channel: Cloud Native Computing Foundation
   
+ - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-02-11  [Watch](https://youtu.be/eHa6GhK7L0I)  
  - ChatLoopBackOff Episode 46 (Dragonfly)  [Watch](https://youtu.be/gd6HRgr8KcA)  
  - Sandbox environments: Creating efficient and isolated testing realms  [Watch](https://youtu.be/fh7-lQVmX-o)  
  - KitOps: AI Model Packaging Standards  [Watch](https://youtu.be/1TD-e_wVe4Q)  
- - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)  
- - ChatLoopBackOff Episode 45 (CRI-O)  [Watch](https://youtu.be/--eJZu3Zkbw)
+ - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)
 # Channel: Real Python
   
+ - Behavior-Driven vs Test-Driven Development & Using Regex in Python | Real Python Podcast #239  [Watch](https://youtu.be/F5exqO63gr4)  
  - Building a Python Command-Line To-Do App With Typer: Setting Up & Introducing Typer  [Watch](https://youtu.be/w7M5QzE_8u0)  
  - The Secret to Keeping Your Blog Alive (Even After Years Away)  [Watch](https://youtu.be/35u6Di3gklo)  
  - The Sneaky Trick to Never Solve the Same Problem Twice  [Watch](https://youtu.be/oxKd29twYaQ)  
- - Charlie Marsh: Accelerating Python Tooling With Ruff and uv | Real Python Podcast #238  [Watch](https://youtu.be/hGFb4mMMmkE)  
- - NumPy Techniques and Practical Examples: Populating & Changing Multidimensional Arrays  [Watch](https://youtu.be/mn00N93oszs)
+ - Charlie Marsh: Accelerating Python Tooling With Ruff and uv | Real Python Podcast #238  [Watch](https://youtu.be/hGFb4mMMmkE)
 # Channel: SysOps / DevOps Polska
   
+ - Nowe funkcje w konsoli AWS - multi account #aws #devops  [Watch](https://youtu.be/ECQmtAYrTgg)  
  - Jak nie zabić projektu overengineeringiem? #MeetUp #IaC #Terraform #IaaC #ARM/Bicep #SODO  [Watch](https://youtu.be/oDK2rgiIFFg)  
  - Headlamp - alternatywny dashboard dla Kubernetesa #kubernetes #tools #devops  [Watch](https://youtu.be/1f8e-T_uqHs)  
  - Nowe funkcje w AWS EKS - upgrade insights #kubernetes #aws #devops  [Watch](https://youtu.be/4S291sDxBzA)  
- - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)  
- - [#540] Po co Ci IaC? Czyli jak nie zabić projektu overengineeringiem - Sebastian Fyda  [Watch](https://youtu.be/lMokdqV55oo)
+ - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)
 # Channel: GitHub
   
+ - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)  
+ - This Valentine's Day, sponsor what you love❤️  [Watch](https://youtu.be/vgZT85jC5Vc)  
  - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)  
  - Open Source and AI with Danny Thompson  [Watch](https://youtu.be/68qYBxBiofE)  
- - Event in Spanish: Programa Reconecta: Regreso a Carreras Tech Sesión Informativa Virtual  [Watch](https://youtu.be/f3Z4PFcCFkY)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/07DLsbbHf-I)  
- - Open Source and AI: Exploring Langbase State of AI Agents Research  [Watch](https://youtu.be/ZAiPNSFDJpY)
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/07DLsbbHf-I)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
