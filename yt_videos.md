@@ -8,7 +8,7 @@ Youtube Videos
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
  - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
  - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
- - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)
+ - Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas  [Watch](https://youtu.be/8SYQtpSk_OI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
 # Channel: Tech With Tim
   
+ - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/IFdNbSSCI3s)  
  - This Will Seriously Help You Stand Out as a Developer!🚀  [Watch](https://youtu.be/DWs7dEBsm58)  
  - 🔥 Start with THIS to Optimize Your Code for Maximum Efficiency!  [Watch](https://youtu.be/EqtOAGq5JbE)  
  - Let's look at a practical example of how to use @dataclass in Python? 🚀🐍  [Watch](https://youtu.be/xKhEyAkB79A)  
- - I encourage you master this coding skill that will make you stand out as a software developer.  [Watch](https://youtu.be/zr7PpbRxq3c)  
- - Please Master This Magic Python Feature...👀  [Watch](https://youtu.be/EABFumsYHRc)
+ - I encourage you master this coding skill that will make you stand out as a software developer.  [Watch](https://youtu.be/zr7PpbRxq3c)
 # Channel: hello roman
   
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
@@ -46,11 +46,11 @@ Youtube Videos
  - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)
 # Channel: Mateusz Chrobok
   
+ - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)  
  - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)  
  - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
  - 💳 Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)  
- - 🚪 UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)  
- - AirTagi, psychofani i toksyczni eks-  [Watch](https://youtu.be/CyjOwe3WiQA)
+ - 🚪 UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)
 # Channel: Cloud Native Computing Foundation
   
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-02-11  [Watch](https://youtu.be/eHa6GhK7L0I)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)
 # Channel: GitHub
   
+ - Google launches .channel domains for creators and builders  [Watch](https://youtu.be/5le115ZcFmk)  
  - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)  
+ - The Download: Copilot SDK, OpenAI’s o3-mini, and Pebble’s return  [Watch](https://youtu.be/PKtQDKqXp2E)  
  - This Valentine's Day, sponsor what you love❤️  [Watch](https://youtu.be/vgZT85jC5Vc)  
- - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)  
- - Open Source and AI with Danny Thompson  [Watch](https://youtu.be/68qYBxBiofE)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/07DLsbbHf-I)
+ - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)
 # Channel: CloudHeroes - Video
   
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
