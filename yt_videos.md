@@ -6,9 +6,9 @@ Youtube Videos
   
  - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
- - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
+ - 🛡️ Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
  - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
- - Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas  [Watch](https://youtu.be/8SYQtpSk_OI)
+ - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,18 +25,18 @@ Youtube Videos
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
 # Channel: Tech With Tim
   
+ - 💻 More ways to use Python properties! Most Devs MISS🚀  [Watch](https://youtu.be/aUYk-__NFKg)  
+ - The One Skill Most DevOps Engineers Overlook. But absolutely should not!  [Watch](https://youtu.be/7sCV5wg4NtY)  
  - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/IFdNbSSCI3s)  
  - This Will Seriously Help You Stand Out as a Developer!🚀  [Watch](https://youtu.be/DWs7dEBsm58)  
- - 🔥 Start with THIS to Optimize Your Code for Maximum Efficiency!  [Watch](https://youtu.be/EqtOAGq5JbE)  
- - Let's look at a practical example of how to use @dataclass in Python? 🚀🐍  [Watch](https://youtu.be/xKhEyAkB79A)  
- - I encourage you master this coding skill that will make you stand out as a software developer.  [Watch](https://youtu.be/zr7PpbRxq3c)
+ - 🔥 Start with THIS to Optimize Your Code for Maximum Efficiency!  [Watch](https://youtu.be/EqtOAGq5JbE)
 # Channel: hello roman
   
+ - Long time no see ⌨️ hello roman #196  [Watch](https://youtu.be/MgDCNezwWZc)  
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
  - hello roman ma 6 lat!  🎉  hello roman #194  [Watch](https://youtu.be/2VcweF4sVRE)  
  - Kurs GIT | 09 – Git reset na ratunek! 🛟  [Watch](https://youtu.be/vri36csppEY)  
- - Kurs GIT | 08 – Jak działa rebase i commit amend? Nadpisywanie historii repozytorium  [Watch](https://youtu.be/4GKI4Gz97TE)  
- - Kurs GIT | 07 – Czwarta strefa, czyli czym jest stash  [Watch](https://youtu.be/T9n2tF60cY0)
+ - Kurs GIT | 08 – Jak działa rebase i commit amend? Nadpisywanie historii repozytorium  [Watch](https://youtu.be/4GKI4Gz97TE)
 # Channel: Visual Studio Code
   
  - Enhancing Your Python Workflow: Environment Management in VS Code  [Watch](https://youtu.be/Rlvm9gcAqoM)  
@@ -46,11 +46,11 @@ Youtube Videos
  - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)
 # Channel: Mateusz Chrobok
   
+ - Miała Cię chronić, a stała się zagrożeniem.  [Watch](https://youtu.be/uZHxQej3ImA)  
  - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)  
  - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)  
  - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
- - 💳 Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)  
- - 🚪 UK chce bekdura do Apple  [Watch](https://youtu.be/eJdj6iYFHHg)
+ - 💳 Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)
 # Channel: Cloud Native Computing Foundation
   
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-02-11  [Watch](https://youtu.be/eHa6GhK7L0I)  
