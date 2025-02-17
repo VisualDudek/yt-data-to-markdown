@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
+ - Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
+ - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
- - 🛡️ Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
- - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)  
- - DuckDB: SQL and DataFrames Just Got Married  [Watch](https://youtu.be/8SYQtpSk_OI)
+ - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
+ - 🤔 Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,14 +25,14 @@ Youtube Videos
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
 # Channel: Tech With Tim
   
+ - Here’s What You Need to Know About Python Descriptor Classes.  [Watch](https://youtu.be/QvVIcF5STCE)  
+ - I Got Paid $11,000/Month to Work at Microsoft. And Here's How It Happened!  [Watch](https://youtu.be/C5PDnAsM1hc)  
  - 💻 More ways to use Python properties! Most Devs MISS🚀  [Watch](https://youtu.be/aUYk-__NFKg)  
  - The One Skill Most DevOps Engineers Overlook. But absolutely should not!  [Watch](https://youtu.be/7sCV5wg4NtY)  
- - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/IFdNbSSCI3s)  
- - This Will Seriously Help You Stand Out as a Developer!🚀  [Watch](https://youtu.be/DWs7dEBsm58)  
- - 🔥 Start with THIS to Optimize Your Code for Maximum Efficiency!  [Watch](https://youtu.be/EqtOAGq5JbE)
+ - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/IFdNbSSCI3s)
 # Channel: hello roman
   
- - Long time no see ⌨️ hello roman #196  [Watch](https://youtu.be/MgDCNezwWZc)  
+ - Long time no see 👋 Hello Roman | Sezon 2 Odcinek 1  [Watch](https://youtu.be/MgDCNezwWZc)  
  - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
  - hello roman ma 6 lat!  🎉  hello roman #194  [Watch](https://youtu.be/2VcweF4sVRE)  
  - Kurs GIT | 09 – Git reset na ratunek! 🛟  [Watch](https://youtu.be/vri36csppEY)  
@@ -46,11 +46,11 @@ Youtube Videos
  - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)
 # Channel: Mateusz Chrobok
   
- - Miała Cię chronić, a stała się zagrożeniem.  [Watch](https://youtu.be/uZHxQej3ImA)  
+ - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
+ - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)  
  - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)  
  - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)  
- - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)  
- - 💳 Zdalne kopiowanie kart  [Watch](https://youtu.be/qH2tnsMoLtk)
+ - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)
 # Channel: Cloud Native Computing Foundation
   
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-02-11  [Watch](https://youtu.be/eHa6GhK7L0I)  
@@ -60,18 +60,18 @@ Youtube Videos
  - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)
 # Channel: Real Python
   
+ - Is Blogging the Ultimate SEO Cheat Code?  [Watch](https://youtu.be/Wxat8IeZ-LA)  
  - Behavior-Driven vs Test-Driven Development & Using Regex in Python | Real Python Podcast #239  [Watch](https://youtu.be/F5exqO63gr4)  
  - Building a Python Command-Line To-Do App With Typer: Setting Up & Introducing Typer  [Watch](https://youtu.be/w7M5QzE_8u0)  
  - The Secret to Keeping Your Blog Alive (Even After Years Away)  [Watch](https://youtu.be/35u6Di3gklo)  
- - The Sneaky Trick to Never Solve the Same Problem Twice  [Watch](https://youtu.be/oxKd29twYaQ)  
- - Charlie Marsh: Accelerating Python Tooling With Ruff and uv | Real Python Podcast #238  [Watch](https://youtu.be/hGFb4mMMmkE)
+ - The Sneaky Trick to Never Solve the Same Problem Twice  [Watch](https://youtu.be/oxKd29twYaQ)
 # Channel: SysOps / DevOps Polska
   
+ - Kilka przydatnych skryptów do Twojej konsoli: kube-ps1, kubens, kubectx #kubernetes #devops #tools  [Watch](https://youtu.be/59aCpkarSHw)  
  - Nowe funkcje w konsoli AWS - multi account #aws #devops  [Watch](https://youtu.be/ECQmtAYrTgg)  
  - Jak nie zabić projektu overengineeringiem? #MeetUp #IaC #Terraform #IaaC #ARM/Bicep #SODO  [Watch](https://youtu.be/oDK2rgiIFFg)  
  - Headlamp - alternatywny dashboard dla Kubernetesa #kubernetes #tools #devops  [Watch](https://youtu.be/1f8e-T_uqHs)  
- - Nowe funkcje w AWS EKS - upgrade insights #kubernetes #aws #devops  [Watch](https://youtu.be/4S291sDxBzA)  
- - AWS - Wsparcie dla IPv6 w usłudze Prometheus #aws #devops #prometheus  [Watch](https://youtu.be/FaOJ44sAKLk)
+ - Nowe funkcje w AWS EKS - upgrade insights #kubernetes #aws #devops  [Watch](https://youtu.be/4S291sDxBzA)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,18 +95,18 @@ Youtube Videos
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)  
  - Google launches .channel domains for creators and builders  [Watch](https://youtu.be/5le115ZcFmk)  
  - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)  
  - The Download: Copilot SDK, OpenAI’s o3-mini, and Pebble’s return  [Watch](https://youtu.be/PKtQDKqXp2E)  
- - This Valentine's Day, sponsor what you love❤️  [Watch](https://youtu.be/vgZT85jC5Vc)  
- - Rubber Duck Thursdays!  [Watch](https://youtu.be/dM3wAfjaOeQ)
+ - This Valentine's Day, sponsor what you love❤️  [Watch](https://youtu.be/vgZT85jC5Vc)
 # Channel: CloudHeroes - Video
   
+ - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)  
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
  - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
  - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
- - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)  
- - Prywatna strona www na Amazon S3  [Watch](https://youtu.be/483QNc4XXBc)
+ - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
