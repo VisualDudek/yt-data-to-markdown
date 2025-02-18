@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
+ - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
  - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
  - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
- - 🤔 Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)
+ - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,18 +25,18 @@ Youtube Videos
  - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
 # Channel: Tech With Tim
   
+ - HuggingFace + Langchain | Run 1,000s of FREE AI Models Locally  [Watch](https://youtu.be/1h6lfzJ0wZw)  
  - Here’s What You Need to Know About Python Descriptor Classes.  [Watch](https://youtu.be/QvVIcF5STCE)  
  - I Got Paid $11,000/Month to Work at Microsoft. And Here's How It Happened!  [Watch](https://youtu.be/C5PDnAsM1hc)  
  - 💻 More ways to use Python properties! Most Devs MISS🚀  [Watch](https://youtu.be/aUYk-__NFKg)  
- - The One Skill Most DevOps Engineers Overlook. But absolutely should not!  [Watch](https://youtu.be/7sCV5wg4NtY)  
- - What does if __name__ == '__main__' do in Python?  [Watch](https://youtu.be/IFdNbSSCI3s)
+ - The One Skill Most DevOps Engineers Overlook. But absolutely should not!  [Watch](https://youtu.be/7sCV5wg4NtY)
 # Channel: hello roman
   
- - Long time no see 👋 Hello Roman | Sezon 2 Odcinek 1  [Watch](https://youtu.be/MgDCNezwWZc)  
- - Bezrobocie w branży IT 2024 ⌨️ hello roman #195  [Watch](https://youtu.be/3A0h9uNj0Z4)  
- - hello roman ma 6 lat!  🎉  hello roman #194  [Watch](https://youtu.be/2VcweF4sVRE)  
- - Kurs GIT | 09 – Git reset na ratunek! 🛟  [Watch](https://youtu.be/vri36csppEY)  
- - Kurs GIT | 08 – Jak działa rebase i commit amend? Nadpisywanie historii repozytorium  [Watch](https://youtu.be/4GKI4Gz97TE)
+ - [Kurs Zaawansowany UI | 08] Animacje na scroll + GSAP ScrollTrigger  [Watch](https://youtu.be/srkezHzMCPU)  
+ - [Kurs Zaawansowany UI | 07] Zaawansowane animacje SVG  [Watch](https://youtu.be/Jbwut40SnAY)  
+ - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)  
+ - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)  
+ - [Kurs Zaawansowany UI | 04] Combobox & Multiple Selection  [Watch](https://youtu.be/_-UAQFhIqYs)
 # Channel: Visual Studio Code
   
  - Enhancing Your Python Workflow: Environment Management in VS Code  [Watch](https://youtu.be/Rlvm9gcAqoM)  
@@ -46,11 +46,11 @@ Youtube Videos
  - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)
 # Channel: Mateusz Chrobok
   
+ - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)  
  - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
  - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)  
  - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)  
- - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)  
- - Bezpieczne wdrożenie AI w organizacji. Checklista managera – Mateusz Chrobok (Nethone, ASI, AI_devs)  [Watch](https://youtu.be/ojEtNvhv-8I)
+ - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)
 # Channel: Cloud Native Computing Foundation
   
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-02-11  [Watch](https://youtu.be/eHa6GhK7L0I)  
@@ -67,11 +67,11 @@ Youtube Videos
  - The Sneaky Trick to Never Solve the Same Problem Twice  [Watch](https://youtu.be/oxKd29twYaQ)
 # Channel: SysOps / DevOps Polska
   
+ - [#541]Przetwarzanie danych satelitarnych używając K8S i instancji typu Spot - P.Markowski, J.Sobczak  [Watch](https://youtu.be/vQ86Y9RX0Bg)  
  - Kilka przydatnych skryptów do Twojej konsoli: kube-ps1, kubens, kubectx #kubernetes #devops #tools  [Watch](https://youtu.be/59aCpkarSHw)  
  - Nowe funkcje w konsoli AWS - multi account #aws #devops  [Watch](https://youtu.be/ECQmtAYrTgg)  
  - Jak nie zabić projektu overengineeringiem? #MeetUp #IaC #Terraform #IaaC #ARM/Bicep #SODO  [Watch](https://youtu.be/oDK2rgiIFFg)  
- - Headlamp - alternatywny dashboard dla Kubernetesa #kubernetes #tools #devops  [Watch](https://youtu.be/1f8e-T_uqHs)  
- - Nowe funkcje w AWS EKS - upgrade insights #kubernetes #aws #devops  [Watch](https://youtu.be/4S291sDxBzA)
+ - Headlamp - alternatywny dashboard dla Kubernetesa #kubernetes #tools #devops  [Watch](https://youtu.be/1f8e-T_uqHs)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)
 # Channel: GitHub
   
+ - New GitHub Copilot code completion model: GPT-4o Copilot  [Watch](https://youtu.be/Oi_O6SZZWPc)  
+ - Pebble Smartwatch's Epic Comeback: What You Need to Know  [Watch](https://youtu.be/xQJCQnZwGMQ)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)  
  - Google launches .channel domains for creators and builders  [Watch](https://youtu.be/5le115ZcFmk)  
- - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)  
- - The Download: Copilot SDK, OpenAI’s o3-mini, and Pebble’s return  [Watch](https://youtu.be/PKtQDKqXp2E)  
- - This Valentine's Day, sponsor what you love❤️  [Watch](https://youtu.be/vgZT85jC5Vc)
+ - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)
 # Channel: CloudHeroes - Video
   
  - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)  
