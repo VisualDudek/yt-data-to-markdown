@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
- - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
+ - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
+ - Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
+ - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
- - Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)  
- - Memory Management: Rust vs. C vs. Python  [Watch](https://youtu.be/Dbh-fM0_dUs)
+ - 🛡️ Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)  
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)  
  - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)  
  - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)  
- - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)  
- - your tests should have 100% coverage  [Watch](https://youtu.be/70T6OxKwxm0)
+ - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)
 # Channel: Tech With Tim
   
+ - The  Get function in Python and how it works  [Watch](https://youtu.be/lvkyEhTfHMs)  
+ - 97% of developers don't know about this python feature  [Watch](https://youtu.be/GhNOf3k6X38)  
+ - What is a Django field and how to use it in Python  [Watch](https://youtu.be/kAUze_nd2P0)  
  - HuggingFace + Langchain | Run 1,000s of FREE AI Models Locally  [Watch](https://youtu.be/1h6lfzJ0wZw)  
- - Here’s What You Need to Know About Python Descriptor Classes.  [Watch](https://youtu.be/QvVIcF5STCE)  
- - I Got Paid $11,000/Month to Work at Microsoft. And Here's How It Happened!  [Watch](https://youtu.be/C5PDnAsM1hc)  
- - 💻 More ways to use Python properties! Most Devs MISS🚀  [Watch](https://youtu.be/aUYk-__NFKg)  
- - The One Skill Most DevOps Engineers Overlook. But absolutely should not!  [Watch](https://youtu.be/7sCV5wg4NtY)
+ - Here’s What You Need to Know About Python Descriptor Classes.  [Watch](https://youtu.be/QvVIcF5STCE)
 # Channel: hello roman
   
  - [Kurs Zaawansowany UI | 08] Animacje na scroll + GSAP ScrollTrigger  [Watch](https://youtu.be/srkezHzMCPU)  
@@ -39,32 +39,32 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 04] Combobox & Multiple Selection  [Watch](https://youtu.be/_-UAQFhIqYs)
 # Channel: Visual Studio Code
   
+ - GitHub Copilot Release Party  [Watch](https://youtu.be/yzl7RtJZCEE)  
+ - Check this out… #githubcopilot #coding #programming  [Watch](https://youtu.be/QP_WFDo3F88)  
  - Enhancing Your Python Workflow: Environment Management in VS Code  [Watch](https://youtu.be/Rlvm9gcAqoM)  
  - You should get paid for interview take-home tests  [Watch](https://youtu.be/_TOI-rt4wto)  
- - Introducing GitHub Copilot Next Edit Suggestions (preview) in VS Code  [Watch](https://youtu.be/mbUnwaSllTY)  
- - Introducing Copilot Next Edit Suggestions (preview)  [Watch](https://youtu.be/DkpHePA_UYg)  
- - C# Dev Kit Updates: .NET Aspire, Hot Reload, and More!  [Watch](https://youtu.be/PBLCKJ9bP94)
+ - Introducing GitHub Copilot Next Edit Suggestions (preview) in VS Code  [Watch](https://youtu.be/mbUnwaSllTY)
 # Channel: Mateusz Chrobok
   
- - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)  
  - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
+ - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)  
  - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)  
  - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)  
  - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF Research End User Group: Managing Kubeflow deployments and updates at CERN (February 19, 2025)  [Watch](https://youtu.be/QvNIS0M0VJE)  
+ - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)  
+ - TOC Meeting 2025-02-18  [Watch](https://youtu.be/deyssJesSII)  
  - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-02-11  [Watch](https://youtu.be/eHa6GhK7L0I)  
- - ChatLoopBackOff Episode 46 (Dragonfly)  [Watch](https://youtu.be/gd6HRgr8KcA)  
- - Sandbox environments: Creating efficient and isolated testing realms  [Watch](https://youtu.be/fh7-lQVmX-o)  
- - KitOps: AI Model Packaging Standards  [Watch](https://youtu.be/1TD-e_wVe4Q)  
- - CNL: Optimizing Kyverno policy enforcement performance for large clusters  [Watch](https://youtu.be/DWmCAUCs3bc)
+ - ChatLoopBackOff Episode 46 (Dragonfly)  [Watch](https://youtu.be/gd6HRgr8KcA)
 # Channel: Real Python
   
+ - Don’t Just Post & Pray – How to Get Seen Online  [Watch](https://youtu.be/I1vXNnOo9Bo)  
  - Is Blogging the Ultimate SEO Cheat Code?  [Watch](https://youtu.be/Wxat8IeZ-LA)  
  - Behavior-Driven vs Test-Driven Development & Using Regex in Python | Real Python Podcast #239  [Watch](https://youtu.be/F5exqO63gr4)  
  - Building a Python Command-Line To-Do App With Typer: Setting Up & Introducing Typer  [Watch](https://youtu.be/w7M5QzE_8u0)  
- - The Secret to Keeping Your Blog Alive (Even After Years Away)  [Watch](https://youtu.be/35u6Di3gklo)  
- - The Sneaky Trick to Never Solve the Same Problem Twice  [Watch](https://youtu.be/oxKd29twYaQ)
+ - The Secret to Keeping Your Blog Alive (Even After Years Away)  [Watch](https://youtu.be/35u6Di3gklo)
 # Channel: SysOps / DevOps Polska
   
  - [#541]Przetwarzanie danych satelitarnych używając K8S i instancji typu Spot - P.Markowski, J.Sobczak  [Watch](https://youtu.be/vQ86Y9RX0Bg)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Central Log Management for Docker + Linux // Grafana Loki  [Watch](https://youtu.be/KK9FI4OfPUY)  
  - Check out my guide to connecting a 16x2 LCD to Raspberry Pi for real-time monitoring!  [Watch](https://youtu.be/Ea8ME7omdlM)  
  - Raspberry Pi: The Coolest LCD Screen Server Monitor!  [Watch](https://youtu.be/EzxhX0OFCl8)  
  - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)  
- - Proxmox Terraform provider updated, what you need to change!  [Watch](https://youtu.be/oZRkQol8fts)  
- - Let’s migrate from Terraform to OpenTofu!  [Watch](https://youtu.be/xstFUuFt5Q0)
+ - Proxmox Terraform provider updated, what you need to change!  [Watch](https://youtu.be/oZRkQol8fts)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays! Come code with us!  [Watch](https://youtu.be/YKufzUw1Xuo)  
+ - Event in Spanish: Programa Reconecta: Regreso a Carreras Tech Sesión Informativa Virtual  [Watch](https://youtu.be/f3Z4PFcCFkY)  
  - New GitHub Copilot code completion model: GPT-4o Copilot  [Watch](https://youtu.be/Oi_O6SZZWPc)  
  - Pebble Smartwatch's Epic Comeback: What You Need to Know  [Watch](https://youtu.be/xQJCQnZwGMQ)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)  
- - Google launches .channel domains for creators and builders  [Watch](https://youtu.be/5le115ZcFmk)  
- - Open Source Friday AI with Angie Jones  [Watch](https://youtu.be/GIdll-a_ffc)
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)
 # Channel: CloudHeroes - Video
   
  - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)  
