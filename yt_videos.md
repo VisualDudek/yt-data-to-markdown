@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
  - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
  - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
- - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)  
- - 🛡️ Why Product Shutdowns Need Security  [Watch](https://youtu.be/drBCjFeilRo)
+ - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,46 +25,46 @@ Youtube Videos
  - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)
 # Channel: Tech With Tim
   
+ - How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)  [Watch](https://youtu.be/cy6EAp4iNN4)  
+ - What is the SetDefault function in Python  [Watch](https://youtu.be/4YY13fIVtlk)  
+ - The state of the coding job market in 2025  [Watch](https://youtu.be/0D83-b9kt48)  
  - Do you need a CS degree for your coding job?  [Watch](https://youtu.be/MpYXk8v-7-U)  
- - If you can solve this you can work at Microsoft  [Watch](https://youtu.be/uuQAJFW_BIM)  
- - The  Get function in Python and how it works  [Watch](https://youtu.be/lvkyEhTfHMs)  
- - 97% of developers don't know about this python feature  [Watch](https://youtu.be/GhNOf3k6X38)  
- - What is a Django field and how to use it in Python  [Watch](https://youtu.be/kAUze_nd2P0)
+ - If you can solve this you can work at Microsoft  [Watch](https://youtu.be/uuQAJFW_BIM)
 # Channel: hello roman
   
+ - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
  - [Kurs Zaawansowany UI | 08] Animacje na scroll + GSAP ScrollTrigger  [Watch](https://youtu.be/srkezHzMCPU)  
  - [Kurs Zaawansowany UI | 07] Zaawansowane animacje SVG  [Watch](https://youtu.be/Jbwut40SnAY)  
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)  
- - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)  
- - [Kurs Zaawansowany UI | 04] Combobox & Multiple Selection  [Watch](https://youtu.be/_-UAQFhIqYs)
+ - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)
 # Channel: Visual Studio Code
   
+ - The extension you had no idea you needed #coding #vscode #css  [Watch](https://youtu.be/oVS-NPxGZmE)  
  - GitHub Copilot Release Party  [Watch](https://youtu.be/yzl7RtJZCEE)  
- - Introducing Next Edit Suggestions for GitHub Copilot  [Watch](https://youtu.be/zPUvU6XYhpw)  
+ - Next Edit Suggestions for GitHub Copilot in action  [Watch](https://youtu.be/zPUvU6XYhpw)  
  - My site has been broken this whole time! #githubcopilot #coding #vscode  [Watch](https://youtu.be/GPMWEBOwMCA)  
- - Check this out… #githubcopilot #coding #programming  [Watch](https://youtu.be/QP_WFDo3F88)  
- - Enhancing Your Python Workflow: Environment Management in VS Code  [Watch](https://youtu.be/Rlvm9gcAqoM)
+ - Check this out… #githubcopilot #coding #programming  [Watch](https://youtu.be/QP_WFDo3F88)
 # Channel: Mateusz Chrobok
   
+ - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)  
  - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
  - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)  
  - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)  
- - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)  
- - 💔 Uważaj na catfish!  [Watch](https://youtu.be/C6msGIJTwHU)
+ - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
+ - CNL: Optimizing cost, performance, and security in K8s with policy-as-code  [Watch](https://youtu.be/O5YBwJO6FCw)  
+ - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)  
  - ChatLoopBackOff Episode 51 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
- - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)  
- - ChatLoopBackOff Episode 50 (Tekton Pipelines)  [Watch](https://youtu.be/vHnI_hty9zc)  
- - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
- - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)
+ - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)
 # Channel: Real Python
   
+ - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)  
  - Concatenating Strings in Python Efficiently: the Plus Operator and .join()  [Watch](https://youtu.be/ceDnOVc4eaE)  
  - Don’t Just Post & Pray – How to Get Seen Online  [Watch](https://youtu.be/I1vXNnOo9Bo)  
  - Is Blogging the Ultimate SEO Cheat Code?  [Watch](https://youtu.be/Wxat8IeZ-LA)  
- - Behavior-Driven vs Test-Driven Development & Using Regex in Python | Real Python Podcast #239  [Watch](https://youtu.be/F5exqO63gr4)  
- - Building a Python Command-Line To-Do App With Typer: Setting Up & Introducing Typer  [Watch](https://youtu.be/w7M5QzE_8u0)
+ - Behavior-Driven vs Test-Driven Development & Using Regex in Python | Real Python Podcast #239  [Watch](https://youtu.be/F5exqO63gr4)
 # Channel: SysOps / DevOps Polska
   
  - Zamiast dolarów AWS przyjmie teraz złotówki #aws  [Watch](https://youtu.be/jnjCOTvmpjU)  
@@ -88,17 +88,17 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)  
  - Central Log Management for Docker + Linux // Grafana Loki  [Watch](https://youtu.be/KK9FI4OfPUY)  
  - Check out my guide to connecting a 16x2 LCD to Raspberry Pi for real-time monitoring!  [Watch](https://youtu.be/Ea8ME7omdlM)  
  - Raspberry Pi: The Coolest LCD Screen Server Monitor!  [Watch](https://youtu.be/EzxhX0OFCl8)  
- - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)  
- - Proxmox Terraform provider updated, what you need to change!  [Watch](https://youtu.be/oZRkQol8fts)
+ - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)
 # Channel: GitHub
   
+ - Open Source Friday: Build full-stack web apps in pure Python 🐍  [Watch](https://youtu.be/FPOpXOqDsyE)  
  - Rubber Duck Thursdays! Come code with us!  [Watch](https://youtu.be/YKufzUw1Xuo)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)  
  - Start Up Wednesday with Unsloth.AI  [Watch](https://youtu.be/lyVxD0bJDOk)  
- - Open Source Friday: Build full-stack web apps in pure Python 🐍  [Watch](https://youtu.be/FPOpXOqDsyE)  
  - Event in Spanish: Programa Reconecta: Regreso a Carreras Tech Sesión Informativa Virtual  [Watch](https://youtu.be/f3Z4PFcCFkY)
 # Channel: CloudHeroes - Video
   
