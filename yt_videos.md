@@ -7,7 +7,7 @@ Youtube Videos
  - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
  - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
- - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
+ - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)
 # Channel: mCoding
   
@@ -46,11 +46,11 @@ Youtube Videos
  - Check this out… #githubcopilot #coding #programming  [Watch](https://youtu.be/QP_WFDo3F88)
 # Channel: Mateusz Chrobok
   
+ - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)  
  - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)  
  - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
  - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)  
- - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)  
- - 📝 Raport TikToka  [Watch](https://youtu.be/hxo-lixqEHk)
+ - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
