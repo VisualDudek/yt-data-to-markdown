@@ -7,7 +7,7 @@ Youtube Videos
  - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
  - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
- - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
+ - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
  - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)
 # Channel: Tech With Tim
   
+ - AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)  [Watch](https://youtu.be/h0FyNmnFk6o)  
  - How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)  [Watch](https://youtu.be/cy6EAp4iNN4)  
  - What is the SetDefault function in Python  [Watch](https://youtu.be/4YY13fIVtlk)  
  - The state of the coding job market in 2025  [Watch](https://youtu.be/0D83-b9kt48)  
- - Do you need a CS degree for your coding job?  [Watch](https://youtu.be/MpYXk8v-7-U)  
- - If you can solve this you can work at Microsoft  [Watch](https://youtu.be/uuQAJFW_BIM)
+ - Do you need a CS degree for your coding job?  [Watch](https://youtu.be/MpYXk8v-7-U)
 # Channel: hello roman
   
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)
 # Channel: Visual Studio Code
   
+ - This one is for everybody out there slinging docs and README’s #coding  #writing  #ai  [Watch](https://youtu.be/80ph9RYLct8)  
  - The extension you had no idea you needed #coding #vscode #css  [Watch](https://youtu.be/oVS-NPxGZmE)  
  - GitHub Copilot Release Party  [Watch](https://youtu.be/yzl7RtJZCEE)  
  - Next Edit Suggestions for GitHub Copilot in action  [Watch](https://youtu.be/zPUvU6XYhpw)  
- - My site has been broken this whole time! #githubcopilot #coding #vscode  [Watch](https://youtu.be/GPMWEBOwMCA)  
- - Check this out… #githubcopilot #coding #programming  [Watch](https://youtu.be/QP_WFDo3F88)
+ - My site has been broken this whole time! #githubcopilot #coding #vscode  [Watch](https://youtu.be/GPMWEBOwMCA)
 # Channel: Mateusz Chrobok
   
+ - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)  
  - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)  
  - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)  
  - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
- - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)  
- - Miała Cię chronić, a stała się zagrożeniem  [Watch](https://youtu.be/uZHxQej3ImA)
+ - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
