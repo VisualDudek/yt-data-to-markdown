@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
  - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
  - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
- - Go for Pythonistas: What You Need to Know  [Watch](https://youtu.be/bhIrmT4uf1M)  
- - ❌ Why Rust Doesn’t Allow Two Mutable Borrows  [Watch](https://youtu.be/WiQL2kaaF5Q)
+ - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -60,18 +60,18 @@ Youtube Videos
  - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)
 # Channel: Real Python
   
+ - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)  
  - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)  
  - Concatenating Strings in Python Efficiently: the Plus Operator and .join()  [Watch](https://youtu.be/ceDnOVc4eaE)  
  - Don’t Just Post & Pray – How to Get Seen Online  [Watch](https://youtu.be/I1vXNnOo9Bo)  
- - Is Blogging the Ultimate SEO Cheat Code?  [Watch](https://youtu.be/Wxat8IeZ-LA)  
- - Behavior-Driven vs Test-Driven Development & Using Regex in Python | Real Python Podcast #239  [Watch](https://youtu.be/F5exqO63gr4)
+ - Is Blogging the Ultimate SEO Cheat Code?  [Watch](https://youtu.be/Wxat8IeZ-LA)
 # Channel: SysOps / DevOps Polska
   
+ - [#542] Red Hat Developer w Erze Platform Engineering - Piotr Mińkowski  [Watch](https://youtu.be/5mcnV60ckPg)  
  - Zamiast dolarów AWS przyjmie teraz złotówki #aws  [Watch](https://youtu.be/jnjCOTvmpjU)  
  - [#541]Przetwarzanie danych satelitarnych używając K8S i instancji typu Spot - P.Markowski, J.Sobczak  [Watch](https://youtu.be/vQ86Y9RX0Bg)  
  - Kilka przydatnych skryptów do Twojej konsoli: kube-ps1, kubens, kubectx #kubernetes #devops #tools  [Watch](https://youtu.be/59aCpkarSHw)  
- - Nowe funkcje w konsoli AWS - multi account #aws #devops  [Watch](https://youtu.be/ECQmtAYrTgg)  
- - Jak nie zabić projektu overengineeringiem? #MeetUp #IaC #Terraform #IaaC #ARM/Bicep #SODO  [Watch](https://youtu.be/oDK2rgiIFFg)
+ - Nowe funkcje w konsoli AWS - multi account #aws #devops  [Watch](https://youtu.be/ECQmtAYrTgg)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,18 +95,18 @@ Youtube Videos
  - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)  
  - Open Source Friday: Build full-stack web apps in pure Python 🐍  [Watch](https://youtu.be/FPOpXOqDsyE)  
  - Rubber Duck Thursdays! Come code with us!  [Watch](https://youtu.be/YKufzUw1Xuo)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)  
- - Start Up Wednesday with Unsloth.AI  [Watch](https://youtu.be/lyVxD0bJDOk)  
- - Event in Spanish: Programa Reconecta: Regreso a Carreras Tech Sesión Informativa Virtual  [Watch](https://youtu.be/f3Z4PFcCFkY)
+ - Start Up Wednesday with Unsloth.AI  [Watch](https://youtu.be/lyVxD0bJDOk)
 # Channel: CloudHeroes - Video
   
+ - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
  - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)  
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
  - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
- - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)  
- - Kiedy wybrać VPC Interface Endpoint a kiedy Gateway Endpoint?  [Watch](https://youtu.be/viF5pT-HReI)
+ - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
