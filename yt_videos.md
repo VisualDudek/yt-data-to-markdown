@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
- - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
+ - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
  - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
  - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)
@@ -25,11 +25,11 @@ Youtube Videos
  - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)
 # Channel: Tech With Tim
   
- - AI Voice Assistant Project Full Tutorial | React & Python (Phone & Web Calling)  [Watch](https://youtu.be/h0FyNmnFk6o)  
- - How To Build an API with Python (LLM Integration, FastAPI, Ollama & More)  [Watch](https://youtu.be/cy6EAp4iNN4)  
- - What is the SetDefault function in Python  [Watch](https://youtu.be/4YY13fIVtlk)  
- - The state of the coding job market in 2025  [Watch](https://youtu.be/0D83-b9kt48)  
- - Do you need a CS degree for your coding job?  [Watch](https://youtu.be/MpYXk8v-7-U)
+ - Watch this if you’re afraid of failing! 🚨  [Watch](https://youtu.be/4BG_RIwuTdg)  
+ - Please Learn How To Write Tests in Python… • Pytest Tutorial  [Watch](https://youtu.be/EgpLj86ZHFQ)  
+ - How to swap variables in Python  [Watch](https://youtu.be/BhehLX-N94M)  
+ - How to think like a programmer?  [Watch](https://youtu.be/qHn4rbKU7h4)  
+ - Why every person should take a gap year before college  [Watch](https://youtu.be/ohWoh-mRAfk)
 # Channel: hello roman
   
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)
 # Channel: Visual Studio Code
   
+ - You should be on VS Code Insiders  [Watch](https://youtu.be/Jlr8FhBitNw)  
+ - Creating an iOS app with GitHub Copilot  [Watch](https://youtu.be/8sdkzXA0bzw)  
  - This one is for everybody out there slinging docs and README’s #coding  #writing  #ai  [Watch](https://youtu.be/80ph9RYLct8)  
  - The extension you had no idea you needed #coding #vscode #css  [Watch](https://youtu.be/oVS-NPxGZmE)  
- - GitHub Copilot Release Party  [Watch](https://youtu.be/yzl7RtJZCEE)  
- - Next Edit Suggestions for GitHub Copilot in action  [Watch](https://youtu.be/zPUvU6XYhpw)  
- - My site has been broken this whole time! #githubcopilot #coding #vscode  [Watch](https://youtu.be/GPMWEBOwMCA)
+ - GitHub Copilot Release Party  [Watch](https://youtu.be/yzl7RtJZCEE)
 # Channel: Mateusz Chrobok
   
  - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)
 # Channel: Cloud Native Computing Foundation
   
+ - CNL: Right-Sizing Kubernetes Workloads with Open Source Tooling  [Watch](https://youtu.be/v-e8gMvz6yQ)  
  - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
  - CNL: Optimizing cost, performance, and security in K8s with policy-as-code  [Watch](https://youtu.be/O5YBwJO6FCw)  
  - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)  
- - ChatLoopBackOff Episode 51 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
- - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)
+ - ChatLoopBackOff Episode 51 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)
 # Channel: Real Python
   
  - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)  
+ - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)  
  - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)  
  - Central Log Management for Docker + Linux // Grafana Loki  [Watch](https://youtu.be/KK9FI4OfPUY)  
- - Check out my guide to connecting a 16x2 LCD to Raspberry Pi for real-time monitoring!  [Watch](https://youtu.be/Ea8ME7omdlM)  
- - Raspberry Pi: The Coolest LCD Screen Server Monitor!  [Watch](https://youtu.be/EzxhX0OFCl8)  
- - ZimaCube + ZimaOS, new HomeLab dream team?  [Watch](https://youtu.be/cpq1UWeSEWA)
+ - Check out my guide to connecting a 16x2 LCD to Raspberry Pi for real-time monitoring!  [Watch](https://youtu.be/Ea8ME7omdlM)
 # Channel: GitHub
   
+ - Demo: Using Claude 3.7 Sonnet with GitHub Copilot  [Watch](https://youtu.be/LHVLyqc_WBM)  
+ - Rubber Duck Thursdays! Come cowork and gab about all things open source and AI!  [Watch](https://youtu.be/AGEWZrTh0vE)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)  
  - Open Source Friday: Build full-stack web apps in pure Python 🐍  [Watch](https://youtu.be/FPOpXOqDsyE)  
- - Rubber Duck Thursdays! Come code with us!  [Watch](https://youtu.be/YKufzUw1Xuo)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/ZRgADkVL4Jo)  
- - Start Up Wednesday with Unsloth.AI  [Watch](https://youtu.be/lyVxD0bJDOk)
+ - Rubber Duck Thursdays! Come code with us!  [Watch](https://youtu.be/YKufzUw1Xuo)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - 8 Most Important Tips for Designing Fault-Tolerant System  [Watch](https://youtu.be/3Lis4w4_bBc)  
  - How the Garbage Collector Works in Java, Python, and Go!  [Watch](https://youtu.be/3Kqal7QaCCM)  
  - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)  
  - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)  
- - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)  
- - 8 Most Important System Design Concepts You Should Know  [Watch](https://youtu.be/BTjxUS_PylA)
+ - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)
