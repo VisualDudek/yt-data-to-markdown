@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
+ - Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
+ - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
  - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
- - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)  
- - Go vs Python: What Every Developer Should Know  [Watch](https://youtu.be/bhIrmT4uf1M)
+ - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)  
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)  
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)  
  - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)  
- - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)  
- - unconventional uses of dumb-init  [Watch](https://youtu.be/thqnRzzXZvQ)
+ - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)
 # Channel: Tech With Tim
   
+ - You need to hear this if you struggle with coding practice! 💻🔥  [Watch](https://youtu.be/tIxpVp7YjoY)  
  - Watch this if you’re afraid of failing! 🚨  [Watch](https://youtu.be/4BG_RIwuTdg)  
  - Please Learn How To Write Tests in Python… • Pytest Tutorial  [Watch](https://youtu.be/EgpLj86ZHFQ)  
  - How to swap variables in Python  [Watch](https://youtu.be/BhehLX-N94M)  
- - How to think like a programmer?  [Watch](https://youtu.be/qHn4rbKU7h4)  
- - Why every person should take a gap year before college  [Watch](https://youtu.be/ohWoh-mRAfk)
+ - How to think like a programmer?  [Watch](https://youtu.be/qHn4rbKU7h4)
 # Channel: hello roman
   
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
@@ -46,25 +46,25 @@ Youtube Videos
  - GitHub Copilot Release Party  [Watch](https://youtu.be/yzl7RtJZCEE)
 # Channel: Mateusz Chrobok
   
+ - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)  
  - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)  
  - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)  
  - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)  
- - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)  
- - 👻 RIP hiszpańscy szpiedzy  [Watch](https://youtu.be/vhmAM9E5AYs)
+ - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Building a ClickHouse cluster on Raspberry Pis  [Watch](https://youtu.be/MvcOoa_IlW4)  
  - CNL: Right-Sizing Kubernetes Workloads with Open Source Tooling  [Watch](https://youtu.be/v-e8gMvz6yQ)  
  - ChatLoopBackOff Episode 47 (external-secrets)  [Watch](https://youtu.be/F1VRkXR1UG0)  
  - CNL: Optimizing cost, performance, and security in K8s with policy-as-code  [Watch](https://youtu.be/O5YBwJO6FCw)  
- - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)  
- - ChatLoopBackOff Episode 51 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)
+ - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)
 # Channel: Real Python
   
+ - LLMs: Are They a Force for Good or a Necessary Evil?  [Watch](https://youtu.be/1W-xIkPbCSY)  
  - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)  
  - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)  
  - Concatenating Strings in Python Efficiently: the Plus Operator and .join()  [Watch](https://youtu.be/ceDnOVc4eaE)  
- - Don’t Just Post & Pray – How to Get Seen Online  [Watch](https://youtu.be/I1vXNnOo9Bo)  
- - Is Blogging the Ultimate SEO Cheat Code?  [Watch](https://youtu.be/Wxat8IeZ-LA)
+ - Don’t Just Post & Pray – How to Get Seen Online  [Watch](https://youtu.be/I1vXNnOo9Bo)
 # Channel: SysOps / DevOps Polska
   
  - [#542] Red Hat Developer w Erze Platform Engineering - Piotr Mińkowski  [Watch](https://youtu.be/5mcnV60ckPg)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)  
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)  
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)  
  - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)  
- - Central Log Management for Docker + Linux // Grafana Loki  [Watch](https://youtu.be/KK9FI4OfPUY)  
- - Check out my guide to connecting a 16x2 LCD to Raspberry Pi for real-time monitoring!  [Watch](https://youtu.be/Ea8ME7omdlM)
+ - Central Log Management for Docker + Linux // Grafana Loki  [Watch](https://youtu.be/KK9FI4OfPUY)
 # Channel: GitHub
   
+ - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)  
  - Demo: Using Claude 3.7 Sonnet with GitHub Copilot  [Watch](https://youtu.be/LHVLyqc_WBM)  
  - Rubber Duck Thursdays! Come cowork and gab about all things open source and AI!  [Watch](https://youtu.be/AGEWZrTh0vE)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)  
- - Open Source Friday: Build full-stack web apps in pure Python 🐍  [Watch](https://youtu.be/FPOpXOqDsyE)  
- - Rubber Duck Thursdays! Come code with us!  [Watch](https://youtu.be/YKufzUw1Xuo)
+ - Open Source Friday: Build full-stack web apps in pure Python 🐍  [Watch](https://youtu.be/FPOpXOqDsyE)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
