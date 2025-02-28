@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
  - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
  - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
- - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)  
- - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)  
- - 📊 Dashboard UI Tips You Need to Know  [Watch](https://youtu.be/q7OGeOKziUM)
+ - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
+ - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)
 # Channel: Tech With Tim
   
- - 3 Python Developer Roadmaps - That Actually Work...  [Watch](https://youtu.be/ZrK3L0IXb9c)  
- - Did you know this about the print function in Python  [Watch](https://youtu.be/zGYE1QtIsv4)  
- - Most Backend Developers miss this point🚨  [Watch](https://youtu.be/ky6k-Q7p5dc)  
- - THIS Python operator will make your code 3x shorter  [Watch](https://youtu.be/SwaLZmdpjfI)  
- - Wanna be a backend developer? You NEED to hear THIS  [Watch](https://youtu.be/V1a-dulWJz4)
+ - The best way to learn advanced topics in programming  [Watch](https://youtu.be/cQeT0kNjogU)  
+ - How to actually get good at programming?  [Watch](https://youtu.be/jKgjNo12rPs)  
+ - How to use Fstrings to debug your code?🤔  [Watch](https://youtu.be/tje5tYsMQfw)  
+ - Did you know this about FStrings in Python?  [Watch](https://youtu.be/CKrns30SVPs)  
+ - 3 Python Developer Roadmaps - That Actually Work...  [Watch](https://youtu.be/ZrK3L0IXb9c)
 # Channel: hello roman
   
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)
 # Channel: Visual Studio Code
   
+ - Use GitHub Copilot agent mode to create an application from scratch  [Watch](https://youtu.be/sYepbevm8TY)  
+ - Watch agent mode fix its own error  [Watch](https://youtu.be/V07AxFKFQuY)  
  - Edit your code without typing a single word  [Watch](https://youtu.be/91BGVx5Z0Yg)  
  - Save time creating apps with agent mode  [Watch](https://youtu.be/0DeLlagOZ9M)  
- - You should be on VS Code Insiders  [Watch](https://youtu.be/Jlr8FhBitNw)  
- - Creating an iOS app with GitHub Copilot  [Watch](https://youtu.be/8sdkzXA0bzw)  
- - This one is for everybody out there slinging docs and README’s #coding  #writing  #ai  [Watch](https://youtu.be/80ph9RYLct8)
+ - You should be on VS Code Insiders  [Watch](https://youtu.be/Jlr8FhBitNw)
 # Channel: Mateusz Chrobok
   
  - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)  
@@ -53,18 +53,18 @@ Youtube Videos
  - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)
 # Channel: Cloud Native Computing Foundation
   
- - Mastering event sourcing  [Watch](https://youtu.be/53MW-lk3vdM)  
  - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
+ - Mastering event sourcing  [Watch](https://youtu.be/53MW-lk3vdM)  
  - Cloud Native Live: Building a ClickHouse cluster on Raspberry Pis  [Watch](https://youtu.be/MvcOoa_IlW4)  
  - Transforming DevOps: Modern infrastructure management  [Watch](https://youtu.be/CysirSfBVeE)  
  - CNL: Right-Sizing Kubernetes Workloads with Open Source Tooling  [Watch](https://youtu.be/v-e8gMvz6yQ)
 # Channel: Real Python
   
+ - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)  
  - Single and Double Underscore Naming Conventions in Python: Conventions, Interfaces, & Constants  [Watch](https://youtu.be/qBcXvqQKoO8)  
  - LLMs: Are They a Force for Good or a Necessary Evil?  [Watch](https://youtu.be/1W-xIkPbCSY)  
  - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)  
- - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)  
- - Concatenating Strings in Python Efficiently: the Plus Operator and .join()  [Watch](https://youtu.be/ceDnOVc4eaE)
+ - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)
 # Channel: SysOps / DevOps Polska
   
  - Duże zmiany w Docker Hubie - ponowna apokalipsa #kubernetes #docker  [Watch](https://youtu.be/GiAhlZ-7iW4)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)  
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)  
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)  
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)  
- - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)  
- - Central Log Management for Docker + Linux // Grafana Loki  [Watch](https://youtu.be/KK9FI4OfPUY)
+ - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)
 # Channel: GitHub
   
+ - The Download: GPT-4o Copilot, Claude 3.7 Sonnet, and Create React App’s deprecation  [Watch](https://youtu.be/D9xamox68IY)  
+ - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)  
+ - How to contribute to open source projects? #shorts  [Watch](https://youtu.be/3u7wei7UT_M)  
  - Rubber Duck Thursdays! Come cowork and gab about all things open source and AI!  [Watch](https://youtu.be/AGEWZrTh0vE)  
- - GitHub’s Copilot SDK: bring AI to your favorite IDE  [Watch](https://youtu.be/aLE0ezV_Wpw)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)  
- - Open Source Friday with Piotr Skalski: Exploring Supervision  [Watch](https://youtu.be/Ya9hTzAI91I)  
- - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)
+ - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
