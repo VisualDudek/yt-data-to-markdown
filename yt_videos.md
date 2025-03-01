@@ -6,8 +6,8 @@ Youtube Videos
   
  - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
  - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
- - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
- - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
+ - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
+ - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)
 # Channel: Tech With Tim
   
+ - Why most people fail coding job interviews  [Watch](https://youtu.be/lH0JZewtihM)  
+ - THIS secret Python operator will make your code 3x shorter  [Watch](https://youtu.be/Fx4ttsA5_LQ)  
  - The best way to learn advanced topics in programming  [Watch](https://youtu.be/cQeT0kNjogU)  
  - How to actually get good at programming?  [Watch](https://youtu.be/jKgjNo12rPs)  
- - How to use Fstrings to debug your code?🤔  [Watch](https://youtu.be/tje5tYsMQfw)  
- - Did you know this about FStrings in Python?  [Watch](https://youtu.be/CKrns30SVPs)  
- - 3 Python Developer Roadmaps - That Actually Work...  [Watch](https://youtu.be/ZrK3L0IXb9c)
+ - How to use Fstrings to debug your code?🤔  [Watch](https://youtu.be/tje5tYsMQfw)
 # Channel: hello roman
   
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
@@ -95,8 +95,8 @@ Youtube Videos
  - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)
 # Channel: GitHub
   
- - The Download: GPT-4o Copilot, Claude 3.7 Sonnet, and Create React App’s deprecation  [Watch](https://youtu.be/D9xamox68IY)  
  - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)  
+ - The Download: GPT-4o Copilot, Claude 3.7 Sonnet, and Create React App’s deprecation  [Watch](https://youtu.be/D9xamox68IY)  
  - How to contribute to open source projects? #shorts  [Watch](https://youtu.be/3u7wei7UT_M)  
  - Rubber Duck Thursdays! Come cowork and gab about all things open source and AI!  [Watch](https://youtu.be/AGEWZrTh0vE)  
  - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)
