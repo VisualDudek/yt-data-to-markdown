@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
- - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
- - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
- - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)  
+ - Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
+ - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
+ - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
  - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)
 # Channel: mCoding
   
@@ -46,11 +46,11 @@ Youtube Videos
  - You should be on VS Code Insiders  [Watch](https://youtu.be/Jlr8FhBitNw)
 # Channel: Mateusz Chrobok
   
+ - Kradzież miliardów euro w białych rękawiczkach #38c3  [Watch](https://youtu.be/amZ4R6DtJT0)  
  - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)  
  - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)  
  - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)  
- - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)  
- - Jak chronić swoje pieniądze w sieci - praktyczne porady  [Watch](https://youtu.be/wdFv1NQqlaw)
+ - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)
 # Channel: SysOps / DevOps Polska
   
+ - Duża awaria Protona podczas migracji na k8s #kubernetes #devops  [Watch](https://youtu.be/F1RIfPgss_A)  
  - Duże zmiany w Docker Hubie - ponowna apokalipsa #kubernetes #docker  [Watch](https://youtu.be/GiAhlZ-7iW4)  
  - [#542] Red Hat Developer w Erze Platform Engineering - Piotr Mińkowski  [Watch](https://youtu.be/5mcnV60ckPg)  
  - Zamiast dolarów AWS przyjmie teraz złotówki #aws  [Watch](https://youtu.be/jnjCOTvmpjU)  
- - [#541]Przetwarzanie danych satelitarnych używając K8S i instancji typu Spot - P.Markowski, J.Sobczak  [Watch](https://youtu.be/vQ86Y9RX0Bg)  
- - Kilka przydatnych skryptów do Twojej konsoli: kube-ps1, kubens, kubectx #kubernetes #devops #tools  [Watch](https://youtu.be/59aCpkarSHw)
+ - [#541]Przetwarzanie danych satelitarnych używając K8S i instancji typu Spot - P.Markowski, J.Sobczak  [Watch](https://youtu.be/vQ86Y9RX0Bg)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
