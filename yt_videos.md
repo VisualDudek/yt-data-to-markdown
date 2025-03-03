@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
  - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
- - Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
- - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
- - How Python Evolves: The Fascinating Journey of PEPs  [Watch](https://youtu.be/TzpOdpdX7pE)  
- - Better Dashboard Performance in 35 Seconds  [Watch](https://youtu.be/0kE0qewcIfM)
+ - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
+ - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
+ - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)
 # Channel: Tech With Tim
   
+ - How to use social media to land a coding job in 2025!!  [Watch](https://youtu.be/AxVr1ZXluFM)  
+ - Did you know this about the Print function in Python  [Watch](https://youtu.be/gjrYcOYYP2E)  
  - Why most people fail coding job interviews  [Watch](https://youtu.be/lH0JZewtihM)  
  - THIS secret Python operator will make your code 3x shorter  [Watch](https://youtu.be/Fx4ttsA5_LQ)  
- - The best way to learn advanced topics in programming  [Watch](https://youtu.be/cQeT0kNjogU)  
- - How to actually get good at programming?  [Watch](https://youtu.be/jKgjNo12rPs)  
- - How to use Fstrings to debug your code?🤔  [Watch](https://youtu.be/tje5tYsMQfw)
+ - The best way to learn advanced topics in programming  [Watch](https://youtu.be/cQeT0kNjogU)
 # Channel: hello roman
   
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/UCpPwmiLmtI)  
  - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
  - Mastering event sourcing  [Watch](https://youtu.be/53MW-lk3vdM)  
  - Cloud Native Live: Building a ClickHouse cluster on Raspberry Pis  [Watch](https://youtu.be/MvcOoa_IlW4)  
- - Transforming DevOps: Modern infrastructure management  [Watch](https://youtu.be/CysirSfBVeE)  
- - CNL: Right-Sizing Kubernetes Workloads with Open Source Tooling  [Watch](https://youtu.be/v-e8gMvz6yQ)
+ - Transforming DevOps: Modern infrastructure management  [Watch](https://youtu.be/CysirSfBVeE)
 # Channel: Real Python
   
+ - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)  
  - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)  
  - Single and Double Underscore Naming Conventions in Python: Conventions, Interfaces, & Constants  [Watch](https://youtu.be/qBcXvqQKoO8)  
  - LLMs: Are They a Force for Good or a Necessary Evil?  [Watch](https://youtu.be/1W-xIkPbCSY)  
- - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)  
- - Telling Effective Stories With Your Python Visualizations | Real Python Podcast #238  [Watch](https://youtu.be/z5XAFyWqzl0)
+ - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)
 # Channel: SysOps / DevOps Polska
   
+ - [#543] Jak w 5 minut skonfigurować pipeline CI/CD Salesforce? - Łukasz Ceran  [Watch](https://youtu.be/GdeOvuAZKQc)  
+ - Pojawił się nowy Traefik 3.3 #kubernetes #devops  [Watch](https://youtu.be/xIGf4Yzo3js)  
  - Duża awaria Protona podczas migracji na k8s #kubernetes #devops  [Watch](https://youtu.be/F1RIfPgss_A)  
  - Duże zmiany w Docker Hubie - ponowna apokalipsa #kubernetes #docker  [Watch](https://youtu.be/GiAhlZ-7iW4)  
- - [#542] Red Hat Developer w Erze Platform Engineering - Piotr Mińkowski  [Watch](https://youtu.be/5mcnV60ckPg)  
- - Zamiast dolarów AWS przyjmie teraz złotówki #aws  [Watch](https://youtu.be/jnjCOTvmpjU)  
- - [#541]Przetwarzanie danych satelitarnych używając K8S i instancji typu Spot - P.Markowski, J.Sobczak  [Watch](https://youtu.be/vQ86Y9RX0Bg)
+ - [#542] Red Hat Developer w Erze Platform Engineering - Piotr Mińkowski  [Watch](https://youtu.be/5mcnV60ckPg)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)  
  - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)  
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)  
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)  
- - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)  
- - What is machine-to-machine authentication (in Authentik)? And how does it work?  [Watch](https://youtu.be/bS_Pey6yAjA)
+ - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
 # Channel: GitHub
   
+ - Create React App is deprecated! What’s next for React devs?  [Watch](https://youtu.be/f31Lz-rrKTY)  
+ - Getting started with GitHub Copilot | Tutorial  [Watch](https://youtu.be/n0NlxUyA7FI)  
  - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)  
  - The Download: GPT-4o Copilot, Claude 3.7 Sonnet, and Create React App’s deprecation  [Watch](https://youtu.be/D9xamox68IY)  
- - How to contribute to open source projects? #shorts  [Watch](https://youtu.be/3u7wei7UT_M)  
- - Rubber Duck Thursdays! Come cowork and gab about all things open source and AI!  [Watch](https://youtu.be/AGEWZrTh0vE)  
- - Rubber Duck Thursdays  [Watch](https://youtu.be/l4oAFiEFrl0)
+ - How to contribute to open source projects? #shorts  [Watch](https://youtu.be/3u7wei7UT_M)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
