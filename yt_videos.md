@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
+ - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)  
  - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
- - Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
+ - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
  - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)
 # Channel: mCoding
   
@@ -25,18 +25,18 @@ Youtube Videos
  - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)
 # Channel: Tech With Tim
   
+ - This Free AI Coding Assistant Might Destroy Cursor...  [Watch](https://youtu.be/RzupEPRF6As)  
+ - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/0LzK2ujam9o)  
  - How to use social media to land a coding job in 2025!!  [Watch](https://youtu.be/AxVr1ZXluFM)  
  - Did you know this about the Print function in Python  [Watch](https://youtu.be/gjrYcOYYP2E)  
- - Why most people fail coding job interviews  [Watch](https://youtu.be/lH0JZewtihM)  
- - THIS secret Python operator will make your code 3x shorter  [Watch](https://youtu.be/Fx4ttsA5_LQ)  
- - The best way to learn advanced topics in programming  [Watch](https://youtu.be/cQeT0kNjogU)
+ - Why most people fail coding job interviews  [Watch](https://youtu.be/lH0JZewtihM)
 # Channel: hello roman
   
+ - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
  - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
  - [Kurs Zaawansowany UI | 08] Animacje na scroll + GSAP ScrollTrigger  [Watch](https://youtu.be/srkezHzMCPU)  
  - [Kurs Zaawansowany UI | 07] Zaawansowane animacje SVG  [Watch](https://youtu.be/Jbwut40SnAY)  
- - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)  
- - [Kurs Zaawansowany UI | 05] Animowane przyciski  [Watch](https://youtu.be/uUqrqnTlHf4)
+ - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
  - Use GitHub Copilot agent mode to create an application from scratch  [Watch](https://youtu.be/sYepbevm8TY)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)
 # Channel: Cloud Native Computing Foundation
   
+ - CNCF Deaf and Hard of Hearing WG at KubeCon + CloudNativeCon North America 2024  [Watch](https://youtu.be/bY8bb_SkDxQ)  
+ - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)  
  - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/UCpPwmiLmtI)  
  - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
- - Mastering event sourcing  [Watch](https://youtu.be/53MW-lk3vdM)  
- - Cloud Native Live: Building a ClickHouse cluster on Raspberry Pis  [Watch](https://youtu.be/MvcOoa_IlW4)  
- - Transforming DevOps: Modern infrastructure management  [Watch](https://youtu.be/CysirSfBVeE)
+ - Mastering event sourcing  [Watch](https://youtu.be/53MW-lk3vdM)
 # Channel: Real Python
   
  - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
 # Channel: GitHub
   
+ - Claude 3.7 Sonnet is HERE! Smarter, faster AI for developers  [Watch](https://youtu.be/nFtkDmRX_ZU)  
+ - Copilot agent mode new features in Visual Studio Code | GitHub Checkout  [Watch](https://youtu.be/aKx5I0Mrr9g)  
  - Create React App is deprecated! What’s next for React devs?  [Watch](https://youtu.be/f31Lz-rrKTY)  
  - Getting started with GitHub Copilot | Tutorial  [Watch](https://youtu.be/n0NlxUyA7FI)  
- - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)  
- - The Download: GPT-4o Copilot, Claude 3.7 Sonnet, and Create React App’s deprecation  [Watch](https://youtu.be/D9xamox68IY)  
- - How to contribute to open source projects? #shorts  [Watch](https://youtu.be/3u7wei7UT_M)
+ - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
