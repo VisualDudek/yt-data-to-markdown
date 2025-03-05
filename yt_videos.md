@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)  
- - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
- - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)  
- - How Python Evolves: From PEP to Feature  [Watch](https://youtu.be/TzpOdpdX7pE)
+ - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
+ - 🏗️ How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
+ - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
+ - Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
+ - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)  
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)  
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)  
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)  
- - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)  
- - I deleted all my go projects.  [Watch](https://youtu.be/xuv9A7CJF54)
+ - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)
 # Channel: Tech With Tim
   
+ - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/gc0xJB7Zo2U)  
  - This Free AI Coding Assistant Might Destroy Cursor...  [Watch](https://youtu.be/RzupEPRF6As)  
  - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/0LzK2ujam9o)  
  - How to use social media to land a coding job in 2025!!  [Watch](https://youtu.be/AxVr1ZXluFM)  
- - Did you know this about the Print function in Python  [Watch](https://youtu.be/gjrYcOYYP2E)  
- - Why most people fail coding job interviews  [Watch](https://youtu.be/lH0JZewtihM)
+ - Did you know this about the Print function in Python  [Watch](https://youtu.be/gjrYcOYYP2E)
 # Channel: hello roman
   
  - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
@@ -39,32 +39,32 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
+ - 🔴 Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
  - Use GitHub Copilot agent mode to create an application from scratch  [Watch](https://youtu.be/sYepbevm8TY)  
  - Watch agent mode fix its own error  [Watch](https://youtu.be/V07AxFKFQuY)  
  - Edit your code without typing a single word  [Watch](https://youtu.be/91BGVx5Z0Yg)  
- - Save time creating apps with agent mode  [Watch](https://youtu.be/0DeLlagOZ9M)  
- - You should be on VS Code Insiders  [Watch](https://youtu.be/Jlr8FhBitNw)
+ - Save time creating apps with agent mode  [Watch](https://youtu.be/0DeLlagOZ9M)
 # Channel: Mateusz Chrobok
   
+ - 🪐 Zaatakowano Polską Agencję Kosmiczną  [Watch](https://youtu.be/ICH6H43u-zQ)  
  - Kradzież miliardów euro w białych rękawiczkach #38c3  [Watch](https://youtu.be/amZ4R6DtJT0)  
  - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)  
  - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)  
- - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)  
- - 💳 Nie podawaj danych karty  [Watch](https://youtu.be/TAI15StZ3m0)
+ - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)
 # Channel: Cloud Native Computing Foundation
   
- - CNCF Deaf and Hard of Hearing WG at KubeCon + CloudNativeCon North America 2024  [Watch](https://youtu.be/bY8bb_SkDxQ)  
+ - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)  
  - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)  
+ - CNCF Deaf and Hard of Hearing WG at KubeCon + CloudNativeCon North America 2024  [Watch](https://youtu.be/bY8bb_SkDxQ)  
  - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/UCpPwmiLmtI)  
- - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)  
- - Mastering event sourcing  [Watch](https://youtu.be/53MW-lk3vdM)
+ - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)
 # Channel: Real Python
   
+ - How AI Is Revolutionizing Debugging and Coding  [Watch](https://youtu.be/8G3fGsPvGM8)  
  - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)  
  - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)  
  - Single and Double Underscore Naming Conventions in Python: Conventions, Interfaces, & Constants  [Watch](https://youtu.be/qBcXvqQKoO8)  
- - LLMs: Are They a Force for Good or a Necessary Evil?  [Watch](https://youtu.be/1W-xIkPbCSY)  
- - How to Build Credibility Online in Just 6 Months  [Watch](https://youtu.be/XCsQjlOLqjY)
+ - LLMs: Are They a Force for Good or a Necessary Evil?  [Watch](https://youtu.be/1W-xIkPbCSY)
 # Channel: SysOps / DevOps Polska
   
  - [#543] Jak w 5 minut skonfigurować pipeline CI/CD Salesforce? - Łukasz Ceran  [Watch](https://youtu.be/GdeOvuAZKQc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
 # Channel: GitHub
   
+ - New to Git? Learn the essentials with GitHub for Beginners  [Watch](https://youtu.be/25zuoVxzZo0)  
+ - Rubber Duck Thursdays - Let's make some games!  [Watch](https://youtu.be/MpLRTak4oLQ)  
  - Claude 3.7 Sonnet is HERE! Smarter, faster AI for developers  [Watch](https://youtu.be/nFtkDmRX_ZU)  
  - Copilot agent mode new features in Visual Studio Code | GitHub Checkout  [Watch](https://youtu.be/aKx5I0Mrr9g)  
- - Create React App is deprecated! What’s next for React devs?  [Watch](https://youtu.be/f31Lz-rrKTY)  
- - Getting started with GitHub Copilot | Tutorial  [Watch](https://youtu.be/n0NlxUyA7FI)  
- - Open Source Friday with Angular's Mark Techson  [Watch](https://youtu.be/SzBC6_JVr6g)
+ - Create React App is deprecated! What’s next for React devs?  [Watch](https://youtu.be/f31Lz-rrKTY)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - What Is the Most Popular Open-Source AI Stack?  [Watch](https://youtu.be/hFURlsMwU7c)  
  - 8 Most Important Tips for Designing Fault-Tolerant System  [Watch](https://youtu.be/3Lis4w4_bBc)  
  - How the Garbage Collector Works in Java, Python, and Go!  [Watch](https://youtu.be/3Kqal7QaCCM)  
  - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)  
- - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)  
- - API Vs SDK! What's the difference?  [Watch](https://youtu.be/GhX8sNyFo5w)
+ - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)
