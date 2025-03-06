@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
- - 🏗️ How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
- - Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
+ - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
+ - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)  
+ - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
  - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)
 # Channel: Tech With Tim
   
+ - The BIGGEST mistake you can make when learning how to code  [Watch](https://youtu.be/BmevKlUq-vU)  
  - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/gc0xJB7Zo2U)  
  - This Free AI Coding Assistant Might Destroy Cursor...  [Watch](https://youtu.be/RzupEPRF6As)  
  - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/0LzK2ujam9o)  
- - How to use social media to land a coding job in 2025!!  [Watch](https://youtu.be/AxVr1ZXluFM)  
- - Did you know this about the Print function in Python  [Watch](https://youtu.be/gjrYcOYYP2E)
+ - How to use social media to land a coding job in 2025!!  [Watch](https://youtu.be/AxVr1ZXluFM)
 # Channel: hello roman
   
  - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
@@ -39,39 +39,39 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
+ - Hide or Show Search Results  [Watch](https://youtu.be/EE39NVYnHB0)  
+ - Copilot Edits and Agent Mode Updates!  [Watch](https://youtu.be/WwJPIN5zldY)  
+ - File Limit Removed!  [Watch](https://youtu.be/7IROXOmmbmo)  
  - 🔴 Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
- - Use GitHub Copilot agent mode to create an application from scratch  [Watch](https://youtu.be/sYepbevm8TY)  
- - Watch agent mode fix its own error  [Watch](https://youtu.be/V07AxFKFQuY)  
- - Edit your code without typing a single word  [Watch](https://youtu.be/91BGVx5Z0Yg)  
- - Save time creating apps with agent mode  [Watch](https://youtu.be/0DeLlagOZ9M)
+ - Use GitHub Copilot agent mode to create an application from scratch  [Watch](https://youtu.be/sYepbevm8TY)
 # Channel: Mateusz Chrobok
   
+ - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)  
  - 🪐 Zaatakowano Polską Agencję Kosmiczną  [Watch](https://youtu.be/ICH6H43u-zQ)  
  - Kradzież miliardów euro w białych rękawiczkach #38c3  [Watch](https://youtu.be/amZ4R6DtJT0)  
  - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)  
- - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)  
- - 👺 Uważaj szukając pracy w IT!  [Watch](https://youtu.be/t0CAfOBkae8)
+ - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
+ - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
  - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)  
- - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)  
- - CNCF Deaf and Hard of Hearing WG at KubeCon + CloudNativeCon North America 2024  [Watch](https://youtu.be/bY8bb_SkDxQ)  
- - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/UCpPwmiLmtI)  
- - ChatLoopBackOff Episode 48 (Kubewarden)  [Watch](https://youtu.be/46VGMAH_8jY)
+ - Opening Pull Requests with AI for Infrastructure Issues  [Watch](https://youtu.be/2J0yUtnn2KQ)  
+ - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)
 # Channel: Real Python
   
+ - Working With Python Polars: Getting Started with DataFrames  [Watch](https://youtu.be/9IrMz0wbp5Q)  
  - How AI Is Revolutionizing Debugging and Coding  [Watch](https://youtu.be/8G3fGsPvGM8)  
  - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)  
  - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)  
- - Single and Double Underscore Naming Conventions in Python: Conventions, Interfaces, & Constants  [Watch](https://youtu.be/qBcXvqQKoO8)  
- - LLMs: Are They a Force for Good or a Necessary Evil?  [Watch](https://youtu.be/1W-xIkPbCSY)
+ - Single and Double Underscore Naming Conventions in Python: Conventions, Interfaces, & Constants  [Watch](https://youtu.be/qBcXvqQKoO8)
 # Channel: SysOps / DevOps Polska
   
+ - Ubuntu uruchamia program wsparcia dla k8s #kubernetes  [Watch](https://youtu.be/7Y4fKdCfQks)  
  - [#543] Jak w 5 minut skonfigurować pipeline CI/CD Salesforce? - Łukasz Ceran  [Watch](https://youtu.be/GdeOvuAZKQc)  
  - Pojawił się nowy Traefik 3.3 #kubernetes #devops  [Watch](https://youtu.be/xIGf4Yzo3js)  
  - Duża awaria Protona podczas migracji na k8s #kubernetes #devops  [Watch](https://youtu.be/F1RIfPgss_A)  
- - Duże zmiany w Docker Hubie - ponowna apokalipsa #kubernetes #docker  [Watch](https://youtu.be/GiAhlZ-7iW4)  
- - [#542] Red Hat Developer w Erze Platform Engineering - Piotr Mińkowski  [Watch](https://youtu.be/5mcnV60ckPg)
+ - Duże zmiany w Docker Hubie - ponowna apokalipsa #kubernetes #docker  [Watch](https://youtu.be/GiAhlZ-7iW4)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
 # Channel: GitHub
   
- - New to Git? Learn the essentials with GitHub for Beginners  [Watch](https://youtu.be/25zuoVxzZo0)  
+ - Rubber Duck Thursdays | Let's try Agent Mode!  [Watch](https://youtu.be/qEhilLX1II0)  
  - Rubber Duck Thursdays - Let's make some games!  [Watch](https://youtu.be/MpLRTak4oLQ)  
+ - New to Git? Learn the essentials with GitHub for Beginners  [Watch](https://youtu.be/25zuoVxzZo0)  
  - Claude 3.7 Sonnet is HERE! Smarter, faster AI for developers  [Watch](https://youtu.be/nFtkDmRX_ZU)  
- - Copilot agent mode new features in Visual Studio Code | GitHub Checkout  [Watch](https://youtu.be/aKx5I0Mrr9g)  
- - Create React App is deprecated! What’s next for React devs?  [Watch](https://youtu.be/f31Lz-rrKTY)
+ - Copilot agent mode new features in Visual Studio Code | GitHub Checkout  [Watch](https://youtu.be/aKx5I0Mrr9g)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
