@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
- - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)  
- - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)  
- - 🔁 Why Async Servers Beat Sync Servers  [Watch](https://youtu.be/-qgfkLmx0WM)
+ - 12 Must-Know Python Built-in Functions  [Watch](https://youtu.be/ho24rK_AYrQ)  
+ - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
+ - 🏗️ How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
+ - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
+ - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)
 # Channel: Tech With Tim
   
+ - Master These 3 Software Design Principles... or Stay a Beginner  [Watch](https://youtu.be/1ZM88C_CLDY)  
  - The BIGGEST mistake you can make when learning how to code  [Watch](https://youtu.be/BmevKlUq-vU)  
  - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/gc0xJB7Zo2U)  
  - This Free AI Coding Assistant Might Destroy Cursor...  [Watch](https://youtu.be/RzupEPRF6As)  
- - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/0LzK2ujam9o)  
- - How to use social media to land a coding job in 2025!!  [Watch](https://youtu.be/AxVr1ZXluFM)
+ - Is THIS the weirdest thing about Python?  [Watch](https://youtu.be/0LzK2ujam9o)
 # Channel: hello roman
   
  - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
+ - 🔴 Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
  - Hide or Show Search Results  [Watch](https://youtu.be/EE39NVYnHB0)  
  - Copilot Edits and Agent Mode Updates!  [Watch](https://youtu.be/WwJPIN5zldY)  
  - File Limit Removed!  [Watch](https://youtu.be/7IROXOmmbmo)  
- - 🔴 Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
  - Use GitHub Copilot agent mode to create an application from scratch  [Watch](https://youtu.be/sYepbevm8TY)
 # Channel: Mateusz Chrobok
   
+ - 💾 Paragon może być problemem  [Watch](https://youtu.be/MFCL6DqCFNA)  
  - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)  
  - 🪐 Zaatakowano Polską Agencję Kosmiczną  [Watch](https://youtu.be/ICH6H43u-zQ)  
  - Kradzież miliardów euro w białych rękawiczkach #38c3  [Watch](https://youtu.be/amZ4R6DtJT0)  
- - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)  
- - Krypto-scamy celebrytów, polityków…  [Watch](https://youtu.be/o5ifKmdyeNI)
+ - 💸 Czy trzeba biec do bankomatu?  [Watch](https://youtu.be/EI0Z9IjwtLw)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
@@ -60,11 +60,11 @@ Youtube Videos
  - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)
 # Channel: Real Python
   
+ - Eric Matthes: Maybe Don't Start With Unit Tests | Real Python Podcast #242  [Watch](https://youtu.be/n76lTrN0o_Q)  
  - Working With Python Polars: Getting Started with DataFrames  [Watch](https://youtu.be/9IrMz0wbp5Q)  
  - How AI Is Revolutionizing Debugging and Coding  [Watch](https://youtu.be/8G3fGsPvGM8)  
  - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)  
- - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)  
- - Single and Double Underscore Naming Conventions in Python: Conventions, Interfaces, & Constants  [Watch](https://youtu.be/qBcXvqQKoO8)
+ - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)
 # Channel: SysOps / DevOps Polska
   
  - Ubuntu uruchamia program wsparcia dla k8s #kubernetes  [Watch](https://youtu.be/7Y4fKdCfQks)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
 # Channel: GitHub
   
+ - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)  
+ - GitHub Copilot is now FREE on mobile & CLI!  [Watch](https://youtu.be/X_6yVwYkrrc)  
+ - From product manager to CEO -  startup secrets from Dani Grant, founder of Jam  [Watch](https://youtu.be/fBy6XUsYya8)  
  - Rubber Duck Thursdays | Let's try Agent Mode!  [Watch](https://youtu.be/qEhilLX1II0)  
- - Rubber Duck Thursdays - Let's make some games!  [Watch](https://youtu.be/MpLRTak4oLQ)  
- - New to Git? Learn the essentials with GitHub for Beginners  [Watch](https://youtu.be/25zuoVxzZo0)  
- - Claude 3.7 Sonnet is HERE! Smarter, faster AI for developers  [Watch](https://youtu.be/nFtkDmRX_ZU)  
- - Copilot agent mode new features in Visual Studio Code | GitHub Checkout  [Watch](https://youtu.be/aKx5I0Mrr9g)
+ - Rubber Duck Thursdays - Let's make some games!  [Watch](https://youtu.be/MpLRTak4oLQ)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
