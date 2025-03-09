@@ -6,8 +6,8 @@ Youtube Videos
   
  - 12 Must-Know Python Built-in Functions  [Watch](https://youtu.be/ho24rK_AYrQ)  
  - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
- - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)  
+ - 🏗️ How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
+ - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
  - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)
 # Channel: Tech With Tim
   
+ - How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/G5djZjdxVvo)  
  - The BEST way to format strings in Python  [Watch](https://youtu.be/SpvSOhh8mBo)  
  - Do THIS before you start working on a new coding project  [Watch](https://youtu.be/w6XE780LXOY)  
  - PLEASE Master These 3 Software Design Principles...  [Watch](https://youtu.be/1ZM88C_CLDY)  
- - The BIGGEST mistake you can make when learning how to code  [Watch](https://youtu.be/BmevKlUq-vU)  
- - This Free AI Coding Assistant Might Destroy Cursor...  [Watch](https://youtu.be/RzupEPRF6As)
+ - The BIGGEST mistake you can make when learning how to code  [Watch](https://youtu.be/BmevKlUq-vU)
 # Channel: hello roman
   
  - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
+ - Inline Terminal Commands with Copilot Edits  [Watch](https://youtu.be/MgD1pkBCp4Y)  
  - Watch Live Preview in Action with Copilot Edits  [Watch](https://youtu.be/RwmnExqSqpg)  
  - 🔴 VS Code - Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
  - Hide or Show Search Results  [Watch](https://youtu.be/EE39NVYnHB0)  
- - Copilot Edits and Agent Mode Updates!  [Watch](https://youtu.be/WwJPIN5zldY)  
- - File Limit Removed!  [Watch](https://youtu.be/7IROXOmmbmo)
+ - Copilot Edits and Agent Mode Updates!  [Watch](https://youtu.be/WwJPIN5zldY)
 # Channel: Mateusz Chrobok
   
+ - Ukradli PÓŁTORA MILIARDA DOLARÓW!  [Watch](https://youtu.be/VSDqlI3RJsc)  
  - 🦊 Firefox podsłuchuje?  [Watch](https://youtu.be/QudZNHjDXK8)  
  - 💾 Paragon może być problemem  [Watch](https://youtu.be/MFCL6DqCFNA)  
  - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)  
- - 🪐 Zaatakowano Polską Agencję Kosmiczną  [Watch](https://youtu.be/ICH6H43u-zQ)  
- - Kradzież miliardów euro w białych rękawiczkach #38c3  [Watch](https://youtu.be/amZ4R6DtJT0)
+ - 🪐 Zaatakowano Polską Agencję Kosmiczną  [Watch](https://youtu.be/ICH6H43u-zQ)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
 # Channel: GitHub
   
+ - How to get noticed by venture capitalists #shorts  [Watch](https://youtu.be/3EL8ubXTfzo)  
  - Better code completions in an instant ⚡️  [Watch](https://youtu.be/r4T7rnU2AB8)  
  - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)  
  - GitHub Copilot is now FREE on mobile & CLI!  [Watch](https://youtu.be/X_6yVwYkrrc)  
- - From product manager to CEO -  startup secrets from Dani Grant, founder of Jam  [Watch](https://youtu.be/fBy6XUsYya8)  
- - Rubber Duck Thursdays | Let's try Agent Mode!  [Watch](https://youtu.be/qEhilLX1II0)
+ - From product manager to CEO -  startup secrets from Dani Grant, founder of Jam  [Watch](https://youtu.be/fBy6XUsYya8)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
