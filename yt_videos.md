@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
  - 12 Must-Know Python Built-in Functions  [Watch](https://youtu.be/ho24rK_AYrQ)  
  - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
- - 🏗️ How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Pythonistas  [Watch](https://youtu.be/kBVZgCrdVCw)  
- - 🤔 Choosing Between Streamlit, Dash, and Taipy  [Watch](https://youtu.be/vhE-kur_Dc4)
+ - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
+ - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
+ - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)  
  - Inline Terminal Commands with Copilot Edits  [Watch](https://youtu.be/MgD1pkBCp4Y)  
  - Watch Live Preview in Action with Copilot Edits  [Watch](https://youtu.be/RwmnExqSqpg)  
  - 🔴 VS Code - Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
- - Hide or Show Search Results  [Watch](https://youtu.be/EE39NVYnHB0)  
- - Copilot Edits and Agent Mode Updates!  [Watch](https://youtu.be/WwJPIN5zldY)
+ - Hide or Show Search Results  [Watch](https://youtu.be/EE39NVYnHB0)
 # Channel: Mateusz Chrobok
   
- - Ukradli PÓŁTORA MILIARDA DOLARÓW!  [Watch](https://youtu.be/VSDqlI3RJsc)  
+ - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)  
+ - Ukradli PÓŁTORA MILIARDA DOLARÓW! #bybit  [Watch](https://youtu.be/VSDqlI3RJsc)  
  - 🦊 Firefox podsłuchuje?  [Watch](https://youtu.be/QudZNHjDXK8)  
  - 💾 Paragon może być problemem  [Watch](https://youtu.be/MFCL6DqCFNA)  
- - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)  
- - 🪐 Zaatakowano Polską Agencję Kosmiczną  [Watch](https://youtu.be/ICH6H43u-zQ)
+ - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)
 # Channel: Real Python
   
+ - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)  
  - Eric Matthes: Maybe Don't Start With Unit Tests | Real Python Podcast #242  [Watch](https://youtu.be/n76lTrN0o_Q)  
  - Working With Python Polars: Getting Started with DataFrames  [Watch](https://youtu.be/9IrMz0wbp5Q)  
  - How AI Is Revolutionizing Debugging and Coding  [Watch](https://youtu.be/8G3fGsPvGM8)  
- - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)  
- - Deciphering Python Jargon & Compiling Python 1.0 | Real Python Podcast #241  [Watch](https://youtu.be/nfJclVoFfTU)
+ - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)
 # Channel: SysOps / DevOps Polska
   
+ - Nowa strategia aktualizacji w AWS EKS #kubernetes #devops  [Watch](https://youtu.be/kXJhFlk0szY)  
  - Ubuntu uruchamia program wsparcia dla k8s #kubernetes  [Watch](https://youtu.be/7Y4fKdCfQks)  
  - [#543] Jak w 5 minut skonfigurować pipeline CI/CD Salesforce? - Łukasz Ceran  [Watch](https://youtu.be/GdeOvuAZKQc)  
  - Pojawił się nowy Traefik 3.3 #kubernetes #devops  [Watch](https://youtu.be/xIGf4Yzo3js)  
- - Duża awaria Protona podczas migracji na k8s #kubernetes #devops  [Watch](https://youtu.be/F1RIfPgss_A)  
- - Duże zmiany w Docker Hubie - ponowna apokalipsa #kubernetes #docker  [Watch](https://youtu.be/GiAhlZ-7iW4)
+ - Duża awaria Protona podczas migracji na k8s #kubernetes #devops  [Watch](https://youtu.be/F1RIfPgss_A)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)  
  - What Is the Most Popular Open-Source AI Stack?  [Watch](https://youtu.be/hFURlsMwU7c)  
  - 8 Most Important Tips for Designing Fault-Tolerant System  [Watch](https://youtu.be/3Lis4w4_bBc)  
  - How the Garbage Collector Works in Java, Python, and Go!  [Watch](https://youtu.be/3Kqal7QaCCM)  
- - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)  
- - What is a LOAD BALANCER really about?  [Watch](https://youtu.be/LQuuoHTyYz8)
+ - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)
