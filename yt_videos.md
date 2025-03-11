@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
- - 12 Must-Know Python Built-in Functions  [Watch](https://youtu.be/ho24rK_AYrQ)  
- - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
+ - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)  
+ - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
  - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
  - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)
 # Channel: Tech With Tim
   
+ - My 5 "Clean" Code Principles (Start These Now)  [Watch](https://youtu.be/kfyo-N-xAwE)  
+ - THIS hack will make documenting your code 10x easier  [Watch](https://youtu.be/OBPiadb9hjU)  
+ - Why coding is the #1 skill to learn in 2025  [Watch](https://youtu.be/cWWDYIUzlvE)  
  - How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/G5djZjdxVvo)  
- - The BEST way to format strings in Python  [Watch](https://youtu.be/SpvSOhh8mBo)  
- - Do THIS before you start working on a new coding project  [Watch](https://youtu.be/w6XE780LXOY)  
- - PLEASE Master These 3 Software Design Principles...  [Watch](https://youtu.be/1ZM88C_CLDY)  
- - The BIGGEST mistake you can make when learning how to code  [Watch](https://youtu.be/BmevKlUq-vU)
+ - The BEST way to format strings in Python  [Watch](https://youtu.be/SpvSOhh8mBo)
 # Channel: hello roman
   
  - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
 # Channel: Visual Studio Code
   
+ - Customizing Copilot with Custom Instructions  [Watch](https://youtu.be/nxpQlHTvE7E)  
  - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)  
  - Inline Terminal Commands with Copilot Edits  [Watch](https://youtu.be/MgD1pkBCp4Y)  
  - Watch Live Preview in Action with Copilot Edits  [Watch](https://youtu.be/RwmnExqSqpg)  
- - 🔴 VS Code - Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)  
- - Hide or Show Search Results  [Watch](https://youtu.be/EE39NVYnHB0)
+ - 🔴 VS Code - Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)
 # Channel: Mateusz Chrobok
   
  - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)
 # Channel: Cloud Native Computing Foundation
   
+ - Deaf in Cloud Native Meet Up  [Watch](https://youtu.be/BucO0shTeYM)  
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
  - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)  
- - Opening Pull Requests with AI for Infrastructure Issues  [Watch](https://youtu.be/2J0yUtnn2KQ)  
- - Cloud Native Live: Insights from the Radar  [Watch](https://youtu.be/Sxnqk6EoB-s)
+ - Opening Pull Requests with AI for Infrastructure Issues  [Watch](https://youtu.be/2J0yUtnn2KQ)
 # Channel: Real Python
   
  - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)  
@@ -67,11 +67,11 @@ Youtube Videos
  - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)
 # Channel: SysOps / DevOps Polska
   
+ - [#544] Observability query languages, the past, present and the future - Jacek Migdał  [Watch](https://youtu.be/zzmEUKcv_9Q)  
  - Nowa strategia aktualizacji w AWS EKS #kubernetes #devops  [Watch](https://youtu.be/kXJhFlk0szY)  
  - Ubuntu uruchamia program wsparcia dla k8s #kubernetes  [Watch](https://youtu.be/7Y4fKdCfQks)  
  - [#543] Jak w 5 minut skonfigurować pipeline CI/CD Salesforce? - Łukasz Ceran  [Watch](https://youtu.be/GdeOvuAZKQc)  
- - Pojawił się nowy Traefik 3.3 #kubernetes #devops  [Watch](https://youtu.be/xIGf4Yzo3js)  
- - Duża awaria Protona podczas migracji na k8s #kubernetes #devops  [Watch](https://youtu.be/F1RIfPgss_A)
+ - Pojawił się nowy Traefik 3.3 #kubernetes #devops  [Watch](https://youtu.be/xIGf4Yzo3js)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)  
  - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)  
  - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)  
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)  
- - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)  
- - Understanding logs vs metrics  [Watch](https://youtu.be/zzK8B0MhUho)
+ - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)
 # Channel: GitHub
   
+ - Validate your startup idea with these 2 easy tricks #shorts  [Watch](https://youtu.be/Fly1UXdKMqA)  
+ - Faster AI with minimal compute power - Unsloth’s open source AI story | GitHub Accelerator  [Watch](https://youtu.be/6t2zv4QXd6c)  
  - How to get noticed by venture capitalists #shorts  [Watch](https://youtu.be/3EL8ubXTfzo)  
  - Better code completions in an instant ⚡️  [Watch](https://youtu.be/r4T7rnU2AB8)  
- - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)  
- - GitHub Copilot is now FREE on mobile & CLI!  [Watch](https://youtu.be/X_6yVwYkrrc)  
- - From product manager to CEO -  startup secrets from Dani Grant, founder of Jam  [Watch](https://youtu.be/fBy6XUsYya8)
+ - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)
 # Channel: CloudHeroes - Video
   
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
