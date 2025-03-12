@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
- - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)  
- - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
- - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)  
- - An Introduction to Typescript for Python Programmers  [Watch](https://youtu.be/kBVZgCrdVCw)
+ - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
+ - 12 Must-Know Python Built-in Functions  [Watch](https://youtu.be/ho24rK_AYrQ)  
+ - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
+ - 🏗️ How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,60 +18,60 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)  
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)  
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)  
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)  
- - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)  
- - python is too slow...  [Watch](https://youtu.be/FFoeU3t-N4c)
+ - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - How to measure the speed of your code in Python?  [Watch](https://youtu.be/xU9pZHh-9gE)  
  - My 5 "Clean" Code Principles (Start These Now)  [Watch](https://youtu.be/kfyo-N-xAwE)  
  - THIS hack will make documenting your code 10x easier  [Watch](https://youtu.be/OBPiadb9hjU)  
  - Why coding is the #1 skill to learn in 2025  [Watch](https://youtu.be/cWWDYIUzlvE)  
- - How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/G5djZjdxVvo)  
- - The BEST way to format strings in Python  [Watch](https://youtu.be/SpvSOhh8mBo)
+ - How I Built a Web Scraping AI Agent - Use AI To Scrape ANYTHING  [Watch](https://youtu.be/G5djZjdxVvo)
 # Channel: hello roman
   
- - Programiści kontra estymacje ⏰  Hello Roman  [Watch](https://youtu.be/QkJ8WzgHPuk)  
- - Q&A 2025 ❓ Hello Roman  [Watch](https://youtu.be/8aCN2-puJpM)  
- - [Kurs Zaawansowany UI | 08] Animacje na scroll + GSAP ScrollTrigger  [Watch](https://youtu.be/srkezHzMCPU)  
- - [Kurs Zaawansowany UI | 07] Zaawansowane animacje SVG  [Watch](https://youtu.be/Jbwut40SnAY)  
- - [Kurs Zaawansowany UI | 06] Ciekawe przejścia + GSAP  [Watch](https://youtu.be/7rtNmrVIxA8)
+ - [Kurs Projekt od A do Z | 03] Pisanie tekstów  [Watch](https://youtu.be/vTmJh0nX6Sk)  
+ - [Kurs Projekt od A do Z | 13] Style dla podstrony oferta  [Watch](https://youtu.be/vVJeRbTPT4U)  
+ - [Kurs Projekt od A do Z | 14] Style dla podstrony realizacje  [Watch](https://youtu.be/dL-0uYN72mM)  
+ - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)  
+ - [Kurs Projekt od A do Z | 10] Style dla strony głównej cz. II  [Watch](https://youtu.be/m_VhJ-5eJwQ)
 # Channel: Visual Studio Code
   
+ - Generate a *great* commit message with Copilot and save valuable time  [Watch](https://youtu.be/Uw2TWhfNpj0)  
  - Customizing Copilot with Custom Instructions  [Watch](https://youtu.be/nxpQlHTvE7E)  
  - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)  
  - Inline Terminal Commands with Copilot Edits  [Watch](https://youtu.be/MgD1pkBCp4Y)  
- - Watch Live Preview in Action with Copilot Edits  [Watch](https://youtu.be/RwmnExqSqpg)  
- - 🔴 VS Code - Agent Mode UPGRADE!  [Watch](https://youtu.be/Pe8ghwTMFlg)
+ - Watch Live Preview in Action with Copilot Edits  [Watch](https://youtu.be/RwmnExqSqpg)
 # Channel: Mateusz Chrobok
   
+ - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)  
  - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)  
  - Ukradli PÓŁTORA MILIARDA DOLARÓW! #bybit  [Watch](https://youtu.be/VSDqlI3RJsc)  
  - 🦊 Firefox podsłuchuje?  [Watch](https://youtu.be/QudZNHjDXK8)  
- - 💾 Paragon może być problemem  [Watch](https://youtu.be/MFCL6DqCFNA)  
- - 👨🏻‍💻 Ameryka odpuszcza ruskim, czy nie?  [Watch](https://youtu.be/tcDbLZccEd0)
+ - 💾 Paragon może być problemem  [Watch](https://youtu.be/MFCL6DqCFNA)
 # Channel: Cloud Native Computing Foundation
   
+ - CNL: Optimizing cost, performance, and security in K8s with policy-as-code  [Watch](https://youtu.be/O5YBwJO6FCw)  
  - Deaf in Cloud Native Meet Up  [Watch](https://youtu.be/BucO0shTeYM)  
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)  
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
- - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)  
- - Opening Pull Requests with AI for Infrastructure Issues  [Watch](https://youtu.be/2J0yUtnn2KQ)
+ - Cloud Native Live: Talos Linux for Kubernetes  [Watch](https://youtu.be/9H5mihhi7UM)
 # Channel: Real Python
   
+ - Stop Googling Code – Let Claude Build It Instead!  [Watch](https://youtu.be/ZkGpEIa-Smw)  
  - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)  
  - Eric Matthes: Maybe Don't Start With Unit Tests | Real Python Podcast #242  [Watch](https://youtu.be/n76lTrN0o_Q)  
  - Working With Python Polars: Getting Started with DataFrames  [Watch](https://youtu.be/9IrMz0wbp5Q)  
- - How AI Is Revolutionizing Debugging and Coding  [Watch](https://youtu.be/8G3fGsPvGM8)  
- - How Writing Skills Can Make or Break Your Influence  [Watch](https://youtu.be/5JIpF_HQEQ0)
+ - How AI Is Revolutionizing Debugging and Coding  [Watch](https://youtu.be/8G3fGsPvGM8)
 # Channel: SysOps / DevOps Polska
   
+ - Języki observability – chaos czy porządek? 🌍📊? #MeetUp #observability #JęzykiZapytań #SODO  [Watch](https://youtu.be/cy-K4BaPSII)  
+ - Poznaj naszego Partnera - Dotlaw - opowiadają Damian Klimas i Jędrzej Stępniowski  [Watch](https://youtu.be/KssD5m3CjsI)  
  - [#544] Observability query languages, the past, present and the future - Jacek Migdał  [Watch](https://youtu.be/zzmEUKcv_9Q)  
  - Nowa strategia aktualizacji w AWS EKS #kubernetes #devops  [Watch](https://youtu.be/kXJhFlk0szY)  
- - Ubuntu uruchamia program wsparcia dla k8s #kubernetes  [Watch](https://youtu.be/7Y4fKdCfQks)  
- - [#543] Jak w 5 minut skonfigurować pipeline CI/CD Salesforce? - Łukasz Ceran  [Watch](https://youtu.be/GdeOvuAZKQc)  
- - Pojawił się nowy Traefik 3.3 #kubernetes #devops  [Watch](https://youtu.be/xIGf4Yzo3js)
+ - Ubuntu uruchamia program wsparcia dla k8s #kubernetes  [Watch](https://youtu.be/7Y4fKdCfQks)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,18 +95,18 @@ Youtube Videos
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)
 # Channel: GitHub
   
+ - Advancing code completion with GPT-4o Copilot | GitHub Checkout  [Watch](https://youtu.be/vQ9C-9iv3Zs)  
+ - Why GitHub Copilot stands apart from other AI tools  [Watch](https://youtu.be/fMp_YE5OXAE)  
  - Validate your startup idea with these 2 easy tricks #shorts  [Watch](https://youtu.be/Fly1UXdKMqA)  
  - Faster AI with minimal compute power - Unsloth’s open source AI story | GitHub Accelerator  [Watch](https://youtu.be/6t2zv4QXd6c)  
- - How to get noticed by venture capitalists #shorts  [Watch](https://youtu.be/3EL8ubXTfzo)  
- - Better code completions in an instant ⚡️  [Watch](https://youtu.be/r4T7rnU2AB8)  
- - Open Source Friday with Major League Hacking  [Watch](https://youtu.be/jNnHzCmKif8)
+ - How to get noticed by venture capitalists #shorts  [Watch](https://youtu.be/3EL8ubXTfzo)
 # Channel: CloudHeroes - Video
   
+ - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
  - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)  
  - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)  
- - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)  
- - NEW - AWS Console-to-Code  [Watch](https://youtu.be/_usWUKodGy8)
+ - How to use AWS Management Console like a KING 👑  [Watch](https://youtu.be/Ki3U10-tC7U)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
