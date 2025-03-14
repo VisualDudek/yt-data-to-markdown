@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
+ - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
+ - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
  - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)  
- - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)  
- - How to Build an API Backend with Docker  [Watch](https://youtu.be/xhfxNXsJXGI)
+ - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
- - How to stand out in the tech job market in 2025?  [Watch](https://youtu.be/JllNnztdmro)  
- - How to measure the speed of your code in Python?  [Watch](https://youtu.be/xU9pZHh-9gE)  
- - My 5 "Clean" Code Principles (Start These Now)  [Watch](https://youtu.be/kfyo-N-xAwE)  
- - THIS hack will make documenting your code 10x easier  [Watch](https://youtu.be/OBPiadb9hjU)  
- - Why coding is the #1 skill to learn in 2025  [Watch](https://youtu.be/cWWDYIUzlvE)
+ - How to use the Lambda and Filter functions in python  [Watch](https://youtu.be/sKobtogSIp0)  
+ - Do you use GitHub Copilot? #CodingWithCopilot  [Watch](https://youtu.be/EPFyRRt-yZY)  
+ - THIS is why your resume gets ignored by recruiters  [Watch](https://youtu.be/LfwWjsik8aI)  
+ - Build an AI Agent From Scratch in Python - Tutorial for Beginners  [Watch](https://youtu.be/bTMPwUgLZf0)  
+ - How to stand out in the tech job market in 2025?  [Watch](https://youtu.be/JllNnztdmro)
 # Channel: hello roman
   
  - [Kurs Projekt od A do Z | 03] Pisanie tekstów  [Watch](https://youtu.be/vTmJh0nX6Sk)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 10] Style dla strony głównej cz. II  [Watch](https://youtu.be/m_VhJ-5eJwQ)
 # Channel: Visual Studio Code
   
+ - Attach instruction files to GitHub Copilot and have your mind blown. #coding #githubcopilot #vscode  [Watch](https://youtu.be/ljR5bkonsJ4)  
  - Customize code reviews and test generation in VS Code with Custom Instructions  [Watch](https://youtu.be/ocfD3o22iac)  
  - Generate a *great* commit message with Copilot and save valuable time  [Watch](https://youtu.be/Uw2TWhfNpj0)  
  - Customizing Copilot with Custom Instructions  [Watch](https://youtu.be/nxpQlHTvE7E)  
- - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)  
- - Inline Terminal Commands with Copilot Edits  [Watch](https://youtu.be/MgD1pkBCp4Y)
+ - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)
 # Channel: Mateusz Chrobok
   
+ - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)  
  - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)  
  - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)  
  - Ukradli PÓŁTORA MILIARDA DOLARÓW! #bybit  [Watch](https://youtu.be/VSDqlI3RJsc)  
- - 🦊 Firefox podsłuchuje?  [Watch](https://youtu.be/QudZNHjDXK8)  
- - 💾 Paragon może być problemem  [Watch](https://youtu.be/MFCL6DqCFNA)
+ - 🦊 Firefox podsłuchuje?  [Watch](https://youtu.be/QudZNHjDXK8)
 # Channel: Cloud Native Computing Foundation
   
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
@@ -60,11 +60,11 @@ Youtube Videos
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)
 # Channel: Real Python
   
+ - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)  
  - Introducing Duck Typing in Python  [Watch](https://youtu.be/rIWQ4584Uqk)  
  - Stop Googling Code – Let Claude Build It Instead!  [Watch](https://youtu.be/ZkGpEIa-Smw)  
  - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)  
- - Eric Matthes: Maybe Don't Start With Unit Tests | Real Python Podcast #242  [Watch](https://youtu.be/n76lTrN0o_Q)  
- - Working With Python Polars: Getting Started with DataFrames  [Watch](https://youtu.be/9IrMz0wbp5Q)
+ - Eric Matthes: Maybe Don't Start With Unit Tests | Real Python Podcast #242  [Watch](https://youtu.be/n76lTrN0o_Q)
 # Channel: SysOps / DevOps Polska
   
  - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)
 # Channel: GitHub
   
+ - Open Source Friday with Abracadabra - Automated refactoring for JS/TS  [Watch](https://youtu.be/ZldZ6AZFiio)  
+ - Happy Pi Day from GitHub  [Watch](https://youtu.be/eFGlYFu_XBE)  
  - Rubber Duck Thursdays! Ahh!  [Watch](https://youtu.be/mwwUbP8k6Qs)  
  - Automate dependency audits with GitHub Copilot  [Watch](https://youtu.be/wiDyp5nDMoI)  
- - Screens get bigger: YouTube's surprising viewing statistics  [Watch](https://youtu.be/_w-UBw5ReWM)  
- - Advancing code completion with GPT-4o Copilot | GitHub Checkout  [Watch](https://youtu.be/vQ9C-9iv3Zs)  
- - Why GitHub Copilot stands apart from other AI tools  [Watch](https://youtu.be/fMp_YE5OXAE)
+ - Screens get bigger: YouTube's surprising viewing statistics  [Watch](https://youtu.be/_w-UBw5ReWM)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
