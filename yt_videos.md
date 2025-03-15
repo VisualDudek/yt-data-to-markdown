@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
+ - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
  - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)  
- - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)
+ - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -95,11 +95,11 @@ Youtube Videos
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)
 # Channel: GitHub
   
+ - Coding with GitHub Copilot: A practical VS Code tutorial  [Watch](https://youtu.be/jp75SVVX0vI)  
  - Open Source Friday with Abracadabra - Automated refactoring for JS/TS  [Watch](https://youtu.be/ZldZ6AZFiio)  
  - Happy Pi Day from GitHub  [Watch](https://youtu.be/eFGlYFu_XBE)  
  - Rubber Duck Thursdays! Ahh!  [Watch](https://youtu.be/mwwUbP8k6Qs)  
- - Automate dependency audits with GitHub Copilot  [Watch](https://youtu.be/wiDyp5nDMoI)  
- - Screens get bigger: YouTube's surprising viewing statistics  [Watch](https://youtu.be/_w-UBw5ReWM)
+ - Automate dependency audits with GitHub Copilot  [Watch](https://youtu.be/wiDyp5nDMoI)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
