@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
+ - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
  - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)  
- - Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)
+ - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - The BIGGEST mistake people make when learning how to code  [Watch](https://youtu.be/EHWLrKHIJyE)  
  - How to use the Lambda and Filter functions in python  [Watch](https://youtu.be/sKobtogSIp0)  
  - Do you use GitHub Copilot? #CodingWithCopilot  [Watch](https://youtu.be/EPFyRRt-yZY)  
  - THIS is why your resume gets ignored by recruiters  [Watch](https://youtu.be/LfwWjsik8aI)  
- - Build an AI Agent From Scratch in Python - Tutorial for Beginners  [Watch](https://youtu.be/bTMPwUgLZf0)  
- - How to stand out in the tech job market in 2025?  [Watch](https://youtu.be/JllNnztdmro)
+ - Build an AI Agent From Scratch in Python - Tutorial for Beginners  [Watch](https://youtu.be/bTMPwUgLZf0)
 # Channel: hello roman
   
  - [Kurs Projekt od A do Z | 03] Pisanie tekstów  [Watch](https://youtu.be/vTmJh0nX6Sk)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)
 # Channel: Mateusz Chrobok
   
+ - AI-sceptycy vs reszta świata  [Watch](https://youtu.be/YhvA4FLRZgk)  
  - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)  
  - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)  
  - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)  
- - Ukradli PÓŁTORA MILIARDA DOLARÓW! #bybit  [Watch](https://youtu.be/VSDqlI3RJsc)  
- - 🦊 Firefox podsłuchuje?  [Watch](https://youtu.be/QudZNHjDXK8)
+ - Ukradli PÓŁTORA MILIARDA DOLARÓW! #bybit  [Watch](https://youtu.be/VSDqlI3RJsc)
 # Channel: Cloud Native Computing Foundation
   
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
