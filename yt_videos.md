@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
  - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
- - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)  
- - 😣 Why Devs Feel Like Imposters  [Watch](https://youtu.be/8p47JVYubgY)
+ - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
+ - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,18 +25,18 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - The ONLY hack you need to advance in programming  [Watch](https://youtu.be/hLuysDTEdsE)  
+ - Heads Up Programmers... We Are Officially In The Era of AI Agents  [Watch](https://youtu.be/eNbq9SWjzTA)  
  - The BIGGEST mistake people make when learning how to code  [Watch](https://youtu.be/EHWLrKHIJyE)  
  - How to use the Lambda and Filter functions in python  [Watch](https://youtu.be/sKobtogSIp0)  
- - Do you use GitHub Copilot? #CodingWithCopilot  [Watch](https://youtu.be/EPFyRRt-yZY)  
- - THIS is why your resume gets ignored by recruiters  [Watch](https://youtu.be/LfwWjsik8aI)  
- - Build an AI Agent From Scratch in Python - Tutorial for Beginners  [Watch](https://youtu.be/bTMPwUgLZf0)
+ - Do you use GitHub Copilot? #CodingWithCopilot  [Watch](https://youtu.be/EPFyRRt-yZY)
 # Channel: hello roman
   
+ - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
  - [Kurs Projekt od A do Z | 03] Pisanie tekstów  [Watch](https://youtu.be/vTmJh0nX6Sk)  
  - [Kurs Projekt od A do Z | 13] Style dla podstrony oferta  [Watch](https://youtu.be/vVJeRbTPT4U)  
  - [Kurs Projekt od A do Z | 14] Style dla podstrony realizacje  [Watch](https://youtu.be/dL-0uYN72mM)  
- - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)  
- - [Kurs Projekt od A do Z | 10] Style dla strony głównej cz. II  [Watch](https://youtu.be/m_VhJ-5eJwQ)
+ - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
  - Attach instruction files to GitHub Copilot and have your mind blown. #coding #githubcopilot #vscode  [Watch](https://youtu.be/ljR5bkonsJ4)  
@@ -60,11 +60,11 @@ Youtube Videos
  - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)
 # Channel: Real Python
   
+ - ChatGPT as a Data Scientist? Upload & Analyze CSV Files  [Watch](https://youtu.be/g3sqr5W-g_k)  
  - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)  
  - Introducing Duck Typing in Python  [Watch](https://youtu.be/rIWQ4584Uqk)  
  - Stop Googling Code – Let Claude Build It Instead!  [Watch](https://youtu.be/ZkGpEIa-Smw)  
- - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)  
- - Eric Matthes: Maybe Don't Start With Unit Tests | Real Python Podcast #242  [Watch](https://youtu.be/n76lTrN0o_Q)
+ - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)
 # Channel: SysOps / DevOps Polska
   
  - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)
 # Channel: GitHub
   
+ - GitHub Copilot 101 - Essential features | Tutorial  [Watch](https://youtu.be/b5xcWdzAB5c)  
  - Coding with GitHub Copilot: A practical VS Code tutorial  [Watch](https://youtu.be/jp75SVVX0vI)  
  - Open Source Friday with Abracadabra - Automated refactoring for JS/TS  [Watch](https://youtu.be/ZldZ6AZFiio)  
  - Happy Pi Day from GitHub  [Watch](https://youtu.be/eFGlYFu_XBE)  
- - Rubber Duck Thursdays! Ahh!  [Watch](https://youtu.be/mwwUbP8k6Qs)  
- - Automate dependency audits with GitHub Copilot  [Watch](https://youtu.be/wiDyp5nDMoI)
+ - Rubber Duck Thursdays! Ahh!  [Watch](https://youtu.be/mwwUbP8k6Qs)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
