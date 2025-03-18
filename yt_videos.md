@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
+ - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)  
+ - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
  - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - Did you know about this function in Python?  [Watch](https://youtu.be/fsBC6k3DbWo)  
  - The ONLY hack you need to advance in programming  [Watch](https://youtu.be/hLuysDTEdsE)  
  - Heads Up Programmers... We Are Officially In The Era of AI Agents  [Watch](https://youtu.be/eNbq9SWjzTA)  
  - The BIGGEST mistake people make when learning how to code  [Watch](https://youtu.be/EHWLrKHIJyE)  
- - How to use the Lambda and Filter functions in python  [Watch](https://youtu.be/sKobtogSIp0)  
- - Do you use GitHub Copilot? #CodingWithCopilot  [Watch](https://youtu.be/EPFyRRt-yZY)
+ - How to use the Lambda and Filter functions in python  [Watch](https://youtu.be/sKobtogSIp0)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - ALT Text Like a Boss with #githubcopilot  [Watch](https://youtu.be/UKkMqNS09cs)  
+ - Sooo meta! VS Code can screenshot itself? #Copilot Vision  [Watch](https://youtu.be/xClMXmidEBQ)  
  - Attach instruction files to GitHub Copilot and have your mind blown. #coding #githubcopilot #vscode  [Watch](https://youtu.be/ljR5bkonsJ4)  
  - Customize code reviews and test generation in VS Code with Custom Instructions  [Watch](https://youtu.be/ocfD3o22iac)  
- - Generate a *great* commit message with Copilot and save valuable time  [Watch](https://youtu.be/Uw2TWhfNpj0)  
- - Customizing Copilot with Custom Instructions  [Watch](https://youtu.be/nxpQlHTvE7E)  
- - Smaller prompts, better answers with GitHub Copilot Custom Instructions  [Watch](https://youtu.be/zwIlqbTHjac)
+ - Generate a *great* commit message with Copilot and save valuable time  [Watch](https://youtu.be/Uw2TWhfNpj0)
 # Channel: Mateusz Chrobok
   
+ - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)  
  - AI-sceptycy vs reszta świata  [Watch](https://youtu.be/YhvA4FLRZgk)  
  - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)  
  - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)  
- - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)  
- - Ukradli PÓŁTORA MILIARDA DOLARÓW! #bybit  [Watch](https://youtu.be/VSDqlI3RJsc)
+ - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)
 # Channel: Cloud Native Computing Foundation
   
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
@@ -67,11 +67,11 @@ Youtube Videos
  - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)
 # Channel: SysOps / DevOps Polska
   
+ - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)  
+ - AWS EKS Anywhere - dodatkowe wsparcie #devops #aws #eks  [Watch](https://youtu.be/htqpaH8atr0)  
  - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)  
  - Języki observability – chaos czy porządek? 🌍📊? #MeetUp #observability #JęzykiZapytań #SODO  [Watch](https://youtu.be/cy-K4BaPSII)  
- - Poznaj naszego Partnera - Dotlaw - opowiadają Damian Klimas i Jędrzej Stępniowski  [Watch](https://youtu.be/KssD5m3CjsI)  
- - [#544] Observability query languages, the past, present and the future - Jacek Migdał  [Watch](https://youtu.be/zzmEUKcv_9Q)  
- - Nowa strategia aktualizacji w AWS EKS #kubernetes #devops  [Watch](https://youtu.be/kXJhFlk0szY)
+ - Poznaj naszego Partnera - Dotlaw - opowiadają Damian Klimas i Jędrzej Stępniowski  [Watch](https://youtu.be/KssD5m3CjsI)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,11 +88,11 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)  
  - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)  
  - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)  
  - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)  
- - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)  
- - FASTEST Way to Host Your Website with Linux and Docker!  [Watch](https://youtu.be/gJxhx5wEAzA)
+ - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
 # Channel: GitHub
   
  - GitHub Copilot 101 - Essential features | Tutorial  [Watch](https://youtu.be/b5xcWdzAB5c)  
