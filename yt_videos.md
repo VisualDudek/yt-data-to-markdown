@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)  
- - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)  
- - 12 Python Built-in Functions I Use Every Day  [Watch](https://youtu.be/ho24rK_AYrQ)
+ - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
+ - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - Automate Excel With Python - How to Use Python in Spreadsheets  [Watch](https://youtu.be/ItHB3vQYoA0)  
+ - The #1 interview tip that developers need to hear  [Watch](https://youtu.be/7YtgYLvSuZw)  
  - Did you know about this function in Python?  [Watch](https://youtu.be/fsBC6k3DbWo)  
  - The ONLY hack you need to advance in programming  [Watch](https://youtu.be/hLuysDTEdsE)  
- - Heads Up Programmers... We Are Officially In The Era of AI Agents  [Watch](https://youtu.be/eNbq9SWjzTA)  
- - The BIGGEST mistake people make when learning how to code  [Watch](https://youtu.be/EHWLrKHIJyE)  
- - How to use the Lambda and Filter functions in python  [Watch](https://youtu.be/sKobtogSIp0)
+ - Heads Up Programmers... We Are Officially In The Era of AI Agents  [Watch](https://youtu.be/eNbq9SWjzTA)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,25 +46,25 @@ Youtube Videos
  - Generate a *great* commit message with Copilot and save valuable time  [Watch](https://youtu.be/Uw2TWhfNpj0)
 # Channel: Mateusz Chrobok
   
+ - 🕯️ RIP Skype  [Watch](https://youtu.be/LzOdp7geRuc)  
  - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)  
  - AI-sceptycy vs reszta świata  [Watch](https://youtu.be/YhvA4FLRZgk)  
  - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)  
- - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)  
- - 🤖 Ciąg dalszy serbskiego Pegasusa  [Watch](https://youtu.be/hYxLdPAgIVc)
+ - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Static site generators roundup with Spin  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
  - ChatLoopBackOff Episode 50 (Tekton Pipelines)  [Watch](https://youtu.be/vHnI_hty9zc)  
  - CNL: Optimizing cost, performance, and security in K8s with policy-as-code  [Watch](https://youtu.be/O5YBwJO6FCw)  
- - Deaf in Cloud Native Meet Up  [Watch](https://youtu.be/BucO0shTeYM)  
- - ChatLoopBackOff Episode 49 (Linkerd)  [Watch](https://youtu.be/WltDqvMzZIw)
+ - Deaf in Cloud Native Meet Up  [Watch](https://youtu.be/BucO0shTeYM)
 # Channel: Real Python
   
+ - Can You Hack ChatGPT to Install Any Python Library?  [Watch](https://youtu.be/c0iT383YGm4)  
  - ChatGPT as a Data Scientist? Upload & Analyze CSV Files  [Watch](https://youtu.be/g3sqr5W-g_k)  
  - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)  
  - Introducing Duck Typing in Python  [Watch](https://youtu.be/rIWQ4584Uqk)  
- - Stop Googling Code – Let Claude Build It Instead!  [Watch](https://youtu.be/ZkGpEIa-Smw)  
- - From Club to Curriculum: Python’s Impact on Education  [Watch](https://youtu.be/HpvTBz0ThF4)
+ - Stop Googling Code – Let Claude Build It Instead!  [Watch](https://youtu.be/ZkGpEIa-Smw)
 # Channel: SysOps / DevOps Polska
   
  - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
 # Channel: GitHub
   
- - GitHub Copilot 101 - Essential features | Tutorial  [Watch](https://youtu.be/b5xcWdzAB5c)  
- - Coding with GitHub Copilot: A practical VS Code tutorial  [Watch](https://youtu.be/jp75SVVX0vI)  
- - Open Source Friday with Abracadabra - Automated refactoring for JS/TS  [Watch](https://youtu.be/ZldZ6AZFiio)  
- - Happy Pi Day from GitHub  [Watch](https://youtu.be/eFGlYFu_XBE)  
- - Rubber Duck Thursdays! Ahh!  [Watch](https://youtu.be/mwwUbP8k6Qs)
+ - Open Source Friday with Zerodha's Kailash Nadh  [Watch](https://youtu.be/uoCRz6WoY4I)  
+ - Rubber Duck Thursdays - What shall we build next?  [Watch](https://youtu.be/_qPKCg5fwrI)  
+ - How GitHub Copilot Works: A Doodle ✏️  [Watch](https://youtu.be/cJ5adZtihrw)  
+ - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)  
+ - How to create checklists in Markdown on GitHub  [Watch](https://youtu.be/l1reC0v3oKo)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - What Are AI Agents Really About?  [Watch](https://youtu.be/eHEHE2fpnWQ)  
  - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)  
  - What Is the Most Popular Open-Source AI Stack?  [Watch](https://youtu.be/hFURlsMwU7c)  
  - 8 Most Important Tips for Designing Fault-Tolerant System  [Watch](https://youtu.be/3Lis4w4_bBc)  
- - How the Garbage Collector Works in Java, Python, and Go!  [Watch](https://youtu.be/3Kqal7QaCCM)  
- - System Design: Why Is Docker Important?  [Watch](https://youtu.be/QEzbZKtLi-g)
+ - How the Garbage Collector Works in Java, Python, and Go!  [Watch](https://youtu.be/3Kqal7QaCCM)
