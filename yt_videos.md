@@ -6,9 +6,9 @@ Youtube Videos
   
  - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)
+ - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)  
+ - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
+ - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - The most helpful function in Python  [Watch](https://youtu.be/kuxqlal3RgY)  
  - Automate Excel With Python - How to Use Python in Spreadsheets  [Watch](https://youtu.be/ItHB3vQYoA0)  
  - The #1 interview tip that developers need to hear  [Watch](https://youtu.be/7YtgYLvSuZw)  
  - Did you know about this function in Python?  [Watch](https://youtu.be/fsBC6k3DbWo)  
- - The ONLY hack you need to advance in programming  [Watch](https://youtu.be/hLuysDTEdsE)  
- - Heads Up Programmers... We Are Officially In The Era of AI Agents  [Watch](https://youtu.be/eNbq9SWjzTA)
+ - The ONLY hack you need to advance in programming  [Watch](https://youtu.be/hLuysDTEdsE)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,39 +39,39 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Copilot Vision is HERE! Watch It Turn Images into Code!  [Watch](https://youtu.be/pEEw7BvaK50)  
+ - Copilot Vision: From Screenshot to Code  [Watch](https://youtu.be/QjvGFMTrHeQ)  
  - ALT Text Like a Boss with #githubcopilot  [Watch](https://youtu.be/UKkMqNS09cs)  
  - Sooo meta! VS Code can screenshot itself? #Copilot Vision  [Watch](https://youtu.be/xClMXmidEBQ)  
- - Attach instruction files to GitHub Copilot and have your mind blown. #coding #githubcopilot #vscode  [Watch](https://youtu.be/ljR5bkonsJ4)  
- - Customize code reviews and test generation in VS Code with Custom Instructions  [Watch](https://youtu.be/ocfD3o22iac)  
- - Generate a *great* commit message with Copilot and save valuable time  [Watch](https://youtu.be/Uw2TWhfNpj0)
+ - Attach instruction files to GitHub Copilot and have your mind blown. #coding #githubcopilot #vscode  [Watch](https://youtu.be/ljR5bkonsJ4)
 # Channel: Mateusz Chrobok
   
+ - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)  
  - 🕯️ RIP Skype  [Watch](https://youtu.be/LzOdp7geRuc)  
  - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)  
  - AI-sceptycy vs reszta świata  [Watch](https://youtu.be/YhvA4FLRZgk)  
- - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)  
- - 💲 Czy zapytania do banku obniżają scoring?  [Watch](https://youtu.be/8jca4OuT7tk)
+ - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/VHTGNKV9lXA)  
+ - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)  
  - Cloud Native Live: Static site generators roundup with Spin  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
- - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)  
- - ChatLoopBackOff Episode 50 (Tekton Pipelines)  [Watch](https://youtu.be/vHnI_hty9zc)  
- - CNL: Optimizing cost, performance, and security in K8s with policy-as-code  [Watch](https://youtu.be/O5YBwJO6FCw)  
- - Deaf in Cloud Native Meet Up  [Watch](https://youtu.be/BucO0shTeYM)
+ - An Introduction to Crossplane: From Managed Services to Claims  [Watch](https://youtu.be/-GczeD5lUIk)  
+ - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)
 # Channel: Real Python
   
+ - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)  
  - Can You Hack ChatGPT to Install Any Python Library?  [Watch](https://youtu.be/c0iT383YGm4)  
  - ChatGPT as a Data Scientist? Upload & Analyze CSV Files  [Watch](https://youtu.be/g3sqr5W-g_k)  
  - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)  
- - Introducing Duck Typing in Python  [Watch](https://youtu.be/rIWQ4584Uqk)  
- - Stop Googling Code – Let Claude Build It Instead!  [Watch](https://youtu.be/ZkGpEIa-Smw)
+ - Introducing Duck Typing in Python  [Watch](https://youtu.be/rIWQ4584Uqk)
 # Channel: SysOps / DevOps Polska
   
+ - Ransomware na AWS'ie #aws #security  [Watch](https://youtu.be/UN0mnSqozP4)  
  - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)  
  - AWS EKS Anywhere - dodatkowe wsparcie #devops #aws #eks  [Watch](https://youtu.be/htqpaH8atr0)  
  - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)  
- - Języki observability – chaos czy porządek? 🌍📊? #MeetUp #observability #JęzykiZapytań #SODO  [Watch](https://youtu.be/cy-K4BaPSII)  
- - Poznaj naszego Partnera - Dotlaw - opowiadają Damian Klimas i Jędrzej Stępniowski  [Watch](https://youtu.be/KssD5m3CjsI)
+ - Języki observability – chaos czy porządek? 🌍📊? #MeetUp #observability #JęzykiZapytań #SODO  [Watch](https://youtu.be/cy-K4BaPSII)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
 # Channel: GitHub
   
- - Open Source Friday with Zerodha's Kailash Nadh  [Watch](https://youtu.be/uoCRz6WoY4I)  
+ - Rubber Duck Thursdays! Come cowork!  [Watch](https://youtu.be/74mb3o6Oq0Y)  
+ - The Download: Copilot Vision input, TypeScript is 10x faster, and open source gaming  [Watch](https://youtu.be/kIyXwN16uWw)  
  - Rubber Duck Thursdays - What shall we build next?  [Watch](https://youtu.be/_qPKCg5fwrI)  
- - How GitHub Copilot Works: A Doodle ✏️  [Watch](https://youtu.be/cJ5adZtihrw)  
- - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)  
- - How to create checklists in Markdown on GitHub  [Watch](https://youtu.be/l1reC0v3oKo)
+ - Open Source Friday with Zerodha's Kailash Nadh  [Watch](https://youtu.be/uoCRz6WoY4I)  
+ - How GitHub Copilot Works: A Doodle ✏️  [Watch](https://youtu.be/cJ5adZtihrw)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
