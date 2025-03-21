@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)  
- - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)  
- - ⚡ Unit of Work: More than Just Databases  [Watch](https://youtu.be/J64N43ypLZQ)
+ - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
+ - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - INSANE Python & JavaScript AI Voice Agent - Full Tutorial  [Watch](https://youtu.be/y0YszswRYaM)  
+ - The biggest mistake developers make in their resumes  [Watch](https://youtu.be/i7rX360URoI)  
  - The most helpful function in Python  [Watch](https://youtu.be/kuxqlal3RgY)  
  - Automate Excel With Python - How to Use Python in Spreadsheets  [Watch](https://youtu.be/ItHB3vQYoA0)  
- - The #1 interview tip that developers need to hear  [Watch](https://youtu.be/7YtgYLvSuZw)  
- - Did you know about this function in Python?  [Watch](https://youtu.be/fsBC6k3DbWo)  
- - The ONLY hack you need to advance in programming  [Watch](https://youtu.be/hLuysDTEdsE)
+ - The #1 interview tip that developers need to hear  [Watch](https://youtu.be/7YtgYLvSuZw)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Copilot Vision & wireframes  [Watch](https://youtu.be/-NRzzqS3gM8)  
  - Copilot Vision is HERE! Watch It Turn Images into Code!  [Watch](https://youtu.be/pEEw7BvaK50)  
  - Copilot Vision: From Screenshot to Code  [Watch](https://youtu.be/QjvGFMTrHeQ)  
  - ALT Text Like a Boss with #githubcopilot  [Watch](https://youtu.be/UKkMqNS09cs)  
- - Sooo meta! VS Code can screenshot itself? #Copilot Vision  [Watch](https://youtu.be/xClMXmidEBQ)  
- - Attach instruction files to GitHub Copilot and have your mind blown. #coding #githubcopilot #vscode  [Watch](https://youtu.be/ljR5bkonsJ4)
+ - Sooo meta! VS Code can screenshot itself? #Copilot Vision  [Watch](https://youtu.be/xClMXmidEBQ)
 # Channel: Mateusz Chrobok
   
  - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/VHTGNKV9lXA)  
  - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)  
+ - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/VHTGNKV9lXA)  
  - Cloud Native Live: Static site generators roundup with Spin  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
  - An Introduction to Crossplane: From Managed Services to Claims  [Watch](https://youtu.be/-GczeD5lUIk)  
  - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)
 # Channel: Real Python
   
+ - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)  
  - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)  
  - Can You Hack ChatGPT to Install Any Python Library?  [Watch](https://youtu.be/c0iT383YGm4)  
  - ChatGPT as a Data Scientist? Upload & Analyze CSV Files  [Watch](https://youtu.be/g3sqr5W-g_k)  
- - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)  
- - Introducing Duck Typing in Python  [Watch](https://youtu.be/rIWQ4584Uqk)
+ - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)
 # Channel: SysOps / DevOps Polska
   
+ - [#546] Trochę o Kubernetesie na produkcji - Michał Schott  [Watch](https://youtu.be/8j5JmmvShr0)  
  - Ransomware na AWS'ie #aws #security  [Watch](https://youtu.be/UN0mnSqozP4)  
  - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)  
  - AWS EKS Anywhere - dodatkowe wsparcie #devops #aws #eks  [Watch](https://youtu.be/htqpaH8atr0)  
- - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)  
- - Języki observability – chaos czy porządek? 🌍📊? #MeetUp #observability #JęzykiZapytań #SODO  [Watch](https://youtu.be/cy-K4BaPSII)
+ - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
 # Channel: GitHub
   
- - Rubber Duck Thursdays! Come cowork!  [Watch](https://youtu.be/74mb3o6Oq0Y)  
- - The Download: Copilot Vision input, TypeScript is 10x faster, and open source gaming  [Watch](https://youtu.be/kIyXwN16uWw)  
- - Rubber Duck Thursdays - What shall we build next?  [Watch](https://youtu.be/_qPKCg5fwrI)  
+ - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)  
+ - TypeScript's native port: 10x faster performance coming soon  [Watch](https://youtu.be/kIyvXk21g50)  
  - Open Source Friday with Zerodha's Kailash Nadh  [Watch](https://youtu.be/uoCRz6WoY4I)  
- - How GitHub Copilot Works: A Doodle ✏️  [Watch](https://youtu.be/cJ5adZtihrw)
+ - Rubber Duck Thursdays! Come cowork!  [Watch](https://youtu.be/74mb3o6Oq0Y)  
+ - Rubber Duck Thursdays - What shall we build next?  [Watch](https://youtu.be/_qPKCg5fwrI)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
