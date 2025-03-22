@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)
+ - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)  
+ - 🪪 Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - What people get wrong THE MOST  about programming  [Watch](https://youtu.be/TUIPd4_vZqc)  
  - INSANE Python & JavaScript AI Voice Agent - Full Tutorial  [Watch](https://youtu.be/y0YszswRYaM)  
  - The biggest mistake developers make in their resumes  [Watch](https://youtu.be/i7rX360URoI)  
  - The most helpful function in Python  [Watch](https://youtu.be/kuxqlal3RgY)  
- - Automate Excel With Python - How to Use Python in Spreadsheets  [Watch](https://youtu.be/ItHB3vQYoA0)  
- - The #1 interview tip that developers need to hear  [Watch](https://youtu.be/7YtgYLvSuZw)
+ - Automate Excel With Python - How to Use Python in Spreadsheets  [Watch](https://youtu.be/ItHB3vQYoA0)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Sooo meta! VS Code can screenshot itself? #Copilot Vision  [Watch](https://youtu.be/xClMXmidEBQ)
 # Channel: Mateusz Chrobok
   
+ - ☠️ Jak zatruć AI?  [Watch](https://youtu.be/wnI_87EZFOo)  
  - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)  
  - 🕯️ RIP Skype  [Watch](https://youtu.be/LzOdp7geRuc)  
  - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)  
- - AI-sceptycy vs reszta świata  [Watch](https://youtu.be/YhvA4FLRZgk)  
- - 🤖 Czemu AI nie powinna uczyć się od samej siebie?  [Watch](https://youtu.be/qyIhNF0e9sQ)
+ - AI-sceptycy vs reszta świata  [Watch](https://youtu.be/YhvA4FLRZgk)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
 # Channel: GitHub
   
+ - EA Games preserves history: Four Command & Conquer titles now open source  [Watch](https://youtu.be/4kvjXp3bkG0)  
+ - How charity: water uses GitHub to bring clean water to millions  [Watch](https://youtu.be/kHO1OvfOR7s)  
  - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)  
- - TypeScript's native port: 10x faster performance coming soon  [Watch](https://youtu.be/kIyvXk21g50)  
  - Open Source Friday with Zerodha's Kailash Nadh  [Watch](https://youtu.be/uoCRz6WoY4I)  
- - Rubber Duck Thursdays! Come cowork!  [Watch](https://youtu.be/74mb3o6Oq0Y)  
- - Rubber Duck Thursdays - What shall we build next?  [Watch](https://youtu.be/_qPKCg5fwrI)
+ - TypeScript's native port: 10x faster performance coming soon  [Watch](https://youtu.be/kIyvXk21g50)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
