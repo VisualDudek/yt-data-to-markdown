@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
  - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - How to Make Your Python Docker Image 80% Smaller  [Watch](https://youtu.be/tc713anE3UY)  
- - Dashboard Access Control: Tips & Tricks  [Watch](https://youtu.be/yZ7xcVcjTpU)
+ - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Gateway API 101 with Linkerd  [Watch](https://youtu.be/G-G2eNpkK4k)  
  - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)  
  - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/VHTGNKV9lXA)  
  - Cloud Native Live: Static site generators roundup with Spin  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
- - An Introduction to Crossplane: From Managed Services to Claims  [Watch](https://youtu.be/-GczeD5lUIk)  
- - Hands-on Workshop: Add usage analytics to your CNCF project.  [Watch](https://youtu.be/g602wcGV_yk)
+ - An Introduction to Crossplane: From Managed Services to Claims  [Watch](https://youtu.be/-GczeD5lUIk)
 # Channel: Real Python
   
+ - Bribing the Bot: The Strange Psychology of Coding AIs  [Watch](https://youtu.be/ANlcg3JkQK0)  
  - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)  
  - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)  
  - Can You Hack ChatGPT to Install Any Python Library?  [Watch](https://youtu.be/c0iT383YGm4)  
- - ChatGPT as a Data Scientist? Upload & Analyze CSV Files  [Watch](https://youtu.be/g3sqr5W-g_k)  
- - Manage Projects With pyproject.toml & Explore Polars LazyFrames | Real Python Podcast #243  [Watch](https://youtu.be/KBCLVdukzLk)
+ - ChatGPT as a Data Scientist? Upload & Analyze CSV Files  [Watch](https://youtu.be/g3sqr5W-g_k)
 # Channel: SysOps / DevOps Polska
   
+ - [#547] Jak zgodnie z prawem korzystać z AI w działaniach Dev/Sys/SecOps? - J. Stępniowski, D. Klimas  [Watch](https://youtu.be/AyImY7hXn0c)  
+ - Czy znasz już AWS ValKey? #devops #aws  [Watch](https://youtu.be/9aEpraHiN9c)  
  - [#546] Trochę o Kubernetesie na produkcji - Michał Schott  [Watch](https://youtu.be/8j5JmmvShr0)  
  - Ransomware na AWS'ie #aws #security  [Watch](https://youtu.be/UN0mnSqozP4)  
- - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)  
- - AWS EKS Anywhere - dodatkowe wsparcie #devops #aws #eks  [Watch](https://youtu.be/htqpaH8atr0)  
- - Nowa funkcja AWS CodePipeline, która powinna być od początku #kubernetes #aws  [Watch](https://youtu.be/g1pVNNDxgzY)
+ - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays! Yee haw, let's cowork!  [Watch](https://youtu.be/w7XjdsSIHW0)  
  - GitHub Copilot Chat arrives for Xcode and Eclipse users  [Watch](https://youtu.be/C68maFJfPzo)  
  - EA Games preserves history: Four Command & Conquer titles now open source  [Watch](https://youtu.be/4kvjXp3bkG0)  
  - How charity: water uses GitHub to bring clean water to millions  [Watch](https://youtu.be/kHO1OvfOR7s)  
- - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)  
- - Open Source Friday with Zerodha's Kailash Nadh  [Watch](https://youtu.be/uoCRz6WoY4I)
+ - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
