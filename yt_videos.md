@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
  - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - typing **kwargs (for callers)  [Watch](https://youtu.be/Nb2mIrfUHNw)
 # Channel: Tech With Tim
   
+ - Claude 3.7 is Kinda Crazy For Programmers...  [Watch](https://youtu.be/zZ_a3WjoPEM)  
+ - The MAGIC method in Python  [Watch](https://youtu.be/j4US2qgmT-E)  
+ - Backend Software Engineer roadmap  [Watch](https://youtu.be/FlsrKv_xIyg)  
  - Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)  [Watch](https://youtu.be/zGkVKix_CRU)  
- - The biggest difference between Beginners and Intermediates in programming  [Watch](https://youtu.be/EPokAYWR74w)  
- - What people get wrong THE MOST  about programming  [Watch](https://youtu.be/TUIPd4_vZqc)  
- - INSANE Python & JavaScript AI Voice Agent - Full Tutorial  [Watch](https://youtu.be/y0YszswRYaM)  
- - The biggest mistake developers make in their resumes  [Watch](https://youtu.be/i7rX360URoI)
+ - The biggest difference between Beginners and Intermediates in programming  [Watch](https://youtu.be/EPokAYWR74w)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - 9 Copilot Feature Highlights You Can't Ignore  [Watch](https://youtu.be/p_XU79kegb0)  
  - Copilot Vision & wireframes  [Watch](https://youtu.be/-NRzzqS3gM8)  
  - Copilot Vision is HERE! Watch It Turn Images into Code!  [Watch](https://youtu.be/pEEw7BvaK50)  
  - Copilot Vision: From Screenshot to Code  [Watch](https://youtu.be/QjvGFMTrHeQ)  
- - ALT Text Like a Boss with #githubcopilot  [Watch](https://youtu.be/UKkMqNS09cs)  
- - Sooo meta! VS Code can screenshot itself? #Copilot Vision  [Watch](https://youtu.be/xClMXmidEBQ)
+ - ALT Text Like a Boss with #githubcopilot  [Watch](https://youtu.be/UKkMqNS09cs)
 # Channel: Mateusz Chrobok
   
  - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)  
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)  
  - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)  
  - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)  
- - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)  
- - Warp launched on Windows!  [Watch](https://youtu.be/ZscU3G_xL-E)
+ - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays - Let's get building!  [Watch](https://youtu.be/pkVM76jhqdk)  
+ - Next Edit Suggestions in Visual Studio Code explained | GitHub Checkout  [Watch](https://youtu.be/Ey_VsxtLB40)  
  - Rubber Duck Thursdays! Yee haw, let's cowork!  [Watch](https://youtu.be/w7XjdsSIHW0)  
  - GitHub Copilot Chat arrives for Xcode and Eclipse users  [Watch](https://youtu.be/C68maFJfPzo)  
- - EA Games preserves history: Four Command & Conquer titles now open source  [Watch](https://youtu.be/4kvjXp3bkG0)  
- - How charity: water uses GitHub to bring clean water to millions  [Watch](https://youtu.be/kHO1OvfOR7s)  
- - Open Source Friday with Astro Docs  [Watch](https://youtu.be/3cJgXfy5Pmg)
+ - EA Games preserves history: Four Command & Conquer titles now open source  [Watch](https://youtu.be/4kvjXp3bkG0)
 # Channel: CloudHeroes - Video
   
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
