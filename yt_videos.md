@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
  - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)
 # Channel: Tech With Tim
   
+ - Build Anything with MCP Agents… Here’s How  [Watch](https://youtu.be/L94WBLL0KjY)  
+ - The MOST important tip for software engineers *ALL LEVELS*  [Watch](https://youtu.be/UvJopfqYWts)  
  - The difference between TOP class developers and the rest  [Watch](https://youtu.be/bn4ydnn-kM8)  
  - Claude 3.7 is Kinda Crazy For Programmers...  [Watch](https://youtu.be/zZ_a3WjoPEM)  
- - The MAGIC method in Python  [Watch](https://youtu.be/j4US2qgmT-E)  
- - Backend Software Engineer roadmap  [Watch](https://youtu.be/FlsrKv_xIyg)  
- - Browser Use: This New AI Agent Can Do Anything (Full AI Scraping Tutorial)  [Watch](https://youtu.be/zGkVKix_CRU)
+ - The MAGIC method in Python  [Watch](https://youtu.be/j4US2qgmT-E)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Enable this one setting in your terminal #vscode  [Watch](https://youtu.be/i6KPS016cVE)  
+ - A really handy command for terminal users in VS Code  [Watch](https://youtu.be/ZEW_J2yM8S0)  
  - Font ligatures: yes or no?  [Watch](https://youtu.be/5OIC7lwceLE)  
  - 9 Copilot Feature Highlights You Can't Ignore  [Watch](https://youtu.be/p_XU79kegb0)  
- - Copilot Vision & wireframes  [Watch](https://youtu.be/-NRzzqS3gM8)  
- - Copilot Vision is HERE! Watch It Turn Images into Code!  [Watch](https://youtu.be/pEEw7BvaK50)  
- - Copilot Vision: From Screenshot to Code  [Watch](https://youtu.be/QjvGFMTrHeQ)
+ - Copilot Vision & wireframes  [Watch](https://youtu.be/-NRzzqS3gM8)
 # Channel: Mateusz Chrobok
   
  - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
@@ -53,25 +53,25 @@ Youtube Videos
  - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Gateway API 101 with Linkerd  [Watch](https://youtu.be/G-G2eNpkK4k)  
- - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/Cxz7pC9Lq2k)  
- - ChatLoopBackOff Episode 51 (WasmEdge)  [Watch](https://youtu.be/VHTGNKV9lXA)  
- - Cloud Native Live: Static site generators roundup with Spin  [Watch](https://youtu.be/Yl5JR1Xz0pA)  
- - An Introduction to Crossplane: From Managed Services to Claims  [Watch](https://youtu.be/-GczeD5lUIk)
+ - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
+ - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)  
+ - ChatLoopBackOff Episode 52 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
+ - Cloud migration without misery  [Watch](https://youtu.be/hXfl5bP1qqY)  
+ - Serverless WebAssembly functions - polyglot programming made easy with Spin  [Watch](https://youtu.be/h72NSxE5lAM)
 # Channel: Real Python
   
+ - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)  
  - No C Skills? AI Still Built My SQLite Extension  [Watch](https://youtu.be/SAodO7OzKx4)  
  - Bribing the Bot: The Strange Psychology of Coding AIs  [Watch](https://youtu.be/ANlcg3JkQK0)  
  - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)  
- - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)  
- - Can You Hack ChatGPT to Install Any Python Library?  [Watch](https://youtu.be/c0iT383YGm4)
+ - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)
 # Channel: SysOps / DevOps Polska
   
+ - Zapasowa metoda płatności w AWS #devops #aws  [Watch](https://youtu.be/GtOVsm1Qtiw)  
  - [#547] Jak zgodnie z prawem korzystać z AI w działaniach Dev/Sys/SecOps? - J. Stępniowski, D. Klimas  [Watch](https://youtu.be/AyImY7hXn0c)  
  - Czy znasz już AWS ValKey? #devops #aws  [Watch](https://youtu.be/9aEpraHiN9c)  
  - [#546] Trochę o Kubernetesie na produkcji - Michał Schott  [Watch](https://youtu.be/8j5JmmvShr0)  
- - Ransomware na AWS'ie #aws #security  [Watch](https://youtu.be/UN0mnSqozP4)  
- - [#545] Shift left dla testowania infrastruktury Terraform - Grzegorz Adamowicz  [Watch](https://youtu.be/m3UGa2r5YvU)
+ - Ransomware na AWS'ie #aws #security  [Watch](https://youtu.be/UN0mnSqozP4)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)  
  - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)  
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)  
  - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)  
- - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)  
- - How VSCode connects to remote SSH servers  [Watch](https://youtu.be/-5nCZ1b00O8)
+ - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)
 # Channel: GitHub
   
- - GitHub Copilot's hidden power: Using slash commands  [Watch](https://youtu.be/Qj42xngx4Qo)  
- - Rubber Duck Thursdays - Let's get building!  [Watch](https://youtu.be/pkVM76jhqdk)  
- - Next Edit Suggestions in Visual Studio Code explained | GitHub Checkout  [Watch](https://youtu.be/Ey_VsxtLB40)  
  - Rubber Duck Thursdays! Yee haw, let's cowork!  [Watch](https://youtu.be/w7XjdsSIHW0)  
- - GitHub Copilot Chat arrives for Xcode and Eclipse users  [Watch](https://youtu.be/C68maFJfPzo)
+ - Rubber Duck Thursdays - Let's get building!  [Watch](https://youtu.be/pkVM76jhqdk)  
+ - Open Source Friday with Open Healthcare Network's Bodhish Thomas  [Watch](https://youtu.be/ukMuK_eq8Rw)  
+ - GitHub Copilot's hidden power: Using slash commands  [Watch](https://youtu.be/Qj42xngx4Qo)  
+ - Copilot Next Edit Suggestions in Visual Studio Code explained | GitHub Checkout  [Watch](https://youtu.be/Ey_VsxtLB40)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
