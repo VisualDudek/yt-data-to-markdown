@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
- - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)  
- - This Is How You Write an Efficient Python Dockerfile  [Watch](https://youtu.be/tc713anE3UY)
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Terminal Tips in VS Code  [Watch](https://youtu.be/Yn7JrZ1rb2w)  
+ - Copilot, right in the terminal  [Watch](https://youtu.be/IgF0FxXibNA)  
  - Enable this one setting in your terminal #vscode  [Watch](https://youtu.be/i6KPS016cVE)  
  - A really handy command for terminal users in VS Code  [Watch](https://youtu.be/ZEW_J2yM8S0)  
- - Font ligatures: yes or no?  [Watch](https://youtu.be/5OIC7lwceLE)  
- - 9 Copilot Feature Highlights You Can't Ignore  [Watch](https://youtu.be/p_XU79kegb0)  
- - Copilot Vision & wireframes  [Watch](https://youtu.be/-NRzzqS3gM8)
+ - Font ligatures: yes or no?  [Watch](https://youtu.be/5OIC7lwceLE)
 # Channel: Mateusz Chrobok
   
  - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
@@ -53,9 +53,9 @@ Youtube Videos
  - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 52 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
  - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
  - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)  
- - ChatLoopBackOff Episode 52 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
  - Cloud migration without misery  [Watch](https://youtu.be/hXfl5bP1qqY)  
  - Serverless WebAssembly functions - polyglot programming made easy with Spin  [Watch](https://youtu.be/h72NSxE5lAM)
 # Channel: Real Python
@@ -67,11 +67,11 @@ Youtube Videos
  - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)
 # Channel: SysOps / DevOps Polska
   
+ - [#548] Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski  [Watch](https://youtu.be/Ff4fkMS38go)  
  - Zapasowa metoda płatności w AWS #devops #aws  [Watch](https://youtu.be/GtOVsm1Qtiw)  
  - [#547] Jak zgodnie z prawem korzystać z AI w działaniach Dev/Sys/SecOps? - J. Stępniowski, D. Klimas  [Watch](https://youtu.be/AyImY7hXn0c)  
  - Czy znasz już AWS ValKey? #devops #aws  [Watch](https://youtu.be/9aEpraHiN9c)  
- - [#546] Trochę o Kubernetesie na produkcji - Michał Schott  [Watch](https://youtu.be/8j5JmmvShr0)  
- - Ransomware na AWS'ie #aws #security  [Watch](https://youtu.be/UN0mnSqozP4)
+ - [#546] Trochę o Kubernetesie na produkcji - Michał Schott  [Watch](https://youtu.be/8j5JmmvShr0)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)
 # Channel: GitHub
   
- - Rubber Duck Thursdays! Yee haw, let's cowork!  [Watch](https://youtu.be/w7XjdsSIHW0)  
- - Rubber Duck Thursdays - Let's get building!  [Watch](https://youtu.be/pkVM76jhqdk)  
+ - Open Source Friday with Piotr Skalski: Exploring Supervision  [Watch](https://youtu.be/Ya9hTzAI91I)  
+ - Clean water, powered by code: GitHub x charity:water  [Watch](https://youtu.be/4Q6eyzdljQk)  
+ - The Download: Copilot Edits in JetBrains, GIMP 3.0, and humanoid assistants  [Watch](https://youtu.be/hhCMggZXQYU)  
  - Open Source Friday with Open Healthcare Network's Bodhish Thomas  [Watch](https://youtu.be/ukMuK_eq8Rw)  
- - GitHub Copilot's hidden power: Using slash commands  [Watch](https://youtu.be/Qj42xngx4Qo)  
- - Copilot Next Edit Suggestions in Visual Studio Code explained | GitHub Checkout  [Watch](https://youtu.be/Ey_VsxtLB40)
+ - Event in Spanish: GitHub Presente IA con Carlos Alarcon  [Watch](https://youtu.be/9JePc2HP7Ew)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
