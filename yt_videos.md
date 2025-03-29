@@ -7,7 +7,7 @@ Youtube Videos
  - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
  - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)
 # Channel: Tech With Tim
   
- - Build Anything with MCP Agents… Here’s How  [Watch](https://youtu.be/L94WBLL0KjY)  
- - The MOST important tip for software engineers *ALL LEVELS*  [Watch](https://youtu.be/UvJopfqYWts)  
- - The difference between TOP class developers and the rest  [Watch](https://youtu.be/bn4ydnn-kM8)  
- - Claude 3.7 is Kinda Crazy For Programmers...  [Watch](https://youtu.be/zZ_a3WjoPEM)  
- - The MAGIC method in Python  [Watch](https://youtu.be/j4US2qgmT-E)
+ - How to Prepare for a Python Interview: A Complete Guide  [Watch](https://youtu.be/BeqlRl5dV_8)  
+ - Will AI ever replace programmers?  [Watch](https://youtu.be/MWYLeDbdnVM)  
+ - Fstrings and how to use them in Python  [Watch](https://youtu.be/1qbdHwN86P8)  
+ - If you don't want to USE AI as a developer you need to watch THIS  [Watch](https://youtu.be/ePNQrCpZrko)  
+ - Build Anything with MCP Agents… Here’s How  [Watch](https://youtu.be/L94WBLL0KjY)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -95,11 +95,11 @@ Youtube Videos
  - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)
 # Channel: GitHub
   
+ - Transform your code with GitHub Copilot Chat: Rock paper scissors GUI example  [Watch](https://youtu.be/gU8gLtoSkz0)  
  - Open Source Friday with Piotr Skalski: Exploring Supervision  [Watch](https://youtu.be/Ya9hTzAI91I)  
- - Clean water, powered by code: GitHub x charity:water  [Watch](https://youtu.be/4Q6eyzdljQk)  
- - The Download: Copilot Edits in JetBrains, GIMP 3.0, and humanoid assistants  [Watch](https://youtu.be/hhCMggZXQYU)  
  - Open Source Friday with Open Healthcare Network's Bodhish Thomas  [Watch](https://youtu.be/ukMuK_eq8Rw)  
- - Event in Spanish: GitHub Presente IA con Carlos Alarcon  [Watch](https://youtu.be/9JePc2HP7Ew)
+ - Clean water, powered by code: GitHub x charity:water  [Watch](https://youtu.be/4Q6eyzdljQk)  
+ - The Download: Copilot Edits in JetBrains, GIMP 3.0, and humanoid assistants  [Watch](https://youtu.be/hhCMggZXQYU)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
