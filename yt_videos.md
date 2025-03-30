@@ -6,8 +6,8 @@ Youtube Videos
   
  - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)
 # Channel: Tech With Tim
   
+ - Learn These 3 GENUIS Python Features  [Watch](https://youtu.be/8dsrpSCmq-o)  
  - How to Prepare for a Python Interview: A Complete Guide  [Watch](https://youtu.be/BeqlRl5dV_8)  
  - Will AI ever replace programmers?  [Watch](https://youtu.be/MWYLeDbdnVM)  
  - Fstrings and how to use them in Python  [Watch](https://youtu.be/1qbdHwN86P8)  
- - If you don't want to USE AI as a developer you need to watch THIS  [Watch](https://youtu.be/ePNQrCpZrko)  
- - Build Anything with MCP Agents… Here’s How  [Watch](https://youtu.be/L94WBLL0KjY)
+ - If you don't want to USE AI as a developer you need to watch THIS  [Watch](https://youtu.be/ePNQrCpZrko)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Font ligatures: yes or no?  [Watch](https://youtu.be/5OIC7lwceLE)
 # Channel: Mateusz Chrobok
   
+ - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)  
  - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
  - ☠️ Jak zatruć AI?  [Watch](https://youtu.be/wnI_87EZFOo)  
  - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)  
- - 🕯️ RIP Skype  [Watch](https://youtu.be/LzOdp7geRuc)  
- - 👨🏻‍💻 Elon oskarża Ukrainę  [Watch](https://youtu.be/GGVCqiUit9w)
+ - 🕯️ RIP Skype  [Watch](https://youtu.be/LzOdp7geRuc)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 52 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
