@@ -6,8 +6,8 @@ Youtube Videos
   
  - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)
 # Channel: Tech With Tim
   
+ - If you don't wanna USE AI in your workflow you need to watch THIS  [Watch](https://youtu.be/opKV5y1UHJQ)  
+ - How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)  [Watch](https://youtu.be/E4l91XKQSgw)  
  - Learn These 3 GENUIS Python Features  [Watch](https://youtu.be/8dsrpSCmq-o)  
  - How to Prepare for a Python Interview: A Complete Guide  [Watch](https://youtu.be/BeqlRl5dV_8)  
- - Will AI ever replace programmers?  [Watch](https://youtu.be/MWYLeDbdnVM)  
- - Fstrings and how to use them in Python  [Watch](https://youtu.be/1qbdHwN86P8)  
- - If you don't want to USE AI as a developer you need to watch THIS  [Watch](https://youtu.be/ePNQrCpZrko)
+ - Will AI ever replace programmers?  [Watch](https://youtu.be/MWYLeDbdnVM)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Serverless WebAssembly functions - polyglot programming made easy with Spin  [Watch](https://youtu.be/h72NSxE5lAM)
 # Channel: Real Python
   
+ - How to Host Python Code Online with GitHub Gists  [Watch](https://youtu.be/V73CVj19Hgw)  
  - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)  
  - No C Skills? AI Still Built My SQLite Extension  [Watch](https://youtu.be/SAodO7OzKx4)  
  - Bribing the Bot: The Strange Psychology of Coding AIs  [Watch](https://youtu.be/ANlcg3JkQK0)  
- - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)  
- - Using Structural Pattern Matching in Python: Using Basic Patterns  [Watch](https://youtu.be/3zHAE6nVc6o)
+ - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)
 # Channel: SysOps / DevOps Polska
   
+ - Co zrobić z dużymi kosztami NATu w AWS? #aws #devops  [Watch](https://youtu.be/jy0U0RAOZvY)  
  - [#548] Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski  [Watch](https://youtu.be/Ff4fkMS38go)  
  - Zapasowa metoda płatności w AWS #devops #aws  [Watch](https://youtu.be/GtOVsm1Qtiw)  
  - [#547] Jak zgodnie z prawem korzystać z AI w działaniach Dev/Sys/SecOps? - J. Stępniowski, D. Klimas  [Watch](https://youtu.be/AyImY7hXn0c)  
- - Czy znasz już AWS ValKey? #devops #aws  [Watch](https://youtu.be/9aEpraHiN9c)  
- - [#546] Trochę o Kubernetesie na produkcji - Michał Schott  [Watch](https://youtu.be/8j5JmmvShr0)
+ - Czy znasz już AWS ValKey? #devops #aws  [Watch](https://youtu.be/9aEpraHiN9c)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)  
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)  
  - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)  
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)  
- - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)  
- - How I plan to deploy my new website project  [Watch](https://youtu.be/lko6dWFzJvU)
+ - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)
 # Channel: GitHub
   
+ - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
+ - GitHub Copilot Edit arrives for JetBrains IDEs  [Watch](https://youtu.be/wY8kAKvSskM)  
+ - Prompt engineering essentials: Getting better results from LLMs | Tutorial  [Watch](https://youtu.be/LAF-lACf2QY)  
  - Transform your code with GitHub Copilot Chat: Rock paper scissors GUI example  [Watch](https://youtu.be/gU8gLtoSkz0)  
- - Open Source Friday with Piotr Skalski: Exploring Supervision  [Watch](https://youtu.be/Ya9hTzAI91I)  
- - Open Source Friday with Open Healthcare Network's Bodhish Thomas  [Watch](https://youtu.be/ukMuK_eq8Rw)  
- - Clean water, powered by code: GitHub x charity:water  [Watch](https://youtu.be/4Q6eyzdljQk)  
- - The Download: Copilot Edits in JetBrains, GIMP 3.0, and humanoid assistants  [Watch](https://youtu.be/hhCMggZXQYU)
+ - Open Source Friday with Piotr Skalski: Exploring Supervision  [Watch](https://youtu.be/Ya9hTzAI91I)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
