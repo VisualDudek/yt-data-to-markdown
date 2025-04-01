@@ -4,10 +4,10 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
@@ -46,11 +46,11 @@ Youtube Videos
  - Font ligatures: yes or no?  [Watch](https://youtu.be/5OIC7lwceLE)
 # Channel: Mateusz Chrobok
   
+ - To musiało się tak skończyć  [Watch](https://youtu.be/Y-STjwN_ErI)  
  - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)  
  - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
  - ☠️ Jak zatruć AI?  [Watch](https://youtu.be/wnI_87EZFOo)  
- - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)  
- - 🕯️ RIP Skype  [Watch](https://youtu.be/LzOdp7geRuc)
+ - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 52 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
@@ -67,11 +67,11 @@ Youtube Videos
  - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)
 # Channel: SysOps / DevOps Polska
   
+ - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)  
+ - Nowy nurt w zarządzaniu klastrami k8s #devops #kubernetes #tols  [Watch](https://youtu.be/IqaoI6OwJm4)  
  - Co zrobić z dużymi kosztami NATu w AWS? #aws #devops  [Watch](https://youtu.be/jy0U0RAOZvY)  
  - [#548] Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski  [Watch](https://youtu.be/Ff4fkMS38go)  
- - Zapasowa metoda płatności w AWS #devops #aws  [Watch](https://youtu.be/GtOVsm1Qtiw)  
- - [#547] Jak zgodnie z prawem korzystać z AI w działaniach Dev/Sys/SecOps? - J. Stępniowski, D. Klimas  [Watch](https://youtu.be/AyImY7hXn0c)  
- - Czy znasz już AWS ValKey? #devops #aws  [Watch](https://youtu.be/9aEpraHiN9c)
+ - Zapasowa metoda płatności w AWS #devops #aws  [Watch](https://youtu.be/GtOVsm1Qtiw)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)  
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)  
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)  
  - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)  
- - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)  
- - Self-Host a local AI platform! Ollama + Open WebUI  [Watch](https://youtu.be/RQFfK7xIL28)
+ - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
+ - Introduction to secret leaks with GitHub  [Watch](https://youtu.be/vMhDkt5JNN0)  
+ - From syntax to solutions: GitHub powers charity:water's mission  [Watch](https://youtu.be/vQEhQ8bWGgY)  
  - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
  - GitHub Copilot Edit arrives for JetBrains IDEs  [Watch](https://youtu.be/wY8kAKvSskM)  
- - Prompt engineering essentials: Getting better results from LLMs | Tutorial  [Watch](https://youtu.be/LAF-lACf2QY)  
- - Transform your code with GitHub Copilot Chat: Rock paper scissors GUI example  [Watch](https://youtu.be/gU8gLtoSkz0)  
- - Open Source Friday with Piotr Skalski: Exploring Supervision  [Watch](https://youtu.be/Ya9hTzAI91I)
+ - Prompt engineering essentials: Getting better results from LLMs | Tutorial  [Watch](https://youtu.be/LAF-lACf2QY)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
