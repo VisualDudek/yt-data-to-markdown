@@ -4,10 +4,10 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)  
  - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)  
  - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)  
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)  
- - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)  
- - typing "old-school ternary"  [Watch](https://youtu.be/BeKdKpw5StU)
+ - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)
 # Channel: Tech With Tim
   
+ - The BEST way to learn AI  [Watch](https://youtu.be/1oDACjhZT5A)  
  - If you don't wanna USE AI in your workflow you need to watch THIS  [Watch](https://youtu.be/opKV5y1UHJQ)  
  - How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)  [Watch](https://youtu.be/E4l91XKQSgw)  
  - Learn These 3 GENUIS Python Features  [Watch](https://youtu.be/8dsrpSCmq-o)  
- - How to Prepare for a Python Interview: A Complete Guide  [Watch](https://youtu.be/BeqlRl5dV_8)  
- - Will AI ever replace programmers?  [Watch](https://youtu.be/MWYLeDbdnVM)
+ - How to Prepare for a Python Interview: A Complete Guide  [Watch](https://youtu.be/BeqlRl5dV_8)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,32 +39,32 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - 🔴 VS Code Live: (LATAM)  [Watch](https://youtu.be/Y5qNLGpIzyc)  
+ - Have you seen this button? #coding #githubcopilot #programming  [Watch](https://youtu.be/Vj_Ssd1c1dQ)  
  - Terminal Tips in VS Code  [Watch](https://youtu.be/Yn7JrZ1rb2w)  
  - Copilot, right in the terminal  [Watch](https://youtu.be/IgF0FxXibNA)  
- - Enable this one setting in your terminal #vscode  [Watch](https://youtu.be/i6KPS016cVE)  
- - A really handy command for terminal users in VS Code  [Watch](https://youtu.be/ZEW_J2yM8S0)  
- - Font ligatures: yes or no?  [Watch](https://youtu.be/5OIC7lwceLE)
+ - Enable this one setting in your terminal #vscode  [Watch](https://youtu.be/i6KPS016cVE)
 # Channel: Mateusz Chrobok
   
- - To musiało się tak skończyć  [Watch](https://youtu.be/Y-STjwN_ErI)  
+ - To musiało się tak skończyć #primaaprilis  [Watch](https://youtu.be/Y-STjwN_ErI)  
  - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)  
+ - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
  - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
- - ☠️ Jak zatruć AI?  [Watch](https://youtu.be/wnI_87EZFOo)  
- - ▶️ Atakujo jutuberów!  [Watch](https://youtu.be/advci6-tdJk)
+ - ☠️ Jak zatruć AI?  [Watch](https://youtu.be/wnI_87EZFOo)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff Episode 52 (cert-manager)  [Watch](https://youtu.be/UR64KulZDCM)  
- - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
- - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)  
- - Cloud migration without misery  [Watch](https://youtu.be/hXfl5bP1qqY)  
- - Serverless WebAssembly functions - polyglot programming made easy with Spin  [Watch](https://youtu.be/h72NSxE5lAM)
+ - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)  
+ - Project Updates: Argo Workflows - Shuangkun Tian, Alibaba  [Watch](https://youtu.be/cEAM0iqunEM)  
+ - Project Updates: Events - Caelan Urquhart, Pipekit  [Watch](https://youtu.be/YeeIOXoLBgo)  
+ - Progressive Delivery With Argo Rollouts and Kubernetes Gateway API for Multi-Directional... Lin Sun  [Watch](https://youtu.be/_G2EWwbVZqs)  
+ - Project Updates: Argo CD - Michael Crenshaw, Intuit  [Watch](https://youtu.be/bTVavLFH7XQ)
 # Channel: Real Python
   
+ - Speed Up Python Projects With This Research Trick  [Watch](https://youtu.be/GnTWUIg3FGA)  
  - How to Host Python Code Online with GitHub Gists  [Watch](https://youtu.be/V73CVj19Hgw)  
  - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)  
  - No C Skills? AI Still Built My SQLite Extension  [Watch](https://youtu.be/SAodO7OzKx4)  
- - Bribing the Bot: The Strange Psychology of Coding AIs  [Watch](https://youtu.be/ANlcg3JkQK0)  
- - A Decade of Automating the Boring Stuff With Python | Real Python Podcast #244  [Watch](https://youtu.be/xRjigw8_8kk)
+ - Bribing the Bot: The Strange Psychology of Coding AIs  [Watch](https://youtu.be/ANlcg3JkQK0)
 # Channel: SysOps / DevOps Polska
   
  - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
- - Introduction to secret leaks with GitHub  [Watch](https://youtu.be/vMhDkt5JNN0)  
+ - Humanoid robots coming to homes: NEO Gamma preview  [Watch](https://youtu.be/FR3v7sntwPI)  
+ - Rubber Duck Thursdays - More building!  [Watch](https://youtu.be/oJqHZBKCGSE)  
+ - Introduction to secret leaks  [Watch](https://youtu.be/vMhDkt5JNN0)  
  - From syntax to solutions: GitHub powers charity:water's mission  [Watch](https://youtu.be/vQEhQ8bWGgY)  
- - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
- - GitHub Copilot Edit arrives for JetBrains IDEs  [Watch](https://youtu.be/wY8kAKvSskM)  
- - Prompt engineering essentials: Getting better results from LLMs | Tutorial  [Watch](https://youtu.be/LAF-lACf2QY)
+ - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)  
  - Top 6 Most Popular API Architecture Styles  [Watch](https://youtu.be/PNRbanEKGtw)  
  - What Are AI Agents Really About?  [Watch](https://youtu.be/eHEHE2fpnWQ)  
  - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)  
- - What Is the Most Popular Open-Source AI Stack?  [Watch](https://youtu.be/hFURlsMwU7c)  
- - 8 Most Important Tips for Designing Fault-Tolerant System  [Watch](https://youtu.be/3Lis4w4_bBc)
+ - What Is the Most Popular Open-Source AI Stack?  [Watch](https://youtu.be/hFURlsMwU7c)
