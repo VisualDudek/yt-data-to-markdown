@@ -4,10 +4,10 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
  - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)
 # Channel: Tech With Tim
   
+ - Dataclass inheritance in Python  [Watch](https://youtu.be/KTnq1fMO3nI)  
+ - How to learn programming in just 2 hours a week  [Watch](https://youtu.be/JXaXd9iyksc)  
  - The BEST way to learn AI  [Watch](https://youtu.be/1oDACjhZT5A)  
  - If you don't wanna USE AI in your workflow you need to watch THIS  [Watch](https://youtu.be/opKV5y1UHJQ)  
- - How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)  [Watch](https://youtu.be/E4l91XKQSgw)  
- - Learn These 3 GENUIS Python Features  [Watch](https://youtu.be/8dsrpSCmq-o)  
- - How to Prepare for a Python Interview: A Complete Guide  [Watch](https://youtu.be/BeqlRl5dV_8)
+ - How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)  [Watch](https://youtu.be/E4l91XKQSgw)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Because we ❤️ you #coding #vscode #love  [Watch](https://youtu.be/OXe_nCsVXm4)  
  - 🔴 VS Code Live: (LATAM)  [Watch](https://youtu.be/Y5qNLGpIzyc)  
  - Have you seen this button? #coding #githubcopilot #programming  [Watch](https://youtu.be/Vj_Ssd1c1dQ)  
  - Terminal Tips in VS Code  [Watch](https://youtu.be/Yn7JrZ1rb2w)  
- - Copilot, right in the terminal  [Watch](https://youtu.be/IgF0FxXibNA)  
- - Enable this one setting in your terminal #vscode  [Watch](https://youtu.be/i6KPS016cVE)
+ - Copilot, right in the terminal  [Watch](https://youtu.be/IgF0FxXibNA)
 # Channel: Mateusz Chrobok
   
+ - 🦠 Czym jest exploit?  [Watch](https://youtu.be/_EaJ_B2cM1s)  
  - To musiało się tak skończyć #primaaprilis  [Watch](https://youtu.be/Y-STjwN_ErI)  
  - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)  
  - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
- - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)  
- - ☠️ Jak zatruć AI?  [Watch](https://youtu.be/wnI_87EZFOo)
+ - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)
 # Channel: Cloud Native Computing Foundation
   
  - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Project Updates: Argo CD - Michael Crenshaw, Intuit  [Watch](https://youtu.be/bTVavLFH7XQ)
 # Channel: Real Python
   
+ - Building a Code Image Generator With Python: Flask, Playwright, and Screenshots  [Watch](https://youtu.be/Rn9TgmjfR2k)  
  - Speed Up Python Projects With This Research Trick  [Watch](https://youtu.be/GnTWUIg3FGA)  
  - How to Host Python Code Online with GitHub Gists  [Watch](https://youtu.be/V73CVj19Hgw)  
  - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)  
- - No C Skills? AI Still Built My SQLite Extension  [Watch](https://youtu.be/SAodO7OzKx4)  
- - Bribing the Bot: The Strange Psychology of Coding AIs  [Watch](https://youtu.be/ANlcg3JkQK0)
+ - No C Skills? AI Still Built My SQLite Extension  [Watch](https://youtu.be/SAodO7OzKx4)
 # Channel: SysOps / DevOps Polska
   
+ - Łataj szybko swojego kubernetesa #ingress #security #kubernetes #devops  [Watch](https://youtu.be/B6-jDt3HdaQ)  
  - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)  
  - Nowy nurt w zarządzaniu klastrami k8s #devops #kubernetes #tols  [Watch](https://youtu.be/IqaoI6OwJm4)  
  - Co zrobić z dużymi kosztami NATu w AWS? #aws #devops  [Watch](https://youtu.be/jy0U0RAOZvY)  
- - [#548] Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski  [Watch](https://youtu.be/Ff4fkMS38go)  
- - Zapasowa metoda płatności w AWS #devops #aws  [Watch](https://youtu.be/GtOVsm1Qtiw)
+ - [#548] Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski  [Watch](https://youtu.be/Ff4fkMS38go)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
- - Humanoid robots coming to homes: NEO Gamma preview  [Watch](https://youtu.be/FR3v7sntwPI)  
+ - Rubber Duck Thursdays! | Come cowork and ask questions about open source, AI, jobs, or memes.  [Watch](https://youtu.be/dsGwq7FT4zw)  
+ - [pt-BR] Quinta do Patinho - Vamos fazer um blog?  [Watch](https://youtu.be/xIta7QGBDdY)  
  - Rubber Duck Thursdays - More building!  [Watch](https://youtu.be/oJqHZBKCGSE)  
- - Introduction to secret leaks  [Watch](https://youtu.be/vMhDkt5JNN0)  
- - From syntax to solutions: GitHub powers charity:water's mission  [Watch](https://youtu.be/vQEhQ8bWGgY)  
- - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)
+ - Humanoid robots coming to homes: NEO Gamma preview  [Watch](https://youtu.be/FR3v7sntwPI)  
+ - Introduction to secret leaks  [Watch](https://youtu.be/vMhDkt5JNN0)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
