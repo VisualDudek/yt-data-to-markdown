@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
+ - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
  - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)  
- - Should Python Handle Errors Like Rust?  [Watch](https://youtu.be/s8PD86GEo9o)
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Project Updates: Argo CD - Michael Crenshaw, Intuit  [Watch](https://youtu.be/bTVavLFH7XQ)
 # Channel: Real Python
   
+ - GUIs & TUIs: Choosing a User Interface for Your Python Project | Real Python Podcast #245  [Watch](https://youtu.be/v4XV1NAMFms)  
  - Building a Code Image Generator With Python: Flask, Playwright, and Screenshots  [Watch](https://youtu.be/Rn9TgmjfR2k)  
  - Speed Up Python Projects With This Research Trick  [Watch](https://youtu.be/GnTWUIg3FGA)  
  - How to Host Python Code Online with GitHub Gists  [Watch](https://youtu.be/V73CVj19Hgw)  
- - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)  
- - No C Skills? AI Still Built My SQLite Extension  [Watch](https://youtu.be/SAodO7OzKx4)
+ - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)
 # Channel: SysOps / DevOps Polska
   
+ - [#550] LT: Azure Pipelines - dobre praktyki - Radosław Jackowiak  [Watch](https://youtu.be/ZSOJ6Tr4-EA)  
  - Łataj szybko swojego kubernetesa #ingress #security #kubernetes #devops  [Watch](https://youtu.be/B6-jDt3HdaQ)  
  - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)  
  - Nowy nurt w zarządzaniu klastrami k8s #devops #kubernetes #tols  [Watch](https://youtu.be/IqaoI6OwJm4)  
- - Co zrobić z dużymi kosztami NATu w AWS? #aws #devops  [Watch](https://youtu.be/jy0U0RAOZvY)  
- - [#548] Azure - za kulisami migracji, której nikt nie chciał się podjąć - Mateusz Czerniawski  [Watch](https://youtu.be/Ff4fkMS38go)
+ - Co zrobić z dużymi kosztami NATu w AWS? #aws #devops  [Watch](https://youtu.be/jy0U0RAOZvY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
- - Rubber Duck Thursdays! | Come cowork and ask questions about open source, AI, jobs, or memes.  [Watch](https://youtu.be/dsGwq7FT4zw)  
- - [pt-BR] Quinta do Patinho - Vamos fazer um blog?  [Watch](https://youtu.be/xIta7QGBDdY)  
- - Rubber Duck Thursdays - More building!  [Watch](https://youtu.be/oJqHZBKCGSE)  
- - Humanoid robots coming to homes: NEO Gamma preview  [Watch](https://youtu.be/FR3v7sntwPI)  
- - Introduction to secret leaks  [Watch](https://youtu.be/vMhDkt5JNN0)
+ - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
+ - [pt-BR]Open Source Brasil - Agenda tech  [Watch](https://youtu.be/hB2rDwhipyY)  
+ - [pt-BR] Open Source Friday Brasil com Marcio Junior Vieira, mantenedor do Tropen!  [Watch](https://youtu.be/MaTfZXYCTic)  
+ - How open source powers charity:water's global impact  [Watch](https://youtu.be/CuYj8MJyQpU)  
+ - GitHub Issues update: From subtasks to advanced search  [Watch](https://youtu.be/hcVNOR_BNMQ)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
