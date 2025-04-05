@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)
 # Channel: Tech With Tim
   
+ - Did Vibe Coding Kill Software Engineering...  [Watch](https://youtu.be/FC1GIXKGxlY)  
+ - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/tg0l5nA-r2s)  
  - Dataclass inheritance in Python  [Watch](https://youtu.be/KTnq1fMO3nI)  
  - How to learn programming in just 2 hours a week  [Watch](https://youtu.be/JXaXd9iyksc)  
- - The BEST way to learn AI  [Watch](https://youtu.be/1oDACjhZT5A)  
- - If you don't wanna USE AI in your workflow you need to watch THIS  [Watch](https://youtu.be/opKV5y1UHJQ)  
- - How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)  [Watch](https://youtu.be/E4l91XKQSgw)
+ - The BEST way to learn AI  [Watch](https://youtu.be/1oDACjhZT5A)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Copilot, right in the terminal  [Watch](https://youtu.be/IgF0FxXibNA)
 # Channel: Mateusz Chrobok
   
+ - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)  
  - 🦠 Czym jest exploit?  [Watch](https://youtu.be/_EaJ_B2cM1s)  
  - To musiało się tak skończyć #primaaprilis  [Watch](https://youtu.be/Y-STjwN_ErI)  
  - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)  
- - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
- - Czym jest FIMI? I czy UE walczy z dezinformacją?  [Watch](https://youtu.be/juVnhEu3RbQ)
+ - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)
 # Channel: Cloud Native Computing Foundation
   
  - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)  
