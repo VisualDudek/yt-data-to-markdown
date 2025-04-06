@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
  - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)
 # Channel: Tech With Tim
   
+ - What does the dataclass decorator do in Python  [Watch](https://youtu.be/zVvFrbYLy80)  
  - Did Vibe Coding Kill Software Engineering...  [Watch](https://youtu.be/FC1GIXKGxlY)  
  - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/tg0l5nA-r2s)  
  - Dataclass inheritance in Python  [Watch](https://youtu.be/KTnq1fMO3nI)  
- - How to learn programming in just 2 hours a week  [Watch](https://youtu.be/JXaXd9iyksc)  
- - The BEST way to learn AI  [Watch](https://youtu.be/1oDACjhZT5A)
+ - How to learn programming in just 2 hours a week  [Watch](https://youtu.be/JXaXd9iyksc)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Copilot, right in the terminal  [Watch](https://youtu.be/IgF0FxXibNA)
 # Channel: Mateusz Chrobok
   
+ - Czy te projekty zmienią Twoje życie?  [Watch](https://youtu.be/w1GDUyTluPs)  
  - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)  
  - 🦠 Czym jest exploit?  [Watch](https://youtu.be/_EaJ_B2cM1s)  
  - To musiało się tak skończyć #primaaprilis  [Watch](https://youtu.be/Y-STjwN_ErI)  
- - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)  
- - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)
+ - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)
 # Channel: Cloud Native Computing Foundation
   
  - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
+ - Understanding LLMs: How AI language models actually work  [Watch](https://youtu.be/YEfoFfUkKxg)  
  - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
  - [pt-BR]Open Source Brasil - Agenda tech  [Watch](https://youtu.be/hB2rDwhipyY)  
  - [pt-BR] Open Source Friday Brasil com Marcio Junior Vieira, mantenedor do Tropen!  [Watch](https://youtu.be/MaTfZXYCTic)  
- - How open source powers charity:water's global impact  [Watch](https://youtu.be/CuYj8MJyQpU)  
- - GitHub Issues update: From subtasks to advanced search  [Watch](https://youtu.be/hcVNOR_BNMQ)
+ - How open source powers charity:water's global impact  [Watch](https://youtu.be/CuYj8MJyQpU)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
