@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)
 # Channel: Tech With Tim
   
+ - How To Pick a Programming Language in 2025... And Should You?  [Watch](https://youtu.be/ADjyDF0RNY8)  
  - What does the dataclass decorator do in Python  [Watch](https://youtu.be/zVvFrbYLy80)  
  - Did Vibe Coding Kill Software Engineering...  [Watch](https://youtu.be/FC1GIXKGxlY)  
  - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/tg0l5nA-r2s)  
- - Dataclass inheritance in Python  [Watch](https://youtu.be/KTnq1fMO3nI)  
- - How to learn programming in just 2 hours a week  [Watch](https://youtu.be/JXaXd9iyksc)
+ - Dataclass inheritance in Python  [Watch](https://youtu.be/KTnq1fMO3nI)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -53,25 +53,25 @@ Youtube Videos
  - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)
 # Channel: Cloud Native Computing Foundation
   
- - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)  
- - Project Updates: Argo Workflows - Shuangkun Tian, Alibaba  [Watch](https://youtu.be/cEAM0iqunEM)  
- - Project Updates: Events - Caelan Urquhart, Pipekit  [Watch](https://youtu.be/YeeIOXoLBgo)  
- - Progressive Delivery With Argo Rollouts and Kubernetes Gateway API for Multi-Directional... Lin Sun  [Watch](https://youtu.be/_G2EWwbVZqs)  
- - Project Updates: Argo CD - Michael Crenshaw, Intuit  [Watch](https://youtu.be/bTVavLFH7XQ)
+ - Day 0 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/rP1I6Cegej4)  
+ - Cloud Native Live: Swarming the Data Lake with Kubernetes  [Watch](https://youtu.be/CNIfDJ7E4dc)  
+ - Cloud Native Live: Internal Kubernetes platform using vCluster  [Watch](https://youtu.be/soGm_ypHqmw)  
+ - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)  
+ - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)
 # Channel: Real Python
   
+ - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)  
  - GUIs & TUIs: Choosing a User Interface for Your Python Project | Real Python Podcast #245  [Watch](https://youtu.be/v4XV1NAMFms)  
  - Building a Code Image Generator With Python: Flask, Playwright, and Screenshots  [Watch](https://youtu.be/Rn9TgmjfR2k)  
  - Speed Up Python Projects With This Research Trick  [Watch](https://youtu.be/GnTWUIg3FGA)  
- - How to Host Python Code Online with GitHub Gists  [Watch](https://youtu.be/V73CVj19Hgw)  
- - What Can You Do With Python: Beginning Web Dev, CLIs, and TUIs  [Watch](https://youtu.be/uvkzyLWDB5g)
+ - How to Host Python Code Online with GitHub Gists  [Watch](https://youtu.be/V73CVj19Hgw)
 # Channel: SysOps / DevOps Polska
   
+ - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)  
+ - [#551] Architektura analityki z Microsoft Fabric - Jakub Wawrzyniak  [Watch](https://youtu.be/jvbjUsoa-8w)  
  - [#550] LT: Azure Pipelines - dobre praktyki - Radosław Jackowiak  [Watch](https://youtu.be/ZSOJ6Tr4-EA)  
  - Łataj szybko swojego kubernetesa #ingress #security #kubernetes #devops  [Watch](https://youtu.be/B6-jDt3HdaQ)  
- - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)  
- - Nowy nurt w zarządzaniu klastrami k8s #devops #kubernetes #tols  [Watch](https://youtu.be/IqaoI6OwJm4)  
- - Co zrobić z dużymi kosztami NATu w AWS? #aws #devops  [Watch](https://youtu.be/jy0U0RAOZvY)
+ - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Warp AI Knowledge Rules, optimize AI output  [Watch](https://youtu.be/GZtWIU0T888)  
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)  
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)  
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)  
- - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)  
- - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
+ - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)
 # Channel: GitHub
   
+ - Event in Spanish: Calculando con el compilador: Comp time vs Run time en Rust  [Watch](https://youtu.be/3IcTYTMNp2g)  
+ - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)  
  - Understanding LLMs: How AI language models actually work  [Watch](https://youtu.be/YEfoFfUkKxg)  
  - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
- - [pt-BR]Open Source Brasil - Agenda tech  [Watch](https://youtu.be/hB2rDwhipyY)  
- - [pt-BR] Open Source Friday Brasil com Marcio Junior Vieira, mantenedor do Tropen!  [Watch](https://youtu.be/MaTfZXYCTic)  
- - How open source powers charity:water's global impact  [Watch](https://youtu.be/CuYj8MJyQpU)
+ - [pt-BR]Open Source Brasil - Agenda tech  [Watch](https://youtu.be/hB2rDwhipyY)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
