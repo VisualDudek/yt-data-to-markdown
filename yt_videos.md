@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - how can an identical docker image produce different results?  [Watch](https://youtu.be/CBbgmRAg0VM)
 # Channel: Tech With Tim
   
+ - The benefits of working at a startup as a beginner engineer  [Watch](https://youtu.be/FomxEaxZLzY)  
+ - 99% of Python devs don't know about this function  [Watch](https://youtu.be/UdWn74QrUuY)  
+ - The biggest mistakes that vibe coders make  [Watch](https://youtu.be/IHvXQAAnPcE)  
  - How To Pick a Programming Language in 2025... And Should You?  [Watch](https://youtu.be/ADjyDF0RNY8)  
- - What does the dataclass decorator do in Python  [Watch](https://youtu.be/zVvFrbYLy80)  
- - Did Vibe Coding Kill Software Engineering...  [Watch](https://youtu.be/FC1GIXKGxlY)  
- - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/tg0l5nA-r2s)  
- - Dataclass inheritance in Python  [Watch](https://youtu.be/KTnq1fMO3nI)
+ - What does the dataclass decorator do in Python  [Watch](https://youtu.be/zVvFrbYLy80)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -53,11 +53,11 @@ Youtube Videos
  - Najgłupsza (na razie) wpadka polityków #bzdurabezpieczeństwa  [Watch](https://youtu.be/j-Mb1jXUZ1g)
 # Channel: Cloud Native Computing Foundation
   
+ - Day 3 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/q3uBctLa_Sg)  
+ - Day 2 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/DGE1P5ynmsQ)  
+ - Day 1 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/pWBbX6pOyPg)  
  - Day 0 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/rP1I6Cegej4)  
- - Cloud Native Live: Swarming the Data Lake with Kubernetes  [Watch](https://youtu.be/CNIfDJ7E4dc)  
- - Cloud Native Live: Internal Kubernetes platform using vCluster  [Watch](https://youtu.be/soGm_ypHqmw)  
- - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)  
- - KubeCon + CloudNativeCon 2025 Europe -  Project Updates  [Watch](https://youtu.be/T_EDE6DDqYc)
+ - Cloud Native Live: Swarming the Data Lake with Kubernetes  [Watch](https://youtu.be/CNIfDJ7E4dc)
 # Channel: Real Python
   
  - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)  
@@ -95,11 +95,11 @@ Youtube Videos
  - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)
 # Channel: GitHub
   
+ - Prompt engineering basics: Getting better results from AI  [Watch](https://youtu.be/VqSbogoaNCc)  
+ - Happy Birthday to our favorite version control system! 🥳 Let's #git the party started  [Watch](https://youtu.be/_JI3wSxzNgc)  
  - Event in Spanish: Calculando con el compilador: Comp time vs Run time en Rust  [Watch](https://youtu.be/3IcTYTMNp2g)  
  - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)  
- - Understanding LLMs: How AI language models actually work  [Watch](https://youtu.be/YEfoFfUkKxg)  
- - Banking on Open Source with TD Bank's OSPO  [Watch](https://youtu.be/5IZsUkTfOy4)  
- - [pt-BR]Open Source Brasil - Agenda tech  [Watch](https://youtu.be/hB2rDwhipyY)
+ - Understanding LLMs: How AI language models actually work  [Watch](https://youtu.be/YEfoFfUkKxg)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
