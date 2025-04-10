@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - 📊 Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
+ - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - You will never create classes the *USUAL* way again in Python  [Watch](https://youtu.be/ENEo_Gv_V_s)  
+ - Why I changed my mind about using AI  [Watch](https://youtu.be/xGRFSj8S-Qo)  
  - The benefits of working at a startup as a beginner engineer  [Watch](https://youtu.be/FomxEaxZLzY)  
  - 99% of Python devs don't know about this function  [Watch](https://youtu.be/UdWn74QrUuY)  
- - The biggest mistakes that vibe coders make  [Watch](https://youtu.be/IHvXQAAnPcE)  
- - How To Pick a Programming Language in 2025... And Should You?  [Watch](https://youtu.be/ADjyDF0RNY8)  
- - What does the dataclass decorator do in Python  [Watch](https://youtu.be/zVvFrbYLy80)
+ - The biggest mistakes that vibe coders make  [Watch](https://youtu.be/IHvXQAAnPcE)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - The hidden Agent Mode #vscode #ai #copilot  [Watch](https://youtu.be/MuMMgAoIyqY)  
  - VS Code Agent Mode Just Changed Everything  [Watch](https://youtu.be/dutyOc_cAEU)  
  - Connect Copilot to your database? #coding #ai #database  [Watch](https://youtu.be/RiQJbyCywvM)  
  - Because we ❤️ you #coding #vscode #love  [Watch](https://youtu.be/OXe_nCsVXm4)  
- - 🔴 VS Code Live: (LATAM)  [Watch](https://youtu.be/Y5qNLGpIzyc)  
- - Have you seen this button? #coding #githubcopilot #programming  [Watch](https://youtu.be/Vj_Ssd1c1dQ)
+ - 🔴 VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)
 # Channel: Mateusz Chrobok
   
  - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
@@ -53,25 +53,25 @@ Youtube Videos
  - To musiało się tak skończyć #primaaprilis  [Watch](https://youtu.be/Y-STjwN_ErI)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Using Cilium to enforce gRPC-aware security policies  [Watch](https://youtu.be/00b1KN3141k)  
- - Day 3 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/q3uBctLa_Sg)  
- - Day 2 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/DGE1P5ynmsQ)  
- - Day 1 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/pWBbX6pOyPg)  
- - Day 0 - KubeCon + CloudNativeCon 2025 Europe Highlights from London  [Watch](https://youtu.be/rP1I6Cegej4)
+ - Argo Workflow Templates: A Practical Deep-Dive - Tim Collins & Becky Pauley  [Watch](https://youtu.be/0QeYA6_9cOg)  
+ - Rebuilding the Tower of Babel: A Choreography for the Management of Comple... A.G. Sánchez & B. Tsai  [Watch](https://youtu.be/Dr11sYvXGQk)  
+ - Panel: Native OCI Integration - Leveraging Argo CD Source Content in a Brand New Way  [Watch](https://youtu.be/NBZH6pqLto4)  
+ - Automating Kubernetes Resource Management Over GitOps for the Telco Cloud... L. Fallon & I. Kispál  [Watch](https://youtu.be/Qoq7NgVWTUE)  
+ - Automated Resilience: Using Argo Events for Real-Time Incident Remediation - Darko Janjić, Pipekit  [Watch](https://youtu.be/SNWuSWH5GjU)
 # Channel: Real Python
   
+ - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)  
  - Prompting Isn’t Magic: Avoid These AI Traps  [Watch](https://youtu.be/p3MtyKwAU5o)  
  - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)  
  - GUIs & TUIs: Choosing a User Interface for Your Python Project | Real Python Podcast #245  [Watch](https://youtu.be/v4XV1NAMFms)  
- - Building a Code Image Generator With Python: Flask, Playwright, and Screenshots  [Watch](https://youtu.be/Rn9TgmjfR2k)  
- - Speed Up Python Projects With This Research Trick  [Watch](https://youtu.be/GnTWUIg3FGA)
+ - Building a Code Image Generator With Python: Flask, Playwright, and Screenshots  [Watch](https://youtu.be/Rn9TgmjfR2k)
 # Channel: SysOps / DevOps Polska
   
+ - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)  
  - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)  
  - [#551] Architektura analityki z Microsoft Fabric - Jakub Wawrzyniak  [Watch](https://youtu.be/jvbjUsoa-8w)  
  - [#550] LT: Azure Pipelines - dobre praktyki - Radosław Jackowiak  [Watch](https://youtu.be/ZSOJ6Tr4-EA)  
- - Łataj szybko swojego kubernetesa #ingress #security #kubernetes #devops  [Watch](https://youtu.be/B6-jDt3HdaQ)  
- - [#549] Z Workspace ONE do Intune: kulisy migracji urządzeń Android i iOS - Maciej Horbacz  [Watch](https://youtu.be/jXuU25WGX9w)
+ - Łataj szybko swojego kubernetesa #ingress #security #kubernetes #devops  [Watch](https://youtu.be/B6-jDt3HdaQ)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
- - Two decades of Git: A conversation with creator Linus Torvalds  [Watch](https://youtu.be/sCr_gb8rdEI)  
- - Why you should speak at GitHub Universe 2025  [Watch](https://youtu.be/L2EfMDm108Y)  
- - [pt-BR] Live Especial – Bate-papo com Jeff, da Linux Tips, sobre o GIRUS!  [Watch](https://youtu.be/ruNYJ__Tpjc)  
- - Rubber Duck Thursdays - Building with Agent Mode and MCP  [Watch](https://youtu.be/rLbjeaDwCMM)  
- - Prompt engineering basics: Getting better results from AI  [Watch](https://youtu.be/VqSbogoaNCc)
+ - Event in Spanish: Jueves de Cuack  [Watch](https://youtu.be/htK7Lagh_YM)  
+ - Rubber Duck Thursdays ~ Happy birthday GitHub!  [Watch](https://youtu.be/v9k0GazSqOY)  
+ - How developers can use open source to address climate change  [Watch](https://youtu.be/QyEVrNqFr_c)  
+ - New security tools explained: Secret Protection and Code Security | GitHub Checkout  [Watch](https://youtu.be/S3iDgVCBtz8)  
+ - Rubber Duck Thursdays - Building with Agent Mode and MCP  [Watch](https://youtu.be/rLbjeaDwCMM)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
