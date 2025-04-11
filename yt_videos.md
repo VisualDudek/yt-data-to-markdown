@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)  
- - Tips for Great Streamlit Dashboards  [Watch](https://youtu.be/TvF58hBz-AM)
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -39,39 +39,39 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Developer's Journey Episode 2  [Watch](https://youtu.be/SIO3bDGU96g)  
+ - Is AI coming for your job? #ai  [Watch](https://youtu.be/jlGNECmZDI0)  
  - The hidden Agent Mode #vscode #ai #copilot  [Watch](https://youtu.be/MuMMgAoIyqY)  
  - VS Code Agent Mode Just Changed Everything  [Watch](https://youtu.be/dutyOc_cAEU)  
- - Connect Copilot to your database? #coding #ai #database  [Watch](https://youtu.be/RiQJbyCywvM)  
- - Because we ❤️ you #coding #vscode #love  [Watch](https://youtu.be/OXe_nCsVXm4)  
- - 🔴 VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)
+ - Connect Copilot to your database? #coding #ai #database  [Watch](https://youtu.be/RiQJbyCywvM)
 # Channel: Mateusz Chrobok
   
+ - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)  
  - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
  - Czy te projekty zmienią Twoje życie?  [Watch](https://youtu.be/w1GDUyTluPs)  
  - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)  
- - 🦠 Czym jest exploit?  [Watch](https://youtu.be/_EaJ_B2cM1s)  
- - To musiało się tak skończyć #primaaprilis  [Watch](https://youtu.be/Y-STjwN_ErI)
+ - 🦠 Czym jest exploit?  [Watch](https://youtu.be/_EaJ_B2cM1s)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)  
  - Argo Workflow Templates: A Practical Deep-Dive - Tim Collins & Becky Pauley  [Watch](https://youtu.be/0QeYA6_9cOg)  
  - Rebuilding the Tower of Babel: A Choreography for the Management of Comple... A.G. Sánchez & B. Tsai  [Watch](https://youtu.be/Dr11sYvXGQk)  
  - Panel: Native OCI Integration - Leveraging Argo CD Source Content in a Brand New Way  [Watch](https://youtu.be/NBZH6pqLto4)  
- - Automating Kubernetes Resource Management Over GitOps for the Telco Cloud... L. Fallon & I. Kispál  [Watch](https://youtu.be/Qoq7NgVWTUE)  
- - Automated Resilience: Using Argo Events for Real-Time Incident Remediation - Darko Janjić, Pipekit  [Watch](https://youtu.be/SNWuSWH5GjU)
+ - Automating Kubernetes Resource Management Over GitOps for the Telco Cloud... L. Fallon & I. Kispál  [Watch](https://youtu.be/Qoq7NgVWTUE)
 # Channel: Real Python
   
+ - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)  
  - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)  
  - Prompting Isn’t Magic: Avoid These AI Traps  [Watch](https://youtu.be/p3MtyKwAU5o)  
  - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)  
- - GUIs & TUIs: Choosing a User Interface for Your Python Project | Real Python Podcast #245  [Watch](https://youtu.be/v4XV1NAMFms)  
- - Building a Code Image Generator With Python: Flask, Playwright, and Screenshots  [Watch](https://youtu.be/Rn9TgmjfR2k)
+ - GUIs & TUIs: Choosing a User Interface for Your Python Project | Real Python Podcast #245  [Watch](https://youtu.be/v4XV1NAMFms)
 # Channel: SysOps / DevOps Polska
   
+ - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)  
  - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)  
  - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)  
  - [#551] Architektura analityki z Microsoft Fabric - Jakub Wawrzyniak  [Watch](https://youtu.be/jvbjUsoa-8w)  
- - [#550] LT: Azure Pipelines - dobre praktyki - Radosław Jackowiak  [Watch](https://youtu.be/ZSOJ6Tr4-EA)  
- - Łataj szybko swojego kubernetesa #ingress #security #kubernetes #devops  [Watch](https://youtu.be/B6-jDt3HdaQ)
+ - [#550] LT: Azure Pipelines - dobre praktyki - Radosław Jackowiak  [Watch](https://youtu.be/ZSOJ6Tr4-EA)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,10 +95,10 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)  
+ - The Download: Git turns 20, MCP server news, and GitHub Universe updates  [Watch](https://youtu.be/iMSyB9aWuAc)  
  - Event in Spanish: Jueves de Cuack  [Watch](https://youtu.be/htK7Lagh_YM)  
  - Rubber Duck Thursdays ~ Happy birthday GitHub!  [Watch](https://youtu.be/v9k0GazSqOY)  
- - How developers can use open source to address climate change  [Watch](https://youtu.be/QyEVrNqFr_c)  
- - New security tools explained: Secret Protection and Code Security | GitHub Checkout  [Watch](https://youtu.be/S3iDgVCBtz8)  
  - Rubber Duck Thursdays - Building with Agent Mode and MCP  [Watch](https://youtu.be/rLbjeaDwCMM)
 # Channel: CloudHeroes - Video
   
