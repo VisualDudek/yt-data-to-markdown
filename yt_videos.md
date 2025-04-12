@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - Build Anything With a CUSTOM MCP Server - Python Tutorial  [Watch](https://youtu.be/-8k9lGpGQ6g)  
+ - What are Dunder methods in python?  [Watch](https://youtu.be/twzWPL-qVjk)  
+ - The BEST way to get good at programming *EVEN WITH 0 EXPERIENCE*  [Watch](https://youtu.be/sy7SrVUA_rM)  
  - You will never create classes the *USUAL* way again in Python  [Watch](https://youtu.be/ENEo_Gv_V_s)  
- - Why I changed my mind about using AI  [Watch](https://youtu.be/xGRFSj8S-Qo)  
- - The benefits of working at a startup as a beginner engineer  [Watch](https://youtu.be/FomxEaxZLzY)  
- - 99% of Python devs don't know about this function  [Watch](https://youtu.be/UdWn74QrUuY)  
- - The biggest mistakes that vibe coders make  [Watch](https://youtu.be/IHvXQAAnPcE)
+ - Why I changed my mind about using AI  [Watch](https://youtu.be/xGRFSj8S-Qo)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
