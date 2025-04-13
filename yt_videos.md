@@ -5,10 +5,10 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - If you wanna work at Google try solving THIS  [Watch](https://youtu.be/HsaGeSA8dAk)  
  - Build Anything With a CUSTOM MCP Server - Python Tutorial  [Watch](https://youtu.be/-8k9lGpGQ6g)  
  - What are Dunder methods in python?  [Watch](https://youtu.be/twzWPL-qVjk)  
  - The BEST way to get good at programming *EVEN WITH 0 EXPERIENCE*  [Watch](https://youtu.be/sy7SrVUA_rM)  
- - You will never create classes the *USUAL* way again in Python  [Watch](https://youtu.be/ENEo_Gv_V_s)  
- - Why I changed my mind about using AI  [Watch](https://youtu.be/xGRFSj8S-Qo)
+ - You will never create classes the *USUAL* way again in Python  [Watch](https://youtu.be/ENEo_Gv_V_s)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Connect Copilot to your database? #coding #ai #database  [Watch](https://youtu.be/RiQJbyCywvM)
 # Channel: Mateusz Chrobok
   
+ - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
  - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)  
  - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
  - Czy te projekty zmienią Twoje życie?  [Watch](https://youtu.be/w1GDUyTluPs)  
- - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)  
- - 🦠 Czym jest exploit?  [Watch](https://youtu.be/_EaJ_B2cM1s)
+ - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)
 # Channel: Cloud Native Computing Foundation
   
  - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - Is your code green? Measure AI emissions with Code Carbon  [Watch](https://youtu.be/Tki1yfdDOdE)  
  - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)  
  - The Download: Git turns 20, MCP server news, and GitHub Universe updates  [Watch](https://youtu.be/iMSyB9aWuAc)  
  - Event in Spanish: Jueves de Cuack  [Watch](https://youtu.be/htK7Lagh_YM)  
- - Rubber Duck Thursdays ~ Happy birthday GitHub!  [Watch](https://youtu.be/v9k0GazSqOY)  
- - Rubber Duck Thursdays - Building with Agent Mode and MCP  [Watch](https://youtu.be/rLbjeaDwCMM)
+ - Rubber Duck Thursdays ~ Happy birthday GitHub!  [Watch](https://youtu.be/v9k0GazSqOY)
 # Channel: CloudHeroes - Video
   
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
