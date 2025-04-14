@@ -6,9 +6,9 @@ Youtube Videos
   
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
+ - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - Stop Using Pip - This New Tool is 100x Faster (UV Tutorial)  [Watch](https://youtu.be/6pttmsBSi8M)  
+ - After 10,000 hours of coding THIS is my #1 productivity hack  [Watch](https://youtu.be/RFoGUw-rKLo)  
  - If you wanna work at Google try solving THIS  [Watch](https://youtu.be/HsaGeSA8dAk)  
  - Build Anything With a CUSTOM MCP Server - Python Tutorial  [Watch](https://youtu.be/-8k9lGpGQ6g)  
- - What are Dunder methods in python?  [Watch](https://youtu.be/twzWPL-qVjk)  
- - The BEST way to get good at programming *EVEN WITH 0 EXPERIENCE*  [Watch](https://youtu.be/sy7SrVUA_rM)  
- - You will never create classes the *USUAL* way again in Python  [Watch](https://youtu.be/ENEo_Gv_V_s)
+ - What are Dunder methods in python?  [Watch](https://youtu.be/twzWPL-qVjk)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Automating Kubernetes Resource Management Over GitOps for the Telco Cloud... L. Fallon & I. Kispál  [Watch](https://youtu.be/Qoq7NgVWTUE)
 # Channel: Real Python
   
+ - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)  
  - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)  
  - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)  
  - Prompting Isn’t Magic: Avoid These AI Traps  [Watch](https://youtu.be/p3MtyKwAU5o)  
- - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)  
- - GUIs & TUIs: Choosing a User Interface for Your Python Project | Real Python Podcast #245  [Watch](https://youtu.be/v4XV1NAMFms)
+ - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)
 # Channel: SysOps / DevOps Polska
   
+ - AWS zablokuje Ci upgrade EKSa #aws #eks #kubernetes #devops  [Watch](https://youtu.be/_XpI6IbgPuQ)  
  - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)  
  - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)  
  - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)  
- - [#551] Architektura analityki z Microsoft Fabric - Jakub Wawrzyniak  [Watch](https://youtu.be/jvbjUsoa-8w)  
- - [#550] LT: Azure Pipelines - dobre praktyki - Radosław Jackowiak  [Watch](https://youtu.be/ZSOJ6Tr4-EA)
+ - [#551] Architektura analityki z Microsoft Fabric - Jakub Wawrzyniak  [Watch](https://youtu.be/jvbjUsoa-8w)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,18 +95,18 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - Securing your code with GitHub Copilot: Best practices for beginners  [Watch](https://youtu.be/9x4ekT65HX8)  
+ - [pt-BR] GitHub Presente Brasil - Abril  [Watch](https://youtu.be/qZiMzaFZsb4)  
+ - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)  
  - Is your code green? Measure AI emissions with Code Carbon  [Watch](https://youtu.be/Tki1yfdDOdE)  
- - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)  
- - The Download: Git turns 20, MCP server news, and GitHub Universe updates  [Watch](https://youtu.be/iMSyB9aWuAc)  
- - Event in Spanish: Jueves de Cuack  [Watch](https://youtu.be/htK7Lagh_YM)  
- - Rubber Duck Thursdays ~ Happy birthday GitHub!  [Watch](https://youtu.be/v9k0GazSqOY)
+ - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)
 # Channel: CloudHeroes - Video
   
+ - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
  - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
- - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)  
- - Rodzaje polityk w AWS Organizations  [Watch](https://youtu.be/IuSgrk7LA_4)
+ - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
