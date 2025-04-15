@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How to Write Python Functions That Don’t Fall Apart  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
  - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - How to stay ahead of 99% of devs in 2025  [Watch](https://youtu.be/P5I1H-Ko-7I)  
  - Stop Using Pip - This New Tool is 100x Faster (UV Tutorial)  [Watch](https://youtu.be/6pttmsBSi8M)  
  - After 10,000 hours of coding THIS is my #1 productivity hack  [Watch](https://youtu.be/RFoGUw-rKLo)  
  - If you wanna work at Google try solving THIS  [Watch](https://youtu.be/HsaGeSA8dAk)  
- - Build Anything With a CUSTOM MCP Server - Python Tutorial  [Watch](https://youtu.be/-8k9lGpGQ6g)  
- - What are Dunder methods in python?  [Watch](https://youtu.be/twzWPL-qVjk)
+ - Build Anything With a CUSTOM MCP Server - Python Tutorial  [Watch](https://youtu.be/-8k9lGpGQ6g)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - The Only 3 Videos You Need to Get Started with MCP!  [Watch](https://youtu.be/YRfOiB0Im64)  
  - Developer's Journey Episode 2  [Watch](https://youtu.be/SIO3bDGU96g)  
  - Is AI coming for your job? #ai  [Watch](https://youtu.be/jlGNECmZDI0)  
  - The hidden Agent Mode #vscode #ai #copilot  [Watch](https://youtu.be/MuMMgAoIyqY)  
- - VS Code Agent Mode Just Changed Everything  [Watch](https://youtu.be/dutyOc_cAEU)  
- - Connect Copilot to your database? #coding #ai #database  [Watch](https://youtu.be/RiQJbyCywvM)
+ - VS Code Agent Mode Just Changed Everything  [Watch](https://youtu.be/dutyOc_cAEU)
 # Channel: Mateusz Chrobok
   
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)  
- - Argo Workflow Templates: A Practical Deep-Dive - Tim Collins & Becky Pauley  [Watch](https://youtu.be/0QeYA6_9cOg)  
- - Rebuilding the Tower of Babel: A Choreography for the Management of Comple... A.G. Sánchez & B. Tsai  [Watch](https://youtu.be/Dr11sYvXGQk)  
- - Panel: Native OCI Integration - Leveraging Argo CD Source Content in a Brand New Way  [Watch](https://youtu.be/NBZH6pqLto4)  
- - Automating Kubernetes Resource Management Over GitOps for the Telco Cloud... L. Fallon & I. Kispál  [Watch](https://youtu.be/Qoq7NgVWTUE)
+ - TOC Meeting 2025-03-04  [Watch](https://youtu.be/na9jtFT2LOI)  
+ - TOC Meeting 2025-03-18  [Watch](https://youtu.be/9n1q6ql9yQY)  
+ - Sandbox Review February 2025  [Watch](https://youtu.be/vQXuRdcepYU)  
+ - CNL: Internal Kubernetes platform using vCluster v  [Watch](https://youtu.be/F4MmGBkpxrY)  
+ - TOC Meeting 2025-04-15  [Watch](https://youtu.be/Ma861rYJWSY)
 # Channel: Real Python
   
  - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)
 # Channel: SysOps / DevOps Polska
   
+ - [#553] AMBA w akcji: automatyzacja i ujednolicanie alertów w Azure - Paweł Englisz  [Watch](https://youtu.be/7oBBGH6UYWU)  
  - AWS zablokuje Ci upgrade EKSa #aws #eks #kubernetes #devops  [Watch](https://youtu.be/_XpI6IbgPuQ)  
  - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)  
  - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)  
- - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)  
- - [#551] Architektura analityki z Microsoft Fabric - Jakub Wawrzyniak  [Watch](https://youtu.be/jvbjUsoa-8w)
+ - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - Electricity Maps: An open source tool for tracking energy carbon intensity  [Watch](https://youtu.be/geOYLVdtmQQ)  
+ - GitHub Copilot speaks Hindi: Agent Mode in your language  [Watch](https://youtu.be/vDRiHd1J8_Q)  
  - Securing your code with GitHub Copilot: Best practices for beginners  [Watch](https://youtu.be/9x4ekT65HX8)  
  - [pt-BR] GitHub Presente Brasil - Abril  [Watch](https://youtu.be/qZiMzaFZsb4)  
- - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)  
- - Is your code green? Measure AI emissions with Code Carbon  [Watch](https://youtu.be/Tki1yfdDOdE)  
- - Open Source Friday: Building Modern Web Applications with Oqtane Framework  [Watch](https://youtu.be/j7WID3q1yY0)
+ - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
