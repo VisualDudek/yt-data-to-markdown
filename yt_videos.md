@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - Git Branching Explained – Merging, Rebasing & More (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - How to Set Up Pytest Without Headaches  [Watch](https://youtu.be/jxqGsJEhiAg)
+ - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -18,11 +18,11 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)  
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)  
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)  
  - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)  
- - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)  
- - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
+ - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
  - How to stay ahead of 99% of devs in 2025  [Watch](https://youtu.be/P5I1H-Ko-7I)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - 🔴 VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)  
  - The Only 3 Videos You Need to Get Started with MCP!  [Watch](https://youtu.be/YRfOiB0Im64)  
  - Developer's Journey Episode 2  [Watch](https://youtu.be/SIO3bDGU96g)  
  - Is AI coming for your job? #ai  [Watch](https://youtu.be/jlGNECmZDI0)  
- - The hidden Agent Mode #vscode #ai #copilot  [Watch](https://youtu.be/MuMMgAoIyqY)  
- - VS Code Agent Mode Just Changed Everything  [Watch](https://youtu.be/dutyOc_cAEU)
+ - The hidden Agent Mode #vscode #ai #copilot  [Watch](https://youtu.be/MuMMgAoIyqY)
 # Channel: Mateusz Chrobok
   
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)
 # Channel: Cloud Native Computing Foundation
   
- - TOC Meeting 2025-03-04  [Watch](https://youtu.be/na9jtFT2LOI)  
- - TOC Meeting 2025-03-18  [Watch](https://youtu.be/9n1q6ql9yQY)  
- - Sandbox Review February 2025  [Watch](https://youtu.be/vQXuRdcepYU)  
+ - Blind & Visually Impaired Initiative (BVI) Meeting - 2025-04-15  [Watch](https://youtu.be/7XijW5LinGU)  
+ - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-04-08  [Watch](https://youtu.be/gBFACwiDQ_s)  
  - CNL: Internal Kubernetes platform using vCluster v  [Watch](https://youtu.be/F4MmGBkpxrY)  
- - TOC Meeting 2025-04-15  [Watch](https://youtu.be/Ma861rYJWSY)
+ - TOC Meeting 2025-03-04  [Watch](https://youtu.be/na9jtFT2LOI)  
+ - TOC Meeting 2025-03-18  [Watch](https://youtu.be/9n1q6ql9yQY)
 # Channel: Real Python
   
+ - The AI Workout Plan: Train Your Intuition with LLMs  [Watch](https://youtu.be/oxITTXzlmw8)  
  - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)  
  - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)  
  - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)  
- - Prompting Isn’t Magic: Avoid These AI Traps  [Watch](https://youtu.be/p3MtyKwAU5o)  
- - Master Data Science With NumPy!  [Watch](https://youtu.be/sD6W3I2HiCo)
+ - Prompting Isn’t Magic: Avoid These AI Traps  [Watch](https://youtu.be/p3MtyKwAU5o)
 # Channel: SysOps / DevOps Polska
   
  - [#553] AMBA w akcji: automatyzacja i ujednolicanie alertów w Azure - Paweł Englisz  [Watch](https://youtu.be/7oBBGH6UYWU)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
- - Electricity Maps: An open source tool for tracking energy carbon intensity  [Watch](https://youtu.be/geOYLVdtmQQ)  
- - GitHub Copilot speaks Hindi: Agent Mode in your language  [Watch](https://youtu.be/vDRiHd1J8_Q)  
- - Securing your code with GitHub Copilot: Best practices for beginners  [Watch](https://youtu.be/9x4ekT65HX8)  
- - [pt-BR] GitHub Presente Brasil - Abril  [Watch](https://youtu.be/qZiMzaFZsb4)  
- - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)
+ - 🔴 VS Code Live: Agent Mode Day  [Watch](https://youtu.be/4sKBgos3t1Y)  
+ - Git turns 20: Revisiting Linus Torvalds' vision for version control  [Watch](https://youtu.be/ULIq-0wvE88)  
+ - Rubber Duck Thursdays – Coding with the latest models  [Watch](https://youtu.be/pc5SKYxujDY)  
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/qGrTTFI7Nis)  
+ - Electricity Maps: An open source tool for tracking energy carbon intensity  [Watch](https://youtu.be/geOYLVdtmQQ)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
