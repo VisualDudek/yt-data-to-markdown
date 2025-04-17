@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Git Branching Explained – Merging, Rebasing & More (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
  - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
+ - "New Junior Developers Can't Actually Code"  [Watch](https://youtu.be/mTJOpK100bQ)  
+ - How to level up as a programmer in 2025  [Watch](https://youtu.be/BJOVlsOVK54)  
  - How to stay ahead of 99% of devs in 2025  [Watch](https://youtu.be/P5I1H-Ko-7I)  
  - Stop Using Pip - This New Tool is 100x Faster (UV Tutorial)  [Watch](https://youtu.be/6pttmsBSi8M)  
- - After 10,000 hours of coding THIS is my #1 productivity hack  [Watch](https://youtu.be/RFoGUw-rKLo)  
- - If you wanna work at Google try solving THIS  [Watch](https://youtu.be/HsaGeSA8dAk)  
- - Build Anything With a CUSTOM MCP Server - Python Tutorial  [Watch](https://youtu.be/-8k9lGpGQ6g)
+ - After 10,000 hours of coding THIS is my #1 productivity hack  [Watch](https://youtu.be/RFoGUw-rKLo)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,39 +39,39 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - 🔴 VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)  
+ - (Part 2 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/GZ6zWqv-tvI)  
+ - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)  
  - 🔴 VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)  
- - The Only 3 Videos You Need to Get Started with MCP!  [Watch](https://youtu.be/YRfOiB0Im64)  
- - Developer's Journey Episode 2  [Watch](https://youtu.be/SIO3bDGU96g)  
- - Is AI coming for your job? #ai  [Watch](https://youtu.be/jlGNECmZDI0)  
- - The hidden Agent Mode #vscode #ai #copilot  [Watch](https://youtu.be/MuMMgAoIyqY)
+ - (Part 1 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/wJYtClNo2yU)
 # Channel: Mateusz Chrobok
   
+ - 🤖 Uważaj na raporty w sieci  [Watch](https://youtu.be/WyiA6QxQ4Tg)  
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
  - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)  
  - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
- - Czy te projekty zmienią Twoje życie?  [Watch](https://youtu.be/w1GDUyTluPs)  
- - 🚓 Kolejni pe****le aresztowani  [Watch](https://youtu.be/lbiqe2c7WSE)
+ - Czy te projekty zmienią Twoje życie?  [Watch](https://youtu.be/w1GDUyTluPs)
 # Channel: Cloud Native Computing Foundation
   
- - Blind & Visually Impaired Initiative (BVI) Meeting - 2025-04-15  [Watch](https://youtu.be/7XijW5LinGU)  
- - Black, Indigenous, and People of Color (BIPOC) Initiative Meeting - 2025-04-08  [Watch](https://youtu.be/gBFACwiDQ_s)  
- - CNL: Internal Kubernetes platform using vCluster v  [Watch](https://youtu.be/F4MmGBkpxrY)  
- - TOC Meeting 2025-03-04  [Watch](https://youtu.be/na9jtFT2LOI)  
- - TOC Meeting 2025-03-18  [Watch](https://youtu.be/9n1q6ql9yQY)
+ - Observability by Design: Leveraging OpenTelemetry Weaver To Take Con... osh Suereth & Laurent Querel  [Watch](https://youtu.be/BJt6LyJEYD0)  
+ - Sponsored Keynote: Fluent Bit vs. OpenTelemetry Collector - Why Not Both? Margaret Dawson  [Watch](https://youtu.be/P3e9JQWta_g)  
+ - Sponsored Keynote: The Future of Observability: Trends, AI, and New Relic’s Vision f... Harry Kimpel  [Watch](https://youtu.be/bzcGpJk-AqY)  
+ - Observability Day | Welcome + Opening Remarks - Anna Kapuścińska & Austin Parker, Co-Chairs  [Watch](https://youtu.be/qbLAI_PSBz4)  
+ - Observability Day | Project Updates - Observability Project Maintainers  [Watch](https://youtu.be/tAZNoJtlJvM)
 # Channel: Real Python
   
+ - Creating a Python Dice Roll Application: Defining the Project & Building the Text-Based Interface  [Watch](https://youtu.be/d4ocDG5ih_s)  
  - The AI Workout Plan: Train Your Intuition with LLMs  [Watch](https://youtu.be/oxITTXzlmw8)  
  - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)  
  - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)  
- - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)  
- - Prompting Isn’t Magic: Avoid These AI Traps  [Watch](https://youtu.be/p3MtyKwAU5o)
+ - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)
 # Channel: SysOps / DevOps Polska
   
+ - Co nowego w k8s 1.33? cz. 1 #kubernetes #devops  [Watch](https://youtu.be/c1Nk-Nc8w28)  
  - [#553] AMBA w akcji: automatyzacja i ujednolicanie alertów w Azure - Paweł Englisz  [Watch](https://youtu.be/7oBBGH6UYWU)  
  - AWS zablokuje Ci upgrade EKSa #aws #eks #kubernetes #devops  [Watch](https://youtu.be/_XpI6IbgPuQ)  
  - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)  
- - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)  
- - EKS Pod Identity się poprawia #devops #kubernetes #aws  [Watch](https://youtu.be/Zkq6u5VwDs0)
+ - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
- - 🔴 VS Code Live: Agent Mode Day  [Watch](https://youtu.be/4sKBgos3t1Y)  
- - Git turns 20: Revisiting Linus Torvalds' vision for version control  [Watch](https://youtu.be/ULIq-0wvE88)  
- - Rubber Duck Thursdays – Coding with the latest models  [Watch](https://youtu.be/pc5SKYxujDY)  
  - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/qGrTTFI7Nis)  
- - Electricity Maps: An open source tool for tracking energy carbon intensity  [Watch](https://youtu.be/geOYLVdtmQQ)
+ - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)  
+ - [pt-BR] Quinta do Patinho - Vamos vibecodar? Que isso?  [Watch](https://youtu.be/ODj5KjaGJKA)  
+ - How to contribute to climate change projects on GitHub  [Watch](https://youtu.be/1AgOJl93ywY)  
+ - Event in Spanish: VS Code Live Agent Mode Day  [Watch](https://youtu.be/GWnscOTG9n0)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
