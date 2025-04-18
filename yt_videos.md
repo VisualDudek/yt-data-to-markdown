@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling Explained: The Good, The Bad, and The Inevitable  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
- - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)  
- - This Is How Marie Kondo Sets up Her Pytest  [Watch](https://youtu.be/jxqGsJEhiAg)
+ - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - Git Branching Explained – Merging, Rebasing & More (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
+ - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
+ - Can anyone really be a software engineer?  [Watch](https://youtu.be/zbqhpHAQUW8)  
+ - Do THIS and your resume will stand out 10x more than other devs  [Watch](https://youtu.be/YXjJN1vVqw0)  
  - "New Junior Developers Can't Actually Code"  [Watch](https://youtu.be/mTJOpK100bQ)  
  - How to level up as a programmer in 2025  [Watch](https://youtu.be/BJOVlsOVK54)  
- - How to stay ahead of 99% of devs in 2025  [Watch](https://youtu.be/P5I1H-Ko-7I)  
- - Stop Using Pip - This New Tool is 100x Faster (UV Tutorial)  [Watch](https://youtu.be/6pttmsBSi8M)  
- - After 10,000 hours of coding THIS is my #1 productivity hack  [Watch](https://youtu.be/RFoGUw-rKLo)
+ - How to stay ahead of 99% of devs in 2025  [Watch](https://youtu.be/P5I1H-Ko-7I)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,39 +39,39 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
- - 🔴 VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)  
+ - (Part 3 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/kcE14wp1qZQ)  
+ - VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)  
  - (Part 2 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/GZ6zWqv-tvI)  
  - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)  
- - 🔴 VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)  
- - (Part 1 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/wJYtClNo2yU)
+ - VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)
 # Channel: Mateusz Chrobok
   
+ - 🐺 Uważaj na potwory w sieci  [Watch](https://youtu.be/52JN-xTGznQ)  
  - 🤖 Uważaj na raporty w sieci  [Watch](https://youtu.be/WyiA6QxQ4Tg)  
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
  - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)  
- - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)  
- - Czy te projekty zmienią Twoje życie?  [Watch](https://youtu.be/w1GDUyTluPs)
+ - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)  
  - Observability by Design: Leveraging OpenTelemetry Weaver To Take Con... osh Suereth & Laurent Querel  [Watch](https://youtu.be/BJt6LyJEYD0)  
  - Sponsored Keynote: Fluent Bit vs. OpenTelemetry Collector - Why Not Both? Margaret Dawson  [Watch](https://youtu.be/P3e9JQWta_g)  
  - Sponsored Keynote: The Future of Observability: Trends, AI, and New Relic’s Vision f... Harry Kimpel  [Watch](https://youtu.be/bzcGpJk-AqY)  
- - Observability Day | Welcome + Opening Remarks - Anna Kapuścińska & Austin Parker, Co-Chairs  [Watch](https://youtu.be/qbLAI_PSBz4)  
- - Observability Day | Project Updates - Observability Project Maintainers  [Watch](https://youtu.be/tAZNoJtlJvM)
+ - Observability Day | Welcome + Opening Remarks - Anna Kapuścińska & Austin Parker, Co-Chairs  [Watch](https://youtu.be/qbLAI_PSBz4)
 # Channel: Real Python
   
+ - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)  
  - Creating a Python Dice Roll Application: Defining the Project & Building the Text-Based Interface  [Watch](https://youtu.be/d4ocDG5ih_s)  
  - The AI Workout Plan: Train Your Intuition with LLMs  [Watch](https://youtu.be/oxITTXzlmw8)  
  - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)  
- - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)  
- - Checking for Membership Using Python's "in" and "not in" Operators: Basics & Common Data Types  [Watch](https://youtu.be/IyGdJ_JoH6g)
+ - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)
 # Channel: SysOps / DevOps Polska
   
+ - [#554] Deployment LLM: praktyczne strategie, narzędzia, częste problemy - Karol Horosin  [Watch](https://youtu.be/h0SVRcaNr9A)  
  - Co nowego w k8s 1.33? cz. 1 #kubernetes #devops  [Watch](https://youtu.be/c1Nk-Nc8w28)  
  - [#553] AMBA w akcji: automatyzacja i ujednolicanie alertów w Azure - Paweł Englisz  [Watch](https://youtu.be/7oBBGH6UYWU)  
  - AWS zablokuje Ci upgrade EKSa #aws #eks #kubernetes #devops  [Watch](https://youtu.be/_XpI6IbgPuQ)  
- - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)  
- - Nowości ze świata k8s w Azure #azure #devops #kubernetes  [Watch](https://youtu.be/BRy-dpyo2Bs)
+ - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - Open Source Friday with the GitHub Team!  [Watch](https://youtu.be/T4Sfl9_tumY)  
+ - [pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite  [Watch](https://youtu.be/sL_n4A_LYS4)  
+ - Measure your code's carbon footprint with GitHub Copilot and CodeCarbon  [Watch](https://youtu.be/eEr0BR1PbLA)  
  - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/qGrTTFI7Nis)  
- - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)  
- - [pt-BR] Quinta do Patinho - Vamos vibecodar? Que isso?  [Watch](https://youtu.be/ODj5KjaGJKA)  
- - How to contribute to climate change projects on GitHub  [Watch](https://youtu.be/1AgOJl93ywY)  
- - Event in Spanish: VS Code Live Agent Mode Day  [Watch](https://youtu.be/GWnscOTG9n0)
+ - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)  
  - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)  
  - Top 6 Most Popular API Architecture Styles  [Watch](https://youtu.be/PNRbanEKGtw)  
  - What Are AI Agents Really About?  [Watch](https://youtu.be/eHEHE2fpnWQ)  
- - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)  
- - What Is the Most Popular Open-Source AI Stack?  [Watch](https://youtu.be/hFURlsMwU7c)
+ - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)
