@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
- - Git Branching Explained – Merging, Rebasing & More (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
+ - How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)  [Watch](https://youtu.be/wqBlmAWqa6A)  
  - Can anyone really be a software engineer?  [Watch](https://youtu.be/zbqhpHAQUW8)  
  - Do THIS and your resume will stand out 10x more than other devs  [Watch](https://youtu.be/YXjJN1vVqw0)  
  - "New Junior Developers Can't Actually Code"  [Watch](https://youtu.be/mTJOpK100bQ)  
- - How to level up as a programmer in 2025  [Watch](https://youtu.be/BJOVlsOVK54)  
- - How to stay ahead of 99% of devs in 2025  [Watch](https://youtu.be/P5I1H-Ko-7I)
+ - How to level up as a programmer in 2025  [Watch](https://youtu.be/BJOVlsOVK54)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,18 +46,18 @@ Youtube Videos
  - VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)
 # Channel: Mateusz Chrobok
   
+ - 🥚 Czy Easter Eggi mogą Cię zhackować?  [Watch](https://youtu.be/Huhn-IbIbCE)  
  - 🐺 Uważaj na potwory w sieci  [Watch](https://youtu.be/52JN-xTGznQ)  
  - 🤖 Uważaj na raporty w sieci  [Watch](https://youtu.be/WyiA6QxQ4Tg)  
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
- - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)  
- - Wielopoziomowe działanie LLM, czyli „Deep Actions” w praktyce #AI_Devs #LIVE  [Watch](https://youtu.be/HDHDntk1nis)
+ - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)
 # Channel: Cloud Native Computing Foundation
   
- - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)  
- - Observability by Design: Leveraging OpenTelemetry Weaver To Take Con... osh Suereth & Laurent Querel  [Watch](https://youtu.be/BJt6LyJEYD0)  
- - Sponsored Keynote: Fluent Bit vs. OpenTelemetry Collector - Why Not Both? Margaret Dawson  [Watch](https://youtu.be/P3e9JQWta_g)  
- - Sponsored Keynote: The Future of Observability: Trends, AI, and New Relic’s Vision f... Harry Kimpel  [Watch](https://youtu.be/bzcGpJk-AqY)  
- - Observability Day | Welcome + Opening Remarks - Anna Kapuścińska & Austin Parker, Co-Chairs  [Watch](https://youtu.be/qbLAI_PSBz4)
+ - ChatLoopBackOff Episode 59 (​OpenCost)  [Watch](https://youtu.be/w_9pSJ8GlFs)  
+ - ChatLoopBackOff Episode 58 (​Helm)  [Watch](https://youtu.be/qDbjfHU2pbU)  
+ - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
+ - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
+ - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)
 # Channel: Real Python
   
  - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)  
