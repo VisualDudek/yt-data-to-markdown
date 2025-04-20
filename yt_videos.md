@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
- - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - Git Branching Explained – Merging, Rebasing & More (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)
 # Channel: mCoding
   
@@ -46,11 +46,11 @@ Youtube Videos
  - VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)
 # Channel: Mateusz Chrobok
   
+ - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
  - 🥚 Czy Easter Eggi mogą Cię zhackować?  [Watch](https://youtu.be/Huhn-IbIbCE)  
  - 🐺 Uważaj na potwory w sieci  [Watch](https://youtu.be/52JN-xTGznQ)  
  - 🤖 Uważaj na raporty w sieci  [Watch](https://youtu.be/WyiA6QxQ4Tg)  
- - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)  
- - 🏴‍☠️ Piracka Meta  [Watch](https://youtu.be/1vTtZyQo1eM)
+ - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 59 (​OpenCost)  [Watch](https://youtu.be/w_9pSJ8GlFs)  
