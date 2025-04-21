@@ -5,9 +5,9 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
- - Git Branching Explained – Merging, Rebasing & More (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
+ - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)
 # Channel: mCoding
   
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Turning an Angular application into React using VS Code Agent mode  [Watch](https://youtu.be/hyhZKRAQdLs)  
  - (Part 3 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/kcE14wp1qZQ)  
  - VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)  
  - (Part 2 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/GZ6zWqv-tvI)  
- - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)  
- - VS Code Live: Agent Mode Day  [Watch](https://youtu.be/HNly8eNtCtA)
+ - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)
 # Channel: Mateusz Chrobok
   
  - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
@@ -53,25 +53,25 @@ Youtube Videos
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)
 # Channel: Cloud Native Computing Foundation
   
+ - Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and... T. Rahman & J. Mosquera  [Watch](https://youtu.be/4DjydLH21nM)  
  - ChatLoopBackOff Episode 59 (​OpenCost)  [Watch](https://youtu.be/w_9pSJ8GlFs)  
  - ChatLoopBackOff Episode 58 (​Helm)  [Watch](https://youtu.be/qDbjfHU2pbU)  
  - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
- - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
- - ChatLoopBackOff Episode 53 (​CubeFS)  [Watch](https://youtu.be/72-vhF77_5M)
+ - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)
 # Channel: Real Python
   
+ - How Ruff Made Python Linting Blazingly Fast  [Watch](https://youtu.be/pbCK50uXX1s)  
  - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)  
  - Creating a Python Dice Roll Application: Defining the Project & Building the Text-Based Interface  [Watch](https://youtu.be/d4ocDG5ih_s)  
  - The AI Workout Plan: Train Your Intuition with LLMs  [Watch](https://youtu.be/oxITTXzlmw8)  
- - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)  
- - Learning Intermediate Python With a Deep Dive Course | Real Python Podcast #246  [Watch](https://youtu.be/RQypBBW0aXc)
+ - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)
 # Channel: SysOps / DevOps Polska
   
+ - [#555]LT: Rakiety, Zombie i Tajemnice Disaster Recovery: Odkrywamy Strategie MRDR - Stefan Garbaciak  [Watch](https://youtu.be/hhDHSPMJAKs)  
  - [#554] Deployment LLM: praktyczne strategie, narzędzia, częste problemy - Karol Horosin  [Watch](https://youtu.be/h0SVRcaNr9A)  
  - Co nowego w k8s 1.33? cz. 1 #kubernetes #devops  [Watch](https://youtu.be/c1Nk-Nc8w28)  
  - [#553] AMBA w akcji: automatyzacja i ujednolicanie alertów w Azure - Paweł Englisz  [Watch](https://youtu.be/7oBBGH6UYWU)  
- - AWS zablokuje Ci upgrade EKSa #aws #eks #kubernetes #devops  [Watch](https://youtu.be/_XpI6IbgPuQ)  
- - [#552] Bitwa trzech armii - czyli o wdrożeniu Karpentera w klastrze EKS - Łukasz Klimek  [Watch](https://youtu.be/-XopMapYLnU)
+ - AWS zablokuje Ci upgrade EKSa #aws #eks #kubernetes #devops  [Watch](https://youtu.be/_XpI6IbgPuQ)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - [pt-BR] Quinta do Patinho - Qual a boa de hoje?  [Watch](https://youtu.be/F52kBgsL6CI)  
  - Open Source Friday with the GitHub Team!  [Watch](https://youtu.be/T4Sfl9_tumY)  
  - [pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite  [Watch](https://youtu.be/sL_n4A_LYS4)  
  - Measure your code's carbon footprint with GitHub Copilot and CodeCarbon  [Watch](https://youtu.be/eEr0BR1PbLA)  
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/qGrTTFI7Nis)  
- - Rubber Duck Thursdays! | Come cowork and hang out on this beautiful day!  [Watch](https://youtu.be/9BY4Xlm3QRo)
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/qGrTTFI7Nis)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
