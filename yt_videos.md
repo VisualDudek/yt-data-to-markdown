@@ -7,7 +7,7 @@ Youtube Videos
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - I Really HATE Brittle Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
+ - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
  - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)
 # Channel: mCoding
   
@@ -25,11 +25,11 @@ Youtube Videos
  - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
+ - How to Build a Discord Bot With Python - Full Tutorial 2025+  [Watch](https://youtu.be/YD_N6Ffoojw)  
+ - If you can SOLVE THIS you can work at Apple  [Watch](https://youtu.be/Jl_aAAqbZqA)  
  - How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)  [Watch](https://youtu.be/wqBlmAWqa6A)  
  - Can anyone really be a software engineer?  [Watch](https://youtu.be/zbqhpHAQUW8)  
- - Do THIS and your resume will stand out 10x more than other devs  [Watch](https://youtu.be/YXjJN1vVqw0)  
- - "New Junior Developers Can't Actually Code"  [Watch](https://youtu.be/mTJOpK100bQ)  
- - How to level up as a programmer in 2025  [Watch](https://youtu.be/BJOVlsOVK54)
+ - Do THIS and your resume will stand out 10x more than other devs  [Watch](https://youtu.be/YXjJN1vVqw0)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Make sure you read the fine print! #vscode #ai #copilot  [Watch](https://youtu.be/Zw21-4JpBKc)  
  - Turning an Angular application into React using VS Code Agent mode  [Watch](https://youtu.be/hyhZKRAQdLs)  
  - (Part 3 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/kcE14wp1qZQ)  
  - VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)  
- - (Part 2 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/GZ6zWqv-tvI)  
- - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)
+ - (Part 2 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/GZ6zWqv-tvI)
 # Channel: Mateusz Chrobok
   
  - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
 # Channel: GitHub
   
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/r_6YR4KIoxU)  
+ - Introducing the GitHub MCP Server: AI interaction protocol | GitHub Checkout  [Watch](https://youtu.be/d3QpQO6Paeg)  
  - [pt-BR] Quinta do Patinho - Qual a boa de hoje?  [Watch](https://youtu.be/F52kBgsL6CI)  
  - Open Source Friday with the GitHub Team!  [Watch](https://youtu.be/T4Sfl9_tumY)  
- - [pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite  [Watch](https://youtu.be/sL_n4A_LYS4)  
- - Measure your code's carbon footprint with GitHub Copilot and CodeCarbon  [Watch](https://youtu.be/eEr0BR1PbLA)  
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/qGrTTFI7Nis)
+ - [pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite  [Watch](https://youtu.be/sL_n4A_LYS4)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - System Design Was HARD - Until You Knew the Trade-Offs  [Watch](https://youtu.be/1nENigGr-a0)  
  - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)  
  - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)  
  - Top 6 Most Popular API Architecture Styles  [Watch](https://youtu.be/PNRbanEKGtw)  
- - What Are AI Agents Really About?  [Watch](https://youtu.be/eHEHE2fpnWQ)  
- - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)
+ - What Are AI Agents Really About?  [Watch](https://youtu.be/eHEHE2fpnWQ)
