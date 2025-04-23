@@ -4,7 +4,7 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - automatic python types!  [Watch](https://youtu.be/YTDpiP1-PRg)  
  - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)  
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)  
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)  
- - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)  
- - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
+ - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)
 # Channel: Tech With Tim
   
+ - wait for it   🤣  [Watch](https://youtu.be/JT_bU1A_WZM)  
+ - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/pwSPYS-siTg)  
+ - The BIGGEST mistake new devs make  [Watch](https://youtu.be/f6grgVCpdhU)  
  - How to Build a Discord Bot With Python - Full Tutorial 2025+  [Watch](https://youtu.be/YD_N6Ffoojw)  
- - If you can SOLVE THIS you can work at Apple  [Watch](https://youtu.be/Jl_aAAqbZqA)  
- - How To Automate Your Finances with Python - Full Tutorial (Pandas, Streamlit, Plotly & More)  [Watch](https://youtu.be/wqBlmAWqa6A)  
- - Can anyone really be a software engineer?  [Watch](https://youtu.be/zbqhpHAQUW8)  
- - Do THIS and your resume will stand out 10x more than other devs  [Watch](https://youtu.be/YXjJN1vVqw0)
+ - If you can SOLVE THIS you can work at Apple  [Watch](https://youtu.be/Jl_aAAqbZqA)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - A simple way to create sample data #vscode #ai #copilot  [Watch](https://youtu.be/aETKL7t9jyU)  
  - Make sure you read the fine print! #vscode #ai #copilot  [Watch](https://youtu.be/Zw21-4JpBKc)  
  - Turning an Angular application into React using VS Code Agent mode  [Watch](https://youtu.be/hyhZKRAQdLs)  
  - (Part 3 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/kcE14wp1qZQ)  
- - VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)  
- - (Part 2 of 3) The Only 3 #MCP Videos You Need #modelcontextprotocol  [Watch](https://youtu.be/GZ6zWqv-tvI)
+ - VS Code Live (LATAM): Las últimas actualizaciones  [Watch](https://youtu.be/Y5qNLGpIzyc)
 # Channel: Mateusz Chrobok
   
  - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
@@ -53,18 +53,18 @@ Youtube Videos
  - Nie ufaj kodom QR! Tłumaczę dlaczego.  [Watch](https://youtu.be/k_A9Ai7EdD0)
 # Channel: Cloud Native Computing Foundation
   
- - Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and... T. Rahman & J. Mosquera  [Watch](https://youtu.be/4DjydLH21nM)  
- - ChatLoopBackOff Episode 59 (​OpenCost)  [Watch](https://youtu.be/w_9pSJ8GlFs)  
- - ChatLoopBackOff Episode 58 (​Helm)  [Watch](https://youtu.be/qDbjfHU2pbU)  
- - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
- - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)
+ - Cloud Native Live: Taming the configuration beast with Pkl!  [Watch](https://youtu.be/jJVs6-QmXDo)  
+ - CNCF Live Webinar: Kubernetes 1.33 Release  [Watch](https://youtu.be/1hOOplxu6g0)  
+ - Cloud Native Live: Leveling Up with CEL in Kyverno 1.14  [Watch](https://youtu.be/OP9fl4w8hVQ)  
+ - Deaf and Hard of Hearing WG Meeting - 2025-04-22  [Watch](https://youtu.be/-N6OeD7QcKg)  
+ - Resilient Multi-Cloud Strategies: Harnessing Kubernetes, Cluster API, and... T. Rahman & J. Mosquera  [Watch](https://youtu.be/4DjydLH21nM)
 # Channel: Real Python
   
+ - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)  
  - How Ruff Made Python Linting Blazingly Fast  [Watch](https://youtu.be/pbCK50uXX1s)  
  - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)  
  - Creating a Python Dice Roll Application: Defining the Project & Building the Text-Based Interface  [Watch](https://youtu.be/d4ocDG5ih_s)  
- - The AI Workout Plan: Train Your Intuition with LLMs  [Watch](https://youtu.be/oxITTXzlmw8)  
- - Why Listening to Users Matters More Than Code  [Watch](https://youtu.be/3EGy8AL8oeE)
+ - The AI Workout Plan: Train Your Intuition with LLMs  [Watch](https://youtu.be/oxITTXzlmw8)
 # Channel: SysOps / DevOps Polska
   
  - [#555]LT: Rakiety, Zombie i Tajemnice Disaster Recovery: Odkrywamy Strategie MRDR - Stefan Garbaciak  [Watch](https://youtu.be/hhDHSPMJAKs)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - NEW ZimaBoard 2, super fast, tiny Home Server  [Watch](https://youtu.be/D038iKKoiYI)  
  - What hardware runs in my HomeLab in 2025?  [Watch](https://youtu.be/4QlawuxRY00)  
  - Warp AI Knowledge Rules, optimize AI output  [Watch](https://youtu.be/GZtWIU0T888)  
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)  
- - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)  
- - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)
+ - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)
 # Channel: GitHub
   
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/r_6YR4KIoxU)  
- - Introducing the GitHub MCP Server: AI interaction protocol | GitHub Checkout  [Watch](https://youtu.be/d3QpQO6Paeg)  
- - [pt-BR] Quinta do Patinho - Qual a boa de hoje?  [Watch](https://youtu.be/F52kBgsL6CI)  
- - Open Source Friday with the GitHub Team!  [Watch](https://youtu.be/T4Sfl9_tumY)  
- - [pt-BR] Open Source Friday Brasil com Bruno Rocha, mantenedor do Marmite  [Watch](https://youtu.be/sL_n4A_LYS4)
+ - How to build a landing page with GitHub Copilot agent mode  [Watch](https://youtu.be/lTw37SL_vEU)  
+ - Speak at GitHub Universe 2025: Call for speakers now open  [Watch](https://youtu.be/BxiCU170qsI)  
+ - Rubber Duck Thursdays - Back to building GitHub CLI Extensions  [Watch](https://youtu.be/d_1EYv0QsmU)  
+ - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/ugu4trHcn0M)  
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/r_6YR4KIoxU)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
