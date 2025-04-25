@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)  
- - A Mindset Shift for Tech Progress  [Watch](https://youtu.be/mwlL4ZbNh1Q)
+ - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)
 # Channel: Tech With Tim
   
+ - Why I’m Ditching ChatGPT… ChatLLM Tutorial  [Watch](https://youtu.be/EYcDauqeJjI)  
+ - Doing THIS will 10x your results in programming  [Watch](https://youtu.be/3fumECblrDg)  
  - Did you know about this in Python?  [Watch](https://youtu.be/z1tXFuG8afE)  
  - wait for it   🤣  [Watch](https://youtu.be/JT_bU1A_WZM)  
- - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/pwSPYS-siTg)  
- - The BIGGEST mistake new devs make  [Watch](https://youtu.be/f6grgVCpdhU)  
- - How to Build a Discord Bot With Python - Full Tutorial 2025+  [Watch](https://youtu.be/YD_N6Ffoojw)
+ - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/pwSPYS-siTg)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -53,11 +53,11 @@ Youtube Videos
  - 🤖 Uważaj na raporty w sieci  [Watch](https://youtu.be/WyiA6QxQ4Tg)
 # Channel: Cloud Native Computing Foundation
   
- - The State of GenAI & ML in the Cloud Native Ecosystem - Alejandro Saucedo & Bartosz Ocytko, Zalando  [Watch](https://youtu.be/0uJGmMZGUJE)  
+ - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
  - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
+ - The State of GenAI & ML in the Cloud Native Ecosystem - Alejandro Saucedo & Bartosz Ocytko, Zalando  [Watch](https://youtu.be/0uJGmMZGUJE)  
  - Best of KubeCon + CloudNativeCons!  [Watch](https://youtu.be/mKejvdE2U8g)  
- - Cloud Native Live: Leveling Up with CEL in Kyverno 1.14  [Watch](https://youtu.be/OP9fl4w8hVQ)  
- - Kubernetes is the new Skynet or the rise of Kubernetes automation  [Watch](https://youtu.be/rBruFVdY6Fs)
+ - Cloud Native Live: Leveling Up with CEL in Kyverno 1.14  [Watch](https://youtu.be/OP9fl4w8hVQ)
 # Channel: Real Python
   
  - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Creating a Python Dice Roll Application: Defining the Project & Building the Text-Based Interface  [Watch](https://youtu.be/d4ocDG5ih_s)
 # Channel: SysOps / DevOps Polska
   
+ - [#556] Od chmury po serwer w piwnicy: tworzymy klaster K8S przy użyciu Omni i Talos - R. Siemiński  [Watch](https://youtu.be/H2jIdozoWW4)  
  - Co nowego w k8s 1.33? cz. 2 #kubernetes #devops  [Watch](https://youtu.be/OCfHQDlrt60)  
  - [#555]LT: Rakiety, Zombie i Tajemnice Disaster Recovery: Odkrywamy Strategie MRDR - Stefan Garbaciak  [Watch](https://youtu.be/hhDHSPMJAKs)  
  - [#554] Deployment LLM: praktyczne strategie, narzędzia, częste problemy - Karol Horosin  [Watch](https://youtu.be/h0SVRcaNr9A)  
- - Co nowego w k8s 1.33? cz. 1 #kubernetes #devops  [Watch](https://youtu.be/c1Nk-Nc8w28)  
- - [#553] AMBA w akcji: automatyzacja i ujednolicanie alertów w Azure - Paweł Englisz  [Watch](https://youtu.be/7oBBGH6UYWU)
+ - Co nowego w k8s 1.33? cz. 1 #kubernetes #devops  [Watch](https://youtu.be/c1Nk-Nc8w28)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)
 # Channel: GitHub
   
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/r_6YR4KIoxU)  
- - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/ugu4trHcn0M)  
- - GitHub MCP server now in public preview: Enhance AI interaction  [Watch](https://youtu.be/pTN3AoTeaOI)  
- - Rubber Duck Thursdays - Back to building GitHub CLI Extensions  [Watch](https://youtu.be/d_1EYv0QsmU)  
- - Open Source with OpenSPP - Digital Public Good for Social Protection  [Watch](https://youtu.be/K1oNHBavlq8)
+ - Open Source with OpenSPP - Digital Public Good for Social Protection  [Watch](https://youtu.be/K1oNHBavlq8)  
+ - [pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura  [Watch](https://youtu.be/3JqQV2UwDNA)  
+ - The Download: New OpenAI models in Copilot, Fauna goes open source & more  [Watch](https://youtu.be/Z5ocxtb5nNI)  
+ - 13 lines of code, 70% faster loads: The real story behind the GTA fix  [Watch](https://youtu.be/gLI8-l3ftjY)  
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/r_6YR4KIoxU)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
