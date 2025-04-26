@@ -95,11 +95,11 @@ Youtube Videos
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)
 # Channel: GitHub
   
+ - GitHub Copilot for security: Finding vulnerabilities in your code  [Watch](https://youtu.be/RpkKcS0j9dA)  
+ - Scaling GitHub Secret Protection across your repositories  [Watch](https://youtu.be/AaYcmq5zpKY)  
  - Open Source with OpenSPP - Digital Public Good for Social Protection  [Watch](https://youtu.be/K1oNHBavlq8)  
  - [pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura  [Watch](https://youtu.be/3JqQV2UwDNA)  
- - The Download: New OpenAI models in Copilot, Fauna goes open source & more  [Watch](https://youtu.be/Z5ocxtb5nNI)  
- - 13 lines of code, 70% faster loads: The real story behind the GTA fix  [Watch](https://youtu.be/gLI8-l3ftjY)  
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/r_6YR4KIoxU)
+ - The Download: New OpenAI models in Copilot, Fauna goes open source & more  [Watch](https://youtu.be/Z5ocxtb5nNI)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
