@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
- - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)
@@ -46,11 +46,11 @@ Youtube Videos
  - Turning an Angular application into React using VS Code Agent mode  [Watch](https://youtu.be/hyhZKRAQdLs)
 # Channel: Mateusz Chrobok
   
+ - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)  
  - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)  
  - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
  - 🥚 Czy Easter Eggi mogą Cię zhackować?  [Watch](https://youtu.be/Huhn-IbIbCE)  
- - 🐺 Uważaj na potwory w sieci  [Watch](https://youtu.be/52JN-xTGznQ)  
- - 🤖 Uważaj na raporty w sieci  [Watch](https://youtu.be/WyiA6QxQ4Tg)
+ - 🐺 Uważaj na potwory w sieci  [Watch](https://youtu.be/52JN-xTGznQ)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
@@ -95,11 +95,11 @@ Youtube Videos
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)
 # Channel: GitHub
   
+ - Secure your public GitHub projects for free with Copilot security features  [Watch](https://youtu.be/viVnkZJuuDQ)  
  - GitHub Copilot for security: Finding vulnerabilities in your code  [Watch](https://youtu.be/RpkKcS0j9dA)  
  - Scaling GitHub Secret Protection across your repositories  [Watch](https://youtu.be/AaYcmq5zpKY)  
  - Open Source with OpenSPP - Digital Public Good for Social Protection  [Watch](https://youtu.be/K1oNHBavlq8)  
- - [pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura  [Watch](https://youtu.be/3JqQV2UwDNA)  
- - The Download: New OpenAI models in Copilot, Fauna goes open source & more  [Watch](https://youtu.be/Z5ocxtb5nNI)
+ - [pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura  [Watch](https://youtu.be/3JqQV2UwDNA)
 # Channel: CloudHeroes - Video
   
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
