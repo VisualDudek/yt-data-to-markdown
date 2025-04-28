@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
- - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)
@@ -25,11 +25,11 @@ Youtube Videos
  - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)
 # Channel: Tech With Tim
   
+ - How I'd Learn ML/AI FAST If I Had to Start Over  [Watch](https://youtu.be/8xUher8-5_Q)  
+ - You need to MASTER THIS if you wanna land your dream job in tech  [Watch](https://youtu.be/kdSxZCztEXA)  
  - Why I’m Ditching ChatGPT… ChatLLM Tutorial  [Watch](https://youtu.be/EYcDauqeJjI)  
  - Doing THIS will 10x your results in programming  [Watch](https://youtu.be/3fumECblrDg)  
- - Did you know about this in Python?  [Watch](https://youtu.be/z1tXFuG8afE)  
- - wait for it   🤣  [Watch](https://youtu.be/JT_bU1A_WZM)  
- - The most important skill for programmers *NON TECH SKILL*  [Watch](https://youtu.be/pwSPYS-siTg)
+ - Did you know about this in Python?  [Watch](https://youtu.be/z1tXFuG8afE)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Turning an Angular application into React using VS Code Agent mode  [Watch](https://youtu.be/hyhZKRAQdLs)
 # Channel: Mateusz Chrobok
   
+ - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)  
  - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)  
  - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)  
  - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
- - 🥚 Czy Easter Eggi mogą Cię zhackować?  [Watch](https://youtu.be/Huhn-IbIbCE)  
- - 🐺 Uważaj na potwory w sieci  [Watch](https://youtu.be/52JN-xTGznQ)
+ - 🥚 Czy Easter Eggi mogą Cię zhackować?  [Watch](https://youtu.be/Huhn-IbIbCE)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Cloud Native Live: Leveling Up with CEL in Kyverno 1.14  [Watch](https://youtu.be/OP9fl4w8hVQ)
 # Channel: Real Python
   
+ - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)  
  - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)  
  - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)  
  - How Ruff Made Python Linting Blazingly Fast  [Watch](https://youtu.be/pbCK50uXX1s)  
- - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)  
- - Creating a Python Dice Roll Application: Defining the Project & Building the Text-Based Interface  [Watch](https://youtu.be/d4ocDG5ih_s)
+ - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)
 # Channel: SysOps / DevOps Polska
   
+ - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)  
+ - Co nowego w k8s 1.33? cz. 3 #kubernetes #devops  [Watch](https://youtu.be/XX968aOjntE)  
  - [#556] Od chmury po serwer w piwnicy: tworzymy klaster K8S przy użyciu Omni i Talos - R. Siemiński  [Watch](https://youtu.be/H2jIdozoWW4)  
  - Co nowego w k8s 1.33? cz. 2 #kubernetes #devops  [Watch](https://youtu.be/OCfHQDlrt60)  
- - [#555]LT: Rakiety, Zombie i Tajemnice Disaster Recovery: Odkrywamy Strategie MRDR - Stefan Garbaciak  [Watch](https://youtu.be/hhDHSPMJAKs)  
- - [#554] Deployment LLM: praktyczne strategie, narzędzia, częste problemy - Karol Horosin  [Watch](https://youtu.be/h0SVRcaNr9A)  
- - Co nowego w k8s 1.33? cz. 1 #kubernetes #devops  [Watch](https://youtu.be/c1Nk-Nc8w28)
+ - [#555]LT: Rakiety, Zombie i Tajemnice Disaster Recovery: Odkrywamy Strategie MRDR - Stefan Garbaciak  [Watch](https://youtu.be/hhDHSPMJAKs)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,18 +95,18 @@ Youtube Videos
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)
 # Channel: GitHub
   
+ - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
+ - Building a REST API with GitHub Copilot: A beginner's guide  [Watch](https://youtu.be/CJUbQ1QiBUY)  
+ - Open Source Friday with NPCI's Vishal Kanvaty  [Watch](https://youtu.be/ERBaSFWzcyM)  
  - Secure your public GitHub projects for free with Copilot security features  [Watch](https://youtu.be/viVnkZJuuDQ)  
- - GitHub Copilot for security: Finding vulnerabilities in your code  [Watch](https://youtu.be/RpkKcS0j9dA)  
- - Scaling GitHub Secret Protection across your repositories  [Watch](https://youtu.be/AaYcmq5zpKY)  
- - Open Source with OpenSPP - Digital Public Good for Social Protection  [Watch](https://youtu.be/K1oNHBavlq8)  
- - [pt-BR] Open Source Friday Brasil  com Vinicius Jose De Moura  [Watch](https://youtu.be/3JqQV2UwDNA)
+ - GitHub Copilot for security: Finding vulnerabilities in your code  [Watch](https://youtu.be/RpkKcS0j9dA)
 # Channel: CloudHeroes - Video
   
+ - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
  - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
- - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)  
- - Nowość - Amazon CloudFront i VPC Origin  [Watch](https://youtu.be/QEpjk36AEIA)
+ - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
