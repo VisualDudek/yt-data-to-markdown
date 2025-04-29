@@ -25,11 +25,11 @@ Youtube Videos
  - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)
 # Channel: Tech With Tim
   
+ - THIS was the first coding project at Microsoft  [Watch](https://youtu.be/2l4kIDIGNg0)  
+ - Did you know about this in Python?  [Watch](https://youtu.be/1E9Tt4jf9IM)  
+ - Can you be a good software engineer while being a generalist?  [Watch](https://youtu.be/WAuDrerURZ4)  
  - How I'd Learn ML/AI FAST If I Had to Start Over  [Watch](https://youtu.be/8xUher8-5_Q)  
- - You need to MASTER THIS if you wanna land your dream job in tech  [Watch](https://youtu.be/kdSxZCztEXA)  
- - Why I’m Ditching ChatGPT… ChatLLM Tutorial  [Watch](https://youtu.be/EYcDauqeJjI)  
- - Doing THIS will 10x your results in programming  [Watch](https://youtu.be/3fumECblrDg)  
- - Did you know about this in Python?  [Watch](https://youtu.be/z1tXFuG8afE)
+ - You need to MASTER THIS if you wanna land your dream job in tech  [Watch](https://youtu.be/kdSxZCztEXA)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,25 +39,25 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes  [Watch](https://youtu.be/s7Qzq0ejhjg)  
+ - 🔴 Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
  - It's a good idea to double check Copilot's package installations #vscode #githubcopilot  [Watch](https://youtu.be/DX98JRTsYxc)  
  - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)  
- - A simple way to create sample data #vscode #ai #copilot  [Watch](https://youtu.be/aETKL7t9jyU)  
- - Make sure you read the fine print! #vscode #ai #copilot  [Watch](https://youtu.be/Zw21-4JpBKc)  
- - Turning an Angular application into React using VS Code Agent mode  [Watch](https://youtu.be/hyhZKRAQdLs)
+ - A simple way to create sample data #vscode #ai #copilot  [Watch](https://youtu.be/aETKL7t9jyU)
 # Channel: Mateusz Chrobok
   
+ - 🎒 Jak przygotować się na blackout?  [Watch](https://youtu.be/zYmstGz4Gds)  
  - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)  
  - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)  
  - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)  
- - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)  
- - 🥚 Czy Easter Eggi mogą Cię zhackować?  [Watch](https://youtu.be/Huhn-IbIbCE)
+ - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Using Cilium to enforce gRPC-aware security policies  [Watch](https://youtu.be/00b1KN3141k)  
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
  - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
  - The State of GenAI & ML in the Cloud Native Ecosystem - Alejandro Saucedo & Bartosz Ocytko, Zalando  [Watch](https://youtu.be/0uJGmMZGUJE)  
- - Best of KubeCon + CloudNativeCons!  [Watch](https://youtu.be/mKejvdE2U8g)  
- - Cloud Native Live: Leveling Up with CEL in Kyverno 1.14  [Watch](https://youtu.be/OP9fl4w8hVQ)
+ - Best of KubeCon + CloudNativeCons!  [Watch](https://youtu.be/mKejvdE2U8g)
 # Channel: Real Python
   
  - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)  
@@ -88,11 +88,11 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - What software runs in my HomeLab in 2025?  [Watch](https://youtu.be/KJVe_E6tdzw)  
  - NEW ZimaBoard 2, super fast, tiny Home Server  [Watch](https://youtu.be/D038iKKoiYI)  
  - What hardware runs in my HomeLab in 2025?  [Watch](https://youtu.be/4QlawuxRY00)  
  - Warp AI Knowledge Rules, optimize AI output  [Watch](https://youtu.be/GZtWIU0T888)  
- - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)  
- - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)
+ - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
  - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
