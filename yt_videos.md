@@ -4,8 +4,8 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
- - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
  - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - some "trivially" threaded code? (all code sucks) #13  [Watch](https://youtu.be/mftRzagtk4c)  
  - automatic python types!  [Watch](https://youtu.be/YTDpiP1-PRg)  
  - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)  
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)  
- - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)  
- - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)
+ - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
+ - How to land your dream software engineering internship  [Watch](https://youtu.be/gNDcEyHctBc)  
  - THIS was the first coding project at Microsoft  [Watch](https://youtu.be/2l4kIDIGNg0)  
  - Did you know about this in Python?  [Watch](https://youtu.be/1E9Tt4jf9IM)  
  - Can you be a good software engineer while being a generalist?  [Watch](https://youtu.be/WAuDrerURZ4)  
- - How I'd Learn ML/AI FAST If I Had to Start Over  [Watch](https://youtu.be/8xUher8-5_Q)  
- - You need to MASTER THIS if you wanna land your dream job in tech  [Watch](https://youtu.be/kdSxZCztEXA)
+ - How I'd Learn ML/AI FAST If I Had to Start Over  [Watch](https://youtu.be/8xUher8-5_Q)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,39 +39,39 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - 🔴 VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
  - Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes  [Watch](https://youtu.be/s7Qzq0ejhjg)  
- - 🔴 Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
+ - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
  - It's a good idea to double check Copilot's package installations #vscode #githubcopilot  [Watch](https://youtu.be/DX98JRTsYxc)  
- - 🔴 VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)  
- - A simple way to create sample data #vscode #ai #copilot  [Watch](https://youtu.be/aETKL7t9jyU)
+ - VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)
 # Channel: Mateusz Chrobok
   
+ - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)  
  - 🎒 Jak przygotować się na blackout?  [Watch](https://youtu.be/zYmstGz4Gds)  
  - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)  
  - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)  
- - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)  
- - SMSy przez orbitę. Pomoc w tarapatach, czy zagrożenie?  [Watch](https://youtu.be/C0VAucNTJL0)
+ - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)
 # Channel: Cloud Native Computing Foundation
   
+ - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)  
  - Cloud Native Live: Using Cilium to enforce gRPC-aware security policies  [Watch](https://youtu.be/00b1KN3141k)  
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
  - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
- - The State of GenAI & ML in the Cloud Native Ecosystem - Alejandro Saucedo & Bartosz Ocytko, Zalando  [Watch](https://youtu.be/0uJGmMZGUJE)  
- - Best of KubeCon + CloudNativeCons!  [Watch](https://youtu.be/mKejvdE2U8g)
+ - The State of GenAI & ML in the Cloud Native Ecosystem - Alejandro Saucedo & Bartosz Ocytko, Zalando  [Watch](https://youtu.be/0uJGmMZGUJE)
 # Channel: Real Python
   
+ - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)  
  - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)  
  - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)  
  - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)  
- - How Ruff Made Python Linting Blazingly Fast  [Watch](https://youtu.be/pbCK50uXX1s)  
- - Exploring DuckDB & Comparing Python Expressions vs Statements | Real Python Podcast #247  [Watch](https://youtu.be/uyq3SXXR1Zw)
+ - How Ruff Made Python Linting Blazingly Fast  [Watch](https://youtu.be/pbCK50uXX1s)
 # Channel: SysOps / DevOps Polska
   
+ - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)  
  - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)  
  - Co nowego w k8s 1.33? cz. 3 #kubernetes #devops  [Watch](https://youtu.be/XX968aOjntE)  
  - [#556] Od chmury po serwer w piwnicy: tworzymy klaster K8S przy użyciu Omni i Talos - R. Siemiński  [Watch](https://youtu.be/H2jIdozoWW4)  
- - Co nowego w k8s 1.33? cz. 2 #kubernetes #devops  [Watch](https://youtu.be/OCfHQDlrt60)  
- - [#555]LT: Rakiety, Zombie i Tajemnice Disaster Recovery: Odkrywamy Strategie MRDR - Stefan Garbaciak  [Watch](https://youtu.be/hhDHSPMJAKs)
+ - Co nowego w k8s 1.33? cz. 2 #kubernetes #devops  [Watch](https://youtu.be/OCfHQDlrt60)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
+ - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/wzRgcGMBAGQ)  
+ - Copilot gets smarter: o3 & o4-mini models arrive on GitHub  [Watch](https://youtu.be/_yZdKuQV7kQ)  
+ - Rubber Duck Thursdays - The one with custom instructions  [Watch](https://youtu.be/_DOrUBjJgUw)  
  - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
- - Building a REST API with GitHub Copilot: A beginner's guide  [Watch](https://youtu.be/CJUbQ1QiBUY)  
- - Open Source Friday with NPCI's Vishal Kanvaty  [Watch](https://youtu.be/ERBaSFWzcyM)  
- - Secure your public GitHub projects for free with Copilot security features  [Watch](https://youtu.be/viVnkZJuuDQ)  
- - GitHub Copilot for security: Finding vulnerabilities in your code  [Watch](https://youtu.be/RpkKcS0j9dA)
+ - Building a REST API with GitHub Copilot: A beginner's guide  [Watch](https://youtu.be/CJUbQ1QiBUY)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - System Design Was HARD - Until You Knew the Trade-Offs, Part 2  [Watch](https://youtu.be/2g1G8Jr88xU)  
  - System Design Was HARD - Until You Knew the Trade-Offs  [Watch](https://youtu.be/1nENigGr-a0)  
  - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)  
  - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)  
- - Top 6 Most Popular API Architecture Styles  [Watch](https://youtu.be/PNRbanEKGtw)  
- - What Are AI Agents Really About?  [Watch](https://youtu.be/eHEHE2fpnWQ)
+ - Top 6 Most Popular API Architecture Styles  [Watch](https://youtu.be/PNRbanEKGtw)
