@@ -25,11 +25,11 @@ Youtube Videos
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
+ - 5 Programming Projects for Employment  [Watch](https://youtu.be/9TDtDCXTtPM)  
  - How to land your dream software engineering internship  [Watch](https://youtu.be/gNDcEyHctBc)  
  - THIS was the first coding project at Microsoft  [Watch](https://youtu.be/2l4kIDIGNg0)  
  - Did you know about this in Python?  [Watch](https://youtu.be/1E9Tt4jf9IM)  
- - Can you be a good software engineer while being a generalist?  [Watch](https://youtu.be/WAuDrerURZ4)  
- - How I'd Learn ML/AI FAST If I Had to Start Over  [Watch](https://youtu.be/8xUher8-5_Q)
+ - Can you be a good software engineer while being a generalist?  [Watch](https://youtu.be/WAuDrerURZ4)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Here's how you can write better prompts  [Watch](https://youtu.be/nYQEfjK99I8)  
+ - Save time with this one agent mode tip  [Watch](https://youtu.be/saqEIsltrQw)  
  - 🔴 VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
  - Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes  [Watch](https://youtu.be/s7Qzq0ejhjg)  
- - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
- - It's a good idea to double check Copilot's package installations #vscode #githubcopilot  [Watch](https://youtu.be/DX98JRTsYxc)  
- - VS Code Live: Coding with Gemini in GitHub Copilot  [Watch](https://youtu.be/anVJ3tktOh4)
+ - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)
 # Channel: Mateusz Chrobok
   
  - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)  
@@ -53,18 +53,18 @@ Youtube Videos
  - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
+ - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)  
  - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)  
  - Cloud Native Live: Using Cilium to enforce gRPC-aware security policies  [Watch](https://youtu.be/00b1KN3141k)  
- - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
- - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)  
- - The State of GenAI & ML in the Cloud Native Ecosystem - Alejandro Saucedo & Bartosz Ocytko, Zalando  [Watch](https://youtu.be/0uJGmMZGUJE)
+ - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)
 # Channel: Real Python
   
+ - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)  
  - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)  
  - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)  
  - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)  
- - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)  
- - How Ruff Made Python Linting Blazingly Fast  [Watch](https://youtu.be/pbCK50uXX1s)
+ - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)
 # Channel: SysOps / DevOps Polska
   
  - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)  
@@ -96,10 +96,10 @@ Youtube Videos
 # Channel: GitHub
   
  - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/wzRgcGMBAGQ)  
- - Copilot gets smarter: o3 & o4-mini models arrive on GitHub  [Watch](https://youtu.be/_yZdKuQV7kQ)  
+ - Open Source Licensing, SBOMs and Security for Maintainers  [Watch](https://youtu.be/8hbkfKAl4hk)  
+ - Fauna database goes fully open source after service sunset  [Watch](https://youtu.be/ck4dJ-XLztE)  
  - Rubber Duck Thursdays - The one with custom instructions  [Watch](https://youtu.be/_DOrUBjJgUw)  
- - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
- - Building a REST API with GitHub Copilot: A beginner's guide  [Watch](https://youtu.be/CJUbQ1QiBUY)
+ - How new GitHub features are born | Beyond the Commit  [Watch](https://youtu.be/UzF2AvPbeS4)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
