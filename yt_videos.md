@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
- - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
- - How To Design Robust Python Functions  [Watch](https://youtu.be/g-Cytq7YDCc)
+ - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
- - 5 Programming Projects for Employment  [Watch](https://youtu.be/9TDtDCXTtPM)  
+ - What does the SetDefault function do in Python  [Watch](https://youtu.be/alISyR7ntsg)  
+ - THIS is why most tech startups fail  [Watch](https://youtu.be/3tqLQleAzuw)  
+ - 4 Programming Projects for Employment in 2025  [Watch](https://youtu.be/9TDtDCXTtPM)  
  - How to land your dream software engineering internship  [Watch](https://youtu.be/gNDcEyHctBc)  
- - THIS was the first coding project at Microsoft  [Watch](https://youtu.be/2l4kIDIGNg0)  
- - Did you know about this in Python?  [Watch](https://youtu.be/1E9Tt4jf9IM)  
- - Can you be a good software engineer while being a generalist?  [Watch](https://youtu.be/WAuDrerURZ4)
+ - THIS was the first coding project at Microsoft  [Watch](https://youtu.be/2l4kIDIGNg0)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)  
+ - Agent mode tools in VS Code  [Watch](https://youtu.be/VePxCcF99w4)  
+ - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
  - Here's how you can write better prompts  [Watch](https://youtu.be/nYQEfjK99I8)  
- - Save time with this one agent mode tip  [Watch](https://youtu.be/saqEIsltrQw)  
- - 🔴 VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
- - Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes  [Watch](https://youtu.be/s7Qzq0ejhjg)  
- - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)
+ - Save time with this one agent mode tip  [Watch](https://youtu.be/saqEIsltrQw)
 # Channel: Mateusz Chrobok
   
  - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)  
@@ -67,11 +67,11 @@ Youtube Videos
  - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)
 # Channel: SysOps / DevOps Polska
   
+ - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)  
  - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)  
  - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)  
  - Co nowego w k8s 1.33? cz. 3 #kubernetes #devops  [Watch](https://youtu.be/XX968aOjntE)  
- - [#556] Od chmury po serwer w piwnicy: tworzymy klaster K8S przy użyciu Omni i Talos - R. Siemiński  [Watch](https://youtu.be/H2jIdozoWW4)  
- - Co nowego w k8s 1.33? cz. 2 #kubernetes #devops  [Watch](https://youtu.be/OCfHQDlrt60)
+ - [#556] Od chmury po serwer w piwnicy: tworzymy klaster K8S przy użyciu Omni i Talos - R. Siemiński  [Watch](https://youtu.be/H2jIdozoWW4)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/wzRgcGMBAGQ)  
- - Open Source Licensing, SBOMs and Security for Maintainers  [Watch](https://youtu.be/8hbkfKAl4hk)  
- - Fauna database goes fully open source after service sunset  [Watch](https://youtu.be/ck4dJ-XLztE)  
- - Rubber Duck Thursdays - The one with custom instructions  [Watch](https://youtu.be/_DOrUBjJgUw)  
- - How new GitHub features are born | Beyond the Commit  [Watch](https://youtu.be/UzF2AvPbeS4)
+ - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)  
+ - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
+ - [pt-BR] Open Source Friday Brasil com Arthur Henrique  [Watch](https://youtu.be/PIQtebdIQa4)  
+ - Linus Torvalds on choosing Git's maintainer: It's about taste  [Watch](https://youtu.be/exNrTPVspQc)  
+ - Meet GitHub at Microsoft Build 2025 (May 19-22 in Seattle)  [Watch](https://youtu.be/4OmdhEpq_Ac)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
