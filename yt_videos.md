@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
- - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
+ - Wanna be a full stack developer? Learn these languages  [Watch](https://youtu.be/KmNT3kdtMkA)  
  - What does the SetDefault function do in Python  [Watch](https://youtu.be/alISyR7ntsg)  
  - THIS is why most tech startups fail  [Watch](https://youtu.be/3tqLQleAzuw)  
  - 4 Programming Projects for Employment in 2025  [Watch](https://youtu.be/9TDtDCXTtPM)  
- - How to land your dream software engineering internship  [Watch](https://youtu.be/gNDcEyHctBc)  
- - THIS was the first coding project at Microsoft  [Watch](https://youtu.be/2l4kIDIGNg0)
+ - How to land your dream software engineering internship  [Watch](https://youtu.be/gNDcEyHctBc)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)  
  - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
  - [pt-BR] Open Source Friday Brasil com Arthur Henrique  [Watch](https://youtu.be/PIQtebdIQa4)  
- - Linus Torvalds on choosing Git's maintainer: It's about taste  [Watch](https://youtu.be/exNrTPVspQc)  
- - Meet GitHub at Microsoft Build 2025 (May 19-22 in Seattle)  [Watch](https://youtu.be/4OmdhEpq_Ac)
+ - Open Source Friday with NPCI's Vishal Kanvaty  [Watch](https://youtu.be/ERBaSFWzcyM)  
+ - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)  
+ - Linus Torvalds on choosing Git's maintainer: It's about taste  [Watch](https://youtu.be/exNrTPVspQc)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
