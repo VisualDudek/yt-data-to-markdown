@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
@@ -25,11 +25,11 @@ Youtube Videos
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
+ - 3 ways to look for dev jobs that no one talks about  [Watch](https://youtu.be/Gb3EM24-rXc)  
  - Wanna be a full stack developer? Learn these languages  [Watch](https://youtu.be/KmNT3kdtMkA)  
  - What does the SetDefault function do in Python  [Watch](https://youtu.be/alISyR7ntsg)  
  - THIS is why most tech startups fail  [Watch](https://youtu.be/3tqLQleAzuw)  
- - 4 Programming Projects for Employment in 2025  [Watch](https://youtu.be/9TDtDCXTtPM)  
- - How to land your dream software engineering internship  [Watch](https://youtu.be/gNDcEyHctBc)
+ - 4 Programming Projects for Employment in 2025  [Watch](https://youtu.be/9TDtDCXTtPM)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -46,11 +46,11 @@ Youtube Videos
  - Save time with this one agent mode tip  [Watch](https://youtu.be/saqEIsltrQw)
 # Channel: Mateusz Chrobok
   
+ - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)  
  - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)  
  - 🎒 Jak przygotować się na blackout?  [Watch](https://youtu.be/zYmstGz4Gds)  
  - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)  
- - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)  
- - 🌐 AI Mety przeczyta Twoje posty?  [Watch](https://youtu.be/P-OdqT7hOsI)
+ - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
+ - Did Linus Torvalds write Git in 10 days? Hear the real story  [Watch](https://youtu.be/rK3IOMr6eSs)  
  - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
  - [pt-BR] Open Source Friday Brasil com Arthur Henrique  [Watch](https://youtu.be/PIQtebdIQa4)  
  - Open Source Friday with NPCI's Vishal Kanvaty  [Watch](https://youtu.be/ERBaSFWzcyM)  
- - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)  
- - Linus Torvalds on choosing Git's maintainer: It's about taste  [Watch](https://youtu.be/exNrTPVspQc)
+ - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
