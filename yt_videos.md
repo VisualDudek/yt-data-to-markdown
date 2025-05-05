@@ -6,7 +6,7 @@ Youtube Videos
   
  - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
  - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
- - 10 Rules for Writing Simple and Maintainable Code  [Watch](https://youtu.be/0U-RwnWaFIM)  
+ - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
+ - NEVER hire this kind of person for your startup  [Watch](https://youtu.be/qIyXKHlRa-c)  
+ - LangGraph Tutorial - How to Build Advanced AI Agent Systems  [Watch](https://youtu.be/1w5cCXlh7JQ)  
  - 3 ways to look for dev jobs that no one talks about  [Watch](https://youtu.be/Gb3EM24-rXc)  
  - Wanna be a full stack developer? Learn these languages  [Watch](https://youtu.be/KmNT3kdtMkA)  
- - What does the SetDefault function do in Python  [Watch](https://youtu.be/alISyR7ntsg)  
- - THIS is why most tech startups fail  [Watch](https://youtu.be/3tqLQleAzuw)  
- - 4 Programming Projects for Employment in 2025  [Watch](https://youtu.be/9TDtDCXTtPM)
+ - What does the SetDefault function do in Python  [Watch](https://youtu.be/alISyR7ntsg)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - Perplexity directly in Copilot  [Watch](https://youtu.be/4TYbaxvJPNA)  
  - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)  
  - Agent mode tools in VS Code  [Watch](https://youtu.be/VePxCcF99w4)  
  - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
- - Here's how you can write better prompts  [Watch](https://youtu.be/nYQEfjK99I8)  
- - Save time with this one agent mode tip  [Watch](https://youtu.be/saqEIsltrQw)
+ - Here's how you can write better prompts  [Watch](https://youtu.be/nYQEfjK99I8)
 # Channel: Mateusz Chrobok
   
  - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)  
@@ -53,25 +53,25 @@ Youtube Videos
  - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Tea & Peaches: KubeCon London Recap, Atlanta Sneak-Peek  [Watch](https://youtu.be/gPxzhPHbo8c)  
+ - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/_oSexsBiqVQ)  
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
  - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)  
- - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)  
- - Cloud Native Live: Using Cilium to enforce gRPC-aware security policies  [Watch](https://youtu.be/00b1KN3141k)  
- - ChatLoopBackOff Episode 54 (​Flatcar)  [Watch](https://youtu.be/jR_-xUwi3qc)
+ - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)
 # Channel: Real Python
   
+ - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)  
  - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)  
  - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)  
  - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)  
- - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)  
- - Why Media Literacy Is Key to Using AI Wisely  [Watch](https://youtu.be/pJKn2jbzigo)
+ - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)
 # Channel: SysOps / DevOps Polska
   
+ - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
+ - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)  
  - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)  
  - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)  
- - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)  
- - Co nowego w k8s 1.33? cz. 3 #kubernetes #devops  [Watch](https://youtu.be/XX968aOjntE)  
- - [#556] Od chmury po serwer w piwnicy: tworzymy klaster K8S przy użyciu Omni i Talos - R. Siemiński  [Watch](https://youtu.be/H2jIdozoWW4)
+ - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
