@@ -5,7 +5,7 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
@@ -25,11 +25,11 @@ Youtube Videos
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
 # Channel: Tech With Tim
   
+ - Should you use a dev agency to build your startup?  [Watch](https://youtu.be/ShduRb9FWK8)  
  - NEVER hire this kind of person for your startup  [Watch](https://youtu.be/qIyXKHlRa-c)  
  - LangGraph Tutorial - How to Build Advanced AI Agent Systems  [Watch](https://youtu.be/1w5cCXlh7JQ)  
  - 3 ways to look for dev jobs that no one talks about  [Watch](https://youtu.be/Gb3EM24-rXc)  
- - Wanna be a full stack developer? Learn these languages  [Watch](https://youtu.be/KmNT3kdtMkA)  
- - What does the SetDefault function do in Python  [Watch](https://youtu.be/alISyR7ntsg)
+ - Wanna be a full stack developer? Learn these languages  [Watch](https://youtu.be/KmNT3kdtMkA)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,25 +39,25 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
+ - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)  
+ - VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
  - Perplexity directly in Copilot  [Watch](https://youtu.be/4TYbaxvJPNA)  
  - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)  
- - Agent mode tools in VS Code  [Watch](https://youtu.be/VePxCcF99w4)  
- - 🔴 VS Code Live | Let it cook - Vibe Coding with VS Code - Episode 1  [Watch](https://youtu.be/Pv5DU1nwp6U)  
- - Here's how you can write better prompts  [Watch](https://youtu.be/nYQEfjK99I8)
+ - Agent mode tools in VS Code  [Watch](https://youtu.be/VePxCcF99w4)
 # Channel: Mateusz Chrobok
   
+ - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)  
  - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)  
  - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)  
  - 🎒 Jak przygotować się na blackout?  [Watch](https://youtu.be/zYmstGz4Gds)  
- - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)  
- - Stan polskiego cyberbezpieczeństwa  [Watch](https://youtu.be/ldXnmO8IYjA)
+ - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
+ - CNL: Integrating MCP metadata in your internal developer platform  [Watch](https://youtu.be/9rtMuWfcICw)  
  - Cloud Native Live: Tea & Peaches: KubeCon London Recap, Atlanta Sneak-Peek  [Watch](https://youtu.be/gPxzhPHbo8c)  
- - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/_oSexsBiqVQ)  
  - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
- - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)  
- - Sustainable DevOps – Reducing IAM’s Carbon Footprint with Kube-Green  [Watch](https://youtu.be/fizouVuToy8)
+ - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)
 # Channel: Real Python
   
  - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
+ - Open Source Licensing, SBOMs and Security for Maintainers  [Watch](https://youtu.be/8hbkfKAl4hk)  
+ - What is GitHub Models? Here's how to use AI models easily | GitHub Checkout  [Watch](https://youtu.be/Eea6es7KCww)  
+ - Linus Torvalds: Known more for Git than Linux?  [Watch](https://youtu.be/0wLidyXzFk8)  
  - Did Linus Torvalds write Git in 10 days? Hear the real story  [Watch](https://youtu.be/rK3IOMr6eSs)  
- - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)  
- - [pt-BR] Open Source Friday Brasil com Arthur Henrique  [Watch](https://youtu.be/PIQtebdIQa4)  
- - Open Source Friday with NPCI's Vishal Kanvaty  [Watch](https://youtu.be/ERBaSFWzcyM)  
- - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)
+ - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
