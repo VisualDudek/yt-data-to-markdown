@@ -4,8 +4,8 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
@@ -18,18 +18,18 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - python t-strings (PEP 750)  [Watch](https://youtu.be/_QYAoNCK574)  
  - some "trivially" threaded code? (all code sucks) #13  [Watch](https://youtu.be/mftRzagtk4c)  
  - automatic python types!  [Watch](https://youtu.be/YTDpiP1-PRg)  
  - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)  
- - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)  
- - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)
+ - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)
 # Channel: Tech With Tim
   
+ - How I Scrape Any Site Using This MCP Server + Claude, LangGraph & AI Agents  [Watch](https://youtu.be/6DXuadyaJ4g)  
+ - The BEST way to get dev job offers  [Watch](https://youtu.be/MH8SyRo9JV4)  
  - Should you use a dev agency to build your startup?  [Watch](https://youtu.be/ShduRb9FWK8)  
  - NEVER hire this kind of person for your startup  [Watch](https://youtu.be/qIyXKHlRa-c)  
- - LangGraph Tutorial - How to Build Advanced AI Agent Systems  [Watch](https://youtu.be/1w5cCXlh7JQ)  
- - 3 ways to look for dev jobs that no one talks about  [Watch](https://youtu.be/Gb3EM24-rXc)  
- - Wanna be a full stack developer? Learn these languages  [Watch](https://youtu.be/KmNT3kdtMkA)
+ - LangGraph Tutorial - How to Build Advanced AI Agent Systems  [Watch](https://youtu.be/1w5cCXlh7JQ)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,8 +39,8 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
- - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)  
  - VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
+ - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)  
  - Perplexity directly in Copilot  [Watch](https://youtu.be/4TYbaxvJPNA)  
  - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)  
  - Agent mode tools in VS Code  [Watch](https://youtu.be/VePxCcF99w4)
@@ -53,18 +53,18 @@ Youtube Videos
  - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Swarming the Data Lake with Kubernetes  [Watch](https://youtu.be/CNIfDJ7E4dc)  
  - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
  - CNL: Integrating MCP metadata in your internal developer platform  [Watch](https://youtu.be/9rtMuWfcICw)  
  - Cloud Native Live: Tea & Peaches: KubeCon London Recap, Atlanta Sneak-Peek  [Watch](https://youtu.be/gPxzhPHbo8c)  
- - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)  
- - Cloud Native Live: Otel Community Day 2025  [Watch](https://youtu.be/A8blir4JoRw)
+ - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)
 # Channel: Real Python
   
+ - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)  
  - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)  
  - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)  
  - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)  
- - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)  
- - MySQL Databases and Python: Getting Started & Installing the MySQL Server  [Watch](https://youtu.be/Xyvhi6JmM4c)
+ - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)
 # Channel: SysOps / DevOps Polska
   
  - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - Open Source Licensing, SBOMs and Security for Maintainers  [Watch](https://youtu.be/8hbkfKAl4hk)  
- - What is GitHub Models? Here's how to use AI models easily | GitHub Checkout  [Watch](https://youtu.be/Eea6es7KCww)  
- - Linus Torvalds: Known more for Git than Linux?  [Watch](https://youtu.be/0wLidyXzFk8)  
- - Did Linus Torvalds write Git in 10 days? Hear the real story  [Watch](https://youtu.be/rK3IOMr6eSs)  
- - Open Source Friday: Building Fast UIs with Typewind and Tailwind CSS  [Watch](https://youtu.be/4QShqGuMxmw)
+ - Open Source Friday: Supermemory  [Watch](https://youtu.be/83DRdPdod7k)  
+ - [pt-BR] Quinta do Patinho - Vamos fazer o site de uma comunidade com o Agente mode?  [Watch](https://youtu.be/n0UYiiB76C8)  
+ - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)  
+ - Open Source Friday: Sustainability Workshop  [Watch](https://youtu.be/e1SD01RmAs0)  
+ - Open Source Licensing, SBOMs and Security for Maintainers  [Watch](https://youtu.be/8hbkfKAl4hk)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
