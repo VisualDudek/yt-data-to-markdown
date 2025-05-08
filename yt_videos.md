@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
- - VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
  - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)  
+ - 🔴 VS Code - Let it cook - Vibe Coding with VS Code - Episode 2  [Watch](https://youtu.be/l8bgGpiID0E)  
+ - VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
  - Perplexity directly in Copilot  [Watch](https://youtu.be/4TYbaxvJPNA)  
- - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)  
- - Agent mode tools in VS Code  [Watch](https://youtu.be/VePxCcF99w4)
+ - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)
 # Channel: Mateusz Chrobok
   
  - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)  
@@ -53,25 +53,25 @@ Youtube Videos
  - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)
 # Channel: Cloud Native Computing Foundation
   
+ - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
+ - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)  
+ - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)  
  - Cloud Native Live: Swarming the Data Lake with Kubernetes  [Watch](https://youtu.be/CNIfDJ7E4dc)  
- - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
- - CNL: Integrating MCP metadata in your internal developer platform  [Watch](https://youtu.be/9rtMuWfcICw)  
- - Cloud Native Live: Tea & Peaches: KubeCon London Recap, Atlanta Sneak-Peek  [Watch](https://youtu.be/gPxzhPHbo8c)  
- - ChatLoopBackOff Episode 55 (​ChaosBlade)  [Watch](https://youtu.be/wvl4yJ9mABM)
+ - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)
 # Channel: Real Python
   
+ - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
  - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)  
  - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)  
  - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)  
- - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)  
- - From Frustration to Flow: Speeding Up Python Linting with Ruff  [Watch](https://youtu.be/y40_jcy1HGU)
+ - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)
 # Channel: SysOps / DevOps Polska
   
+ - Nowe addony do EKS, czy potrzebne? #devops #aws #kubernetes #eks  [Watch](https://youtu.be/h3Vuj2rl8LA)  
  - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
  - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)  
  - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)  
- - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)  
- - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)
+ - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - Open Source Friday: Supermemory  [Watch](https://youtu.be/83DRdPdod7k)  
- - [pt-BR] Quinta do Patinho - Vamos fazer o site de uma comunidade com o Agente mode?  [Watch](https://youtu.be/n0UYiiB76C8)  
- - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)  
- - Open Source Friday: Sustainability Workshop  [Watch](https://youtu.be/e1SD01RmAs0)  
- - Open Source Licensing, SBOMs and Security for Maintainers  [Watch](https://youtu.be/8hbkfKAl4hk)
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/a81tAYvGvJU)  
+ - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/RxVd6ieiUQ0)  
+ - Linus Torvalds: Why Git's distributed design works so well  [Watch](https://youtu.be/NYOdqo0OZbY)  
+ - Rubber Duck Thursdays - Agent mode and custom instructions  [Watch](https://youtu.be/HZ_eLkwugWg)  
+ - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - Why is Kafka FAST? Part 1  [Watch](https://youtu.be/wvLdBJEl-wc)  
  - System Design Was HARD - Until You Knew the Trade-Offs, Part 2  [Watch](https://youtu.be/2g1G8Jr88xU)  
  - System Design Was HARD - Until You Knew the Trade-Offs  [Watch](https://youtu.be/1nENigGr-a0)  
  - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)  
- - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)  
- - Top 6 Most Popular API Architecture Styles  [Watch](https://youtu.be/PNRbanEKGtw)
+ - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)
