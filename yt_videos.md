@@ -4,11 +4,11 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
+ - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
  - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
- - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
- - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)
+ - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)
 # Channel: mCoding
   
  - Watch out for this (async) generator cleanup pitfall in Python  [Watch](https://youtu.be/N56Jrqc7SBk)  
@@ -25,11 +25,11 @@ Youtube Videos
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)
 # Channel: Tech With Tim
   
+ - 3 Python AI Projects for Beginners - Full Tutorial  [Watch](https://youtu.be/XZdY15sHUa8)  
  - How I Scrape Any Site Using This MCP Server + Claude, LangGraph & AI Agents  [Watch](https://youtu.be/6DXuadyaJ4g)  
  - The BEST way to get dev job offers  [Watch](https://youtu.be/MH8SyRo9JV4)  
  - Should you use a dev agency to build your startup?  [Watch](https://youtu.be/ShduRb9FWK8)  
- - NEVER hire this kind of person for your startup  [Watch](https://youtu.be/qIyXKHlRa-c)  
- - LangGraph Tutorial - How to Build Advanced AI Agent Systems  [Watch](https://youtu.be/1w5cCXlh7JQ)
+ - NEVER hire this kind of person for your startup  [Watch](https://youtu.be/qIyXKHlRa-c)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,18 +39,18 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
- - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)  
  - 🔴 VS Code - Let it cook - Vibe Coding with VS Code - Episode 2  [Watch](https://youtu.be/l8bgGpiID0E)  
- - VS Code Live | Deploy Azure Applications seamlessly with VS Code for the Web  [Watch](https://youtu.be/5EdAywaKFZk)  
- - Perplexity directly in Copilot  [Watch](https://youtu.be/4TYbaxvJPNA)  
- - What are tools in agent mode?  [Watch](https://youtu.be/Nsc1hI2wp7M)
+ - Get more space with floating windows  [Watch](https://youtu.be/U-SLNxOPSPM)  
+ - Build a Weather App with Agent Mode  [Watch](https://youtu.be/uG5Vcjr5vxQ)  
+ - New VS Code update: Ask chat about specific UI elements  [Watch](https://youtu.be/ntPHrL9cgB4)  
+ - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)
 # Channel: Mateusz Chrobok
   
+ - 🥟 POLSKA GUROM  [Watch](https://youtu.be/CdvddpTUNfs)  
+ - 🎁 Prezent USA dla obcego wywiadu  [Watch](https://youtu.be/E6U6RrEgxac)  
  - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)  
  - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)  
- - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)  
- - 🎒 Jak przygotować się na blackout?  [Watch](https://youtu.be/zYmstGz4Gds)  
- - ⚫ Blackout  [Watch](https://youtu.be/GS1NGYAzQYY)
+ - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)
 # Channel: Cloud Native Computing Foundation
   
  - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
@@ -60,18 +60,18 @@ Youtube Videos
  - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)
 # Channel: Real Python
   
+ - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
  - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
  - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)  
  - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)  
- - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)  
- - LLMs Are Just Another Source—Journalists Know What to Do  [Watch](https://youtu.be/9NVSUEV9iJo)
+ - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)
 # Channel: SysOps / DevOps Polska
   
+ - [#560] Automatyzacja pracy w Zabbixie - Mateusz Dampc  [Watch](https://youtu.be/dwMvwO2j6qU)  
  - Nowe addony do EKS, czy potrzebne? #devops #aws #kubernetes #eks  [Watch](https://youtu.be/h3Vuj2rl8LA)  
  - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
  - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)  
- - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)  
- - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)
+ - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/a81tAYvGvJU)  
- - Rubber Duck Thursdays - Building with Agent Mode!  [Watch](https://youtu.be/RxVd6ieiUQ0)  
- - Linus Torvalds: Why Git's distributed design works so well  [Watch](https://youtu.be/NYOdqo0OZbY)  
- - Rubber Duck Thursdays - Agent mode and custom instructions  [Watch](https://youtu.be/HZ_eLkwugWg)  
- - [pt-BR] Live Especial: Bate Papo com Téo Calvo  [Watch](https://youtu.be/1KyFyOZCMdA)
+ - Open Source Friday - Building Real-Time Backends with Convex  [Watch](https://youtu.be/t0c2MND32ts)  
+ - [pt-BR] Open Source Friday Brasil com Leticia 'Levxyca' Leonardo - Diciotech  [Watch](https://youtu.be/jywizvNZpDM)  
+ - Open Source Friday: Sustainability Workshop  [Watch](https://youtu.be/e1SD01RmAs0)  
+ - The Download: JetBrains gets Copilot Edits, World’s Orb Mini, Docker’s MCP Server  [Watch](https://youtu.be/CGsZ7332qQM)  
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/a81tAYvGvJU)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
