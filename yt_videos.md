@@ -6,7 +6,7 @@ Youtube Videos
   
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
  - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)
 # Channel: Tech With Tim
   
+ - You NEED to understand THIS to land a tech job  [Watch](https://youtu.be/UHcF7AiwLSQ)  
+ - THIS is how advanced Software Engineers think  [Watch](https://youtu.be/0onYIFvfEvM)  
+ - When should you stop watching tutorials as a programmer?  [Watch](https://youtu.be/TXh_KIuI3PU)  
  - 3 Python AI Projects for Beginners - Full Tutorial  [Watch](https://youtu.be/XZdY15sHUa8)  
- - How I Scrape Any Site Using This MCP Server + Claude, LangGraph & AI Agents  [Watch](https://youtu.be/6DXuadyaJ4g)  
- - The BEST way to get dev job offers  [Watch](https://youtu.be/MH8SyRo9JV4)  
- - Should you use a dev agency to build your startup?  [Watch](https://youtu.be/ShduRb9FWK8)  
- - NEVER hire this kind of person for your startup  [Watch](https://youtu.be/qIyXKHlRa-c)
+ - How I Scrape Any Site Using This MCP Server + Claude, LangGraph & AI Agents  [Watch](https://youtu.be/6DXuadyaJ4g)
 # Channel: hello roman
   
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
@@ -39,11 +39,11 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
 # Channel: Visual Studio Code
   
- - 🔴 VS Code - Let it cook - Vibe Coding with VS Code - Episode 2  [Watch](https://youtu.be/l8bgGpiID0E)  
+ - 🔴 VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
+ - VS Code - Let it cook - Vibe Coding with VS Code - Episode 2  [Watch](https://youtu.be/l8bgGpiID0E)  
  - Get more space with floating windows  [Watch](https://youtu.be/U-SLNxOPSPM)  
  - Build a Weather App with Agent Mode  [Watch](https://youtu.be/uG5Vcjr5vxQ)  
- - New VS Code update: Ask chat about specific UI elements  [Watch](https://youtu.be/ntPHrL9cgB4)  
- - 🔴 VS Code Live - Query Databases in VS Code with Copilot Tools and DBCode  [Watch](https://youtu.be/v4lUJBMIDxY)
+ - New VS Code update: Ask chat about specific UI elements  [Watch](https://youtu.be/ntPHrL9cgB4)
 # Channel: Mateusz Chrobok
   
  - 🥟 POLSKA GUROM  [Watch](https://youtu.be/CdvddpTUNfs)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
+ - GitHub Copilot deep dive: Model selection, prompting techniques & agent mode  [Watch](https://youtu.be/0Oz-WQi51aU)  
  - Open Source Friday - Building Real-Time Backends with Convex  [Watch](https://youtu.be/t0c2MND32ts)  
  - [pt-BR] Open Source Friday Brasil com Leticia 'Levxyca' Leonardo - Diciotech  [Watch](https://youtu.be/jywizvNZpDM)  
  - Open Source Friday: Sustainability Workshop  [Watch](https://youtu.be/e1SD01RmAs0)  
- - The Download: JetBrains gets Copilot Edits, World’s Orb Mini, Docker’s MCP Server  [Watch](https://youtu.be/CGsZ7332qQM)  
- - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/a81tAYvGvJU)
+ - The Download: JetBrains gets Copilot Edits, World’s Orb Mini, Docker’s MCP Server  [Watch](https://youtu.be/CGsZ7332qQM)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
