@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)
 # Channel: mCoding
@@ -25,18 +25,18 @@ Youtube Videos
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)
 # Channel: Tech With Tim
   
+ - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)  
  - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)  
  - You NEED to understand THIS to land a tech job  [Watch](https://youtu.be/UHcF7AiwLSQ)  
  - THIS is how advanced Software Engineers think  [Watch](https://youtu.be/0onYIFvfEvM)  
- - When should you stop watching tutorials as a programmer?  [Watch](https://youtu.be/TXh_KIuI3PU)  
- - 3 Python AI Projects for Beginners - Full Tutorial  [Watch](https://youtu.be/XZdY15sHUa8)
+ - When should you stop watching tutorials as a programmer?  [Watch](https://youtu.be/TXh_KIuI3PU)
 # Channel: hello roman
   
+ - Proste odpowiedzi na trudne pytania 🫤  Hello Roman  [Watch](https://youtu.be/qmBxvB6xBvw)  
  - Jak estymować lepiej? ⏰  Hello Roman  [Watch](https://youtu.be/trm4-53gp4g)  
  - [Kurs Projekt od A do Z | 03] Pisanie tekstów  [Watch](https://youtu.be/vTmJh0nX6Sk)  
  - [Kurs Projekt od A do Z | 13] Style dla podstrony oferta  [Watch](https://youtu.be/vVJeRbTPT4U)  
- - [Kurs Projekt od A do Z | 14] Style dla podstrony realizacje  [Watch](https://youtu.be/dL-0uYN72mM)  
- - [Kurs Projekt od A do Z | 18] CSS – ostatnia prosta  [Watch](https://youtu.be/f8tPJdD1_TE)
+ - [Kurs Projekt od A do Z | 14] Style dla podstrony realizacje  [Watch](https://youtu.be/dL-0uYN72mM)
 # Channel: Visual Studio Code
   
  - 🔴 VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
@@ -53,25 +53,25 @@ Youtube Videos
  - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
+ - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
  - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
  - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)  
- - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)  
- - Cloud Native Live: Swarming the Data Lake with Kubernetes  [Watch](https://youtu.be/CNIfDJ7E4dc)  
- - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)
+ - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)
 # Channel: Real Python
   
+ - #podcastBoost Productivity With Just 100 Lines of Python Code  [Watch](https://youtu.be/HL3hCdKkJ58)  
  - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
  - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
  - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)  
- - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)  
- - Thread Safety in Python: Locks and Other Techniques -- Solving Races With Locks  [Watch](https://youtu.be/o1M4IK9Z-wA)
+ - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)
 # Channel: SysOps / DevOps Polska
   
+ - Nowości w Linkerd #devops #kubernetes  [Watch](https://youtu.be/5TzXKm6U4Pw)  
  - [#560] Automatyzacja pracy w Zabbixie - Mateusz Dampc  [Watch](https://youtu.be/dwMvwO2j6qU)  
  - Nowe addony do EKS, czy potrzebne? #devops #aws #kubernetes #eks  [Watch](https://youtu.be/h3Vuj2rl8LA)  
  - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
- - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)  
- - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)
+ - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - How a personal project became the Home Assistant open source movement  [Watch](https://youtu.be/_SoA2zYlVZY)  
- - GitHub Copilot deep dive: Model selection, prompting techniques & agent mode  [Watch](https://youtu.be/0Oz-WQi51aU)  
- - Open Source Friday - Building Real-Time Backends with Convex  [Watch](https://youtu.be/t0c2MND32ts)  
- - [pt-BR] Open Source Friday Brasil com Leticia 'Levxyca' Leonardo - Diciotech  [Watch](https://youtu.be/jywizvNZpDM)  
- - Open Source Friday: Sustainability Workshop  [Watch](https://youtu.be/e1SD01RmAs0)
+ - Season 3 of the GitHub Secure Code Game is coming  [Watch](https://youtu.be/FQ69iLRRp38)  
+ - Rubber Duck Thursdays - Building from requirements with Agent Mode  [Watch](https://youtu.be/pOr5nJ_XVDE)  
+ - OpenAI rolls back 'too agreeable' GPT-4o update after user feedback  [Watch](https://youtu.be/Eg-kC_fh6Vk)  
+ - Building a React app with GitHub Copilot: A beginner's frontend guide  [Watch](https://youtu.be/Nw4y5XQyugc)  
+ - How a personal project became the Home Assistant open source movement  [Watch](https://youtu.be/_SoA2zYlVZY)
 # Channel: CloudHeroes - Video
   
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - Why is Kafka so Fast? Part 2  [Watch](https://youtu.be/la8tzEyg-hY)  
  - Why is Kafka FAST? Part 1  [Watch](https://youtu.be/wvLdBJEl-wc)  
  - System Design Was HARD - Until You Knew the Trade-Offs, Part 2  [Watch](https://youtu.be/2g1G8Jr88xU)  
  - System Design Was HARD - Until You Knew the Trade-Offs  [Watch](https://youtu.be/1nENigGr-a0)  
- - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)  
- - Why Everyone’s Talking About MCP?  [Watch](https://youtu.be/_d0duu3dED4)
+ - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)
