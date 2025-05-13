@@ -6,7 +6,7 @@ Youtube Videos
   
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
  - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)
 # Channel: Tech With Tim
   
+ - This is where most devs f*ck up!!  [Watch](https://youtu.be/yc4mVlhYjFg)  
  - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)  
  - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)  
  - You NEED to understand THIS to land a tech job  [Watch](https://youtu.be/UHcF7AiwLSQ)  
- - THIS is how advanced Software Engineers think  [Watch](https://youtu.be/0onYIFvfEvM)  
- - When should you stop watching tutorials as a programmer?  [Watch](https://youtu.be/TXh_KIuI3PU)
+ - THIS is how advanced Software Engineers think  [Watch](https://youtu.be/0onYIFvfEvM)
 # Channel: hello roman
   
  - Proste odpowiedzi na trudne pytania 🫤  Hello Roman  [Watch](https://youtu.be/qmBxvB6xBvw)  
@@ -53,8 +53,8 @@ Youtube Videos
  - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
  - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
+ - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
  - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
  - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)  
  - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)
@@ -67,11 +67,11 @@ Youtube Videos
  - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)
 # Channel: SysOps / DevOps Polska
   
+ - [#561] Observability i logi systemowe - korelacje - Michał Bojko  [Watch](https://youtu.be/WwFYfezL8lc)  
  - Nowości w Linkerd #devops #kubernetes  [Watch](https://youtu.be/5TzXKm6U4Pw)  
  - [#560] Automatyzacja pracy w Zabbixie - Mateusz Dampc  [Watch](https://youtu.be/dwMvwO2j6qU)  
  - Nowe addony do EKS, czy potrzebne? #devops #aws #kubernetes #eks  [Watch](https://youtu.be/h3Vuj2rl8LA)  
- - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
- - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)
+ - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -95,18 +95,18 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
- - Season 3 of the GitHub Secure Code Game is coming  [Watch](https://youtu.be/FQ69iLRRp38)  
- - Rubber Duck Thursdays - Building from requirements with Agent Mode  [Watch](https://youtu.be/pOr5nJ_XVDE)  
- - OpenAI rolls back 'too agreeable' GPT-4o update after user feedback  [Watch](https://youtu.be/Eg-kC_fh6Vk)  
- - Building a React app with GitHub Copilot: A beginner's frontend guide  [Watch](https://youtu.be/Nw4y5XQyugc)  
- - How a personal project became the Home Assistant open source movement  [Watch](https://youtu.be/_SoA2zYlVZY)
+ - Build & deploy across multi-architecture FASTER with ARM 64 Runners | GitHub Checkout  [Watch](https://youtu.be/xHJ8som-D6Y)  
+ - [pt-BR🇧🇷] Quinta do Patinho  [Watch](https://youtu.be/cnAzrXGW7p4)  
+ - GitHub Copilot Edits now in JetBrains IDEs: Refactor from chat  [Watch](https://youtu.be/sqO6m0fSSVA)  
+ - [pt-BR] GitHub Presente Brasil - Maio 2025  [Watch](https://youtu.be/7McGqw5mGT8)  
+ - Season 3 of the GitHub Secure Code Game is coming  [Watch](https://youtu.be/FQ69iLRRp38)
 # Channel: CloudHeroes - Video
   
+ - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
  - RAG z użyciem Amazon Bedrock Knowledge Base  [Watch](https://youtu.be/oKjLdd_X1VQ)  
  - Zdałem AWS Certified Machine Learning Engineer Associate!  [Watch](https://youtu.be/leMqxVRNpmQ)  
  - Routing policies w Amazon Route 53  [Watch](https://youtu.be/AJb-VYx7jvU)  
- - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)  
- - Jak ogarnąć root access w AWS Organizations?  [Watch](https://youtu.be/q5Lyj7RYxBk)
+ - AWS Transit Gateway dla NIEwtajemniczonych 😎  [Watch](https://youtu.be/06n86Z0sr-k)
 # Channel: Nicole van der Hoeven
   
  - My Year in PKM: 2024 in numbers  [Watch](https://youtu.be/NxCZ8GaM-Vw)  
