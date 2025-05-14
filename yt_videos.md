@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)
 # Channel: mCoding
@@ -18,11 +18,11 @@ Youtube Videos
  - All 71 built-in Python functions  [Watch](https://youtu.be/7Qu_KXc7xSI)
 # Channel: anthonywritescode
   
+ - 3 way test pollution!  [Watch](https://youtu.be/qbLhVVRSb14)  
  - python t-strings (PEP 750)  [Watch](https://youtu.be/_QYAoNCK574)  
  - some "trivially" threaded code? (all code sucks) #13  [Watch](https://youtu.be/mftRzagtk4c)  
  - automatic python types!  [Watch](https://youtu.be/YTDpiP1-PRg)  
- - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)  
- - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)
+ - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)
 # Channel: Tech With Tim
   
  - This is where most devs f*ck up!!  [Watch](https://youtu.be/yc4mVlhYjFg)  
@@ -39,32 +39,32 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 14] Style dla podstrony realizacje  [Watch](https://youtu.be/dL-0uYN72mM)
 # Channel: Visual Studio Code
   
+ - MCP Servers in VS Code  [Watch](https://youtu.be/Coot4TFTkN4)  
+ - 🔴 VS Code Live - Security Guardrails for VS Code Agent Mode  [Watch](https://youtu.be/Uolr0QdQeYA)  
  - 🔴 VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
  - Let it cook - Vibe Coding with VS Code - Episode 2: Building an MCP server for LIFX  [Watch](https://youtu.be/l8bgGpiID0E)  
- - Get more space with floating windows  [Watch](https://youtu.be/U-SLNxOPSPM)  
- - Build a Weather App with Agent Mode  [Watch](https://youtu.be/uG5Vcjr5vxQ)  
- - New VS Code update: Ask chat about specific UI elements  [Watch](https://youtu.be/ntPHrL9cgB4)
+ - Get more space with floating windows  [Watch](https://youtu.be/U-SLNxOPSPM)
 # Channel: Mateusz Chrobok
   
+ - 🎥 Chcesz zacząć nagrywać?  [Watch](https://youtu.be/NDdsxZ67DCw)  
  - Hej AI, stwórz mi drugiego Instagrama!  [Watch](https://youtu.be/TaZDH4DxSl8)  
  - 🥟 POLSKA GUROM  [Watch](https://youtu.be/CdvddpTUNfs)  
  - 🎁 Prezent USA dla obcego wywiadu  [Watch](https://youtu.be/E6U6RrEgxac)  
- - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)  
- - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)
+ - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
+ - Cloud Native Live: The great pod identity theft  [Watch](https://youtu.be/pyY4xfh4ObQ)  
  - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
+ - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
  - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
- - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)  
- - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)
+ - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)
 # Channel: Real Python
   
+ - Ruff: The Fastest Way to Auto-Fix Python Code  [Watch](https://youtu.be/556buL_EgEQ)  
  - #podcastBoost Productivity With Just 100 Lines of Python Code  [Watch](https://youtu.be/HL3hCdKkJ58)  
  - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
  - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
- - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)  
- - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)
+ - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)
 # Channel: SysOps / DevOps Polska
   
  - [#561] Observability i logi systemowe - korelacje - Michał Bojko  [Watch](https://youtu.be/WwFYfezL8lc)  
@@ -95,11 +95,11 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
 # Channel: GitHub
   
+ - What's up from GitHub at Microsoft Build?  [Watch](https://youtu.be/B8odCfbU5zU)  
  - Build & deploy across multi-architecture FASTER with ARM 64 Runners | GitHub Checkout  [Watch](https://youtu.be/xHJ8som-D6Y)  
  - [pt-BR🇧🇷] Quinta do Patinho  [Watch](https://youtu.be/cnAzrXGW7p4)  
  - GitHub Copilot Edits now in JetBrains IDEs: Refactor from chat  [Watch](https://youtu.be/sqO6m0fSSVA)  
- - [pt-BR] GitHub Presente Brasil - Maio 2025  [Watch](https://youtu.be/7McGqw5mGT8)  
- - Season 3 of the GitHub Secure Code Game is coming  [Watch](https://youtu.be/FQ69iLRRp38)
+ - [pt-BR] GitHub Presente Brasil - Maio 2025  [Watch](https://youtu.be/7McGqw5mGT8)
 # Channel: CloudHeroes - Video
   
  - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
