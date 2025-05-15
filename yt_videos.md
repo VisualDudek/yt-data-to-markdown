@@ -5,8 +5,8 @@ Youtube Videos
 # Channel: ArjanCodes
   
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)
 # Channel: mCoding
@@ -25,11 +25,11 @@ Youtube Videos
  - why did this suddenly OOM?  [Watch](https://youtu.be/xEfDMjogJnw)
 # Channel: Tech With Tim
   
+ - How to become a Python dev expert  [Watch](https://youtu.be/gVN7WSiyc0g)  
+ - The BIGGEST mistake devs make when learning Python  [Watch](https://youtu.be/TtXICGwBBOM)  
  - This is where most devs f*ck up!!  [Watch](https://youtu.be/yc4mVlhYjFg)  
  - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)  
- - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)  
- - You NEED to understand THIS to land a tech job  [Watch](https://youtu.be/UHcF7AiwLSQ)  
- - THIS is how advanced Software Engineers think  [Watch](https://youtu.be/0onYIFvfEvM)
+ - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)
 # Channel: hello roman
   
  - Proste odpowiedzi na trudne pytania 🫤  Hello Roman  [Watch](https://youtu.be/qmBxvB6xBvw)  
@@ -39,32 +39,32 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 14] Style dla podstrony realizacje  [Watch](https://youtu.be/dL-0uYN72mM)
 # Channel: Visual Studio Code
   
+ - 🔴 VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
+ - BYOK in VS Code  [Watch](https://youtu.be/tqoGDAAfSWc)  
  - MCP Servers in VS Code  [Watch](https://youtu.be/Coot4TFTkN4)  
  - 🔴 VS Code Live - Security Guardrails for VS Code Agent Mode  [Watch](https://youtu.be/Uolr0QdQeYA)  
- - 🔴 VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
- - Let it cook - Vibe Coding with VS Code - Episode 2: Building an MCP server for LIFX  [Watch](https://youtu.be/l8bgGpiID0E)  
- - Get more space with floating windows  [Watch](https://youtu.be/U-SLNxOPSPM)
+ - Let it cook - Vibe Coding with VS Code - Episode 2: Building an MCP server for LIFX  [Watch](https://youtu.be/l8bgGpiID0E)
 # Channel: Mateusz Chrobok
   
+ - 🕵 Kto stoi za kampanią dezinformacji?  [Watch](https://youtu.be/_nw5ZtTJ1LU)  
  - 🎥 Chcesz zacząć nagrywać?  [Watch](https://youtu.be/NDdsxZ67DCw)  
  - Hej AI, stwórz mi drugiego Instagrama!  [Watch](https://youtu.be/TaZDH4DxSl8)  
  - 🥟 POLSKA GUROM  [Watch](https://youtu.be/CdvddpTUNfs)  
- - 🎁 Prezent USA dla obcego wywiadu  [Watch](https://youtu.be/E6U6RrEgxac)  
- - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)
+ - 🎁 Prezent USA dla obcego wywiadu  [Watch](https://youtu.be/E6U6RrEgxac)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: The great pod identity theft  [Watch](https://youtu.be/pyY4xfh4ObQ)  
+ - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
  - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
- - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
- - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
- - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)
+ - Introduction to Testcontainers  [Watch](https://youtu.be/_R-OoiZnT7s)  
+ - Foreign Function and Memory APIs and Swift/Java interoperability  [Watch](https://youtu.be/AJHcaN8h_ug)  
+ - Cloud Native Live: The great pod identity theft  [Watch](https://youtu.be/pyY4xfh4ObQ)
 # Channel: Real Python
   
+ - Missing Data in Polars: Setting Up & Identifying Missing Data  [Watch](https://youtu.be/UGUuSbDbb8A)  
  - Ruff: The Fastest Way to Auto-Fix Python Code  [Watch](https://youtu.be/556buL_EgEQ)  
  - #podcastBoost Productivity With Just 100 Lines of Python Code  [Watch](https://youtu.be/HL3hCdKkJ58)  
  - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
- - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
- - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)
+ - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)
 # Channel: SysOps / DevOps Polska
   
  - [#561] Observability i logi systemowe - korelacje - Michał Bojko  [Watch](https://youtu.be/WwFYfezL8lc)  
@@ -88,18 +88,18 @@ Youtube Videos
  - Build better payment forms using new “embedded” Stripe Checkout  [Watch](https://youtu.be/7WFXl4-aCxs)
 # Channel: Christian Lempa
   
+ - Get into tech in 2025? Beginner → Pro tips feat. TripleTen  [Watch](https://youtu.be/3MJJItLEZ0M)  
  - What software runs in my HomeLab in 2025?  [Watch](https://youtu.be/KJVe_E6tdzw)  
  - NEW ZimaBoard 2, super fast, tiny Home Server  [Watch](https://youtu.be/D038iKKoiYI)  
  - What hardware runs in my HomeLab in 2025?  [Watch](https://youtu.be/4QlawuxRY00)  
- - Warp AI Knowledge Rules, optimize AI output  [Watch](https://youtu.be/GZtWIU0T888)  
- - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)
+ - Warp AI Knowledge Rules, optimize AI output  [Watch](https://youtu.be/GZtWIU0T888)
 # Channel: GitHub
   
- - What's up from GitHub at Microsoft Build?  [Watch](https://youtu.be/B8odCfbU5zU)  
- - Build & deploy across multi-architecture FASTER with ARM 64 Runners | GitHub Checkout  [Watch](https://youtu.be/xHJ8som-D6Y)  
  - [pt-BR🇧🇷] Quinta do Patinho  [Watch](https://youtu.be/cnAzrXGW7p4)  
- - GitHub Copilot Edits now in JetBrains IDEs: Refactor from chat  [Watch](https://youtu.be/sqO6m0fSSVA)  
- - [pt-BR] GitHub Presente Brasil - Maio 2025  [Watch](https://youtu.be/7McGqw5mGT8)
+ - How GitHub Copilot empowers anyone to make apps | Kelly Ford's journey  [Watch](https://youtu.be/heubNV-QtuI)  
+ - Event in Spanish: Jueves de Quack: Especial VS Code y GitHub Copilot  [Watch](https://youtu.be/2sckM3X4bCI)  
+ - Beyond green squares: Rethinking dev productivity with Eirini Nathanail | Beyond the Commit  [Watch](https://youtu.be/5i9UGeCwl5s)  
+ - [pt-BR🇧🇷] Open Source Friday Brasil com Rebeca Almeida, mantenedora do Querido Diário  [Watch](https://youtu.be/3ZBCjWymCzg)
 # Channel: CloudHeroes - Video
   
  - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
@@ -116,8 +116,8 @@ Youtube Videos
  - How to start organizing your digital life with Brandon Boswell  [Watch](https://youtu.be/Ykhyw3T3ICU)
 # Channel: ByteByteGo
   
+ - APIs Explained in 6 Minutes!  [Watch](https://youtu.be/hltLrjabkiY)  
  - Why is Kafka so Fast? Part 2  [Watch](https://youtu.be/la8tzEyg-hY)  
  - Why is Kafka FAST? Part 1  [Watch](https://youtu.be/wvLdBJEl-wc)  
  - System Design Was HARD - Until You Knew the Trade-Offs, Part 2  [Watch](https://youtu.be/2g1G8Jr88xU)  
- - System Design Was HARD - Until You Knew the Trade-Offs  [Watch](https://youtu.be/1nENigGr-a0)  
- - gRPC, WebSocket and WebHook!  [Watch](https://youtu.be/f7KgDNZU3-Y)
+ - System Design Was HARD - Until You Knew the Trade-Offs  [Watch](https://youtu.be/1nENigGr-a0)
