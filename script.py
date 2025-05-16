@@ -290,7 +290,7 @@ if __name__ == '__main__':
 
     # --- Featch data from MongoDB View ---
     print("\n--- Fetching data from MongoDB View ---")
-    for doc in db.abc.find():
+    for doc in db.latest_ten.find():
         # Pretty print the document using rich console
         console = Console()
         console.print(Pretty(doc))
