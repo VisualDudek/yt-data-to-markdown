@@ -289,12 +289,12 @@ if __name__ == '__main__':
 
 
     # --- Featch data from MongoDB View ---
-    print("\n--- Fetching data from MongoDB View ---")
-    for doc in db.latest_three.find():
-        # Pretty print the document using rich console
-        console = Console()
-        console.print(Pretty(doc))
-        print("\n") 
+    # print("\n--- Fetching data from MongoDB View ---")
+    # for doc in db.latest_three.find():
+    #     # Pretty print the document using rich console
+    #     console = Console()
+    #     console.print(Pretty(doc))
+    #     print("\n") 
 
 
     # Close MongoDB connection when done
