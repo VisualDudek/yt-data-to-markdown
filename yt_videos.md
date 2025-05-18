@@ -6,8 +6,8 @@ Youtube Videos
   
  - 10 Python Anti-Patterns That Are Breaking Your Code  [Watch](https://youtu.be/ts38mSIUPSg)  
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
@@ -40,6 +40,8 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - DeepAgent - The World's First GOD Tier AI Agent  [Watch](https://youtu.be/snU715PnSds)  
+ - How to actually get good at AI engineering PART II  [Watch](https://youtu.be/oBnlBGuRr2Y)  
  - How to actually get good at AI engineering  [Watch](https://youtu.be/96Y6KSMqdFg)  
  - The BEST Python VSCode feature you are NOT using  [Watch](https://youtu.be/fLl3M0B7WQk)  
  - Do THIS instead of watching endless tutorials - how I’d learn Python FAST…  [Watch](https://youtu.be/mB0EBW-vDSQ)  
@@ -47,9 +49,7 @@ Youtube Videos
  - The BIGGEST mistake devs make when learning Python  [Watch](https://youtu.be/TtXICGwBBOM)  
  - This is where most devs f*ck up!!  [Watch](https://youtu.be/yc4mVlhYjFg)  
  - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)  
- - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)  
- - You NEED to understand THIS to land a tech job  [Watch](https://youtu.be/UHcF7AiwLSQ)  
- - THIS is how advanced Software Engineers think  [Watch](https://youtu.be/0onYIFvfEvM)
+ - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)
 # Channel: hello roman
   
  - Proste odpowiedzi na trudne pytania 🫤  Hello Roman  [Watch](https://youtu.be/qmBxvB6xBvw)  
@@ -76,6 +76,7 @@ Youtube Videos
  - 🔴 VS Code Live - Security Guardrails for VS Code Agent Mode  [Watch](https://youtu.be/Uolr0QdQeYA)
 # Channel: Mateusz Chrobok
   
+ - Nie jesteś anonimowy  [Watch](https://youtu.be/4XqAVhZRSNg)  
  - 🖱️Wyciek ze Steama?  [Watch](https://youtu.be/f0-PFulyPxE)  
  - Manipulowanie wyborami nie jest wcale takie proste  [Watch](https://youtu.be/5ezuPxCP1IE)  
  - 🕵 Kto stoi za kampanią dezinformacji?  [Watch](https://youtu.be/_nw5ZtTJ1LU)  
@@ -84,8 +85,7 @@ Youtube Videos
  - 🥟 POLSKA GUROM  [Watch](https://youtu.be/CdvddpTUNfs)  
  - 🎁 Prezent USA dla obcego wywiadu  [Watch](https://youtu.be/E6U6RrEgxac)  
  - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)  
- - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)  
- - 🗳️ Jak weryfikować mObywatela w czasie wyborów?  [Watch](https://youtu.be/0UpmdQZ_6Xw)
+ - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)
 # Channel: Cloud Native Computing Foundation
   
  - CNCF Live Webinar: Kubernetes 1.33 Release  [Watch](https://youtu.be/1hOOplxu6g0)  
@@ -160,6 +160,8 @@ Youtube Videos
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
+ - The easiest way to build a React app  [Watch](https://youtu.be/4W0gt_h-l-0)  
+ - How a deaf speaker uses Copilot for meeting summaries  [Watch](https://youtu.be/vwxR9xebluE)  
  - GitHub Copilot for screen reader users: Sound cues & navigable edits in VS Code  [Watch](https://youtu.be/mn8kTicygiw)  
  - How beginners build APIs rapidly with GitHub Copilot  [Watch](https://youtu.be/_gEjD1XBIWU)  
  - How GitHub Copilot helps developers navigate complex codebases  [Watch](https://youtu.be/2xh3e__iDEQ)  
@@ -167,9 +169,7 @@ Youtube Videos
  - [ptBR] Open Source Friday Brasil com Rafael Gonzaga - replay  [Watch](https://youtu.be/6AOLpwhoXyE)  
  - Open Source Friday Meets Accessibility: A Special GAAD Edition  [Watch](https://youtu.be/ffvposQU7EA)  
  - What is GitHub announcing at Microsoft Build? 👀  [Watch](https://youtu.be/tRpKiilbILM)  
- - Copilot & accessibility: A deaf tech lead's productivity strategy  [Watch](https://youtu.be/tER3tbrOXzs)  
- - [pt-BR🇧🇷] Quinta do Patinho  [Watch](https://youtu.be/cnAzrXGW7p4)  
- - Event in Spanish: Jueves de Quack: Especial VS Code y GitHub Copilot  [Watch](https://youtu.be/2sckM3X4bCI)
+ - Copilot & accessibility: A deaf tech lead's productivity strategy  [Watch](https://youtu.be/tER3tbrOXzs)
 # Channel: CloudHeroes - Video
   
  - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
@@ -328,6 +328,7 @@ Youtube Videos
  - Connect internal knowledge from Google Drive  [Watch](https://youtu.be/8bAtx3WuRZw)
 # Channel: What The Func? w/ Ed Zynda
   
+ - Stop Paying for Cursor! This Free Open-Source Tool is BETTER in Every Way 🤯  [Watch](https://youtu.be/YjJE4jFK6rM)  
  - x402: Revolutionizing How AI Agents Pay for Services  [Watch](https://youtu.be/UQJl8jCDMlo)  
  - Analyze Blockchain Transactions With MCP  [Watch](https://youtu.be/fi6WUQsUjxs)  
  - Write MCP Servers in Golang. Python execution environment example.  [Watch](https://youtu.be/qoaeYMrXJH0)  
@@ -336,5 +337,4 @@ Youtube Videos
  - Forget Python! Build LLM Applications in Go!  [Watch](https://youtu.be/dDN2tUcgqII)  
  - Paymaster Sponsored Transactions on ZkSync  [Watch](https://youtu.be/QD7I3B2d-Fo)  
  - Create Your Own Personal AI Yoda - Easy AI Persona Bots With Zemantic AI and Botpress  [Watch](https://youtu.be/U82WxAS2d20)  
- - How to Automate Workflows With OpenAI | Function Calls Explained  [Watch](https://youtu.be/FRDGQ-1CVj4)  
- - How to Convert Unstructured to Stuctured Data | OpenAI Function Calls Example  [Watch](https://youtu.be/qdrMKFMQnn8)
+ - How to Automate Workflows With OpenAI | Function Calls Explained  [Watch](https://youtu.be/FRDGQ-1CVj4)
