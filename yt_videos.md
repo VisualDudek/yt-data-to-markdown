@@ -6,8 +6,8 @@ Youtube Videos
   
  - 10 Python Anti-Patterns That Are Breaking Your Code  [Watch](https://youtu.be/ts38mSIUPSg)  
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
@@ -64,6 +64,8 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 21] Formularz kontaktowy  [Watch](https://youtu.be/q-8MIwgoXwo)
 # Channel: Visual Studio Code
   
+ - VS Code, Live — Straight from Microsoft Build! 🪐  [Watch](https://youtu.be/DH-5LuvRFqA)  
+ - 🔴 Blazing Fast Databases with Prisma + VS Code Agent 🚀  [Watch](https://youtu.be/KuUsVgjhgF4)  
  - Your code can fix itself  [Watch](https://youtu.be/R3fd3nyoVU4)  
  - NES Code Completions in VS Code  [Watch](https://youtu.be/ALFL1hX9Du0)  
  - VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
@@ -71,9 +73,7 @@ Youtube Videos
  - BYOK in VS Code  [Watch](https://youtu.be/tqoGDAAfSWc)  
  - Vibe Coding at Microsoft Build - Day 3  [Watch](https://youtu.be/y4r6I2_Yk7c)  
  - Vibe Coding at Microsoft Build - Day 2  [Watch](https://youtu.be/7DxfZFjHCCE)  
- - Vibe Coding at Microsoft Build - Day 1  [Watch](https://youtu.be/xWFQ3rE55G0)  
- - MCP Servers in VS Code  [Watch](https://youtu.be/Coot4TFTkN4)  
- - 🔴 VS Code Live - Security Guardrails for VS Code Agent Mode  [Watch](https://youtu.be/Uolr0QdQeYA)
+ - Vibe Coding at Microsoft Build - Day 1  [Watch](https://youtu.be/xWFQ3rE55G0)
 # Channel: Mateusz Chrobok
   
  - Nie jesteś anonimowy  [Watch](https://youtu.be/4XqAVhZRSNg)  
@@ -100,6 +100,7 @@ Youtube Videos
  - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)
 # Channel: Real Python
   
+ - The Origins of Ruff: Python's Fastest Linter  [Watch](https://youtu.be/JJ7pwW2C-aw)  
  - The Testing Trap: How Unit Tests Lead to Brittle Code  [Watch](https://youtu.be/wKb607sDEzE)  
  - How I Never Run Out of Content Ideas -- Even on Bad Days!  [Watch](https://youtu.be/CA4I2ffVpWw)  
  - Going Beyond requirements.txt With pylock.toml and PEP-751 | Real Python Podcast #249  [Watch](https://youtu.be/xVlH-8aE0HM)  
@@ -108,8 +109,7 @@ Youtube Videos
  - #podcastBoost Productivity With Just 100 Lines of Python Code  [Watch](https://youtu.be/HL3hCdKkJ58)  
  - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
  - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
- - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)  
- - Building a Code Image Generator With Python  [Watch](https://youtu.be/4id2nXQtNn8)
+ - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)
 # Channel: SysOps / DevOps Polska
   
  - [#562] Git - like a pro! - Mateusz Adamowski  [Watch](https://youtu.be/49Ygz65-O8I)  
@@ -160,16 +160,16 @@ Youtube Videos
  - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
 # Channel: GitHub
   
+ - The GitHub Copilot coding agent *NEW*  [Watch](https://youtu.be/6xHZJVnKkSs)  
+ - Introducing the GitHub Copilot coding agent  [Watch](https://youtu.be/EPyyyB23NUU)  
+ - Open Source Friday with Daniel Roe and Nuxt.js  [Watch](https://youtu.be/tRIQVQ23ykM)  
  - The easiest way to build a React app  [Watch](https://youtu.be/4W0gt_h-l-0)  
  - How a deaf speaker uses Copilot for meeting summaries  [Watch](https://youtu.be/vwxR9xebluE)  
  - GitHub Copilot for screen reader users: Sound cues & navigable edits in VS Code  [Watch](https://youtu.be/mn8kTicygiw)  
  - How beginners build APIs rapidly with GitHub Copilot  [Watch](https://youtu.be/_gEjD1XBIWU)  
  - How GitHub Copilot helps developers navigate complex codebases  [Watch](https://youtu.be/2xh3e__iDEQ)  
  - Open Source Friday: Supermemory  [Watch](https://youtu.be/83DRdPdod7k)  
- - [ptBR] Open Source Friday Brasil com Rafael Gonzaga - replay  [Watch](https://youtu.be/6AOLpwhoXyE)  
- - Open Source Friday Meets Accessibility: A Special GAAD Edition  [Watch](https://youtu.be/ffvposQU7EA)  
- - What is GitHub announcing at Microsoft Build? 👀  [Watch](https://youtu.be/tRpKiilbILM)  
- - Copilot & accessibility: A deaf tech lead's productivity strategy  [Watch](https://youtu.be/tER3tbrOXzs)
+ - [ptBR] Open Source Friday Brasil com Rafael Gonzaga - replay  [Watch](https://youtu.be/6AOLpwhoXyE)
 # Channel: CloudHeroes - Video
   
  - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
@@ -232,6 +232,7 @@ Youtube Videos
  - React Router v7 Framework Mode - Getting Started  [Watch](https://youtu.be/UmRjxek5qYQ)
 # Channel: Maximilian Schwarzmüller
   
+ - React Router 🤝 React Server Components  [Watch](https://youtu.be/RVfEjMPB1Fg)  
  - How I ACTUALLY use AI in my work  [Watch](https://youtu.be/JlZTXzivtCA)  
  - Is AI Creating a Dev Monoculture?  [Watch](https://youtu.be/x3JbuuEz66I)  
  - HOW to run open LLMs locally #ai #localai #lmstudio #ollama #llm  [Watch](https://youtu.be/GdWAHo3lUYM)  
@@ -240,10 +241,10 @@ Youtube Videos
  - Ready for everyday use?  [Watch](https://youtu.be/guKq_qumTV8)  
  - What's Google's A2A all about? #aiagent #aigents #google #ai  [Watch](https://youtu.be/sKSshmpcutU)  
  - A2A vs MCP 🤜💥🤛  [Watch](https://youtu.be/gI6Xk7NcECw)  
- - Making sense of Google's A2A Protocol (and how A2A relates to MCP)  [Watch](https://youtu.be/WGeHYPLbXMk)  
- - VS Code & Microsoft with the DOUBLE strike against Cursor!  [Watch](https://youtu.be/tv6vBaITBtk)
+ - Making sense of Google's A2A Protocol (and how A2A relates to MCP)  [Watch](https://youtu.be/WGeHYPLbXMk)
 # Channel: Postman
   
+ - A simple explanation of MCP (Model Context Protocol) and APIs  [Watch](https://youtu.be/pzKFFg6nUCk)  
  - AI That Uses APIs Without Instructions?! (MCP Explained)  [Watch](https://youtu.be/hEJhTpUOdus)  
  - How to Vibe Code an API (Cursor + Postman)  [Watch](https://youtu.be/svuNp-ud5FA)  
  - How to Build MCP Servers with Postman (API to AI Agent)  [Watch](https://youtu.be/fxOhTLbqJLk)  
@@ -252,10 +253,10 @@ Youtube Videos
  - How to Get Real-Time Postman Updates in Slack  [Watch](https://youtu.be/N5dpR8GQz4Q)  
  - How MCP (Model Context Protocol) is changing API development  [Watch](https://youtu.be/D4ymf7hQt38)  
  - Why GraphQL is the BEST protocol for MCP  [Watch](https://youtu.be/B-bqtIN7b_8)  
- - 3 Quick Methods to Automate API Testing with Postman  [Watch](https://youtu.be/Wx2lweU-0TQ)  
- - Top 3 Methods to Automate API Testing in Postman  [Watch](https://youtu.be/4mpdkaSOJ6I)
+ - 3 Quick Methods to Automate API Testing with Postman  [Watch](https://youtu.be/Wx2lweU-0TQ)
 # Channel: MongoDB
   
+ - The future of data orchestration with Kenten Danas  [Watch](https://youtu.be/sIEK32MvD3c)  
  - Demo: How to Upgrade from MongoDB Version 7 to 8.0  [Watch](https://youtu.be/yJGphrhmpDU)  
  - What to Expect from Our Webinar on MongoDB Version 8.0!  [Watch](https://youtu.be/AdBdRox8i_E)  
  - MongoDB 8.0 Feature Deep Dive: Performance, Enhanced Security & More  [Watch](https://youtu.be/LIKOUO3mEYE)  
@@ -264,8 +265,7 @@ Youtube Videos
  - Experience the Beanie ODM: Build Robust Data Models in Python  [Watch](https://youtu.be/5XhDQQcWQm4)  
  - MongoDB CAN Store Relationships!  | Modernize Your Applications with the Relational Migrator  [Watch](https://youtu.be/OLAuihksTi8)  
  - Building Centralized gen AI Tooling with John Ziegler, MongoDB | People Who Ship Episode 1  [Watch](https://youtu.be/DQIoQBA83dk)  
- - AMA with MongoDB's PHP Engineering team  [Watch](https://youtu.be/caiVFee9jhU)  
- - AI Will Drive 50% of Business Decisions. Here's How to Prepare | MongoDB and Capgemini  [Watch](https://youtu.be/k5MetD1xvoo)
+ - AMA with MongoDB's PHP Engineering team  [Watch](https://youtu.be/caiVFee9jhU)
 # Channel: Computerphile
   
  - Hash Collisions & The Birthday Paradox - Computerphile  [Watch](https://youtu.be/jsraR-el8_o)  
