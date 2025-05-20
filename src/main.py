@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 load_dotenv()  
 
 # --- YT channel config ---
-YT_CONFIG = '../yt_config.yaml'
+YT_CONFIG = './yt_config.yaml'
 
 # --- Configuration ---
 API_KEY = os.getenv("API_KEY")
