@@ -149,14 +149,11 @@ if __name__ == '__main__':
     else:
         # Add the new channel ID to the config
         config['channels'][channel_title] = channel_id
+
         # Sort the channels alphabetically
         config['channels'] = dict(sorted(config['channels'].items(), key=lambda item: item[0].lower()))
+
         # Save the updated config back to the YAML file
         with open(YT_CONFIG, 'w') as file:
             yaml.dump(config, file, sort_keys=False)
         console.print(f"Added new channel: [bold magenta]{channel_title}[/bold magenta] with ID: {channel_id}")
-
-    # Iterate through each channel in the config
-    # for channel_name, channel_id in config['channels'].items():
-        # print(f"Channel Name: {channel_name}, Channel ID: {channel_id}")
-
