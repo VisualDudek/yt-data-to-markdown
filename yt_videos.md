@@ -4,10 +4,10 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - 10 Python Anti-Patterns That Are Breaking Your Code  [Watch](https://youtu.be/ts38mSIUPSg)  
+ - Stop Writing Python Like This (10 Mistakes to Avoid)  [Watch](https://youtu.be/ts38mSIUPSg)  
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
- - Python Decorators Considered Harmful  [Watch](https://youtu.be/dVnNc9oEnF8)  
+ - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
  - Coupling 101: Design Choices That Make or Break Your Code  [Watch](https://youtu.be/MM9VQp-k0JQ)  
@@ -40,6 +40,7 @@ Youtube Videos
  - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
 # Channel: Tech With Tim
   
+ - How to use the enumerate function in Python  [Watch](https://youtu.be/UBB6Mw2R6T4)  
  - DeepAgent - The World's First GOD Tier AI Agent  [Watch](https://youtu.be/snU715PnSds)  
  - How to actually get good at AI engineering PART II  [Watch](https://youtu.be/oBnlBGuRr2Y)  
  - How to actually get good at AI engineering  [Watch](https://youtu.be/96Y6KSMqdFg)  
@@ -48,8 +49,7 @@ Youtube Videos
  - How to become a Python dev expert  [Watch](https://youtu.be/gVN7WSiyc0g)  
  - The BIGGEST mistake devs make when learning Python  [Watch](https://youtu.be/TtXICGwBBOM)  
  - This is where most devs f*ck up!!  [Watch](https://youtu.be/yc4mVlhYjFg)  
- - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)  
- - Programming Is NOT Enough | Add these 5 skills…  [Watch](https://youtu.be/bZa2uicOTAE)
+ - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)
 # Channel: hello roman
   
  - Proste odpowiedzi na trudne pytania 🫤  Hello Roman  [Watch](https://youtu.be/qmBxvB6xBvw)  
@@ -64,6 +64,8 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 21] Formularz kontaktowy  [Watch](https://youtu.be/q-8MIwgoXwo)
 # Channel: Visual Studio Code
   
+ - Vibe Coding at Microsoft Build - Day 2  [Watch](https://youtu.be/7DxfZFjHCCE)  
+ - Vibe Coding at Microsoft Build - Day 1  [Watch](https://youtu.be/xWFQ3rE55G0)  
  - VS Code, Live — Straight from Microsoft Build! 🪐  [Watch](https://youtu.be/DH-5LuvRFqA)  
  - 🔴 Blazing Fast Databases with Prisma + VS Code Agent 🚀  [Watch](https://youtu.be/KuUsVgjhgF4)  
  - Your code can fix itself  [Watch](https://youtu.be/R3fd3nyoVU4)  
@@ -71,9 +73,7 @@ Youtube Videos
  - VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
  - Our #1 tip for editing code  [Watch](https://youtu.be/ftlvuxm9BVY)  
  - BYOK in VS Code  [Watch](https://youtu.be/tqoGDAAfSWc)  
- - Vibe Coding at Microsoft Build - Day 3  [Watch](https://youtu.be/y4r6I2_Yk7c)  
- - Vibe Coding at Microsoft Build - Day 2  [Watch](https://youtu.be/7DxfZFjHCCE)  
- - Vibe Coding at Microsoft Build - Day 1  [Watch](https://youtu.be/xWFQ3rE55G0)
+ - Vibe Coding at Microsoft Build - Day 3  [Watch](https://youtu.be/y4r6I2_Yk7c)
 # Channel: Mateusz Chrobok
   
  - Nie jesteś anonimowy  [Watch](https://youtu.be/4XqAVhZRSNg)  
@@ -88,6 +88,8 @@ Youtube Videos
  - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)
 # Channel: Cloud Native Computing Foundation
   
+ - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
+ - Cloud Native Live: The future of cloud governance  [Watch](https://youtu.be/Q4SE6yiujpk)  
  - CNCF Live Webinar: Kubernetes 1.33 Release  [Watch](https://youtu.be/1hOOplxu6g0)  
  - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
  - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
@@ -95,9 +97,7 @@ Youtube Videos
  - Foreign Function and Memory APIs and Swift/Java interoperability  [Watch](https://youtu.be/AJHcaN8h_ug)  
  - Cloud Native Live: The great pod identity theft  [Watch](https://youtu.be/pyY4xfh4ObQ)  
  - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
- - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)  
- - Cutting Through Observability Noise: Stop Drowning in Tools & Data  [Watch](https://youtu.be/tpkPKRPRtCQ)  
- - Design Patterns for Agentic AI | InfoQ Webinar  [Watch](https://youtu.be/T7qYcPD1yIs)
+ - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)
 # Channel: Real Python
   
  - The Origins of Ruff: Python's Fastest Linter  [Watch](https://youtu.be/JJ7pwW2C-aw)  
@@ -112,6 +112,7 @@ Youtube Videos
  - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)
 # Channel: SysOps / DevOps Polska
   
+ - [#563] Nietrywialne oblicza sieci bezprzewodowych - Daniel Świątek  [Watch](https://youtu.be/lOMj0L5kqGE)  
  - [#562] Git - like a pro! - Mateusz Adamowski  [Watch](https://youtu.be/49Ygz65-O8I)  
  - [#561] Observability i logi systemowe - korelacje - Michał Bojko  [Watch](https://youtu.be/WwFYfezL8lc)  
  - Nowości w Linkerd #devops #kubernetes  [Watch](https://youtu.be/5TzXKm6U4Pw)  
@@ -120,8 +121,7 @@ Youtube Videos
  - [#559] Co prawnik powinien powiedzieć developerowi o AI-owych przepisach? - Paula Skrzypecka  [Watch](https://youtu.be/87D7G5qdfsY)  
  - AWS zmienia konfigurację ważnej globalnej usługi #aws #devops  [Watch](https://youtu.be/Z6GPZZEGpbQ)  
  - [#558] LT: Przygody z DNS, gdy klient chce zjeść ciastko i nadal je mieć - Michał Frontczak  [Watch](https://youtu.be/L50I8co19J4)  
- - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)  
- - [#557] Migracja ekosystemu aplikacji Fundacji WOŚP do chmury obliczeniowej Google Cloud - J. Ochnio  [Watch](https://youtu.be/imKt1z1vGKc)
+ - Karpenter w akcji – jak obniżyć koszty klastra EKS o 70%! ⚙️💰 #MeetUp #EKS #Karpenter #SODO  [Watch](https://youtu.be/STj44uVuHyY)
 # Channel: ThePrimeagen
   
  - the worst man in tech  [Watch](https://youtu.be/A_XGsAl-LqY)  
@@ -232,6 +232,8 @@ Youtube Videos
  - React Router v7 Framework Mode - Getting Started  [Watch](https://youtu.be/UmRjxek5qYQ)
 # Channel: Maximilian Schwarzmüller
   
+ - Microsoft open sources VS Code GitHub Copilot Chat - A Nice Move? #ai #coding #vscode #microsoft  [Watch](https://youtu.be/W3SnkIDOOkg)  
+ - Is Microsoft just being nice by open-sourcing Copilot Chat?  [Watch](https://youtu.be/-eVfq_kJz60)  
  - React Router 🤝 React Server Components  [Watch](https://youtu.be/RVfEjMPB1Fg)  
  - How I ACTUALLY use AI in my work  [Watch](https://youtu.be/JlZTXzivtCA)  
  - Is AI Creating a Dev Monoculture?  [Watch](https://youtu.be/x3JbuuEz66I)  
@@ -239,11 +241,11 @@ Youtube Videos
  - 6 reasons WHY you SHOULD use open LLMs like Gemma or Qwen #ai #localai #lmstudio #ollama #llm  [Watch](https://youtu.be/VIHngPs-LUc)  
  - I'm running my LLMs locally now!  [Watch](https://youtu.be/Xgx-hf2Cdeo)  
  - Ready for everyday use?  [Watch](https://youtu.be/guKq_qumTV8)  
- - What's Google's A2A all about? #aiagent #aigents #google #ai  [Watch](https://youtu.be/sKSshmpcutU)  
- - A2A vs MCP 🤜💥🤛  [Watch](https://youtu.be/gI6Xk7NcECw)  
- - Making sense of Google's A2A Protocol (and how A2A relates to MCP)  [Watch](https://youtu.be/WGeHYPLbXMk)
+ - What's Google's A2A all about? #aiagent #aigents #google #ai  [Watch](https://youtu.be/sKSshmpcutU)
 # Channel: Postman
   
+ - Why Devs Say MCP Is the USB-C of AI Tools  [Watch](https://youtu.be/iatRVgRTxJs)  
+ - MCP Explained: The Open Protocol Ending AI Vendor Lock-In  [Watch](https://youtu.be/8jQMYeH5VM8)  
  - A simple explanation of MCP (Model Context Protocol) and APIs  [Watch](https://youtu.be/pzKFFg6nUCk)  
  - AI That Uses APIs Without Instructions?! (MCP Explained)  [Watch](https://youtu.be/hEJhTpUOdus)  
  - How to Vibe Code an API (Cursor + Postman)  [Watch](https://youtu.be/svuNp-ud5FA)  
@@ -251,23 +253,22 @@ Youtube Videos
  - API to AI Agent in Seconds (Build an MCP Server Fast)  [Watch](https://youtu.be/7D6pkYa3YtQ)  
  - How to get the FASTEST application deployment  [Watch](https://youtu.be/GbfMgwr7ubw)  
  - How to Get Real-Time Postman Updates in Slack  [Watch](https://youtu.be/N5dpR8GQz4Q)  
- - How MCP (Model Context Protocol) is changing API development  [Watch](https://youtu.be/D4ymf7hQt38)  
- - Why GraphQL is the BEST protocol for MCP  [Watch](https://youtu.be/B-bqtIN7b_8)  
- - 3 Quick Methods to Automate API Testing with Postman  [Watch](https://youtu.be/Wx2lweU-0TQ)
+ - How MCP (Model Context Protocol) is changing API development  [Watch](https://youtu.be/D4ymf7hQt38)
 # Channel: MongoDB
   
  - The future of data orchestration with Kenten Danas  [Watch](https://youtu.be/sIEK32MvD3c)  
+ - How to Use the Official MongoDB MCP in VS Code #databaseconcepts #vscode #mcp  [Watch](https://youtu.be/sB7Q9CuxaMo)  
+ - Modern AIOps - What does it take to build reliable AI products  [Watch](https://youtu.be/8dnmsD9UvcY)  
  - Demo: How to Upgrade from MongoDB Version 7 to 8.0  [Watch](https://youtu.be/yJGphrhmpDU)  
  - What to Expect from Our Webinar on MongoDB Version 8.0!  [Watch](https://youtu.be/AdBdRox8i_E)  
  - MongoDB 8.0 Feature Deep Dive: Performance, Enhanced Security & More  [Watch](https://youtu.be/LIKOUO3mEYE)  
  - How to Create & Insert Documents in MongoDB | CRUD Fundamentals  [Watch](https://youtu.be/HELskd8cJNE)  
  - Atlas Admin API Access in Your CLI - No More Waiting!  #database #API #mongodb  [Watch](https://youtu.be/h2Hpvk6vg8Y)  
  - Experience the Beanie ODM: Build Robust Data Models in Python  [Watch](https://youtu.be/5XhDQQcWQm4)  
- - MongoDB CAN Store Relationships!  | Modernize Your Applications with the Relational Migrator  [Watch](https://youtu.be/OLAuihksTi8)  
- - Building Centralized gen AI Tooling with John Ziegler, MongoDB | People Who Ship Episode 1  [Watch](https://youtu.be/DQIoQBA83dk)  
- - AMA with MongoDB's PHP Engineering team  [Watch](https://youtu.be/caiVFee9jhU)
+ - MongoDB CAN Store Relationships!  | Modernize Your Applications with the Relational Migrator  [Watch](https://youtu.be/OLAuihksTi8)
 # Channel: Computerphile
   
+ - 'Forbidden' AI Technique - Computerphile  [Watch](https://youtu.be/Xx4Tpsk_fnM)  
  - Hash Collisions & The Birthday Paradox - Computerphile  [Watch](https://youtu.be/jsraR-el8_o)  
  - Subroutines in Low Level Code - Computerphile  [Watch](https://youtu.be/1su3lAh-k4o)  
  - AI's Version of Moore's Law? - Computerphile  [Watch](https://youtu.be/evSFeqTZdqs)  
@@ -276,8 +277,7 @@ Youtube Videos
  - Reputation Lag Attack - Computerphile  [Watch](https://youtu.be/R8MI8vsrFiQ)  
  - Ai Will Try to Cheat & Escape (aka Rob Miles was Right!) - Computerphile  [Watch](https://youtu.be/AqJnK9Dh-eQ)  
  - Jensen Huang on GPUs - Computerphile  [Watch](https://youtu.be/G6R7UOFx1bw)  
- - Behind the Scenes at GTC AI Conference - Computerphile  [Watch](https://youtu.be/sBeHhJ8P24I)  
- - Carbon: (C++)++ ? Can Carbon De-Throne C++? - Computerphile  [Watch](https://youtu.be/t6amG00HQuo)
+ - Behind the Scenes at GTC AI Conference - Computerphile  [Watch](https://youtu.be/sBeHhJ8P24I)
 # Channel: TJ DeVries
   
  - my best balatro run (ft ThePrimeagen)  [Watch](https://youtu.be/0RfRf6ui_3o)  
@@ -292,6 +292,7 @@ Youtube Videos
  - Neovim Plugin From Scratch: Custom Commands/Lazy Loading (Part 6)  [Watch](https://youtu.be/V3B9WiJb9P0)
 # Channel: Fireship
   
+ - Microsoft just opened the flood gates…  [Watch](https://youtu.be/NIgrGqmoeHs)  
  - Google’s AlphaEvolve is making new discoveries in math…  [Watch](https://youtu.be/jCTvblRXnzg)  
  - 5 weird (but useful) data structures in computer science  [Watch](https://youtu.be/6fnmXX8RK0s)  
  - Google must be cooking up something big...  [Watch](https://youtu.be/59wV96Kc3dQ)  
@@ -300,8 +301,7 @@ Youtube Videos
  - 7 Programming Myths that waste your time  [Watch](https://youtu.be/niWpfRyvs2U)  
  - OpenAI launches "genius" o4 model with a programming CLI tool...  [Watch](https://youtu.be/O-Vu-DMIU40)  
  - 4chan penetrated by a gang of soyjaks…  [Watch](https://youtu.be/XNratwOrSiY)  
- - Meta’s Llama 4 is mindblowing… but did it cheat?  [Watch](https://youtu.be/P4M9wfJH-yI)  
- - Respected computer scientist mysteriously disappears...  [Watch](https://youtu.be/LjbNtw14TwI)
+ - Meta’s Llama 4 is mindblowing… but did it cheat?  [Watch](https://youtu.be/P4M9wfJH-yI)
 # Channel: Jeremy Howard
   
  - Sarah Pan, teenage AI wizard  [Watch](https://youtu.be/LDklFaxssFE)  
