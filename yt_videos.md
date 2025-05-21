@@ -4,9 +4,9 @@ Youtube Videos
 
 # Channel: ArjanCodes
   
- - Stop Writing Python Like This (10 Mistakes to Avoid)  [Watch](https://youtu.be/ts38mSIUPSg)  
+ - 10 Python Anti-Patterns That Are Breaking Your Code  [Watch](https://youtu.be/ts38mSIUPSg)  
  - I’m in prison...  [Watch](https://youtu.be/VxiLGc5A7Ho)  
- - The REAL Reason You Should Use Type Hints in Python  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
+ - The REAL Reason Python Type Hints Are Useful  [Watch](https://youtu.be/0oBLMwHdZ2Y)  
  - The Hidden Dangers of Python Decorators  [Watch](https://youtu.be/dVnNc9oEnF8)  
  - 10 Tips to Keep Your Software Simple  [Watch](https://youtu.be/0U-RwnWaFIM)  
  - How to Use Git Branches Like a Pro (FastAPI Example)  [Watch](https://youtu.be/viAZQjs5lHk)  
@@ -28,6 +28,7 @@ Youtube Videos
  - Windows Command Escape Vulnerability - Critical CVE ... or is it?  [Watch](https://youtu.be/WNmNXc_EZdM)
 # Channel: anthonywritescode
   
+ - some weird django test database quirks  [Watch](https://youtu.be/cyZ2fWVdxwE)  
  - 3 way test pollution!  [Watch](https://youtu.be/qbLhVVRSb14)  
  - python t-strings (PEP 750)  [Watch](https://youtu.be/_QYAoNCK574)  
  - some "trivially" threaded code? (all code sucks) #13  [Watch](https://youtu.be/mftRzagtk4c)  
@@ -36,8 +37,7 @@ Youtube Videos
  - typing a recursive flatten()  [Watch](https://youtu.be/pXcV_OJI7j4)  
  - the python readline module is haunted  [Watch](https://youtu.be/b0JQkTWjg6g)  
  - python now has dict unpacking?  [Watch](https://youtu.be/eqiM0xRmFJg)  
- - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)  
- - solve this by narrowing to a Literal  [Watch](https://youtu.be/WlErF7wQsds)
+ - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
  - How to use the enumerate function in Python  [Watch](https://youtu.be/UBB6Mw2R6T4)  
@@ -64,6 +64,7 @@ Youtube Videos
  - [Kurs Projekt od A do Z | 21] Formularz kontaktowy  [Watch](https://youtu.be/q-8MIwgoXwo)
 # Channel: Visual Studio Code
   
+ - Vibe Coding at Microsoft Build - Day 3  [Watch](https://youtu.be/y4r6I2_Yk7c)  
  - Vibe Coding at Microsoft Build - Day 2  [Watch](https://youtu.be/7DxfZFjHCCE)  
  - Vibe Coding at Microsoft Build - Day 1  [Watch](https://youtu.be/xWFQ3rE55G0)  
  - VS Code, Live — Straight from Microsoft Build! 🪐  [Watch](https://youtu.be/DH-5LuvRFqA)  
@@ -72,10 +73,10 @@ Youtube Videos
  - NES Code Completions in VS Code  [Watch](https://youtu.be/ALFL1hX9Du0)  
  - VS Code Live - Copilot Agents + SharePoint in VS Code  [Watch](https://youtu.be/8HvwGc0EaUg)  
  - Our #1 tip for editing code  [Watch](https://youtu.be/ftlvuxm9BVY)  
- - BYOK in VS Code  [Watch](https://youtu.be/tqoGDAAfSWc)  
- - Vibe Coding at Microsoft Build - Day 3  [Watch](https://youtu.be/y4r6I2_Yk7c)
+ - BYOK in VS Code  [Watch](https://youtu.be/tqoGDAAfSWc)
 # Channel: Mateusz Chrobok
   
+ - 🦾 Pomocna dłoń?  [Watch](https://youtu.be/eiNy36aIPJE)  
  - Nie jesteś anonimowy  [Watch](https://youtu.be/4XqAVhZRSNg)  
  - 🖱️Wyciek ze Steama?  [Watch](https://youtu.be/f0-PFulyPxE)  
  - Manipulowanie wyborami nie jest wcale takie proste  [Watch](https://youtu.be/5ezuPxCP1IE)  
@@ -84,22 +85,22 @@ Youtube Videos
  - Hej AI, stwórz mi drugiego Instagrama!  [Watch](https://youtu.be/TaZDH4DxSl8)  
  - 🥟 POLSKA GUROM  [Watch](https://youtu.be/CdvddpTUNfs)  
  - 🎁 Prezent USA dla obcego wywiadu  [Watch](https://youtu.be/E6U6RrEgxac)  
- - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)  
- - NIE dla wyborów przez internet!  [Watch](https://youtu.be/UK3-wB68ZGk)
+ - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)
 # Channel: Cloud Native Computing Foundation
   
- - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
+ - Deaf in Cloud Native Meetup  [Watch](https://youtu.be/o0DUk0UgTVk)  
  - Cloud Native Live: The future of cloud governance  [Watch](https://youtu.be/Q4SE6yiujpk)  
+ - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
  - CNCF Live Webinar: Kubernetes 1.33 Release  [Watch](https://youtu.be/1hOOplxu6g0)  
  - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
  - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
  - Introduction to Testcontainers  [Watch](https://youtu.be/_R-OoiZnT7s)  
  - Foreign Function and Memory APIs and Swift/Java interoperability  [Watch](https://youtu.be/AJHcaN8h_ug)  
  - Cloud Native Live: The great pod identity theft  [Watch](https://youtu.be/pyY4xfh4ObQ)  
- - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)  
- - ChatLoopBackOff Episode 56 (​Kubescape)  [Watch](https://youtu.be/kN2F9ud2zTk)
+ - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)
 # Channel: Real Python
   
+ - The Hilarious Test That Exposes Weak AI Models  [Watch](https://youtu.be/fw_lOQar2rI)  
  - The Origins of Ruff: Python's Fastest Linter  [Watch](https://youtu.be/JJ7pwW2C-aw)  
  - The Testing Trap: How Unit Tests Lead to Brittle Code  [Watch](https://youtu.be/wKb607sDEzE)  
  - How I Never Run Out of Content Ideas -- Even on Bad Days!  [Watch](https://youtu.be/CA4I2ffVpWw)  
@@ -108,8 +109,7 @@ Youtube Videos
  - Ruff: The Fastest Way to Auto-Fix Python Code  [Watch](https://youtu.be/556buL_EgEQ)  
  - #podcastBoost Productivity With Just 100 Lines of Python Code  [Watch](https://youtu.be/HL3hCdKkJ58)  
  - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
- - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)  
- - Forget Manual Virtual Envs -- This Is the Future!  [Watch](https://youtu.be/dIGlJJUc2os)
+ - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)
 # Channel: SysOps / DevOps Polska
   
  - [#563] Nietrywialne oblicza sieci bezprzewodowych - Daniel Świątek  [Watch](https://youtu.be/lOMj0L5kqGE)  
@@ -148,6 +148,7 @@ Youtube Videos
  - Mind-blowing page animations are easy now... View Transitions API first look  [Watch](https://youtu.be/lsXqparnx24)
 # Channel: Christian Lempa
   
+ - Excalidraw, my favorite whiteboard / tech diagram app  [Watch](https://youtu.be/Gv9MezPAchI)  
  - Get into tech in 2025? Beginner → Pro tips feat. TripleTen  [Watch](https://youtu.be/3MJJItLEZ0M)  
  - What software runs in my HomeLab in 2025?  [Watch](https://youtu.be/KJVe_E6tdzw)  
  - NEW ZimaBoard 2, super fast, tiny Home Server  [Watch](https://youtu.be/D038iKKoiYI)  
@@ -156,20 +157,19 @@ Youtube Videos
  - Checkmk, self-hosted IT monitoring for just EVERYTHING!  [Watch](https://youtu.be/Rb1_7gbgS7k)  
  - New Docker Hub pull rate limits? What you have to do…  [Watch](https://youtu.be/JNkLbT_2JQg)  
  - Unlock the Power of AI in Your Terminal with Warp!  [Watch](https://youtu.be/hETUdeBQqkI)  
- - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)  
- - My NEW Homeserver for AI + Power efficiency  [Watch](https://youtu.be/7opwGxhOsf0)
+ - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)
 # Channel: GitHub
   
+ - Introducing the GitHub Models tab: Manage & test your AI prompts  [Watch](https://youtu.be/NgLhYqkU4YM)  
+ - [pt-BR🇧🇷] Open Source Friday Brasil com Wheslley Rimar Bezerra, mantenedor do Build CLI  [Watch](https://youtu.be/duaDQkxHT_k)  
+ - How to get the most out of the Copilot coding agent  [Watch](https://youtu.be/GPML5a2jZCY)  
  - The GitHub Copilot coding agent *NEW*  [Watch](https://youtu.be/6xHZJVnKkSs)  
  - Introducing the GitHub Copilot coding agent  [Watch](https://youtu.be/EPyyyB23NUU)  
  - Open Source Friday with Daniel Roe and Nuxt.js  [Watch](https://youtu.be/tRIQVQ23ykM)  
  - The easiest way to build a React app  [Watch](https://youtu.be/4W0gt_h-l-0)  
  - How a deaf speaker uses Copilot for meeting summaries  [Watch](https://youtu.be/vwxR9xebluE)  
  - GitHub Copilot for screen reader users: Sound cues & navigable edits in VS Code  [Watch](https://youtu.be/mn8kTicygiw)  
- - How beginners build APIs rapidly with GitHub Copilot  [Watch](https://youtu.be/_gEjD1XBIWU)  
- - How GitHub Copilot helps developers navigate complex codebases  [Watch](https://youtu.be/2xh3e__iDEQ)  
- - Open Source Friday: Supermemory  [Watch](https://youtu.be/83DRdPdod7k)  
- - [ptBR] Open Source Friday Brasil com Rafael Gonzaga - replay  [Watch](https://youtu.be/6AOLpwhoXyE)
+ - How beginners build APIs rapidly with GitHub Copilot  [Watch](https://youtu.be/_gEjD1XBIWU)
 # Channel: CloudHeroes - Video
   
  - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
@@ -244,6 +244,8 @@ Youtube Videos
  - What's Google's A2A all about? #aiagent #aigents #google #ai  [Watch](https://youtu.be/sKSshmpcutU)
 # Channel: Postman
   
+ - 4 Things You Need to Build an MCP Server  [Watch](https://youtu.be/xD4DbtXntTc)  
+ - Test Multiple APIs Fast with Postbot  [Watch](https://youtu.be/ebe63B9W3dA)  
  - Why Devs Say MCP Is the USB-C of AI Tools  [Watch](https://youtu.be/iatRVgRTxJs)  
  - MCP Explained: The Open Protocol Ending AI Vendor Lock-In  [Watch](https://youtu.be/8jQMYeH5VM8)  
  - A simple explanation of MCP (Model Context Protocol) and APIs  [Watch](https://youtu.be/pzKFFg6nUCk)  
@@ -251,11 +253,10 @@ Youtube Videos
  - How to Vibe Code an API (Cursor + Postman)  [Watch](https://youtu.be/svuNp-ud5FA)  
  - How to Build MCP Servers with Postman (API to AI Agent)  [Watch](https://youtu.be/fxOhTLbqJLk)  
  - API to AI Agent in Seconds (Build an MCP Server Fast)  [Watch](https://youtu.be/7D6pkYa3YtQ)  
- - How to get the FASTEST application deployment  [Watch](https://youtu.be/GbfMgwr7ubw)  
- - How to Get Real-Time Postman Updates in Slack  [Watch](https://youtu.be/N5dpR8GQz4Q)  
- - How MCP (Model Context Protocol) is changing API development  [Watch](https://youtu.be/D4ymf7hQt38)
+ - How to get the FASTEST application deployment  [Watch](https://youtu.be/GbfMgwr7ubw)
 # Channel: MongoDB
   
+ - Demo: Building an Agentic AI-Powered Fleet Advisor | The Future of Automation  [Watch](https://youtu.be/_CAOb7BR-Rg)  
  - The future of data orchestration with Kenten Danas  [Watch](https://youtu.be/sIEK32MvD3c)  
  - How to Use the Official MongoDB MCP in VS Code #databaseconcepts #vscode #mcp  [Watch](https://youtu.be/sB7Q9CuxaMo)  
  - Modern AIOps - What does it take to build reliable AI products  [Watch](https://youtu.be/8dnmsD9UvcY)  
@@ -264,8 +265,7 @@ Youtube Videos
  - MongoDB 8.0 Feature Deep Dive: Performance, Enhanced Security & More  [Watch](https://youtu.be/LIKOUO3mEYE)  
  - How to Create & Insert Documents in MongoDB | CRUD Fundamentals  [Watch](https://youtu.be/HELskd8cJNE)  
  - Atlas Admin API Access in Your CLI - No More Waiting!  #database #API #mongodb  [Watch](https://youtu.be/h2Hpvk6vg8Y)  
- - Experience the Beanie ODM: Build Robust Data Models in Python  [Watch](https://youtu.be/5XhDQQcWQm4)  
- - MongoDB CAN Store Relationships!  | Modernize Your Applications with the Relational Migrator  [Watch](https://youtu.be/OLAuihksTi8)
+ - Experience the Beanie ODM: Build Robust Data Models in Python  [Watch](https://youtu.be/5XhDQQcWQm4)
 # Channel: Computerphile
   
  - 'Forbidden' AI Technique - Computerphile  [Watch](https://youtu.be/Xx4Tpsk_fnM)  
@@ -292,6 +292,7 @@ Youtube Videos
  - Neovim Plugin From Scratch: Custom Commands/Lazy Loading (Part 6)  [Watch](https://youtu.be/V3B9WiJb9P0)
 # Channel: Fireship
   
+ - Google goes wild, again... 11 things you missed at I/O  [Watch](https://youtu.be/NLjnOsP_q1U)  
  - Microsoft just opened the flood gates…  [Watch](https://youtu.be/NIgrGqmoeHs)  
  - Google’s AlphaEvolve is making new discoveries in math…  [Watch](https://youtu.be/jCTvblRXnzg)  
  - 5 weird (but useful) data structures in computer science  [Watch](https://youtu.be/6fnmXX8RK0s)  
@@ -300,8 +301,7 @@ Youtube Videos
  - Redditors shocked to learn they’re arguing with AI bots  [Watch](https://youtu.be/5aN4Xg0VvCs)  
  - 7 Programming Myths that waste your time  [Watch](https://youtu.be/niWpfRyvs2U)  
  - OpenAI launches "genius" o4 model with a programming CLI tool...  [Watch](https://youtu.be/O-Vu-DMIU40)  
- - 4chan penetrated by a gang of soyjaks…  [Watch](https://youtu.be/XNratwOrSiY)  
- - Meta’s Llama 4 is mindblowing… but did it cheat?  [Watch](https://youtu.be/P4M9wfJH-yI)
+ - 4chan penetrated by a gang of soyjaks…  [Watch](https://youtu.be/XNratwOrSiY)
 # Channel: Jeremy Howard
   
  - Sarah Pan, teenage AI wizard  [Watch](https://youtu.be/LDklFaxssFE)  
@@ -316,6 +316,7 @@ Youtube Videos
  - Getting Started With CUDA for Python Programmers  [Watch](https://youtu.be/nOxKexn3iBo)
 # Channel: OpenAI
   
+ - Sam & Jony introduce io  [Watch](https://youtu.be/W09bIpc_3ms)  
  - Codex CLI with codex-mini  [Watch](https://youtu.be/O-ZfXbfAMKU)  
  - Building faster with Codex  [Watch](https://youtu.be/wSAkqlzSZyw)  
  - Fixing papercuts with Codex  [Watch](https://youtu.be/yHzfc1Ih7jw)  
@@ -324,8 +325,7 @@ Youtube Videos
  - Personalize ChatGPT with custom instructions  [Watch](https://youtu.be/i_cskqmWA3U)  
  - Run faster code reviews with deep research for GitHub  [Watch](https://youtu.be/ZWwquOvw5Bk)  
  - Moms use ChatGPT for the first time #Shorts  [Watch](https://youtu.be/dPxfnWz7dwI)  
- - Collaborate and write with GPT-4o  [Watch](https://youtu.be/ordedK86DxQ)  
- - Connect internal knowledge from Google Drive  [Watch](https://youtu.be/8bAtx3WuRZw)
+ - Collaborate and write with GPT-4o  [Watch](https://youtu.be/ordedK86DxQ)
 # Channel: What The Func? w/ Ed Zynda
   
  - Stop Paying for Cursor! This Free Open-Source Tool is BETTER in Every Way 🤯  [Watch](https://youtu.be/YjJE4jFK6rM)  
