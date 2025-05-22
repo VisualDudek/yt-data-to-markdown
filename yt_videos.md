@@ -40,6 +40,8 @@ Youtube Videos
  - typing an abstract ClassVar  [Watch](https://youtu.be/4Ge1mgogwdw)
 # Channel: Tech With Tim
   
+ - How to become an AI engineer in 2025  [Watch](https://youtu.be/V529teeIQ5o)  
+ - How to get ahead of 99% of AI devs in 2025  [Watch](https://youtu.be/dblwSk6n_9A)  
  - How to use the enumerate function in Python  [Watch](https://youtu.be/UBB6Mw2R6T4)  
  - DeepAgent - The World's First GOD Tier AI Agent  [Watch](https://youtu.be/snU715PnSds)  
  - How to actually get good at AI engineering PART II  [Watch](https://youtu.be/oBnlBGuRr2Y)  
@@ -47,9 +49,7 @@ Youtube Videos
  - The BEST Python VSCode feature you are NOT using  [Watch](https://youtu.be/fLl3M0B7WQk)  
  - Do THIS instead of watching endless tutorials - how I’d learn Python FAST…  [Watch](https://youtu.be/mB0EBW-vDSQ)  
  - How to become a Python dev expert  [Watch](https://youtu.be/gVN7WSiyc0g)  
- - The BIGGEST mistake devs make when learning Python  [Watch](https://youtu.be/TtXICGwBBOM)  
- - This is where most devs f*ck up!!  [Watch](https://youtu.be/yc4mVlhYjFg)  
- - Python features you need to learn if you wanna be an expert  [Watch](https://youtu.be/24NyAc4Xt0A)
+ - The BIGGEST mistake devs make when learning Python  [Watch](https://youtu.be/TtXICGwBBOM)
 # Channel: hello roman
   
  - Proste odpowiedzi na trudne pytania 🫤  Hello Roman  [Watch](https://youtu.be/qmBxvB6xBvw)  
@@ -88,18 +88,19 @@ Youtube Videos
  - 👨🏻‍💻 Czym są ćwiczenia Locked Shields?  [Watch](https://youtu.be/EWyv3xiya58)
 # Channel: Cloud Native Computing Foundation
   
- - Deaf in Cloud Native Meetup  [Watch](https://youtu.be/o0DUk0UgTVk)  
+ - ChatLoopBackOff Episode 58 (​Helm)  [Watch](https://youtu.be/qDbjfHU2pbU)  
+ - TOC meeting 2025-05-06  [Watch](https://youtu.be/ZJT96hDX5Ms)  
+ - TOC Sandbox Review 2025-05-13  [Watch](https://youtu.be/QF8SihQPWAM)  
+ - TOC meeting 2025-04-15  [Watch](https://youtu.be/A43HqY4I7n0)  
+ - How to get started contributing to the CNCF  [Watch](https://youtu.be/o0DUk0UgTVk)  
  - Cloud Native Live: The future of cloud governance  [Watch](https://youtu.be/Q4SE6yiujpk)  
+ - GPU-powered AI on VMs, Kubernetes & Bare Metal with Cozystack  [Watch](https://youtu.be/S__h_QaoYEk)  
  - Cloud Native Live: Agentic AI for runtime security  [Watch](https://youtu.be/j90WdM123R0)  
  - CNCF Live Webinar: Kubernetes 1.33 Release  [Watch](https://youtu.be/1hOOplxu6g0)  
- - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)  
- - Cloud Native Live: Trivia, tokens & traffic: Meet Envoy AI Gateway  [Watch](https://youtu.be/t5ZNLljgEcc)  
- - Introduction to Testcontainers  [Watch](https://youtu.be/_R-OoiZnT7s)  
- - Foreign Function and Memory APIs and Swift/Java interoperability  [Watch](https://youtu.be/AJHcaN8h_ug)  
- - Cloud Native Live: The great pod identity theft  [Watch](https://youtu.be/pyY4xfh4ObQ)  
- - Cloud Native Live: Let's dive into the OSSF Scorecard  [Watch](https://youtu.be/Bbc03oufoe0)
+ - ChatLoopBackOff Episode 57 (​OpenYurt)  [Watch](https://youtu.be/oCH4PQGuVkY)
 # Channel: Real Python
   
+ - First Steps With LangChain: Setting Up and Assembling Instructions  [Watch](https://youtu.be/YVcbYMU9maA)  
  - The Hilarious Test That Exposes Weak AI Models  [Watch](https://youtu.be/fw_lOQar2rI)  
  - The Origins of Ruff: Python's Fastest Linter  [Watch](https://youtu.be/JJ7pwW2C-aw)  
  - The Testing Trap: How Unit Tests Lead to Brittle Code  [Watch](https://youtu.be/wKb607sDEzE)  
@@ -108,8 +109,7 @@ Youtube Videos
  - Missing Data in Polars: Setting Up & Identifying Missing Data  [Watch](https://youtu.be/UGUuSbDbb8A)  
  - Ruff: The Fastest Way to Auto-Fix Python Code  [Watch](https://youtu.be/556buL_EgEQ)  
  - #podcastBoost Productivity With Just 100 Lines of Python Code  [Watch](https://youtu.be/HL3hCdKkJ58)  
- - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)  
- - Using the Python subprocess Module: Gettting Started & Using subprocess to Run Python  [Watch](https://youtu.be/_mO7m8lyC2g)
+ - Experiments With Gen AI, Knowledge Graphs, Workflows, and Python | Real Python Podcast #248  [Watch](https://youtu.be/uCroZOpDafw)
 # Channel: SysOps / DevOps Polska
   
  - [#563] Nietrywialne oblicza sieci bezprzewodowych - Daniel Świątek  [Watch](https://youtu.be/lOMj0L5kqGE)  
@@ -160,16 +160,16 @@ Youtube Videos
  - GitLab CI CD automation (Docker, Kubernetes, Terraform, and more…)  [Watch](https://youtu.be/zBrP8MzA5y0)
 # Channel: GitHub
   
+ - [pt-BR] 🇧🇷 Quinta do Patinho :3 Quack!  [Watch](https://youtu.be/zdC14avR60Y)  
+ - Assigning Copilot ad-hoc tasks through Copilot chat  [Watch](https://youtu.be/W9G_gHBuxlc)  
+ - Event in Spanish: Jueves de Quack  [Watch](https://youtu.be/CoMvYpKDMIY)  
  - Introducing the GitHub Models tab: Manage & test your AI prompts  [Watch](https://youtu.be/NgLhYqkU4YM)  
  - [pt-BR🇧🇷] Open Source Friday Brasil com Wheslley Rimar Bezerra, mantenedor do Build CLI  [Watch](https://youtu.be/duaDQkxHT_k)  
  - How to get the most out of the Copilot coding agent  [Watch](https://youtu.be/GPML5a2jZCY)  
  - The GitHub Copilot coding agent *NEW*  [Watch](https://youtu.be/6xHZJVnKkSs)  
  - Introducing the GitHub Copilot coding agent  [Watch](https://youtu.be/EPyyyB23NUU)  
  - Open Source Friday with Daniel Roe and Nuxt.js  [Watch](https://youtu.be/tRIQVQ23ykM)  
- - The easiest way to build a React app  [Watch](https://youtu.be/4W0gt_h-l-0)  
- - How a deaf speaker uses Copilot for meeting summaries  [Watch](https://youtu.be/vwxR9xebluE)  
- - GitHub Copilot for screen reader users: Sound cues & navigable edits in VS Code  [Watch](https://youtu.be/mn8kTicygiw)  
- - How beginners build APIs rapidly with GitHub Copilot  [Watch](https://youtu.be/_gEjD1XBIWU)
+ - The easiest way to build a React app  [Watch](https://youtu.be/4W0gt_h-l-0)
 # Channel: CloudHeroes - Video
   
  - Prompt caching w Amazon Bedrock  [Watch](https://youtu.be/beTNYcFzc7Q)  
@@ -208,6 +208,7 @@ Youtube Videos
  - What is GraphQL?  [Watch](https://youtu.be/rQhost93z40)
 # Channel: Eric Roby
   
+ - Deploying to AWS EC2 Has NEVER Been This Easy!  [Watch](https://youtu.be/xjgHXOGnOhk)  
  - 5 Reasons Every Python Developer Is Switching to FastAPI  [Watch](https://youtu.be/bwz3Z9GXLyI)  
  - Is Python REALLY Worth Learning in 2025?  [Watch](https://youtu.be/3OSiyI0yJQs)  
  - Make FASTAPI Endpoints SELF DESCRIBING In Just 15 Minutes  [Watch](https://youtu.be/zlGcQvORZBs)  
@@ -216,8 +217,7 @@ Youtube Videos
  - The BEST Way to Create an Offline RAG AI with FastAPI & PydanticAI  [Watch](https://youtu.be/d9zbCsOpWCQ)  
  - How to Scrape ANY Website With Python (Even the Hard Ones)  [Watch](https://youtu.be/PUzb-T60jug)  
  - Build Your Own POWERFUL Multi-Agent AI (FastAPI & PydanticAI)  [Watch](https://youtu.be/VPdpVBV99SE)  
- - How to run your PERSONAL AI Offline (do whatever you want)  [Watch](https://youtu.be/EJCVdQxf2R4)  
- - WARNING: I made a PYTHON AI that saves me MONEY (you can too)  [Watch](https://youtu.be/8xQvZavzDL4)
+ - How to run your PERSONAL AI Offline (do whatever you want)  [Watch](https://youtu.be/EJCVdQxf2R4)
 # Channel: Maximilian Schwarzmüller Ext.
   
  - How LLMs Use Tools - Building It Step By Step  [Watch](https://youtu.be/ei_xL3P4Dkk)  
@@ -256,6 +256,7 @@ Youtube Videos
  - How to get the FASTEST application deployment  [Watch](https://youtu.be/GbfMgwr7ubw)
 # Channel: MongoDB
   
+ - Handle Massive Data Growth! | What is MongoDB Sharding #database  [Watch](https://youtu.be/ADaWrxc_fug)  
  - Demo: Building an Agentic AI-Powered Fleet Advisor | The Future of Automation  [Watch](https://youtu.be/_CAOb7BR-Rg)  
  - The future of data orchestration with Kenten Danas  [Watch](https://youtu.be/sIEK32MvD3c)  
  - How to Use the Official MongoDB MCP in VS Code #databaseconcepts #vscode #mcp  [Watch](https://youtu.be/sB7Q9CuxaMo)  
@@ -264,8 +265,7 @@ Youtube Videos
  - What to Expect from Our Webinar on MongoDB Version 8.0!  [Watch](https://youtu.be/AdBdRox8i_E)  
  - MongoDB 8.0 Feature Deep Dive: Performance, Enhanced Security & More  [Watch](https://youtu.be/LIKOUO3mEYE)  
  - How to Create & Insert Documents in MongoDB | CRUD Fundamentals  [Watch](https://youtu.be/HELskd8cJNE)  
- - Atlas Admin API Access in Your CLI - No More Waiting!  #database #API #mongodb  [Watch](https://youtu.be/h2Hpvk6vg8Y)  
- - Experience the Beanie ODM: Build Robust Data Models in Python  [Watch](https://youtu.be/5XhDQQcWQm4)
+ - Atlas Admin API Access in Your CLI - No More Waiting!  #database #API #mongodb  [Watch](https://youtu.be/h2Hpvk6vg8Y)
 # Channel: Computerphile
   
  - 'Forbidden' AI Technique - Computerphile  [Watch](https://youtu.be/Xx4Tpsk_fnM)  
