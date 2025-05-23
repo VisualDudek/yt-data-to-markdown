@@ -1,7 +1,6 @@
 # Custom
 logs/*
 !logs/.gitkeep
-.python-version
 *.pkl
 
 # Byte-compiled / optimized / DLL files
