@@ -1,0 +1,38 @@
+name: Update MongoDB
+
+on:
+  # Manually trigger the workflow
+  workflow_dispatch:
+
+  # Scheduled trigger (runs every day at 20:00 UTC)
+  # schedule:
+    # - cron: '0 20 * * *'
+
+
+# permissions:
+  # contents: write
+
+jobs:
+  update_MongoDB:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@5
+      with:
+        version: "0.7.7"
+
+    - name: Set up Ptyhon
+      uses: actions/setup-python@v5
+      with:
+        pyton-version-file: ".python-version"
+
+    - name: Update
+      run: |
+        uv run ./scr/main.py
+      env:
+        API_KEY: ${{ secrets.YT_API }}
+        MONGO_URI: ${{ secrets.MONGO_URI }}
