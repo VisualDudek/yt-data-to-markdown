@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 load_dotenv()  
 
 # --- Configuration ---
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("API_KEY2")
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -103,4 +103,3 @@ def get_last_videos(channel_id, api_key, max_results=10):
 # --- Main Execution ---
 if __name__ == '__main__':
     get_last_videos("UCVhQ2NnY5Rskt6UjCUkJ_DA", API_KEY)
-
